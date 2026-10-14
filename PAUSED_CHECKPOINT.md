@@ -1,11 +1,7 @@
-# Pokémon J · Version 0.4 work status
+# Current checkpoint · v04
 
-Work resumed at the user's request after the saved pause checkpoint.
-Current source, assets and data are included in the archive. 24 unit tests and API/UI integration checks pass.
+The requested 3D building, interior, NPC interaction, professor escort, starter preview/choice and map/travel update is complete. The same v04 archive layout is retained.
 
-Resume review completed:
-- PP is consumed only when a move is executed, including misses; sleep/full paralysis/flinch preventing action preserve PP.
-- Stone evolution parses linked-text spacing and regional conditions. Pikachu evolves to ordinary Raichu in Kanto; Alolan evolution is gated by its region.
-- Item evolution confirmation and Rare Candy player-level caps are checked.
+Playable scope: Pallet Town, its four interiors, two encounter pools, one Gym badge, Viridian Forest. Larger maps, remaining bosses and online systems are future work.
 
-See README.md for the implemented features and explicit remaining scope. This archive is the current version 0.4, not an external deployment. Keep the same filename and root layout for replacement updates.
+Validation: 24 existing tests, API integration, real Chromium WebGL interaction checks and visual desktop/mobile review. No GitHub push or Render deployment was performed.
