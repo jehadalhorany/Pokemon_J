@@ -11,3 +11,5 @@ select{padding:9px;border:1px solid #9bbbac;border-radius:8px;color:#294c49;back
 @media(max-width:700px){header h1{font-size:23px;letter-spacing:0;white-space:nowrap}header>div:first-child{flex-shrink:0}header{gap:10px}#stats{font-size:10px;line-height:1.7;text-align:right}.topline{padding:10px;font-size:10px}#minimap-button{width:90px}}
 
 .starter-navigation{display:flex;align-items:center;justify-content:space-between;gap:12px;margin:16px 0}.starter-navigation span{font-size:13px}.starter-panel .confirm-partner{background:#375965}.world{border-color:#b7c3bc}header{background:#d5e0dc}aside{background:#d9e1d5}#minimap-button{background:#e3dfd1}
+
+.missions-launch{width:100%;margin-bottom:12px;background:#465e6c}.location-directory-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:5px;max-height:250px;overflow:auto;margin:12px 0}#location-directory summary{cursor:pointer;padding:10px;background:#d8e1d5;margin-top:6px}.mission-card h3{margin:0}.mission-card{color:#2b484a}
