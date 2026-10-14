@@ -41,6 +41,6 @@ export function battleAction(s,b){const t=s.battle;if(!t)throw Error('No active 
   if(playerFirst){use('player',m,exhausted?null:i);if(!end)enemyAttack();}else{const active=t.active;enemyAttack();if(!end&&t.active===active&&hp('player')>0)use('player',m,exhausted?null:i);}
  }
  if(!end){for(const side of ['player','enemy']){const e=effects(side),c=actor(side);e.flinched=false;if(c.ability?.slug==='shed-skin'&&e.ailment!=='none'&&Math.random()<1/3)e.ailment='none';if(['poison','burn'].includes(e.ailment)){setHP(side,hp(side)-Math.max(1,Math.floor(c.hp/(e.ailment==='burn'?16:8))));log(`${c.name} took ${e.ailment} damage.`);}}check();}
- if(end==='win'){const c=s.team[t.active];for(const [stat,n] of Object.entries(getSpecies(enemy.id).evYield)){if(n){try{train(c,stat,n);}catch{}}}c.friendship=Math.min(255,c.friendship+2);c.xp+=35;while(c.xp>=100&&c.level<s.level){c.xp-=100;c.level++;recalculate(c);}}
+ if(end==='win'){const c=s.team[t.active];for(const [stat,n] of Object.entries(getSpecies(enemy.id).evYield)){if(n){try{train(c,stat,n);}catch{}}}c.friendship=Math.min(255,c.friendship+2);}
  t.log=t.log.slice(-8);return end;
 }
