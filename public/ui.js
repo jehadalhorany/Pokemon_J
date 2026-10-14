@@ -1,5 +1,5 @@
 let selectedStarter=null,lastModalFocus=null,currentDetailId=null;
-function uiBlocked(){return $('starter').style.display!=='none'||!$('dex-modal').hidden||!$('dialog-modal').hidden||!$('activity-modal').hidden;}
+function uiBlocked(){return !$('world-map-modal').hidden|| $('starter').style.display!=='none'||!$('dex-modal').hidden||!$('dialog-modal').hidden||!$('activity-modal').hidden;}
 function rememberFocus(){lastModalFocus=document.activeElement;if(typeof keys!=='undefined')keys.clear();}
 function restoreFocus(){lastModalFocus?.focus?.();}
 function openDex(){if(state?.battle)return;rememberFocus();dexBack();$('dex-modal').hidden=false;$('dex-search').focus();}
@@ -14,9 +14,9 @@ function starterBack(){closeStarter();toast('Choose another Poké Ball on the ta
 async function confirmStarter(){if(!selectedStarter)return;const id=selectedStarter;await start(id);}
 function closeConversation(){$('dialog-modal').hidden=true;restoreFocus();}
 function conversation(title,text,actions=[]){rememberFocus();$('dialog-title').textContent=title;$('dialog-text').textContent=text;$('dialog-actions').replaceChildren();for(const action of actions){const button=document.createElement('button');button.textContent=action.label;button.onclick=()=>{closeConversation();action.run();};$('dialog-actions').append(button);}$('dialog-modal').hidden=false;$('dialog-modal').querySelector('button').focus();}
-document.addEventListener('keydown',e=>{if(e.key==='Escape'){closeStarter();closeDex();closeConversation();closeActivity();}});
+document.addEventListener('keydown',e=>{if(e.key==='Escape'){if(typeof closeWorldMap==='function')closeWorldMap();closeStarter();closeDex();closeConversation();closeActivity();}});
 for(const id of ['dex-modal','dialog-modal'])$(id).addEventListener('click',e=>{if(e.target===$(id)){id==='dex-modal'?closeDex():closeConversation();}});
-$('water-test').addEventListener('change',()=>{if(!$('water-test').checked&&typeof isWater==='function'&&room==='town'&&isWater(pos.x,pos.y)){pos={x:225,y:455};swimming=false;}toast($('water-test').checked?'Water test enabled for this preview.':'Normal water access restored.');});
+$('water-test').addEventListener('change',()=>{if(!$('water-test').checked&&typeof isWater==='function'&&(room==='town'||room==='forest')&&isWater(pos.x,pos.y)){pos={x:225,y:455};swimming=false;}toast($('water-test').checked?'Water test enabled for this preview.':'Normal water access restored.');});
 
 function typeDefenses(p){if(!typeChart)return '';const groups=[['Weak to',m=>m>1],['Resists',m=>m>0&&m<1],['Immune to',m=>m===0]];const values=typeChart.types.map(t=>({type:t,value:p.types.reduce((m,d)=>m*(typeChart.chart[t]?.[d]??1),1)}));return `<div class="type-defenses"><h3>Incoming type damage</h3>${groups.map(([label,filter])=>{const entries=values.filter(v=>filter(v.value));return `<p><b>${label}</b><br>${entries.length?entries.map(v=>`<span class="type-tag type-${v.type}">${v.type} ×${v.value}</span>`).join(' '):'None'}</p>`;}).join('')}</div>`;}
 
