@@ -1,7 +1,3 @@
-# Current checkpoint · v04
+# v04 imported asset checkpoint
 
-The requested 3D building, interior, NPC interaction, professor escort, starter preview/choice and map/travel update is complete. The same v04 archive layout is retained.
-
-Playable scope: Pallet Town, its four interiors, two encounter pools, one Gym badge, Viridian Forest. Larger maps, remaining bosses and online systems are future work.
-
-Validation: 24 existing tests, API integration, real Chromium WebGL interaction checks and visual desktop/mobile review. No GitHub push or Render deployment was performed.
+All 18 source archives indexed. Converted catalog: 8,015 models and animation curves from 11,520 bundles. Current source includes imported town buildings, trees, indoor furniture, player/NPCs, walking/idle animation, follow camera and 3D battle/Pokédex views. See ASSET_IMPORT_v04.md for install instructions and limits. Existing server and connected-road tests pass. No GitHub push or Render deploy has been performed.
