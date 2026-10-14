@@ -36,7 +36,7 @@ The patch includes the models needed for the starting town, indoor furniture, pl
 - 596 prefab bundles contain no renderable mesh; most are effect/camera objects. They remain recorded in the source index, rather than being counted as working 3D models.
 - Unity default materials were recovered from the uploaded main APK and the 16 affected models were reconverted. The final conversion catalog has no unresolved material dependencies.
 
-Models are loaded on demand. Importing a model does not place it in a playable map. This update replaces the starting town's buildings and trees, player/NPC visuals and selected interior furniture. Existing playable roads and progression remain the current prototype scope. It does not recreate Fairy Tamer's backend, complete map layouts, guilds, online battles, events or Unity particle systems.
+Models are loaded on demand. The current v04 patch now renders the first overworld from MapConfig/1000001: 42,256 placements, 33 terrain pieces and a shared water plane. It replaces the old procedural outdoor maps. Walking uses the extracted navigation polygons, and the minimap uses world placement data. See WORLD_REBUILD_v04.md for the current implementation and limits. Indoor room layouts still use our own arrangement of extracted furniture. The complete regional story, guilds, online battles and events are not implemented.
 
 The Pokédex retains the existing species data. Base species with a matching imported model gain `View in 3D`. Alternate Pokédex forms without an explicit model mapping retain their images. Unsupported models fall back to existing battle images.
 
