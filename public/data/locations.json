@@ -1,0 +1,4949 @@
+{
+  "source": "https://pokemondb.net/location",
+  "regionCount": 10,
+  "locationCount": 813,
+  "regions": [
+    {
+      "id": "kanto",
+      "name": "Kanto",
+      "locations": [
+        {
+          "id": "kanto-route-1",
+          "name": "Route 1",
+          "sourceUrl": "https://pokemondb.net/location/kanto-route-1",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-route-2",
+          "name": "Route 2",
+          "sourceUrl": "https://pokemondb.net/location/kanto-route-2",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-route-3",
+          "name": "Route 3",
+          "sourceUrl": "https://pokemondb.net/location/kanto-route-3",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-route-4",
+          "name": "Route 4",
+          "sourceUrl": "https://pokemondb.net/location/kanto-route-4",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-route-5",
+          "name": "Route 5",
+          "sourceUrl": "https://pokemondb.net/location/kanto-route-5",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-route-6",
+          "name": "Route 6",
+          "sourceUrl": "https://pokemondb.net/location/kanto-route-6",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-route-7",
+          "name": "Route 7",
+          "sourceUrl": "https://pokemondb.net/location/kanto-route-7",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-route-8",
+          "name": "Route 8",
+          "sourceUrl": "https://pokemondb.net/location/kanto-route-8",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-route-9",
+          "name": "Route 9",
+          "sourceUrl": "https://pokemondb.net/location/kanto-route-9",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-route-10",
+          "name": "Route 10",
+          "sourceUrl": "https://pokemondb.net/location/kanto-route-10",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-route-11",
+          "name": "Route 11",
+          "sourceUrl": "https://pokemondb.net/location/kanto-route-11",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-route-12",
+          "name": "Route 12",
+          "sourceUrl": "https://pokemondb.net/location/kanto-route-12",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-route-13",
+          "name": "Route 13",
+          "sourceUrl": "https://pokemondb.net/location/kanto-route-13",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-route-14",
+          "name": "Route 14",
+          "sourceUrl": "https://pokemondb.net/location/kanto-route-14",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-route-15",
+          "name": "Route 15",
+          "sourceUrl": "https://pokemondb.net/location/kanto-route-15",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-route-16",
+          "name": "Route 16",
+          "sourceUrl": "https://pokemondb.net/location/kanto-route-16",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-route-17",
+          "name": "Route 17",
+          "sourceUrl": "https://pokemondb.net/location/kanto-route-17",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-route-18",
+          "name": "Route 18",
+          "sourceUrl": "https://pokemondb.net/location/kanto-route-18",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-route-19",
+          "name": "Route 19",
+          "sourceUrl": "https://pokemondb.net/location/kanto-route-19",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-route-20",
+          "name": "Route 20",
+          "sourceUrl": "https://pokemondb.net/location/kanto-route-20",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-route-21",
+          "name": "Route 21",
+          "sourceUrl": "https://pokemondb.net/location/kanto-route-21",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-route-22",
+          "name": "Route 22",
+          "sourceUrl": "https://pokemondb.net/location/kanto-route-22",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-route-23",
+          "name": "Route 23",
+          "sourceUrl": "https://pokemondb.net/location/kanto-route-23",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-route-24",
+          "name": "Route 24",
+          "sourceUrl": "https://pokemondb.net/location/kanto-route-24",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-route-25",
+          "name": "Route 25",
+          "sourceUrl": "https://pokemondb.net/location/kanto-route-25",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-route-26",
+          "name": "Route 26",
+          "sourceUrl": "https://pokemondb.net/location/kanto-route-26",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-route-27",
+          "name": "Route 27",
+          "sourceUrl": "https://pokemondb.net/location/kanto-route-27",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-route-28",
+          "name": "Route 28",
+          "sourceUrl": "https://pokemondb.net/location/kanto-route-28",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-berry-forest",
+          "name": "Berry Forest",
+          "sourceUrl": "https://pokemondb.net/location/kanto-berry-forest",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-bond-bridge",
+          "name": "Bond Bridge",
+          "sourceUrl": "https://pokemondb.net/location/kanto-bond-bridge",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-canyon-entrance",
+          "name": "Canyon Entrance",
+          "sourceUrl": "https://pokemondb.net/location/kanto-canyon-entrance",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-cape-brink",
+          "name": "Cape Brink",
+          "sourceUrl": "https://pokemondb.net/location/kanto-cape-brink",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-celadon-city",
+          "name": "Celadon City",
+          "sourceUrl": "https://pokemondb.net/location/kanto-celadon-city",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-cerulean-cave",
+          "name": "Cerulean Cave",
+          "sourceUrl": "https://pokemondb.net/location/kanto-cerulean-cave",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-cerulean-city",
+          "name": "Cerulean City",
+          "sourceUrl": "https://pokemondb.net/location/kanto-cerulean-city",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-cinnabar-island",
+          "name": "Cinnabar Island",
+          "sourceUrl": "https://pokemondb.net/location/kanto-cinnabar-island",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-digletts-cave",
+          "name": "Diglett's Cave",
+          "sourceUrl": "https://pokemondb.net/location/kanto-digletts-cave",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-dotted-hole",
+          "name": "Dotted Hole",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "kanto-five-island",
+          "name": "Five Island",
+          "sourceUrl": "https://pokemondb.net/location/kanto-five-island",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-five-isle-meadow",
+          "name": "Five Isle Meadow",
+          "sourceUrl": "https://pokemondb.net/location/kanto-five-isle-meadow",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-four-island",
+          "name": "Four Island",
+          "sourceUrl": "https://pokemondb.net/location/kanto-four-island",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-fuchsia-city",
+          "name": "Fuchsia City",
+          "sourceUrl": "https://pokemondb.net/location/kanto-fuchsia-city",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-green-path",
+          "name": "Green Path",
+          "sourceUrl": "https://pokemondb.net/location/kanto-green-path",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-icefall-cave",
+          "name": "Icefall Cave",
+          "sourceUrl": "https://pokemondb.net/location/kanto-icefall-cave",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-indigo-plateau",
+          "name": "Indigo Plateau",
+          "sourceUrl": "https://pokemondb.net/location/kanto-indigo-plateau",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-kindle-road",
+          "name": "Kindle Road",
+          "sourceUrl": "https://pokemondb.net/location/kanto-kindle-road",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-lavender-town",
+          "name": "Lavender Town",
+          "sourceUrl": "https://pokemondb.net/location/kanto-lavender-town",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-lost-cave",
+          "name": "Lost Cave",
+          "sourceUrl": "https://pokemondb.net/location/kanto-lost-cave",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-memorial-pillar",
+          "name": "Memorial Pillar",
+          "sourceUrl": "https://pokemondb.net/location/kanto-memorial-pillar",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-mt-ember",
+          "name": "Mt. Ember",
+          "sourceUrl": "https://pokemondb.net/location/kanto-mt-ember",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-mt-moon",
+          "name": "Mt. Moon",
+          "sourceUrl": "https://pokemondb.net/location/kanto-mt-moon",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-navel-rock",
+          "name": "Navel Rock",
+          "sourceUrl": "https://pokemondb.net/location/kanto-navel-rock",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-one-island",
+          "name": "One Island",
+          "sourceUrl": "https://pokemondb.net/location/kanto-one-island",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-outcast-island",
+          "name": "Outcast Island",
+          "sourceUrl": "https://pokemondb.net/location/kanto-outcast-island",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-pallet-town",
+          "name": "Pallet Town",
+          "sourceUrl": "https://pokemondb.net/location/kanto-pallet-town",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-pattern-bush",
+          "name": "Pattern Bush",
+          "sourceUrl": "https://pokemondb.net/location/kanto-pattern-bush",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-pewter-city",
+          "name": "Pewter City",
+          "sourceUrl": "https://pokemondb.net/location/kanto-pewter-city",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-pokemon-mansion",
+          "name": "Pokémon Mansion",
+          "sourceUrl": "https://pokemondb.net/location/kanto-pokemon-mansion",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-pokemon-tower",
+          "name": "Pokémon Tower",
+          "sourceUrl": "https://pokemondb.net/location/kanto-pokemon-tower",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-power-plant",
+          "name": "Power Plant",
+          "sourceUrl": "https://pokemondb.net/location/kanto-power-plant",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-resort-gorgeous",
+          "name": "Resort Gorgeous",
+          "sourceUrl": "https://pokemondb.net/location/kanto-resort-gorgeous",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-roaming",
+          "name": "Roaming Kanto",
+          "sourceUrl": "https://pokemondb.net/location/kanto-roaming",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-rock-tunnel",
+          "name": "Rock Tunnel",
+          "sourceUrl": "https://pokemondb.net/location/kanto-rock-tunnel",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-rocket-hideout",
+          "name": "Rocket Hideout",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "kanto-rocket-warehouse",
+          "name": "Rocket Warehouse",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "kanto-ruin-valley",
+          "name": "Ruin Valley",
+          "sourceUrl": "https://pokemondb.net/location/kanto-ruin-valley",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-safari-zone",
+          "name": "Safari Zone",
+          "sourceUrl": "https://pokemondb.net/location/kanto-safari-zone",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-saffron-city",
+          "name": "Saffron City",
+          "sourceUrl": "https://pokemondb.net/location/kanto-saffron-city",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-seafoam-islands",
+          "name": "Seafoam Islands",
+          "sourceUrl": "https://pokemondb.net/location/kanto-seafoam-islands",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-sevault-canyon",
+          "name": "Sevault Canyon",
+          "sourceUrl": "https://pokemondb.net/location/kanto-sevault-canyon",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-seven-island",
+          "name": "Seven Island",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "kanto-silph-co",
+          "name": "Silph Co.",
+          "sourceUrl": "https://pokemondb.net/location/kanto-silph-co",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-six-island",
+          "name": "Six Island",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "kanto-ss-anne",
+          "name": "SS Anne",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "kanto-tanoby-ruins",
+          "name": "Tanoby Ruins",
+          "sourceUrl": "https://pokemondb.net/location/kanto-tanoby-ruins",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-three-island",
+          "name": "Three Island",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "kanto-three-isle-path",
+          "name": "Three Isle Path",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "kanto-three-isle-port",
+          "name": "Three Isle Port",
+          "sourceUrl": "https://pokemondb.net/location/kanto-three-isle-port",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-tohjo-falls",
+          "name": "Tohjo Falls",
+          "sourceUrl": "https://pokemondb.net/location/kanto-tohjo-falls",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-trainer-tower",
+          "name": "Trainer Tower",
+          "sourceUrl": "https://pokemondb.net/location/kanto-trainer-tower",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-treasure-beach",
+          "name": "Treasure Beach",
+          "sourceUrl": "https://pokemondb.net/location/kanto-treasure-beach",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-two-island",
+          "name": "Two Island",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "kanto-underground-path-5-6",
+          "name": "Underground Path 5-6",
+          "sourceUrl": "https://pokemondb.net/location/kanto-underground-path-5-6",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-underground-path-7-8",
+          "name": "Underground Path 7-8",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "kanto-vermilion-city",
+          "name": "Vermilion City",
+          "sourceUrl": "https://pokemondb.net/location/kanto-vermilion-city",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-victory-road",
+          "name": "Victory Road",
+          "sourceUrl": "https://pokemondb.net/location/kanto-victory-road",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-viridian-city",
+          "name": "Viridian City",
+          "sourceUrl": "https://pokemondb.net/location/kanto-viridian-city",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-viridian-forest",
+          "name": "Viridian Forest",
+          "sourceUrl": "https://pokemondb.net/location/kanto-viridian-forest",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-water-labyrinth",
+          "name": "Water Labyrinth",
+          "sourceUrl": "https://pokemondb.net/location/kanto-water-labyrinth",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kanto-water-path",
+          "name": "Water Path",
+          "sourceUrl": "https://pokemondb.net/location/kanto-water-path",
+          "hasEncounterPage": true
+        }
+      ]
+    },
+    {
+      "id": "johto",
+      "name": "Johto",
+      "locations": [
+        {
+          "id": "johto-route-29",
+          "name": "Route 29",
+          "sourceUrl": "https://pokemondb.net/location/johto-route-29",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "johto-route-30",
+          "name": "Route 30",
+          "sourceUrl": "https://pokemondb.net/location/johto-route-30",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "johto-route-31",
+          "name": "Route 31",
+          "sourceUrl": "https://pokemondb.net/location/johto-route-31",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "johto-route-32",
+          "name": "Route 32",
+          "sourceUrl": "https://pokemondb.net/location/johto-route-32",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "johto-route-33",
+          "name": "Route 33",
+          "sourceUrl": "https://pokemondb.net/location/johto-route-33",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "johto-route-34",
+          "name": "Route 34",
+          "sourceUrl": "https://pokemondb.net/location/johto-route-34",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "johto-route-35",
+          "name": "Route 35",
+          "sourceUrl": "https://pokemondb.net/location/johto-route-35",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "johto-route-36",
+          "name": "Route 36",
+          "sourceUrl": "https://pokemondb.net/location/johto-route-36",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "johto-route-37",
+          "name": "Route 37",
+          "sourceUrl": "https://pokemondb.net/location/johto-route-37",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "johto-route-38",
+          "name": "Route 38",
+          "sourceUrl": "https://pokemondb.net/location/johto-route-38",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "johto-route-39",
+          "name": "Route 39",
+          "sourceUrl": "https://pokemondb.net/location/johto-route-39",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "johto-route-40",
+          "name": "Route 40",
+          "sourceUrl": "https://pokemondb.net/location/johto-route-40",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "johto-route-41",
+          "name": "Route 41",
+          "sourceUrl": "https://pokemondb.net/location/johto-route-41",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "johto-route-42",
+          "name": "Route 42",
+          "sourceUrl": "https://pokemondb.net/location/johto-route-42",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "johto-route-43",
+          "name": "Route 43",
+          "sourceUrl": "https://pokemondb.net/location/johto-route-43",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "johto-route-44",
+          "name": "Route 44",
+          "sourceUrl": "https://pokemondb.net/location/johto-route-44",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "johto-route-45",
+          "name": "Route 45",
+          "sourceUrl": "https://pokemondb.net/location/johto-route-45",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "johto-route-46",
+          "name": "Route 46",
+          "sourceUrl": "https://pokemondb.net/location/johto-route-46",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "johto-route-47",
+          "name": "Route 47",
+          "sourceUrl": "https://pokemondb.net/location/johto-route-47",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "johto-route-48",
+          "name": "Route 48",
+          "sourceUrl": "https://pokemondb.net/location/johto-route-48",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "johto-azalea-town",
+          "name": "Azalea Town",
+          "sourceUrl": "https://pokemondb.net/location/johto-azalea-town",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "johto-battle-frontier",
+          "name": "Battle Frontier",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "johto-bell-tower",
+          "name": "Bell Tower",
+          "sourceUrl": "https://pokemondb.net/location/johto-bell-tower",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "johto-bellchime-trail",
+          "name": "Bellchime Trail",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "johto-blackthorn-city",
+          "name": "Blackthorn City",
+          "sourceUrl": "https://pokemondb.net/location/johto-blackthorn-city",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "johto-burned-tower",
+          "name": "Burned Tower",
+          "sourceUrl": "https://pokemondb.net/location/johto-burned-tower",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "johto-cherrygrove-city",
+          "name": "Cherrygrove City",
+          "sourceUrl": "https://pokemondb.net/location/johto-cherrygrove-city",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "johto-cianwood-city",
+          "name": "Cianwood City",
+          "sourceUrl": "https://pokemondb.net/location/johto-cianwood-city",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "johto-cliff-cave",
+          "name": "Cliff Cave",
+          "sourceUrl": "https://pokemondb.net/location/johto-cliff-cave",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "johto-cliff-edge-gate",
+          "name": "Cliff Edge Gate",
+          "sourceUrl": "https://pokemondb.net/location/johto-cliff-edge-gate",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "johto-dark-cave",
+          "name": "Dark Cave",
+          "sourceUrl": "https://pokemondb.net/location/johto-dark-cave",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "johto-dragons-den",
+          "name": "Dragon's Den",
+          "sourceUrl": "https://pokemondb.net/location/johto-dragons-den",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "johto-ecruteak-city",
+          "name": "Ecruteak City",
+          "sourceUrl": "https://pokemondb.net/location/johto-ecruteak-city",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "johto-embedded-tower",
+          "name": "Embedded Tower",
+          "sourceUrl": "https://pokemondb.net/location/johto-embedded-tower",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "johto-frontier-access",
+          "name": "Frontier Access",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "johto-glitter-lighthouse",
+          "name": "Glitter Lighthouse",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "johto-goldenrod-city",
+          "name": "Goldenrod City",
+          "sourceUrl": "https://pokemondb.net/location/johto-goldenrod-city",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "johto-goldenrod-radio-tower",
+          "name": "Goldenrod Radio Tower",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "johto-goldenrod-underground",
+          "name": "Goldenrod Underground",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "johto-ice-path",
+          "name": "Ice Path",
+          "sourceUrl": "https://pokemondb.net/location/johto-ice-path",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "johto-ilex-forest",
+          "name": "Ilex Forest",
+          "sourceUrl": "https://pokemondb.net/location/johto-ilex-forest",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "johto-lake-of-rage",
+          "name": "Lake of Rage",
+          "sourceUrl": "https://pokemondb.net/location/johto-lake-of-rage",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "johto-mahogany-town",
+          "name": "Mahogany Town",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "johto-mt-mortar",
+          "name": "Mt. Mortar",
+          "sourceUrl": "https://pokemondb.net/location/johto-mt-mortar",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "johto-mt-silver",
+          "name": "Mt. Silver",
+          "sourceUrl": "https://pokemondb.net/location/johto-mt-silver",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "johto-national-park",
+          "name": "National Park",
+          "sourceUrl": "https://pokemondb.net/location/johto-national-park",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "johto-new-bark-town",
+          "name": "New Bark Town",
+          "sourceUrl": "https://pokemondb.net/location/johto-new-bark-town",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "johto-olivine-city",
+          "name": "Olivine City",
+          "sourceUrl": "https://pokemondb.net/location/johto-olivine-city",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "johto-pok-athlon-dome",
+          "name": "Pokéathlon Dome",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "johto-roaming",
+          "name": "Roaming Johto",
+          "sourceUrl": "https://pokemondb.net/location/johto-roaming",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "johto-ruins-of-alph",
+          "name": "Ruins of Alph",
+          "sourceUrl": "https://pokemondb.net/location/johto-ruins-of-alph",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "johto-safari-zone-gate",
+          "name": "Safari Zone Gate",
+          "sourceUrl": "https://pokemondb.net/location/johto-safari-zone-gate",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "johto-sinjoh-ruins",
+          "name": "Sinjoh Ruins",
+          "sourceUrl": "https://pokemondb.net/location/johto-sinjoh-ruins",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "johto-slowpoke-well",
+          "name": "Slowpoke Well",
+          "sourceUrl": "https://pokemondb.net/location/johto-slowpoke-well",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "johto-sprout-tower",
+          "name": "Sprout Tower",
+          "sourceUrl": "https://pokemondb.net/location/johto-sprout-tower",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "johto-ss-aqua",
+          "name": "SS Aqua",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "johto-team-rocket-hq",
+          "name": "Team Rocket HQ",
+          "sourceUrl": "https://pokemondb.net/location/johto-team-rocket-hq",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "johto-tin-tower",
+          "name": "Tin Tower",
+          "sourceUrl": "https://pokemondb.net/location/johto-tin-tower",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "johto-union-cave",
+          "name": "Union Cave",
+          "sourceUrl": "https://pokemondb.net/location/johto-union-cave",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "johto-violet-city",
+          "name": "Violet City",
+          "sourceUrl": "https://pokemondb.net/location/johto-violet-city",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "johto-whirl-islands",
+          "name": "Whirl Islands",
+          "sourceUrl": "https://pokemondb.net/location/johto-whirl-islands",
+          "hasEncounterPage": true
+        }
+      ]
+    },
+    {
+      "id": "hoenn",
+      "name": "Hoenn",
+      "locations": [
+        {
+          "id": "hoenn-route-101",
+          "name": "Route 101",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-route-101",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-route-102",
+          "name": "Route 102",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-route-102",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-route-103",
+          "name": "Route 103",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-route-103",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-route-104",
+          "name": "Route 104",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-route-104",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-route-105",
+          "name": "Route 105",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-route-105",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-route-106",
+          "name": "Route 106",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-route-106",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-route-107",
+          "name": "Route 107",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-route-107",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-route-108",
+          "name": "Route 108",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-route-108",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-route-109",
+          "name": "Route 109",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-route-109",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-route-110",
+          "name": "Route 110",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-route-110",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-route-111",
+          "name": "Route 111",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-route-111",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-route-112",
+          "name": "Route 112",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-route-112",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-route-113",
+          "name": "Route 113",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-route-113",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-route-114",
+          "name": "Route 114",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-route-114",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-route-115",
+          "name": "Route 115",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-route-115",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-route-116",
+          "name": "Route 116",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-route-116",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-route-117",
+          "name": "Route 117",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-route-117",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-route-118",
+          "name": "Route 118",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-route-118",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-route-119",
+          "name": "Route 119",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-route-119",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-route-120",
+          "name": "Route 120",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-route-120",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-route-121",
+          "name": "Route 121",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-route-121",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-route-122",
+          "name": "Route 122",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-route-122",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-route-123",
+          "name": "Route 123",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-route-123",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-route-124",
+          "name": "Route 124",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-route-124",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-route-125",
+          "name": "Route 125",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-route-125",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-route-126",
+          "name": "Route 126",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-route-126",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-route-127",
+          "name": "Route 127",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-route-127",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-route-128",
+          "name": "Route 128",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-route-128",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-route-129",
+          "name": "Route 129",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-route-129",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-route-130",
+          "name": "Route 130",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-route-130",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-route-131",
+          "name": "Route 131",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-route-131",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-route-132",
+          "name": "Route 132",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-route-132",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-route-133",
+          "name": "Route 133",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-route-133",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-route-134",
+          "name": "Route 134",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-route-134",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-abandoned-ship",
+          "name": "Abandoned Ship",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-abandoned-ship",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-altering-cave",
+          "name": "Altering Cave",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-altering-cave",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-artisan-cave",
+          "name": "Artisan Cave",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-artisan-cave",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-battle-frontier",
+          "name": "Battle Frontier",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "hoenn-battle-resort",
+          "name": "Battle Resort",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-battle-resort",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-battle-tower",
+          "name": "Battle Tower",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-battle-tower",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-birth-island",
+          "name": "Birth Island",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-birth-island",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-cave-of-origin",
+          "name": "Cave of Origin",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-cave-of-origin",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-desert-underpass",
+          "name": "Desert Underpass",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-desert-underpass",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-dewford-town",
+          "name": "Dewford Town",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-dewford-town",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-evergrande-city",
+          "name": "Ever Grande City",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-evergrande-city",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-fallarbor-town",
+          "name": "Fallarbor Town",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "hoenn-faraway-island",
+          "name": "Faraway Island",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-faraway-island",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-fiery-path",
+          "name": "Fiery Path",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-fiery-path",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-fortree-city",
+          "name": "Fortree City",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-fortree-city",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-granite-cave",
+          "name": "Granite Cave",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-granite-cave",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-jagged-pass",
+          "name": "Jagged Pass",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-jagged-pass",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-lavaridge-town",
+          "name": "Lavaridge Town",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "hoenn-lilycove-city",
+          "name": "Lilycove City",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-lilycove-city",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-littleroot-town",
+          "name": "Littleroot Town",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-littleroot-town",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-marine-cave",
+          "name": "Marine Cave",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-marine-cave",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-mauville-city",
+          "name": "Mauville City",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "hoenn-meteor-falls",
+          "name": "Meteor Falls",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-meteor-falls",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-mirage-island",
+          "name": "Mirage Island",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-mirage-island",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-mirage-spots",
+          "name": "Mirage Spots",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-mirage-spots",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-mirage-tower",
+          "name": "Mirage Tower",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-mirage-tower",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-mossdeep-city",
+          "name": "Mossdeep City",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-mossdeep-city",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-mt-chimney",
+          "name": "Mt. Chimney",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "hoenn-mt-pyre",
+          "name": "Mt. Pyre",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-mt-pyre",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-new-mauville",
+          "name": "New Mauville",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-new-mauville",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-oldale-town",
+          "name": "Oldale Town",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "hoenn-pacifidlog-town",
+          "name": "Pacifidlog Town",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-pacifidlog-town",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-petalburg-city",
+          "name": "Petalburg City",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-petalburg-city",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-petalburg-woods",
+          "name": "Petalburg Woods",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-petalburg-woods",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-roaming",
+          "name": "Roaming Hoenn",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-roaming",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-rustboro-city",
+          "name": "Rustboro City",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-rustboro-city",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-rusturf-tunnel",
+          "name": "Rusturf Tunnel",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-rusturf-tunnel",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-safari-zone",
+          "name": "Safari Zone",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-safari-zone",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-scorched-slab",
+          "name": "Scorched Slab",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-scorched-slab",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-sea-mauville",
+          "name": "Sea Mauville",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-sea-mauville",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-seafloor-cavern",
+          "name": "Seafloor Cavern",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-seafloor-cavern",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-sealed-chamber",
+          "name": "Sealed Chamber",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-sealed-chamber",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-shoal-cave",
+          "name": "Shoal Cave",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-shoal-cave",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-sky-pillar",
+          "name": "Sky Pillar",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-sky-pillar",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-slateport-city",
+          "name": "Slateport City",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-slateport-city",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-sootopolis-city",
+          "name": "Sootopolis City",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-sootopolis-city",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-southern-island",
+          "name": "Southern Island",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-southern-island",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-ss-tidal",
+          "name": "SS Tidal",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "hoenn-team-magma-aqua-hideout",
+          "name": "Team Magma/Aqua Hideout",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-team-magma-aqua-hideout",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-terra-cave",
+          "name": "Terra Cave",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-terra-cave",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hoenn-trainer-hill",
+          "name": "Trainer Hill",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "hoenn-verdanturf-town",
+          "name": "Verdanturf Town",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "hoenn-victory-road",
+          "name": "Victory Road",
+          "sourceUrl": "https://pokemondb.net/location/hoenn-victory-road",
+          "hasEncounterPage": true
+        }
+      ]
+    },
+    {
+      "id": "sinnoh",
+      "name": "Sinnoh",
+      "locations": [
+        {
+          "id": "sinnoh-route-201",
+          "name": "Route 201",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-route-201",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-route-202",
+          "name": "Route 202",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-route-202",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-route-203",
+          "name": "Route 203",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-route-203",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-route-204",
+          "name": "Route 204",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-route-204",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-route-205",
+          "name": "Route 205",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-route-205",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-route-206",
+          "name": "Route 206",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-route-206",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-route-207",
+          "name": "Route 207",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-route-207",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-route-208",
+          "name": "Route 208",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-route-208",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-route-209",
+          "name": "Route 209",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-route-209",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-route-210",
+          "name": "Route 210",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-route-210",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-route-211",
+          "name": "Route 211",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-route-211",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-route-212",
+          "name": "Route 212",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-route-212",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-route-213",
+          "name": "Route 213",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-route-213",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-route-214",
+          "name": "Route 214",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-route-214",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-route-215",
+          "name": "Route 215",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-route-215",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-route-216",
+          "name": "Route 216",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-route-216",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-route-217",
+          "name": "Route 217",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-route-217",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-route-218",
+          "name": "Route 218",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-route-218",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-route-219",
+          "name": "Route 219",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-route-219",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-route-220",
+          "name": "Route 220",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-route-220",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-route-221",
+          "name": "Route 221",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-route-221",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-route-222",
+          "name": "Route 222",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-route-222",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-route-223",
+          "name": "Route 223",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-route-223",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-route-224",
+          "name": "Route 224",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-route-224",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-route-225",
+          "name": "Route 225",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-route-225",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-route-226",
+          "name": "Route 226",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-route-226",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-route-227",
+          "name": "Route 227",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-route-227",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-route-228",
+          "name": "Route 228",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-route-228",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-route-229",
+          "name": "Route 229",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-route-229",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-route-230",
+          "name": "Route 230",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-route-230",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-acuity-lakefront",
+          "name": "Acuity Lakefront",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-acuity-lakefront",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-amity-square",
+          "name": "Amity Square",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "sinnoh-battle-frontier",
+          "name": "Battle Frontier",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "sinnoh-battle-park",
+          "name": "Battle Park",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "sinnoh-big-bluff-cavern",
+          "name": "Big Bluff Cavern",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-big-bluff-cavern",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-bogsunk-cavern",
+          "name": "Bogsunk Cavern",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-bogsunk-cavern",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-canalave-city",
+          "name": "Canalave City",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-canalave-city",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-celestic-town",
+          "name": "Celestic Town",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-celestic-town",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-dazzling-cave",
+          "name": "Dazzling Cave",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-dazzling-cave",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-distortion-world",
+          "name": "Distortion World",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-distortion-world",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-eterna-city",
+          "name": "Eterna City",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-eterna-city",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-eterna-forest",
+          "name": "Eterna Forest",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-eterna-forest",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-eterna-galactic-building",
+          "name": "Eterna Galactic Building",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "sinnoh-fight-area",
+          "name": "Fight Area",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "sinnoh-floaroma-meadow",
+          "name": "Floaroma Meadow",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-floaroma-meadow",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-floaroma-town",
+          "name": "Floaroma Town",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "sinnoh-flower-paradise",
+          "name": "Flower Paradise",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-flower-paradise",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-fountainspring-cave",
+          "name": "Fountainspring Cave",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-fountainspring-cave",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-fuego-ironworks",
+          "name": "Fuego Ironworks",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-fuego-ironworks",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-fullmoon-island",
+          "name": "Fullmoon Island",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "sinnoh-galactic-warehouse",
+          "name": "Galactic Warehouse",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "sinnoh-glacial-cavern",
+          "name": "Glacial Cavern",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-glacial-cavern",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-grand-lake-hotel",
+          "name": "Grand Lake Hotel",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "sinnoh-grand-underground",
+          "name": "Grand Underground",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "sinnoh-grassland-cave",
+          "name": "Grassland Cave",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-grassland-cave",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-great-marsh",
+          "name": "Great Marsh",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-great-marsh",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-hall-of-origin",
+          "name": "Hall of Origin",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-hall-of-origin",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-hearthome-city",
+          "name": "Hearthome City",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "sinnoh-icy-cave",
+          "name": "Icy Cave",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-icy-cave",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-iron-island",
+          "name": "Iron Island",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-iron-island",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-jubilife-city",
+          "name": "Jubilife City",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "sinnoh-lake-acuity",
+          "name": "Lake Acuity",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-lake-acuity",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-lake-valor",
+          "name": "Lake Valor",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-lake-valor",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-lake-verity",
+          "name": "Lake Verity",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-lake-verity",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-lost-tower",
+          "name": "Lost Tower",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-lost-tower",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-mt-coronet",
+          "name": "Mt. Coronet",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-mt-coronet",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-newmoon-island",
+          "name": "Newmoon Island",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-newmoon-island",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-old-chateau",
+          "name": "Old Chateau",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-old-chateau",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-oreburgh-city",
+          "name": "Oreburgh City",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-oreburgh-city",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-oreburgh-gate",
+          "name": "Oreburgh Gate",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-oreburgh-gate",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-oreburgh-mine",
+          "name": "Oreburgh Mine",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-oreburgh-mine",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-pal-park",
+          "name": "Pal Park",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "sinnoh-pastoria-city",
+          "name": "Pastoria City",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-pastoria-city",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-pokemon-league",
+          "name": "Pokémon League",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-pokemon-league",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-pok-mon-mansion",
+          "name": "Pokémon Mansion",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "sinnoh-ramanas-park",
+          "name": "Ramanas Park",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "sinnoh-ravaged-path",
+          "name": "Ravaged Path",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-ravaged-path",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-resort-area",
+          "name": "Resort Area",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-resort-area",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-riverbank-cave",
+          "name": "Riverbank Cave",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-riverbank-cave",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-roaming",
+          "name": "Roaming Sinnoh",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-roaming",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-rocky-cave",
+          "name": "Rocky Cave",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-rocky-cave",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-maniac-tunnel",
+          "name": "Ruin Maniac Tunnel",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-maniac-tunnel",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-sandgem-town",
+          "name": "Sandgem Town",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "sinnoh-sandsear-cave",
+          "name": "Sandsear Cave",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-sandsear-cave",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-seabreak-path",
+          "name": "Seabreak Path",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "sinnoh-sendoff-spring",
+          "name": "Sendoff Spring",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-sendoff-spring",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-snowpoint-city",
+          "name": "Snowpoint City",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-snowpoint-city",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-snowpoint-temple",
+          "name": "Snowpoint Temple",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-snowpoint-temple",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-solaceon-ruins",
+          "name": "Solaceon Ruins",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-solaceon-ruins",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-solaceon-town",
+          "name": "Solaceon Town",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "sinnoh-spacious-cave",
+          "name": "Spacious Cave",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-spacious-cave",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-spear-pillar",
+          "name": "Spear Pillar",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-spear-pillar",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-stargleam-cavern",
+          "name": "Stargleam Cavern",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-stargleam-cavern",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-stark-mountain",
+          "name": "Stark Mountain",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-stark-mountain",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-still-water-cavern",
+          "name": "Still-Water Cavern",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-still-water-cavern",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-sunlit-cavern",
+          "name": "Sunlit Cavern",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-sunlit-cavern",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-sunyshore-city",
+          "name": "Sunyshore City",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-sunyshore-city",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-survival-area",
+          "name": "Survival Area",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "sinnoh-swampy-cave",
+          "name": "Swampy Cave",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-swampy-cave",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-trophy-garden",
+          "name": "Trophy Garden",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-trophy-garden",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-turnback-cave",
+          "name": "Turnback Cave",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-turnback-cave",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-twinleaf-town",
+          "name": "Twinleaf Town",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-twinleaf-town",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-typhlo-cavern",
+          "name": "Typhlo Cavern",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-typhlo-cavern",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-valley-windworks",
+          "name": "Valley Windworks",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-valley-windworks",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-valor-lakefront",
+          "name": "Valor Lakefront",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-valor-lakefront",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-veilstone-city",
+          "name": "Veilstone City",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-veilstone-city",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-veilstone-galactic-building",
+          "name": "Veilstone Galactic Building",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "sinnoh-verity-lakefront",
+          "name": "Verity Lakefront",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "sinnoh-victory-road",
+          "name": "Victory Road",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-victory-road",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-volcanic-cave",
+          "name": "Volcanic Cave",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-volcanic-cave",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-wayward-cave",
+          "name": "Wayward Cave",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-wayward-cave",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "sinnoh-whiteout-cave",
+          "name": "Whiteout Cave",
+          "sourceUrl": "https://pokemondb.net/location/sinnoh-whiteout-cave",
+          "hasEncounterPage": true
+        }
+      ]
+    },
+    {
+      "id": "unova",
+      "name": "Unova",
+      "locations": [
+        {
+          "id": "unova-route-1",
+          "name": "Route 1",
+          "sourceUrl": "https://pokemondb.net/location/unova-route-1",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-route-2",
+          "name": "Route 2",
+          "sourceUrl": "https://pokemondb.net/location/unova-route-2",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-route-3",
+          "name": "Route 3",
+          "sourceUrl": "https://pokemondb.net/location/unova-route-3",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-route-4",
+          "name": "Route 4",
+          "sourceUrl": "https://pokemondb.net/location/unova-route-4",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-route-5",
+          "name": "Route 5",
+          "sourceUrl": "https://pokemondb.net/location/unova-route-5",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-route-6",
+          "name": "Route 6",
+          "sourceUrl": "https://pokemondb.net/location/unova-route-6",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-route-7",
+          "name": "Route 7",
+          "sourceUrl": "https://pokemondb.net/location/unova-route-7",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-route-8",
+          "name": "Route 8",
+          "sourceUrl": "https://pokemondb.net/location/unova-route-8",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-route-9",
+          "name": "Route 9",
+          "sourceUrl": "https://pokemondb.net/location/unova-route-9",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-route-10",
+          "name": "Route 10",
+          "sourceUrl": "https://pokemondb.net/location/unova-route-10",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-route-11",
+          "name": "Route 11",
+          "sourceUrl": "https://pokemondb.net/location/unova-route-11",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-route-12",
+          "name": "Route 12",
+          "sourceUrl": "https://pokemondb.net/location/unova-route-12",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-route-13",
+          "name": "Route 13",
+          "sourceUrl": "https://pokemondb.net/location/unova-route-13",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-route-14",
+          "name": "Route 14",
+          "sourceUrl": "https://pokemondb.net/location/unova-route-14",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-route-15",
+          "name": "Route 15",
+          "sourceUrl": "https://pokemondb.net/location/unova-route-15",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-route-16",
+          "name": "Route 16",
+          "sourceUrl": "https://pokemondb.net/location/unova-route-16",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-route-17",
+          "name": "Route 17",
+          "sourceUrl": "https://pokemondb.net/location/unova-route-17",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-route-18",
+          "name": "Route 18",
+          "sourceUrl": "https://pokemondb.net/location/unova-route-18",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-route-19",
+          "name": "Route 19",
+          "sourceUrl": "https://pokemondb.net/location/unova-route-19",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-route-20",
+          "name": "Route 20",
+          "sourceUrl": "https://pokemondb.net/location/unova-route-20",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-route-21",
+          "name": "Route 21",
+          "sourceUrl": "https://pokemondb.net/location/unova-route-21",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-route-22",
+          "name": "Route 22",
+          "sourceUrl": "https://pokemondb.net/location/unova-route-22",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-route-23",
+          "name": "Route 23",
+          "sourceUrl": "https://pokemondb.net/location/unova-route-23",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-abundant-shrine",
+          "name": "Abundant Shrine",
+          "sourceUrl": "https://pokemondb.net/location/unova-abundant-shrine",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-accumula-town",
+          "name": "Accumula Town",
+          "sourceUrl": "https://pokemondb.net/location/unova-accumula-town",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-anville-town",
+          "name": "Anville Town",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "unova-aspertia-city",
+          "name": "Aspertia City",
+          "sourceUrl": "https://pokemondb.net/location/unova-aspertia-city",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-battle-subway",
+          "name": "Battle Subway",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "unova-black-city",
+          "name": "Black City",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "unova-castelia-city",
+          "name": "Castelia City",
+          "sourceUrl": "https://pokemondb.net/location/unova-castelia-city",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-castelia-sewers",
+          "name": "Castelia Sewers",
+          "sourceUrl": "https://pokemondb.net/location/unova-castelia-sewers",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-cave-of-being",
+          "name": "Cave of Being",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "unova-celestial-tower",
+          "name": "Celestial Tower",
+          "sourceUrl": "https://pokemondb.net/location/unova-celestial-tower",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-challengers-cave",
+          "name": "Challenger's Cave",
+          "sourceUrl": "https://pokemondb.net/location/unova-challengers-cave",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-chargestone-cave",
+          "name": "Chargestone Cave",
+          "sourceUrl": "https://pokemondb.net/location/unova-chargestone-cave",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-clay-tunnel",
+          "name": "Clay Tunnel",
+          "sourceUrl": "https://pokemondb.net/location/unova-clay-tunnel",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-cold-storage",
+          "name": "Cold Storage",
+          "sourceUrl": "https://pokemondb.net/location/unova-cold-storage",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-desert-resort",
+          "name": "Desert Resort",
+          "sourceUrl": "https://pokemondb.net/location/unova-desert-resort",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-dragonspiral-tower",
+          "name": "Dragonspiral Tower",
+          "sourceUrl": "https://pokemondb.net/location/unova-dragonspiral-tower",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-dreamyard",
+          "name": "Dreamyard",
+          "sourceUrl": "https://pokemondb.net/location/unova-dreamyard",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-driftveil-city",
+          "name": "Driftveil City",
+          "sourceUrl": "https://pokemondb.net/location/unova-driftveil-city",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-driftveil-drawbridge",
+          "name": "Driftveil Drawbridge",
+          "sourceUrl": "https://pokemondb.net/location/unova-driftveil-drawbridge",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-floccesy-ranch",
+          "name": "Floccesy Ranch",
+          "sourceUrl": "https://pokemondb.net/location/unova-floccesy-ranch",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-floccesy-town",
+          "name": "Floccesy Town",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "unova-gear-station",
+          "name": "Gear Station",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "unova-giant-chasm",
+          "name": "Giant Chasm",
+          "sourceUrl": "https://pokemondb.net/location/unova-giant-chasm",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-high-link",
+          "name": "High Link",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "unova-humilau-city",
+          "name": "Humilau City",
+          "sourceUrl": "https://pokemondb.net/location/unova-humilau-city",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-icirrus-city",
+          "name": "Icirrus City",
+          "sourceUrl": "https://pokemondb.net/location/unova-icirrus-city",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-lacunosa-town",
+          "name": "Lacunosa Town",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "unova-lentimas-town",
+          "name": "Lentimas Town",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "unova-liberty-island",
+          "name": "Liberty Island",
+          "sourceUrl": "https://pokemondb.net/location/unova-liberty-island",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-lostlorn-forest",
+          "name": "Lostlorn Forest",
+          "sourceUrl": "https://pokemondb.net/location/unova-lostlorn-forest",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-marine-tube",
+          "name": "Marine Tube",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "unova-marvelous-bridge",
+          "name": "Marvelous Bridge",
+          "sourceUrl": "https://pokemondb.net/location/unova-marvelous-bridge",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-mistralton-cave",
+          "name": "Mistralton Cave",
+          "sourceUrl": "https://pokemondb.net/location/unova-mistralton-cave",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-mistralton-city",
+          "name": "Mistralton City",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "unova-moor-of-icirrus",
+          "name": "Moor of Icirrus",
+          "sourceUrl": "https://pokemondb.net/location/unova-moor-of-icirrus",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-ns-castle",
+          "name": "N's Castle",
+          "sourceUrl": "https://pokemondb.net/location/unova-ns-castle",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-nacrene-city",
+          "name": "Nacrene City",
+          "sourceUrl": "https://pokemondb.net/location/unova-nacrene-city",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-nature-preserve",
+          "name": "Nature Preserve",
+          "sourceUrl": "https://pokemondb.net/location/unova-nature-preserve",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-nature-sanctuary",
+          "name": "Nature Sanctuary",
+          "sourceUrl": "https://pokemondb.net/location/unova-nature-sanctuary",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-nimbasa-city",
+          "name": "Nimbasa City",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "unova-nuvema-town",
+          "name": "Nuvema Town",
+          "sourceUrl": "https://pokemondb.net/location/unova-nuvema-town",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-opelucid-city",
+          "name": "Opelucid City",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "unova-p2-laboratory",
+          "name": "P2 Laboratory",
+          "sourceUrl": "https://pokemondb.net/location/unova-p2-laboratory",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-pinwheel-forest",
+          "name": "Pinwheel Forest",
+          "sourceUrl": "https://pokemondb.net/location/unova-pinwheel-forest",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-plasma-frigate",
+          "name": "Plasma Frigate",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "unova-pledge-grove",
+          "name": "Pledge Grove",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "unova-pok-mon-league",
+          "name": "Pokémon League",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "unova-pok-mon-world-tournament",
+          "name": "Pokémon World Tournament",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "unova-relic-castle",
+          "name": "Relic Castle",
+          "sourceUrl": "https://pokemondb.net/location/unova-relic-castle",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-relic-passage",
+          "name": "Relic Passage",
+          "sourceUrl": "https://pokemondb.net/location/unova-relic-passage",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-reversal-mountain",
+          "name": "Reversal Mountain",
+          "sourceUrl": "https://pokemondb.net/location/unova-reversal-mountain",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-roaming",
+          "name": "Roaming Unova",
+          "sourceUrl": "https://pokemondb.net/location/unova-roaming",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-seaside-cave",
+          "name": "Seaside Cave",
+          "sourceUrl": "https://pokemondb.net/location/unova-seaside-cave",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-skyarrow-bridge",
+          "name": "Skyarrow Bridge",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "unova-strange-house",
+          "name": "Strange House",
+          "sourceUrl": "https://pokemondb.net/location/unova-strange-house",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-striaton-city",
+          "name": "Striaton City",
+          "sourceUrl": "https://pokemondb.net/location/unova-striaton-city",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-tubeline-bridge",
+          "name": "Tubeline Bridge",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "unova-twist-mountain",
+          "name": "Twist Mountain",
+          "sourceUrl": "https://pokemondb.net/location/unova-twist-mountain",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-undella-bay",
+          "name": "Undella Bay",
+          "sourceUrl": "https://pokemondb.net/location/unova-undella-bay",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-undella-town",
+          "name": "Undella Town",
+          "sourceUrl": "https://pokemondb.net/location/unova-undella-town",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-underground-ruins",
+          "name": "Underground Ruins",
+          "sourceUrl": "https://pokemondb.net/location/unova-underground-ruins",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-undersea-ruins",
+          "name": "Undersea Ruins",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "unova-unity-tower",
+          "name": "Unity Tower",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "unova-victory-road",
+          "name": "Victory Road",
+          "sourceUrl": "https://pokemondb.net/location/unova-victory-road",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-village-bridge",
+          "name": "Village Bridge",
+          "sourceUrl": "https://pokemondb.net/location/unova-village-bridge",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-virbank-city",
+          "name": "Virbank City",
+          "sourceUrl": "https://pokemondb.net/location/unova-virbank-city",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-virbank-complex",
+          "name": "Virbank Complex",
+          "sourceUrl": "https://pokemondb.net/location/unova-virbank-complex",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-wellspring-cave",
+          "name": "Wellspring Cave",
+          "sourceUrl": "https://pokemondb.net/location/unova-wellspring-cave",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "unova-white-forest",
+          "name": "White Forest",
+          "sourceUrl": "https://pokemondb.net/location/unova-white-forest",
+          "hasEncounterPage": true
+        }
+      ]
+    },
+    {
+      "id": "kalos",
+      "name": "Kalos",
+      "locations": [
+        {
+          "id": "kalos-route-1",
+          "name": "Route 1",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "kalos-route-2",
+          "name": "Route 2",
+          "sourceUrl": "https://pokemondb.net/location/kalos-route-2",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kalos-route-3",
+          "name": "Route 3",
+          "sourceUrl": "https://pokemondb.net/location/kalos-route-3",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kalos-route-4",
+          "name": "Route 4",
+          "sourceUrl": "https://pokemondb.net/location/kalos-route-4",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kalos-route-5",
+          "name": "Route 5",
+          "sourceUrl": "https://pokemondb.net/location/kalos-route-5",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kalos-route-6",
+          "name": "Route 6",
+          "sourceUrl": "https://pokemondb.net/location/kalos-route-6",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kalos-route-7",
+          "name": "Route 7",
+          "sourceUrl": "https://pokemondb.net/location/kalos-route-7",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kalos-route-8",
+          "name": "Route 8",
+          "sourceUrl": "https://pokemondb.net/location/kalos-route-8",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kalos-route-9",
+          "name": "Route 9",
+          "sourceUrl": "https://pokemondb.net/location/kalos-route-9",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kalos-route-10",
+          "name": "Route 10",
+          "sourceUrl": "https://pokemondb.net/location/kalos-route-10",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kalos-route-11",
+          "name": "Route 11",
+          "sourceUrl": "https://pokemondb.net/location/kalos-route-11",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kalos-route-12",
+          "name": "Route 12",
+          "sourceUrl": "https://pokemondb.net/location/kalos-route-12",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kalos-route-13",
+          "name": "Route 13",
+          "sourceUrl": "https://pokemondb.net/location/kalos-route-13",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kalos-route-14",
+          "name": "Route 14",
+          "sourceUrl": "https://pokemondb.net/location/kalos-route-14",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kalos-route-15",
+          "name": "Route 15",
+          "sourceUrl": "https://pokemondb.net/location/kalos-route-15",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kalos-route-16",
+          "name": "Route 16",
+          "sourceUrl": "https://pokemondb.net/location/kalos-route-16",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kalos-route-17",
+          "name": "Route 17",
+          "sourceUrl": "https://pokemondb.net/location/kalos-route-17",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kalos-route-18",
+          "name": "Route 18",
+          "sourceUrl": "https://pokemondb.net/location/kalos-route-18",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kalos-route-19",
+          "name": "Route 19",
+          "sourceUrl": "https://pokemondb.net/location/kalos-route-19",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kalos-route-20",
+          "name": "Route 20",
+          "sourceUrl": "https://pokemondb.net/location/kalos-route-20",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kalos-route-21",
+          "name": "Route 21",
+          "sourceUrl": "https://pokemondb.net/location/kalos-route-21",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kalos-route-22",
+          "name": "Route 22",
+          "sourceUrl": "https://pokemondb.net/location/kalos-route-22",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kalos-ambrette-town",
+          "name": "Ambrette Town",
+          "sourceUrl": "https://pokemondb.net/location/kalos-ambrette-town",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kalos-anistar-city",
+          "name": "Anistar City",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "kalos-aquacorde-town",
+          "name": "Aquacorde Town",
+          "sourceUrl": "https://pokemondb.net/location/kalos-aquacorde-town",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kalos-azure-bay",
+          "name": "Azure Bay",
+          "sourceUrl": "https://pokemondb.net/location/kalos-azure-bay",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kalos-battle-chateau",
+          "name": "Battle Chateau",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "kalos-battle-maison",
+          "name": "Battle Maison",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "kalos-camphrier-town",
+          "name": "Camphrier Town",
+          "sourceUrl": "https://pokemondb.net/location/kalos-camphrier-town",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kalos-chamber-of-emptiness",
+          "name": "Chamber of Emptiness",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "kalos-connecting-cave",
+          "name": "Connecting Cave",
+          "sourceUrl": "https://pokemondb.net/location/kalos-connecting-cave",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kalos-coumarine-city",
+          "name": "Coumarine City",
+          "sourceUrl": "https://pokemondb.net/location/kalos-coumarine-city",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kalos-couriway-town",
+          "name": "Couriway Town",
+          "sourceUrl": "https://pokemondb.net/location/kalos-couriway-town",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kalos-cyllage-city",
+          "name": "Cyllage City",
+          "sourceUrl": "https://pokemondb.net/location/kalos-cyllage-city",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kalos-dendemille-town",
+          "name": "Dendemille Town",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "kalos-flare-cafe",
+          "name": "Flare Cafe",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "kalos-frost-cavern",
+          "name": "Frost Cavern",
+          "sourceUrl": "https://pokemondb.net/location/kalos-frost-cavern",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kalos-geosenge-town",
+          "name": "Geosenge Town",
+          "sourceUrl": "https://pokemondb.net/location/kalos-geosenge-town",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kalos-glittering-cave",
+          "name": "Glittering Cave",
+          "sourceUrl": "https://pokemondb.net/location/kalos-glittering-cave",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kalos-kalos-power-plant",
+          "name": "Kalos Power Plant",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "kalos-kiloude-city",
+          "name": "Kiloude City",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "kalos-laverre-city",
+          "name": "Laverre City",
+          "sourceUrl": "https://pokemondb.net/location/kalos-laverre-city",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kalos-lost-hotel",
+          "name": "Lost Hotel",
+          "sourceUrl": "https://pokemondb.net/location/kalos-lost-hotel",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kalos-lumiose-city",
+          "name": "Lumiose City",
+          "sourceUrl": "https://pokemondb.net/location/kalos-lumiose-city",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kalos-parfum-palace",
+          "name": "Parfum Palace",
+          "sourceUrl": "https://pokemondb.net/location/kalos-parfum-palace",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kalos-pok-ball-factory",
+          "name": "Poké Ball Factory",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "kalos-pok-mon-league",
+          "name": "Pokémon League",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "kalos-pokemon-village",
+          "name": "Pokémon Village",
+          "sourceUrl": "https://pokemondb.net/location/kalos-pokemon-village",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kalos-reflection-cave",
+          "name": "Reflection Cave",
+          "sourceUrl": "https://pokemondb.net/location/kalos-reflection-cave",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kalos-roaming",
+          "name": "Roaming Kalos",
+          "sourceUrl": "https://pokemondb.net/location/kalos-roaming",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kalos-santalune-city",
+          "name": "Santalune City",
+          "sourceUrl": "https://pokemondb.net/location/kalos-santalune-city",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kalos-santalune-forest",
+          "name": "Santalune Forest",
+          "sourceUrl": "https://pokemondb.net/location/kalos-santalune-forest",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kalos-sea-spirits-den",
+          "name": "Sea Spirit's Den",
+          "sourceUrl": "https://pokemondb.net/location/kalos-sea-spirits-den",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kalos-shalour-city",
+          "name": "Shalour City",
+          "sourceUrl": "https://pokemondb.net/location/kalos-shalour-city",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kalos-snowbelle-city",
+          "name": "Snowbelle City",
+          "sourceUrl": "https://pokemondb.net/location/kalos-snowbelle-city",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kalos-team-flare-hq",
+          "name": "Team Flare HQ",
+          "sourceUrl": "https://pokemondb.net/location/kalos-team-flare-hq",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kalos-terminus-cave",
+          "name": "Terminus Cave",
+          "sourceUrl": "https://pokemondb.net/location/kalos-terminus-cave",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kalos-tower-of-mastery",
+          "name": "Tower of Mastery",
+          "sourceUrl": "https://pokemondb.net/location/kalos-tower-of-mastery",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kalos-unknown-dungeon",
+          "name": "Unknown Dungeon",
+          "sourceUrl": "https://pokemondb.net/location/kalos-unknown-dungeon",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kalos-vaniville-town",
+          "name": "Vaniville Town",
+          "sourceUrl": "https://pokemondb.net/location/kalos-vaniville-town",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "kalos-victory-road",
+          "name": "Victory Road",
+          "sourceUrl": "https://pokemondb.net/location/kalos-victory-road",
+          "hasEncounterPage": true
+        }
+      ]
+    },
+    {
+      "id": "alola",
+      "name": "Alola",
+      "locations": [
+        {
+          "id": "alola-route-1",
+          "name": "Route 1",
+          "sourceUrl": "https://pokemondb.net/location/alola-route-1",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-route-2",
+          "name": "Route 2",
+          "sourceUrl": "https://pokemondb.net/location/alola-route-2",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-route-3",
+          "name": "Route 3",
+          "sourceUrl": "https://pokemondb.net/location/alola-route-3",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-route-4",
+          "name": "Route 4",
+          "sourceUrl": "https://pokemondb.net/location/alola-route-4",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-route-5",
+          "name": "Route 5",
+          "sourceUrl": "https://pokemondb.net/location/alola-route-5",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-route-6",
+          "name": "Route 6",
+          "sourceUrl": "https://pokemondb.net/location/alola-route-6",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-route-7",
+          "name": "Route 7",
+          "sourceUrl": "https://pokemondb.net/location/alola-route-7",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-route-8",
+          "name": "Route 8",
+          "sourceUrl": "https://pokemondb.net/location/alola-route-8",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-route-9",
+          "name": "Route 9",
+          "sourceUrl": "https://pokemondb.net/location/alola-route-9",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-route-10",
+          "name": "Route 10",
+          "sourceUrl": "https://pokemondb.net/location/alola-route-10",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-route-11",
+          "name": "Route 11",
+          "sourceUrl": "https://pokemondb.net/location/alola-route-11",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-route-12",
+          "name": "Route 12",
+          "sourceUrl": "https://pokemondb.net/location/alola-route-12",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-route-13",
+          "name": "Route 13",
+          "sourceUrl": "https://pokemondb.net/location/alola-route-13",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-route-14",
+          "name": "Route 14",
+          "sourceUrl": "https://pokemondb.net/location/alola-route-14",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-route-15",
+          "name": "Route 15",
+          "sourceUrl": "https://pokemondb.net/location/alola-route-15",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-route-16",
+          "name": "Route 16",
+          "sourceUrl": "https://pokemondb.net/location/alola-route-16",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-route-17",
+          "name": "Route 17",
+          "sourceUrl": "https://pokemondb.net/location/alola-route-17",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-aether-paradise",
+          "name": "Aether Paradise",
+          "sourceUrl": "https://pokemondb.net/location/alola-aether-paradise",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-akala-outskirts",
+          "name": "Akala Outskirts",
+          "sourceUrl": "https://pokemondb.net/location/alola-akala-outskirts",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-altar-of-the-moone",
+          "name": "Altar of the Moone",
+          "sourceUrl": "https://pokemondb.net/location/alola-altar-of-the-moone",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-altar-of-the-sunne",
+          "name": "Altar of the Sunne",
+          "sourceUrl": "https://pokemondb.net/location/alola-altar-of-the-sunne",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-ancient-poni-path",
+          "name": "Ancient Poni Path",
+          "sourceUrl": "https://pokemondb.net/location/alola-ancient-poni-path",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-battle-royal-dome",
+          "name": "Battle Royal Dome",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "alola-battle-tree",
+          "name": "Battle Tree",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "alola-berry-fields",
+          "name": "Berry Fields",
+          "sourceUrl": "https://pokemondb.net/location/alola-berry-fields",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-big-wave-beach",
+          "name": "Big Wave Beach",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "alola-blush-mountain",
+          "name": "Blush Mountain",
+          "sourceUrl": "https://pokemondb.net/location/alola-blush-mountain",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-brooklet-hill",
+          "name": "Brooklet Hill",
+          "sourceUrl": "https://pokemondb.net/location/alola-brooklet-hill",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-digletts-tunnel",
+          "name": "Diglett's Tunnel",
+          "sourceUrl": "https://pokemondb.net/location/alola-digletts-tunnel",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-dividing-peak-tunnel",
+          "name": "Dividing Peak Tunnel",
+          "sourceUrl": "https://pokemondb.net/location/alola-dividing-peak-tunnel",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-exeggutor-island",
+          "name": "Exeggutor Island",
+          "sourceUrl": "https://pokemondb.net/location/alola-exeggutor-island",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-haina-desert",
+          "name": "Haina Desert",
+          "sourceUrl": "https://pokemondb.net/location/alola-haina-desert",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-hano-beach",
+          "name": "Hano Beach",
+          "sourceUrl": "https://pokemondb.net/location/alola-hano-beach",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-hano-grand-resort",
+          "name": "Hano Grand Resort",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "alola-hauoli-cemetery",
+          "name": "Hau'oli Cemetery",
+          "sourceUrl": "https://pokemondb.net/location/alola-hauoli-cemetery",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-hauoli-city",
+          "name": "Hau'oli City",
+          "sourceUrl": "https://pokemondb.net/location/alola-hauoli-city",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-heahea-beach",
+          "name": "Heahea Beach",
+          "sourceUrl": "https://pokemondb.net/location/alola-heahea-beach",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-heahea-city",
+          "name": "Heahea City",
+          "sourceUrl": "https://pokemondb.net/location/alola-heahea-city",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-hokulani-observatory",
+          "name": "Hokulani Observatory",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "alola-iki-town",
+          "name": "Iki Town",
+          "sourceUrl": "https://pokemondb.net/location/alola-iki-town",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-kalae-bay",
+          "name": "Kala'e Bay",
+          "sourceUrl": "https://pokemondb.net/location/alola-kalae-bay",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-konikoni-city",
+          "name": "Konikoni City",
+          "sourceUrl": "https://pokemondb.net/location/alola-konikoni-city",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-lake-of-the-moone",
+          "name": "Lake of the Moone",
+          "sourceUrl": "https://pokemondb.net/location/alola-lake-of-the-moone",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-lake-of-the-sunne",
+          "name": "Lake of the Sunne",
+          "sourceUrl": "https://pokemondb.net/location/alola-lake-of-the-sunne",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-lush-jungle",
+          "name": "Lush Jungle",
+          "sourceUrl": "https://pokemondb.net/location/alola-lush-jungle",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-mahalo-trail",
+          "name": "Mahalo Trail",
+          "sourceUrl": "https://pokemondb.net/location/alola-mahalo-trail",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-malie-city",
+          "name": "Malie City",
+          "sourceUrl": "https://pokemondb.net/location/alola-malie-city",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-malie-garden",
+          "name": "Malie Garden",
+          "sourceUrl": "https://pokemondb.net/location/alola-malie-garden",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-megalo-tower",
+          "name": "Megalo Tower",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "alola-melemele-meadow",
+          "name": "Melemele Meadow",
+          "sourceUrl": "https://pokemondb.net/location/alola-melemele-meadow",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-melemele-sea",
+          "name": "Melemele Sea",
+          "sourceUrl": "https://pokemondb.net/location/alola-melemele-sea",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-memorial-hill",
+          "name": "Memorial Hill",
+          "sourceUrl": "https://pokemondb.net/location/alola-memorial-hill",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-mount-hokulani",
+          "name": "Mount Hokulani",
+          "sourceUrl": "https://pokemondb.net/location/alola-mount-hokulani",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-mount-lanakila",
+          "name": "Mount Lanakila",
+          "sourceUrl": "https://pokemondb.net/location/alola-mount-lanakila",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-paniola-ranch",
+          "name": "Paniola Ranch",
+          "sourceUrl": "https://pokemondb.net/location/alola-paniola-ranch",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-paniola-town",
+          "name": "Paniola Town",
+          "sourceUrl": "https://pokemondb.net/location/alola-paniola-town",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-pikachu-valley",
+          "name": "Pikachu Valley",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "alola-plains-grotto",
+          "name": "Plains Grotto",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "alola-po-town",
+          "name": "Po Town",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "alola-poke-pelago",
+          "name": "Poké Pelago",
+          "sourceUrl": "https://pokemondb.net/location/alola-poke-pelago",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-pok-mon-league",
+          "name": "Pokémon League",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "alola-poni-beach",
+          "name": "Poni Beach",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "alola-poni-breaker-coast",
+          "name": "Poni Breaker Coast",
+          "sourceUrl": "https://pokemondb.net/location/alola-poni-breaker-coast",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-poni-coast",
+          "name": "Poni Coast",
+          "sourceUrl": "https://pokemondb.net/location/alola-poni-coast",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-poni-gauntlet",
+          "name": "Poni Gauntlet",
+          "sourceUrl": "https://pokemondb.net/location/alola-poni-gauntlet",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-poni-grove",
+          "name": "Poni Grove",
+          "sourceUrl": "https://pokemondb.net/location/alola-poni-grove",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-poni-meadow",
+          "name": "Poni Meadow",
+          "sourceUrl": "https://pokemondb.net/location/alola-poni-meadow",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-poni-plains",
+          "name": "Poni Plains",
+          "sourceUrl": "https://pokemondb.net/location/alola-poni-plains",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-poni-wilds",
+          "name": "Poni Wilds",
+          "sourceUrl": "https://pokemondb.net/location/alola-poni-wilds",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-resolution-cave",
+          "name": "Resolution Cave",
+          "sourceUrl": "https://pokemondb.net/location/alola-resolution-cave",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-royal-avenue",
+          "name": "Royal Avenue",
+          "sourceUrl": "https://pokemondb.net/location/alola-royal-avenue",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-ruins-of-abundance",
+          "name": "Ruins of Abundance",
+          "sourceUrl": "https://pokemondb.net/location/alola-ruins-of-abundance",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-ruins-of-conflict",
+          "name": "Ruins of Conflict",
+          "sourceUrl": "https://pokemondb.net/location/alola-ruins-of-conflict",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-ruins-of-hope",
+          "name": "Ruins of Hope",
+          "sourceUrl": "https://pokemondb.net/location/alola-ruins-of-hope",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-ruins-of-life",
+          "name": "Ruins of Life",
+          "sourceUrl": "https://pokemondb.net/location/alola-ruins-of-life",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-sandy-cave",
+          "name": "Sandy Cave",
+          "sourceUrl": "https://pokemondb.net/location/alola-sandy-cave",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-seafolk-village",
+          "name": "Seafolk Village",
+          "sourceUrl": "https://pokemondb.net/location/alola-seafolk-village",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-seaward-cave",
+          "name": "Seaward Cave",
+          "sourceUrl": "https://pokemondb.net/location/alola-seaward-cave",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-secluded-shore",
+          "name": "Secluded Shore",
+          "sourceUrl": "https://pokemondb.net/location/alola-secluded-shore",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-shady-house",
+          "name": "Shady House",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "alola-tapu-village",
+          "name": "Tapu Village",
+          "sourceUrl": "https://pokemondb.net/location/alola-tapu-village",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-team-rockets-castle",
+          "name": "Team Rocket's Castle",
+          "sourceUrl": "https://pokemondb.net/location/alola-team-rockets-castle",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-ten-carat-hill",
+          "name": "Ten Carat Hill",
+          "sourceUrl": "https://pokemondb.net/location/alola-ten-carat-hill",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-thrifty-megamart",
+          "name": "Thrifty Megamart",
+          "sourceUrl": "https://pokemondb.net/location/alola-thrifty-megamart",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-ula-ula-beach",
+          "name": "Ula'ula Beach",
+          "sourceUrl": "https://pokemondb.net/location/alola-ula-ula-beach",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-ulaula-meadow",
+          "name": "Ula'ula Meadow",
+          "sourceUrl": "https://pokemondb.net/location/alola-ulaula-meadow",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-ultra-megalopolis",
+          "name": "Ultra Megalopolis",
+          "sourceUrl": "https://pokemondb.net/location/alola-ultra-megalopolis",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-ultra-space",
+          "name": "Ultra Space",
+          "sourceUrl": "https://pokemondb.net/location/alola-ultra-space",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-ultra-space-wilds",
+          "name": "Ultra Space Wilds",
+          "sourceUrl": "https://pokemondb.net/location/alola-ultra-space-wilds",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-vast-poni-canyon",
+          "name": "Vast Poni Canyon",
+          "sourceUrl": "https://pokemondb.net/location/alola-vast-poni-canyon",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-verdant-cavern",
+          "name": "Verdant Cavern",
+          "sourceUrl": "https://pokemondb.net/location/alola-verdant-cavern",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "alola-wela-volcano-park",
+          "name": "Wela Volcano Park",
+          "sourceUrl": "https://pokemondb.net/location/alola-wela-volcano-park",
+          "hasEncounterPage": true
+        }
+      ]
+    },
+    {
+      "id": "galar",
+      "name": "Galar",
+      "locations": [
+        {
+          "id": "galar-route-1",
+          "name": "Route 1",
+          "sourceUrl": "https://pokemondb.net/location/galar-route-1",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "galar-route-2",
+          "name": "Route 2",
+          "sourceUrl": "https://pokemondb.net/location/galar-route-2",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "galar-route-3",
+          "name": "Route 3",
+          "sourceUrl": "https://pokemondb.net/location/galar-route-3",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "galar-route-4",
+          "name": "Route 4",
+          "sourceUrl": "https://pokemondb.net/location/galar-route-4",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "galar-route-5",
+          "name": "Route 5",
+          "sourceUrl": "https://pokemondb.net/location/galar-route-5",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "galar-route-6",
+          "name": "Route 6",
+          "sourceUrl": "https://pokemondb.net/location/galar-route-6",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "galar-route-7",
+          "name": "Route 7",
+          "sourceUrl": "https://pokemondb.net/location/galar-route-7",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "galar-route-8",
+          "name": "Route 8",
+          "sourceUrl": "https://pokemondb.net/location/galar-route-8",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "galar-route-9",
+          "name": "Route 9",
+          "sourceUrl": "https://pokemondb.net/location/galar-route-9",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "galar-route-10",
+          "name": "Route 10",
+          "sourceUrl": "https://pokemondb.net/location/galar-route-10",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "galar-axews-eye",
+          "name": "Axew's Eye",
+          "sourceUrl": "https://pokemondb.net/location/galar-axews-eye",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "galar-ballimere-lake",
+          "name": "Ballimere Lake",
+          "sourceUrl": "https://pokemondb.net/location/galar-ballimere-lake",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "galar-ballonlea",
+          "name": "Ballonlea",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "galar-battle-tower",
+          "name": "Battle Tower",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "galar-brawlers-cave",
+          "name": "Brawlers' Cave",
+          "sourceUrl": "https://pokemondb.net/location/galar-brawlers-cave",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "galar-bridge-field",
+          "name": "Bridge Field",
+          "sourceUrl": "https://pokemondb.net/location/galar-bridge-field",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "galar-challenge-beach",
+          "name": "Challenge Beach",
+          "sourceUrl": "https://pokemondb.net/location/galar-challenge-beach",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "galar-challenge-road",
+          "name": "Challenge Road",
+          "sourceUrl": "https://pokemondb.net/location/galar-challenge-road",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "galar-circhester",
+          "name": "Circhester",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "galar-courageous-cavern",
+          "name": "Courageous Cavern",
+          "sourceUrl": "https://pokemondb.net/location/galar-courageous-cavern",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "galar-crown-shrine",
+          "name": "Crown Shrine",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "galar-dappled-grove",
+          "name": "Dappled Grove",
+          "sourceUrl": "https://pokemondb.net/location/galar-dappled-grove",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "galar-dusty-bowl",
+          "name": "Dusty Bowl",
+          "sourceUrl": "https://pokemondb.net/location/galar-dusty-bowl",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "galar-dyna-tree-hill",
+          "name": "Dyna Tree Hill",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "galar-east-lake-axewell",
+          "name": "East Lake Axewell",
+          "sourceUrl": "https://pokemondb.net/location/galar-east-lake-axewell",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "galar-fields-of-honor",
+          "name": "Fields of Honor",
+          "sourceUrl": "https://pokemondb.net/location/galar-fields-of-honor",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "galar-forest-of-focus",
+          "name": "Forest of Focus",
+          "sourceUrl": "https://pokemondb.net/location/galar-forest-of-focus",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "galar-freezington",
+          "name": "Freezington",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "galar-frigid-sea",
+          "name": "Frigid Sea",
+          "sourceUrl": "https://pokemondb.net/location/galar-frigid-sea",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "galar-frostpoint-field",
+          "name": "Frostpoint Field",
+          "sourceUrl": "https://pokemondb.net/location/galar-frostpoint-field",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "galar-galar-mine",
+          "name": "Galar Mine",
+          "sourceUrl": "https://pokemondb.net/location/galar-galar-mine",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "galar-galar-mine-no-2",
+          "name": "Galar Mine No. 2",
+          "sourceUrl": "https://pokemondb.net/location/galar-galar-mine-no-2",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "galar-giants-bed",
+          "name": "Giant's Bed",
+          "sourceUrl": "https://pokemondb.net/location/galar-giants-bed",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "galar-giants-cap",
+          "name": "Giant's Cap",
+          "sourceUrl": "https://pokemondb.net/location/galar-giants-cap",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "galar-giants-foot",
+          "name": "Giant's Foot",
+          "sourceUrl": "https://pokemondb.net/location/galar-giants-foot",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "galar-giants-mirror",
+          "name": "Giant's Mirror",
+          "sourceUrl": "https://pokemondb.net/location/galar-giants-mirror",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "galar-giants-seat",
+          "name": "Giant's Seat",
+          "sourceUrl": "https://pokemondb.net/location/galar-giants-seat",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "galar-glimwood-tangle",
+          "name": "Glimwood Tangle",
+          "sourceUrl": "https://pokemondb.net/location/galar-glimwood-tangle",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "galar-hammerlocke",
+          "name": "Hammerlocke",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "galar-hammerlocke-hills",
+          "name": "Hammerlocke Hills",
+          "sourceUrl": "https://pokemondb.net/location/galar-hammerlocke-hills",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "galar-honeycalm-island",
+          "name": "Honeycalm Island",
+          "sourceUrl": "https://pokemondb.net/location/galar-honeycalm-island",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "galar-honeycalm-sea",
+          "name": "Honeycalm Sea",
+          "sourceUrl": "https://pokemondb.net/location/galar-honeycalm-sea",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "galar-hulbury",
+          "name": "Hulbury",
+          "sourceUrl": "https://pokemondb.net/location/galar-hulbury",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "galar-iceberg-ruins",
+          "name": "Iceberg Ruins",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "galar-insular-sea",
+          "name": "Insular Sea",
+          "sourceUrl": "https://pokemondb.net/location/galar-insular-sea",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "galar-iron-ruins",
+          "name": "Iron Ruins",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "galar-lake-of-outrage",
+          "name": "Lake of Outrage",
+          "sourceUrl": "https://pokemondb.net/location/galar-lake-of-outrage",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "galar-lakeside-cave",
+          "name": "Lakeside Cave",
+          "sourceUrl": "https://pokemondb.net/location/galar-lakeside-cave",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "galar-loop-lagoon",
+          "name": "Loop Lagoon",
+          "sourceUrl": "https://pokemondb.net/location/galar-loop-lagoon",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "galar-master-dojo",
+          "name": "Master Dojo",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "galar-max-lair",
+          "name": "Max Lair",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "galar-motostoke",
+          "name": "Motostoke",
+          "sourceUrl": "https://pokemondb.net/location/galar-motostoke",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "galar-motostoke-outskirts",
+          "name": "Motostoke Outskirts",
+          "sourceUrl": "https://pokemondb.net/location/galar-motostoke-outskirts",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "galar-motostoke-riverbank",
+          "name": "Motostoke Riverbank",
+          "sourceUrl": "https://pokemondb.net/location/galar-motostoke-riverbank",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "galar-north-lake-miloch",
+          "name": "North Lake Miloch",
+          "sourceUrl": "https://pokemondb.net/location/galar-north-lake-miloch",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "galar-old-cemetery",
+          "name": "Old Cemetery",
+          "sourceUrl": "https://pokemondb.net/location/galar-old-cemetery",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "galar-path-to-the-peak",
+          "name": "Path to the Peak",
+          "sourceUrl": "https://pokemondb.net/location/galar-path-to-the-peak",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "galar-postwick",
+          "name": "Postwick",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "galar-potbottom-desert",
+          "name": "Potbottom Desert",
+          "sourceUrl": "https://pokemondb.net/location/galar-potbottom-desert",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "galar-roaring-sea-caves",
+          "name": "Roaring-Sea Caves",
+          "sourceUrl": "https://pokemondb.net/location/galar-roaring-sea-caves",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "galar-rock-peak-ruins",
+          "name": "Rock Peak Ruins",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "galar-rolling-fields",
+          "name": "Rolling Fields",
+          "sourceUrl": "https://pokemondb.net/location/galar-rolling-fields",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "galar-slippery-slope",
+          "name": "Slippery Slope",
+          "sourceUrl": "https://pokemondb.net/location/galar-slippery-slope",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "galar-slumbering-weald",
+          "name": "Slumbering Weald",
+          "sourceUrl": "https://pokemondb.net/location/galar-slumbering-weald",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "galar-snowslide-slope",
+          "name": "Snowslide Slope",
+          "sourceUrl": "https://pokemondb.net/location/galar-snowslide-slope",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "galar-soothing-wetlands",
+          "name": "Soothing Wetlands",
+          "sourceUrl": "https://pokemondb.net/location/galar-soothing-wetlands",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "galar-south-lake-miloch",
+          "name": "South Lake Miloch",
+          "sourceUrl": "https://pokemondb.net/location/galar-south-lake-miloch",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "galar-spikemuth",
+          "name": "Spikemuth",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "galar-split-decision-ruins",
+          "name": "Split-Decision Ruins",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "galar-steamdrift-way",
+          "name": "Steamdrift Way",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "galar-stepping-stone-sea",
+          "name": "Stepping-Stone Sea",
+          "sourceUrl": "https://pokemondb.net/location/galar-stepping-stone-sea",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "galar-stony-wilderness",
+          "name": "Stony Wilderness",
+          "sourceUrl": "https://pokemondb.net/location/galar-stony-wilderness",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "galar-stow-on-side",
+          "name": "Stow-on-Side",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "galar-three-point-pass",
+          "name": "Three-Point Pass",
+          "sourceUrl": "https://pokemondb.net/location/galar-three-point-pass",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "galar-tower-of-darkness",
+          "name": "Tower of Darkness",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "galar-tower-of-waters",
+          "name": "Tower of Waters",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "galar-training-lowlands",
+          "name": "Training Lowlands",
+          "sourceUrl": "https://pokemondb.net/location/galar-training-lowlands",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "galar-tunnel-to-the-top",
+          "name": "Tunnel to the Top",
+          "sourceUrl": "https://pokemondb.net/location/galar-tunnel-to-the-top",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "galar-turffield",
+          "name": "Turffield",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "galar-warm-up-tunnel",
+          "name": "Warm-Up Tunnel",
+          "sourceUrl": "https://pokemondb.net/location/galar-warm-up-tunnel",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "galar-watchtower-ruins",
+          "name": "Watchtower Ruins",
+          "sourceUrl": "https://pokemondb.net/location/galar-watchtower-ruins",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "galar-wedgehurst",
+          "name": "Wedgehurst",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "galar-west-lake-axewell",
+          "name": "West Lake Axewell",
+          "sourceUrl": "https://pokemondb.net/location/galar-west-lake-axewell",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "galar-workout-sea",
+          "name": "Workout Sea",
+          "sourceUrl": "https://pokemondb.net/location/galar-workout-sea",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "galar-wyndon",
+          "name": "Wyndon",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        }
+      ]
+    },
+    {
+      "id": "hisui",
+      "name": "Hisui",
+      "locations": [
+        {
+          "id": "hisui-aipom-hill",
+          "name": "Aipom Hill",
+          "sourceUrl": "https://pokemondb.net/location/hisui-aipom-hill",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-ancient-quarry",
+          "name": "Ancient Quarry",
+          "sourceUrl": "https://pokemondb.net/location/hisui-ancient-quarry",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-arenas-approach",
+          "name": "Arena's Approach",
+          "sourceUrl": "https://pokemondb.net/location/hisui-arenas-approach",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-aspiration-hill",
+          "name": "Aspiration Hill",
+          "sourceUrl": "https://pokemondb.net/location/hisui-aspiration-hill",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-avalanche-slopes",
+          "name": "Avalanche Slopes",
+          "sourceUrl": "https://pokemondb.net/location/hisui-avalanche-slopes",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-avaluggs-legacy",
+          "name": "Avalugg's Legacy",
+          "sourceUrl": "https://pokemondb.net/location/hisui-avaluggs-legacy",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-bathers-lagoon",
+          "name": "Bathers' Lagoon",
+          "sourceUrl": "https://pokemondb.net/location/hisui-bathers-lagoon",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-bolderoll-ravine",
+          "name": "Bolderoll Ravine",
+          "sourceUrl": "https://pokemondb.net/location/hisui-bolderoll-ravine",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-bolderoll-slope",
+          "name": "Bolderoll Slope",
+          "sourceUrl": "https://pokemondb.net/location/hisui-bolderoll-slope",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-bonechill-wastes",
+          "name": "Bonechill Wastes",
+          "sourceUrl": "https://pokemondb.net/location/hisui-bonechill-wastes",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-brava-arena",
+          "name": "Brava Arena",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "hisui-castaway-shore",
+          "name": "Castaway Shore",
+          "sourceUrl": "https://pokemondb.net/location/hisui-castaway-shore",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-celestica-ruins",
+          "name": "Celestica Ruins",
+          "sourceUrl": "https://pokemondb.net/location/hisui-celestica-ruins",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-celestica-trail",
+          "name": "Celestica Trail",
+          "sourceUrl": "https://pokemondb.net/location/hisui-celestica-trail",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-clamberclaw-cliffs",
+          "name": "Clamberclaw Cliffs",
+          "sourceUrl": "https://pokemondb.net/location/hisui-clamberclaw-cliffs",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-cloudcap-pass",
+          "name": "Cloudcap Pass",
+          "sourceUrl": "https://pokemondb.net/location/hisui-cloudcap-pass",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-cloudpool-ridge",
+          "name": "Cloudpool Ridge",
+          "sourceUrl": "https://pokemondb.net/location/hisui-cloudpool-ridge",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-coastlands-camp",
+          "name": "Coastlands Camp",
+          "sourceUrl": "https://pokemondb.net/location/hisui-coastlands-camp",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-cottonsedge-prairie",
+          "name": "Cottonsedge Prairie",
+          "sourceUrl": "https://pokemondb.net/location/hisui-cottonsedge-prairie",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-crossing-slope",
+          "name": "Crossing Slope",
+          "sourceUrl": "https://pokemondb.net/location/hisui-crossing-slope",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-deadwood-haunt",
+          "name": "Deadwood Haunt",
+          "sourceUrl": "https://pokemondb.net/location/hisui-deadwood-haunt",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-deertrack-heights",
+          "name": "Deertrack Heights",
+          "sourceUrl": "https://pokemondb.net/location/hisui-deertrack-heights",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-deertrack-path",
+          "name": "Deertrack Path",
+          "sourceUrl": "https://pokemondb.net/location/hisui-deertrack-path",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-diamond-heath",
+          "name": "Diamond Heath",
+          "sourceUrl": "https://pokemondb.net/location/hisui-diamond-heath",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-diamond-settlement",
+          "name": "Diamond Settlement",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "hisui-droning-meadow",
+          "name": "Droning Meadow",
+          "sourceUrl": "https://pokemondb.net/location/hisui-droning-meadow",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-fabled-spring",
+          "name": "Fabled Spring",
+          "sourceUrl": "https://pokemondb.net/location/hisui-fabled-spring",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-firespit-island",
+          "name": "Firespit Island",
+          "sourceUrl": "https://pokemondb.net/location/hisui-firespit-island",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-floaro-gardens",
+          "name": "Floaro Gardens",
+          "sourceUrl": "https://pokemondb.net/location/hisui-floaro-gardens",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-gapejaw-bog",
+          "name": "Gapejaw Bog",
+          "sourceUrl": "https://pokemondb.net/location/hisui-gapejaw-bog",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-ginkgo-landing",
+          "name": "Ginkgo Landing",
+          "sourceUrl": "https://pokemondb.net/location/hisui-ginkgo-landing",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-glacier-terrace",
+          "name": "Glacier Terrace",
+          "sourceUrl": "https://pokemondb.net/location/hisui-glacier-terrace",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-golden-lowlands",
+          "name": "Golden Lowlands",
+          "sourceUrl": "https://pokemondb.net/location/hisui-golden-lowlands",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-grandtree-arena",
+          "name": "Grandtree Arena",
+          "sourceUrl": "https://pokemondb.net/location/hisui-grandtree-arena",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-grueling-grove",
+          "name": "Grueling Grove",
+          "sourceUrl": "https://pokemondb.net/location/hisui-grueling-grove",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-hearts-crag",
+          "name": "Heart's Crag",
+          "sourceUrl": "https://pokemondb.net/location/hisui-hearts-crag",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-heavenward-lookout",
+          "name": "Heavenward Lookout",
+          "sourceUrl": "https://pokemondb.net/location/hisui-heavenward-lookout",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-heights-camp",
+          "name": "Heights Camp",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "hisui-hideaway-bay",
+          "name": "Hideaway Bay",
+          "sourceUrl": "https://pokemondb.net/location/hisui-hideaway-bay",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-holm-of-trials",
+          "name": "Holm of Trials",
+          "sourceUrl": "https://pokemondb.net/location/hisui-holm-of-trials",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-horseshoe-plains",
+          "name": "Horseshoe Plains",
+          "sourceUrl": "https://pokemondb.net/location/hisui-horseshoe-plains",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-ice-column-chamber",
+          "name": "Ice Column Chamber",
+          "sourceUrl": "https://pokemondb.net/location/hisui-ice-column-chamber",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-icebound-falls",
+          "name": "Icebound Falls",
+          "sourceUrl": "https://pokemondb.net/location/hisui-icebound-falls",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-icepeak-arena",
+          "name": "Icepeak Arena",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "hisui-icepeak-cavern",
+          "name": "Icepeak Cavern",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "hisui-islespy-shore",
+          "name": "Islespy Shore",
+          "sourceUrl": "https://pokemondb.net/location/hisui-islespy-shore",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-jubilife-village",
+          "name": "Jubilife Village",
+          "sourceUrl": "https://pokemondb.net/location/hisui-jubilife-village",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-lake-acuity",
+          "name": "Lake Acuity",
+          "sourceUrl": "https://pokemondb.net/location/hisui-lake-acuity",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-lake-valor",
+          "name": "Lake Valor",
+          "sourceUrl": "https://pokemondb.net/location/hisui-lake-valor",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-lake-verity",
+          "name": "Lake Verity",
+          "sourceUrl": "https://pokemondb.net/location/hisui-lake-verity",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-lonely-spring",
+          "name": "Lonely Spring",
+          "sourceUrl": "https://pokemondb.net/location/hisui-lonely-spring",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-lunkers-lair",
+          "name": "Lunker's Lair",
+          "sourceUrl": "https://pokemondb.net/location/hisui-lunkers-lair",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-molten-arena",
+          "name": "Molten Arena",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "hisui-moonview-arena",
+          "name": "Moonview Arena",
+          "sourceUrl": "https://pokemondb.net/location/hisui-moonview-arena",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-natures-pantry",
+          "name": "Nature’s Pantry",
+          "sourceUrl": "https://pokemondb.net/location/hisui-natures-pantry",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-obsidian-falls",
+          "name": "Obsidian Falls",
+          "sourceUrl": "https://pokemondb.net/location/hisui-obsidian-falls",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-oreburrow-tunnel",
+          "name": "Oreburrow Tunnel",
+          "sourceUrl": "https://pokemondb.net/location/hisui-oreburrow-tunnel",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-pearl-settlement",
+          "name": "Pearl Settlement",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "hisui-prelude-beach",
+          "name": "Prelude Beach",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "hisui-primeval-grotto",
+          "name": "Primeval Grotto",
+          "sourceUrl": "https://pokemondb.net/location/hisui-primeval-grotto",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-ramanas-island",
+          "name": "Ramanas Island",
+          "sourceUrl": "https://pokemondb.net/location/hisui-ramanas-island",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-sacred-plaza",
+          "name": "Sacred Plaza",
+          "sourceUrl": "https://pokemondb.net/location/hisui-sacred-plaza",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-sands-reach",
+          "name": "Sand's Reach",
+          "sourceUrl": "https://pokemondb.net/location/hisui-sands-reach",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-sandgem-flats",
+          "name": "Sandgem Flats",
+          "sourceUrl": "https://pokemondb.net/location/hisui-sandgem-flats",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-scarlet-bog",
+          "name": "Scarlet Bog",
+          "sourceUrl": "https://pokemondb.net/location/hisui-scarlet-bog",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-seagrass-haven",
+          "name": "Seagrass Haven",
+          "sourceUrl": "https://pokemondb.net/location/hisui-seagrass-haven",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-seaside-hollow",
+          "name": "Seaside Hollow",
+          "sourceUrl": "https://pokemondb.net/location/hisui-seaside-hollow",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-shrouded-ruins",
+          "name": "Shrouded Ruins",
+          "sourceUrl": "https://pokemondb.net/location/hisui-shrouded-ruins",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-sludge-mound",
+          "name": "Sludge Mound",
+          "sourceUrl": "https://pokemondb.net/location/hisui-sludge-mound",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-snowfall-hot-spring",
+          "name": "Snowfall Hot Spring",
+          "sourceUrl": "https://pokemondb.net/location/hisui-snowfall-hot-spring",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-snowpoint-temple",
+          "name": "Snowpoint Temple",
+          "sourceUrl": "https://pokemondb.net/location/hisui-snowpoint-temple",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-solaceon-ruins",
+          "name": "Solaceon Ruins",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "hisui-sonorous-path",
+          "name": "Sonorous Path",
+          "sourceUrl": "https://pokemondb.net/location/hisui-sonorous-path",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-space-time-distortion",
+          "name": "Space-Time Distortion",
+          "sourceUrl": "https://pokemondb.net/location/hisui-space-time-distortion",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-spring-path",
+          "name": "Spring Path",
+          "sourceUrl": "https://pokemondb.net/location/hisui-spring-path",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-stonetooth-rows",
+          "name": "Stonetooth Rows",
+          "sourceUrl": "https://pokemondb.net/location/hisui-stonetooth-rows",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-temple-of-sinnoh",
+          "name": "Temple of Sinnoh",
+          "sourceUrl": "https://pokemondb.net/location/hisui-temple-of-sinnoh",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-the-heartwood",
+          "name": "The Heartwood",
+          "sourceUrl": "https://pokemondb.net/location/hisui-the-heartwood",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-tidewater-dam",
+          "name": "Tidewater Dam",
+          "sourceUrl": "https://pokemondb.net/location/hisui-tidewater-dam",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-tombolo-walk",
+          "name": "Tombolo Walk",
+          "sourceUrl": "https://pokemondb.net/location/hisui-tombolo-walk",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-tranquility-cove",
+          "name": "Tranquility Cove",
+          "sourceUrl": "https://pokemondb.net/location/hisui-tranquility-cove",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-turnback-cave",
+          "name": "Turnback Cave",
+          "sourceUrl": "https://pokemondb.net/location/hisui-turnback-cave",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-ursas-ring",
+          "name": "Ursa's Ring",
+          "sourceUrl": "https://pokemondb.net/location/hisui-ursas-ring",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-veilstone-cape",
+          "name": "Veilstone Cape",
+          "sourceUrl": "https://pokemondb.net/location/hisui-veilstone-cape",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-wayward-cave",
+          "name": "Wayward Cave",
+          "sourceUrl": "https://pokemondb.net/location/hisui-wayward-cave",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-wayward-wood",
+          "name": "Wayward Wood",
+          "sourceUrl": "https://pokemondb.net/location/hisui-wayward-wood",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-whiteout-valley",
+          "name": "Whiteout Valley",
+          "sourceUrl": "https://pokemondb.net/location/hisui-whiteout-valley",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-windbreak-stand",
+          "name": "Windbreak Stand",
+          "sourceUrl": "https://pokemondb.net/location/hisui-windbreak-stand",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-windswept-run",
+          "name": "Windswept Run",
+          "sourceUrl": "https://pokemondb.net/location/hisui-windswept-run",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "hisui-worn-bridge",
+          "name": "Worn Bridge",
+          "sourceUrl": "https://pokemondb.net/location/hisui-worn-bridge",
+          "hasEncounterPage": true
+        }
+      ]
+    },
+    {
+      "id": "paldea",
+      "name": "Paldea",
+      "locations": [
+        {
+          "id": "paldea-alfornada",
+          "name": "Alfornada",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "paldea-alfornada-cavern",
+          "name": "Alfornada Cavern",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "paldea-artazon",
+          "name": "Artazon",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "paldea-asado-desert",
+          "name": "Asado Desert",
+          "sourceUrl": "https://pokemondb.net/location/paldea-asado-desert",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "paldea-cabo-poco",
+          "name": "Cabo Poco",
+          "sourceUrl": "https://pokemondb.net/location/paldea-cabo-poco",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "paldea-cascarrafa",
+          "name": "Cascarrafa",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "paldea-casseroya-lake",
+          "name": "Casseroya Lake",
+          "sourceUrl": "https://pokemondb.net/location/paldea-casseroya-lake",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "paldea-colonnade-hollow",
+          "name": "Colonnade Hollow",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "paldea-cortondo",
+          "name": "Cortondo",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "paldea-dalizapa-passage",
+          "name": "Dalizapa Passage",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "paldea-east-paldean-sea",
+          "name": "East Paldean Sea",
+          "sourceUrl": "https://pokemondb.net/location/paldea-east-paldean-sea",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "paldea-east-province-area-one",
+          "name": "East Province (Area One)",
+          "sourceUrl": "https://pokemondb.net/location/paldea-east-province-area-one",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "paldea-east-province-area-three",
+          "name": "East Province (Area Three)",
+          "sourceUrl": "https://pokemondb.net/location/paldea-east-province-area-three",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "paldea-east-province-area-two",
+          "name": "East Province (Area Two)",
+          "sourceUrl": "https://pokemondb.net/location/paldea-east-province-area-two",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "paldea-glaseado-mountain",
+          "name": "Glaseado Mountain",
+          "sourceUrl": "https://pokemondb.net/location/paldea-glaseado-mountain",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "paldea-inlet-grotto",
+          "name": "Inlet Grotto",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "paldea-levincia",
+          "name": "Levincia",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "paldea-los-platos",
+          "name": "Los Platos",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "paldea-medali",
+          "name": "Medali",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "paldea-mesagoza",
+          "name": "Mesagoza",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "paldea-montenevera",
+          "name": "Montenevera",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "paldea-north-paldean-sea",
+          "name": "North Paldean Sea",
+          "sourceUrl": "https://pokemondb.net/location/paldea-north-paldean-sea",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "paldea-north-province-area-one",
+          "name": "North Province (Area One)",
+          "sourceUrl": "https://pokemondb.net/location/paldea-north-province-area-one",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "paldea-north-province-area-three",
+          "name": "North Province (Area Three)",
+          "sourceUrl": "https://pokemondb.net/location/paldea-north-province-area-three",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "paldea-north-province-area-two",
+          "name": "North Province (Area Two)",
+          "sourceUrl": "https://pokemondb.net/location/paldea-north-province-area-two",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "paldea-poco-path",
+          "name": "Poco Path",
+          "sourceUrl": "https://pokemondb.net/location/paldea-poco-path",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "paldea-porto-marinada",
+          "name": "Porto Marinada",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        },
+        {
+          "id": "paldea-socarrat-trail",
+          "name": "Socarrat Trail",
+          "sourceUrl": "https://pokemondb.net/location/paldea-socarrat-trail",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "paldea-south-paldean-sea",
+          "name": "South Paldean Sea",
+          "sourceUrl": "https://pokemondb.net/location/paldea-south-paldean-sea",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "paldea-south-province-area-five",
+          "name": "South Province (Area Five)",
+          "sourceUrl": "https://pokemondb.net/location/paldea-south-province-area-five",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "paldea-south-province-area-four",
+          "name": "South Province (Area Four)",
+          "sourceUrl": "https://pokemondb.net/location/paldea-south-province-area-four",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "paldea-south-province-area-one",
+          "name": "South Province (Area One)",
+          "sourceUrl": "https://pokemondb.net/location/paldea-south-province-area-one",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "paldea-south-province-area-six",
+          "name": "South Province (Area Six)",
+          "sourceUrl": "https://pokemondb.net/location/paldea-south-province-area-six",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "paldea-south-province-area-three",
+          "name": "South Province (Area Three)",
+          "sourceUrl": "https://pokemondb.net/location/paldea-south-province-area-three",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "paldea-south-province-area-two",
+          "name": "South Province (Area Two)",
+          "sourceUrl": "https://pokemondb.net/location/paldea-south-province-area-two",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "paldea-tagtree-thicket",
+          "name": "Tagtree Thicket",
+          "sourceUrl": "https://pokemondb.net/location/paldea-tagtree-thicket",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "paldea-the-great-crater-of-paldea",
+          "name": "The Great Crater of Paldea",
+          "sourceUrl": "https://pokemondb.net/location/paldea-the-great-crater-of-paldea",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "paldea-the-pokemon-league",
+          "name": "The Pokémon League",
+          "sourceUrl": "https://pokemondb.net/location/paldea-the-pokemon-league",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "paldea-west-paldean-sea",
+          "name": "West Paldean Sea",
+          "sourceUrl": "https://pokemondb.net/location/paldea-west-paldean-sea",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "paldea-west-province-area-one",
+          "name": "West Province (Area One)",
+          "sourceUrl": "https://pokemondb.net/location/paldea-west-province-area-one",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "paldea-west-province-area-three",
+          "name": "West Province (Area Three)",
+          "sourceUrl": "https://pokemondb.net/location/paldea-west-province-area-three",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "paldea-west-province-area-two",
+          "name": "West Province (Area Two)",
+          "sourceUrl": "https://pokemondb.net/location/paldea-west-province-area-two",
+          "hasEncounterPage": true
+        },
+        {
+          "id": "paldea-zapapico",
+          "name": "Zapapico",
+          "sourceUrl": null,
+          "hasEncounterPage": false
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "This supplied file is a location index. It contains names and detail-page links, not map geometry, species encounters or encounter levels.",
+    "hasEncounterPage indicates a linked reference page; it does not assign game spawn probabilities."
+  ]
+}
