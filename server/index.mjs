@@ -21,6 +21,8 @@ http.createServer(async(req,res)=>{try{const url=new URL(req.url,'http://localho
  else if(b.action==='useItem')useTrainingItem(s,b.uid,b.item);
  else if(b.action==='learnMove'){if(!c)throw Error('Pokémon not found');if(b.method==='tutor'){if(s.coins<200)throw Error('You need 200 coins for the tutor');learnMove(c,b.moveId,b.slot,'tutor');s.coins-=200;}else learnMove(c,b.moveId,b.slot,'level');}
  else if(b.action==='evolve'){if(!c)throw Error('Pokémon not found');evolveCreature(c,b.to,s.inventory);}
+ else if(b.action==='travel'){if(s.battle)throw Error('Finish the battle first');if(!['pallet','forest'].includes(b.destination))throw Error('Unknown destination');if(b.destination==='forest'&&(s.badges<1||s.level<5))throw Error('Earn the first badge to unlock Viridian Forest');s.location=b.destination;}
+ else if(b.action==='learnFly'){if(s.battle)throw Error('Finish the battle first');if(!s.badges)throw Error('Earn the first badge before learning Fly');const flyer=s.team.find(p=>p.types.includes('flying'));if(!flyer)throw Error('You need a Flying-type partner');flyer.learnedMoves=[...new Set([...flyer.learnedMoves,'Fly'])];}
  else if(b.action==='setAuto')s.autoEnabled=Boolean(b.enabled);
  else if(b.action==='learnSwim'){if(!s.badges)throw Error('Earn the first badge before learning Swim');const water=s.team.find(p=>p.types.includes('water'));if(!water)throw Error('You need a Water-type partner');water.learnedMoves=[...new Set([...water.learnedMoves,'Swim'])];}
  else if(b.action==='waterAccess'){if(!hasSwimPartner(s))throw Error('You need a Water-type Pokémon that knows Swim');}
