@@ -1,4 +1,4 @@
-let selectedStarter=null,lastModalFocus=null,currentDetailId=null;
+let lastModalFocus=null,currentDetailId=null;
 function uiBlocked(){return !$('world-map-modal').hidden|| $('starter').style.display!=='none'||!$('dex-modal').hidden||!$('dialog-modal').hidden||!$('activity-modal').hidden;}
 function rememberFocus(){lastModalFocus=document.activeElement;if(typeof keys!=='undefined')keys.clear();}
 function restoreFocus(){lastModalFocus?.focus?.();}
@@ -8,20 +8,6 @@ function dexBack(){currentDetailId=null;$('dex-list').hidden=false;$('dex-detail
 function statsMarkup(p){const labels={hp:'HP',attack:'Attack',defense:'Defense',specialAttack:'Sp. Attack',specialDefense:'Sp. Defense',speed:'Speed'};return `<dl class="stat-list">${Object.entries(labels).map(([key,label])=>`<div><dt>${label}</dt><dd>${p.baseStats[key]}</dd><span style="width:${Math.min(p.baseStats[key]/255*100,100)}%"></span></div>`).join('')}</dl><p class="stat-total">Base total · ${p.baseStats.total}</p>`;}
 function speciesDetail(p){return `<div class="species-heading">${pokemonImage(p.id,p.form||p.name)}<div><small>#${String(p.number).padStart(4,'0')}</small><h2>${escapeHtml(p.form||p.name)}</h2><div class="type-tags">${p.types.map(t=>`<span class="type-tag type-${t}">${escapeHtml(t)}</span>`).join('')}</div></div></div>${window.hasPokemonModel?.(p.id)?`<button onclick="openPokemonModel('${p.id}')">View in 3D</button>`:''}${statsMarkup(p)}${typeDefenses(p)}`;}
 async function showDexDetail(id){currentDetailId=id;const p=catalog.find(p=>p.id===id);if(!p)return;$('dex-list').hidden=true;$('dex-back').hidden=false;$('dex-detail').hidden=false;$('dex-detail').innerHTML=speciesDetail(p)+evolutionMarkup(id)+'<div id="dex-reference">Loading moves and locations…</div>';$('dex-back').focus();try{const ref=await getReference(id);if(currentDetailId===id)$('dex-reference').innerHTML=referenceMarkup(ref);}catch(e){if(currentDetailId===id)$('dex-reference').textContent=e.message;}}
-let starterGenerations=[],starterGeneration=null,starterSaving=false;
-async function openOriginalStarters(){
- if(state?.team?.length)return toast('You already have a partner.');
- try{starterGenerations=await request('/api/starters');if($('starter').style.display==='none')rememberFocus();starterGeneration=null;selectedStarter=null;$('starter').style.display='flex';renderStarterGenerations();}catch(e){toast(e.message);}
-}
-function renderStarterGenerations(){
- selectedStarter=null;starterGeneration=null;$('starter-detail').innerHTML=starterGenerations.map(g=>`<button class="source-generation" onclick="selectStarterGeneration(${g.id})">${escapeHtml(g.name)}<span>${g.partners.map(p=>pokemonImage(p.id,p.name)).join('')}</span></button>`).join('');
-}
-function selectStarterGeneration(id){if(starterSaving)return;starterGeneration=starterGenerations.find(g=>g.id===id);selectedStarter=null;if(!starterGeneration)return;renderStarterPartners();}
-function renderStarterPartners(){const g=starterGeneration;$('starter-detail').innerHTML=`<button onclick="renderStarterGenerations()">← Generations</button><h3>${escapeHtml(g.name)}</h3><div class="source-partners">${g.partners.map(p=>`<button onclick="previewStarter('${p.id}')">${pokemonImage(p.id,p.name)}<span>${escapeHtml(p.name)}</span></button>`).join('')}</div>`;}
-function previewStarter(id){if(starterSaving||!starterGeneration?.partners.some(p=>p.id===id))return;selectedStarter=id;const p=starterGeneration.partners.find(p=>p.id===id);$('starter-detail').innerHTML=`<button onclick="starterBack()">← Back</button><div class="source-partner-preview">${pokemonImage(p.id,p.name)}<h3>${escapeHtml(p.name)}</h3><button class="confirm-partner" onclick="confirmStarter()">Choose ${escapeHtml(p.name)}</button></div>`;}
-function closeStarter(){if(starterSaving)return;$('starter').style.display='none';selectedStarter=null;starterGeneration=null;restoreFocus();}
-function starterBack(){if(starterSaving)return;selectedStarter=null;if(starterGeneration)renderStarterPartners();else renderStarterGenerations();}
-async function confirmStarter(){if(!selectedStarter||!starterGeneration||starterSaving)return;starterSaving=true;try{const ok=await start(selectedStarter,starterGeneration.id);if(ok){starterSaving=false;closeStarter();}}finally{starterSaving=false;}}
 function closeConversation(){$('dialog-modal').hidden=true;restoreFocus();}
 function conversation(title,text,actions=[]){rememberFocus();$('dialog-title').textContent=title;$('dialog-text').textContent=text;$('dialog-actions').replaceChildren();for(const action of actions){const button=document.createElement('button');button.textContent=action.label;button.onclick=()=>{closeConversation();action.run();};$('dialog-actions').append(button);}$('dialog-modal').hidden=false;$('dialog-modal').querySelector('button').focus();}
 document.addEventListener('keydown',e=>{if(e.key==='Escape'){if(typeof closeWorldMap==='function')closeWorldMap();closeStarter();closeDex();closeConversation();closeActivity();}});

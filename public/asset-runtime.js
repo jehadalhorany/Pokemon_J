@@ -1,8 +1,10 @@
+import {bindNativeMaterials} from './native-material-runtime.js';
+const nativeMaterials=await fetch('/data/original/native-materials.json').then(r=>{if(!r.ok)throw Error('Native materials missing');return r.json();});
 import * as THREE from './vendor/three.module.js';
 import {GLTFLoader} from './vendor/GLTFLoader.js';
 import {clone} from './vendor/SkeletonUtils.js';
 const loader=new GLTFLoader(),cache=new Map(),clips=new Map();
-export async function loadModel(id){if(!cache.has(id))cache.set(id,loader.loadAsync('/assets/imported/models/'+id+'.glb').then(g=>g.scene));return cache.get(id);}
+export async function loadModel(id){if(!cache.has(id))cache.set(id,loader.loadAsync('/assets/imported/models/'+id+'.glb').then(g=>{bindNativeMaterials(g.scene,nativeMaterials.models[id]);return g.scene;}));return cache.get(id);}
 export async function loadClips(id){if(!clips.has(id))clips.set(id,fetch('/assets/imported/animations/'+id+'.json').then(r=>{if(!r.ok)throw Error('Animation unavailable');return r.json();}));return clips.get(id);}
 export function instantiate(template,{width,height,depth}={}){const model=clone(template);model.updateMatrixWorld(true);const bounds=new THREE.Box3().setFromObject(model),size=bounds.getSize(new THREE.Vector3()),center=bounds.getCenter(new THREE.Vector3());const ratios=[width&&width/size.x,height&&height/size.y,depth&&depth/size.z].filter(v=>Number.isFinite(v)&&v>0);const scale=ratios.length?Math.min(...ratios):1;const wrap=new THREE.Group();model.position.x-=center.x;model.position.y-=bounds.min.y;model.position.z-=center.z;wrap.scale.setScalar(scale);wrap.add(model);wrap.traverse(o=>{if(o.isMesh){o.castShadow=true;o.receiveShadow=true;}});wrap.userData.model=model;return wrap;}
 export function bindClips(model,source){const tracks=[];const nodes=[];model.traverse(n=>nodes.push(n));const clean=s=>s.replace(/[\[\]\.:\/]/g,'').replace(/\s/g,'_');for(const track of source.tracks){const last=clean(track.path.split('/').at(-1));const node=nodes.find(n=>clean(n.name)===last);if(!node)continue;const Type=track.property==='quaternion'?THREE.QuaternionKeyframeTrack:THREE.VectorKeyframeTrack;tracks.push(new Type(node.uuid+'.'+track.property,track.times,track.values));}return new THREE.AnimationClip(source.name,-1,tracks);}
