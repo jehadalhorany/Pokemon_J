@@ -29,7 +29,7 @@ export function battleAction(s,b){const t=s.battle;if(!t)throw Error('No active 
  else if(b.action==='capture'){
   if(t.kind!=='wild'){log('You cannot catch another trainer’s Pokémon.');return null;}
   const ball=b.ball||'poke-ball';if(!['poke-ball','ultra-ball','master-ball'].includes(ball)||(s.inventory[ball]||0)<1)throw Error('You do not have that Poké Ball');
-  const rare=getSpecies(enemy.id).legendary||getSpecies(enemy.id).mythical;
+  const rare=getSpecies(enemy.id).rareCapture;
   if(rare&&ball!=='master-ball'&&(ball!=='ultra-ball'||t.enemyHp>enemy.hp*.25||!['sleep','paralysis'].includes(t.enemyEffects.ailment)))throw Error('Use a Master Ball, or weaken it and apply Sleep/Paralysis before an Ultra Ball');
   s.inventory[ball]--;const chance=ball==='master-ball'?1:Math.min(.98,(rare?.08:.72)+(1-t.enemyHp/enemy.hp)*.22+(ball==='ultra-ball'?.2:0)+(['sleep','paralysis'].includes(t.enemyEffects.ailment)?.1:0));
   if(Math.random()<chance){const caught=structuredClone(enemy);caught.uid=crypto.randomUUID();caught.level=captureLevel(s.level,enemy.level);caught.locked=false;recalculate(caught);(s.team.length<6?s.team:s.box).push(caught);end='capture';log(`${enemy.name} was caught.`);}else{log('The Pokémon broke free.');enemyAttack();}
@@ -44,3 +44,5 @@ export function battleAction(s,b){const t=s.battle;if(!t)throw Error('No active 
  if(end==='win'){const c=s.team[t.active];for(const [stat,n] of Object.entries(getSpecies(enemy.id).evYield)){if(n){try{train(c,stat,n);}catch{}}}c.friendship=Math.min(255,c.friendship+2);}
  t.log=t.log.slice(-8);return end;
 }
+
+export function advanceOriginalOpponent(t){if(!t.opponents||t.opponentIndex+1>=t.opponents.length)return false;t.opponentIndex++;t.enemy=t.opponents[t.opponentIndex];t.enemyHp=t.enemy.hp;t.enemyEffects=fresh();t.enemyPP=getMoveSet(t.enemy).map(m=>m.pp);t.log.push(t.enemy.name+' enters the battle.');t.log=t.log.slice(-8);return true;}

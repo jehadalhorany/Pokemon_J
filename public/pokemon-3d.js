@@ -2,8 +2,9 @@ import * as THREE from './vendor/three.module.js';
 import {loadModel,instantiate,loadClips,animateModel,environment} from './asset-runtime.js';
 const manifest=await fetch('/assets/imported/catalog.json').then(r=>r.json());
 const pokemonData=await fetch('/data/pokedex.json').then(r=>r.json());
+const nativeModels=new Map(manifest.models.filter(m=>m.source?.includes('/Prefabs/Eudmon/')).map(m=>[m.name,m.id]));
 const entries=pokemonData.entries;let viewer=null,battleView=null,battleToken=0;
-function modelId(id,shiny=false){const p=entries.find(p=>p.id===id);if(!p||p.form)return null;const key=String(p.number).padStart(5,'0');return manifest.pokemon[key+(shiny?'_s':'')]||manifest.pokemon[key]||null;}
+function modelId(id,shiny=false){const p=entries.find(p=>p.id===id);if(!p)return null;const key=shiny&&p.shinyModelKey?p.shinyModelKey:p.modelKey;return key?nativeModels.get(key)||null:null;}
 function baseScene(canvas){const renderer=new THREE.WebGLRenderer({canvas,antialias:true});renderer.setSize(canvas.width,canvas.height,false);renderer.setPixelRatio(Math.min(devicePixelRatio,1.5));renderer.outputColorSpace=THREE.SRGBColorSpace;const scene=new THREE.Scene();scene.background=new THREE.Color('#b8d1c3');scene.add(new THREE.HemisphereLight(0xffffff,0x5c7155,2.1));const sun=new THREE.DirectionalLight(0xffefda,2);sun.position.set(-150,300,180);scene.add(sun);const ground=new THREE.Mesh(new THREE.CircleGeometry(200,48),new THREE.MeshStandardMaterial({color:'#7f9a70',roughness:1}));ground.rotation.x=-Math.PI/2;scene.add(ground);const camera=new THREE.PerspectiveCamera(34,canvas.width/canvas.height,.1,1500);return {renderer,scene,camera,ground,animations:[],alive:true};}
 function dispose(view){if(!view)return;view.alive=false;view.renderer.dispose();}
 async function creatureModel(id,shiny,height){const asset=modelId(id,shiny);if(!asset)return null;return instantiate(await loadModel(asset),{height,width:height*1.5,depth:height*1.5});}
