@@ -1,0 +1,968 @@
+{
+  "items": [
+    {
+      "type": 0,
+      "id": "fobj1lyorlr",
+      "name": "zq_bth_xsjs",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        121,
+        48
+      ]
+    },
+    {
+      "type": 3,
+      "id": "7v64z",
+      "name": "ProBar3",
+      "path": "/Progress/",
+      "file": null,
+      "size": [
+        100,
+        12
+      ],
+      "extension": 14
+    },
+    {
+      "type": 3,
+      "id": "8yc44",
+      "name": "AddBtn",
+      "path": "/",
+      "file": null,
+      "size": [
+        43,
+        43
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "8yc4a",
+      "name": "BtnStyle1",
+      "path": "/Button/Style/",
+      "file": null,
+      "size": [
+        292,
+        101
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "8yc4b",
+      "name": "BtnStyle2Select_GButton",
+      "path": "/Button/Style/",
+      "file": null,
+      "size": [
+        226,
+        86
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "8yc4c",
+      "name": "BtnStyle2_GButton",
+      "path": "/Button/Style/",
+      "file": null,
+      "size": [
+        226,
+        86
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "8yc4d",
+      "name": "BtnStyle3_GButton",
+      "path": "/Button/Style/",
+      "file": null,
+      "size": [
+        198,
+        72
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "8yc4e",
+      "name": "BtnStyle4_GButton",
+      "path": "/Button/Style/",
+      "file": null,
+      "size": [
+        198,
+        72
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "8yc4g",
+      "name": "Empty_GButton",
+      "path": "/Button/Style/",
+      "file": null,
+      "size": [
+        100,
+        100
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "8yc4h",
+      "name": "Icon9GridBtn",
+      "path": "/Button/Style/",
+      "file": null,
+      "size": [
+        100,
+        100
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "8yc4i",
+      "name": "IconBtn",
+      "path": "/Button/Style/",
+      "file": null,
+      "size": [
+        100,
+        100
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "8yc4j",
+      "name": "IconRightTitle",
+      "path": "/Button/Style/",
+      "file": null,
+      "size": [
+        112,
+        62
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "8yc4k",
+      "name": "IconTitle_GButton",
+      "path": "/Button/Style/",
+      "file": null,
+      "size": [
+        100,
+        100
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "aban1a",
+      "name": "BtnStyle6Icon",
+      "path": "/Button/Style/",
+      "file": null,
+      "size": [
+        286,
+        98
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "e0us6h2tk",
+      "name": "LabelColorBtn",
+      "path": "/Button/Style/",
+      "file": null,
+      "size": [
+        134,
+        50
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "eeo81lyorlw",
+      "name": "GraphicsBtnNew",
+      "path": "/",
+      "file": null,
+      "size": [
+        100,
+        100
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "fmg56h2u4",
+      "name": "ProBar7",
+      "path": "/Progress/",
+      "file": null,
+      "size": [
+        140,
+        58
+      ],
+      "extension": 14
+    },
+    {
+      "type": 3,
+      "id": "fobj1lyorlt",
+      "name": "MountSelectBtn",
+      "path": "/",
+      "file": null,
+      "size": [
+        230,
+        48
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "fwqi6h2r3",
+      "name": "FuntionBtn",
+      "path": "/",
+      "file": null,
+      "size": [
+        112,
+        122
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "i3m66h2tx",
+      "name": "LabelBtn",
+      "path": "/Button/Style/",
+      "file": null,
+      "size": [
+        120,
+        42
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "i7i76h2u2",
+      "name": "ProBar6",
+      "path": "/Progress/",
+      "file": null,
+      "size": [
+        140,
+        33
+      ],
+      "extension": 14
+    },
+    {
+      "type": 3,
+      "id": "io1q6h2ti",
+      "name": "ProBarHp",
+      "path": "/Progress/",
+      "file": null,
+      "size": [
+        50,
+        13
+      ],
+      "extension": 14
+    },
+    {
+      "type": 3,
+      "id": "io1q6h2tj",
+      "name": "ProBarExp",
+      "path": "/Progress/",
+      "file": null,
+      "size": [
+        50,
+        13
+      ],
+      "extension": 14
+    },
+    {
+      "type": 3,
+      "id": "jfq86h2tt",
+      "name": "GraphicsPixelFontBtn",
+      "path": "/",
+      "file": null,
+      "size": [
+        100,
+        100
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "k36z6h2tn",
+      "name": "SwitchBtn",
+      "path": "/",
+      "file": null,
+      "size": [
+        131,
+        69
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "k36z6h2to",
+      "name": "SelectBtn",
+      "path": "/",
+      "file": null,
+      "size": [
+        144,
+        69
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "mhb0o",
+      "name": "BtnStyle5Icon",
+      "path": "/Button/Style/",
+      "file": null,
+      "size": [
+        286,
+        98
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "p0l36h2tv",
+      "name": "ProBar4",
+      "path": "/Progress/",
+      "file": null,
+      "size": [
+        140,
+        24
+      ],
+      "extension": 14
+    },
+    {
+      "type": 3,
+      "id": "p0l36h2tw",
+      "name": "BarExp",
+      "path": "/Progress/",
+      "file": null,
+      "size": [
+        100,
+        24
+      ],
+      "extension": 14
+    },
+    {
+      "type": 3,
+      "id": "p7j41lyorlx",
+      "name": "NoOutlineBtn2",
+      "path": "/",
+      "file": null,
+      "size": [
+        100,
+        100
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "psobw",
+      "name": "GraphicsBtn",
+      "path": "/",
+      "file": null,
+      "size": [
+        100,
+        100
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "qfss18",
+      "name": "CommonAttrProBar",
+      "path": "/Progress/",
+      "file": null,
+      "size": [
+        40,
+        20
+      ],
+      "extension": 14
+    },
+    {
+      "type": 3,
+      "id": "qj0v1lyorlv",
+      "name": "OnChangeDownLbBtn",
+      "path": "/",
+      "file": null,
+      "size": [
+        100,
+        100
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "r4cn6h2u1",
+      "name": "ProBar5",
+      "path": "/Progress/",
+      "file": null,
+      "size": [
+        140,
+        12
+      ],
+      "extension": 14
+    },
+    {
+      "type": 3,
+      "id": "rlbz1lyorlu",
+      "name": "ProBarMain",
+      "path": "/Progress/",
+      "file": null,
+      "size": [
+        298,
+        26
+      ],
+      "extension": 14
+    },
+    {
+      "type": 3,
+      "id": "row4x",
+      "name": "ProBar1",
+      "path": "/Progress/",
+      "file": null,
+      "size": [
+        140,
+        24
+      ],
+      "extension": 14
+    },
+    {
+      "type": 3,
+      "id": "row4y",
+      "name": "ProBar2",
+      "path": "/Progress/",
+      "file": null,
+      "size": [
+        140,
+        14
+      ],
+      "extension": 14
+    },
+    {
+      "type": 3,
+      "id": "siql6h2ty",
+      "name": "NoOutlineBtn",
+      "path": "/",
+      "file": null,
+      "size": [
+        100,
+        100
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "ultg6h2tz",
+      "name": "OnChangeBtn",
+      "path": "/",
+      "file": null,
+      "size": [
+        100,
+        100
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "w1gs6h2u0",
+      "name": "Title_GButton",
+      "path": "/Button/Style/",
+      "file": null,
+      "size": [
+        406,
+        100
+      ],
+      "extension": 12
+    },
+    {
+      "type": 0,
+      "id": "cmfq6h2s4",
+      "name": "jl_bb_jdt3",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        45,
+        13
+      ]
+    },
+    {
+      "type": 0,
+      "id": "cmfq6h2s5",
+      "name": "jl_bb_jdt2",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        45,
+        13
+      ]
+    },
+    {
+      "type": 0,
+      "id": "cmfq6h2s7",
+      "name": "jl_bb_jdt1",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        46,
+        13
+      ]
+    },
+    {
+      "type": 0,
+      "id": "cmfq6h2t1",
+      "name": "jl_bg_jdt1",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        40,
+        20
+      ]
+    },
+    {
+      "type": 0,
+      "id": "cuyu6h2th",
+      "name": "jl_bg_jdt8",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        40,
+        20
+      ]
+    },
+    {
+      "type": 0,
+      "id": "p0l36h2tr",
+      "name": "sz_bth_xz1",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        36,
+        36
+      ]
+    },
+    {
+      "type": 0,
+      "id": "p0l36h2ts",
+      "name": "sz_bth_xz2",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        36,
+        36
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas0",
+      "name": null,
+      "path": null,
+      "file": "atlas0.png",
+      "size": [
+        128,
+        128
+      ]
+    }
+  ],
+  "sprites": [
+    {
+      "id": "fobj1lyorlr",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        0,
+        121,
+        48
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "cmfq6h2s7",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        50,
+        13,
+        46
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "cmfq6h2s5",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        98,
+        45,
+        13
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "cmfq6h2s4",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        113,
+        45,
+        13
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "cmfq6h2t1",
+      "atlas": "atlas0",
+      "rect": [
+        15,
+        50,
+        20,
+        40
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "cuyu6h2th",
+      "atlas": "atlas0",
+      "rect": [
+        37,
+        50,
+        20,
+        40
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "p0l36h2tr",
+      "atlas": "atlas0",
+      "rect": [
+        59,
+        50,
+        36,
+        36
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "p0l36h2ts",
+      "atlas": "atlas0",
+      "rect": [
+        59,
+        88,
+        36,
+        36
+      ],
+      "rotated": 0
+    }
+  ],
+  "strings": [
+    "ufgirfkm",
+    "Common",
+    "cyrayt3h",
+    "Item",
+    "c6iwlr2r",
+    "Main",
+    "fobj1lyorlr",
+    "zq_bth_xsjs",
+    "/Images/",
+    "7v64z",
+    "ProBar3",
+    "/Progress/",
+    "7v64h26u",
+    "n2_row4",
+    "bg",
+    "7v64h26v",
+    "n3_row4",
+    "bar",
+    "8yc44",
+    "AddBtn",
+    "/",
+    "button",
+    "0",
+    "up",
+    "1",
+    "down",
+    "2",
+    "over",
+    "3",
+    "selectedOver",
+    "8yc41",
+    "n0_8yc4",
+    "n0",
+    "n1_8yc4",
+    "n1",
+    "8yc4a",
+    "BtnStyle1",
+    "/Button/Style/",
+    "front",
+    "orange",
+    "bule",
+    "n12_10abj",
+    "icon_bg",
+    "ui://ufgirfkmaban6h2po",
+    "n15_10abj",
+    "title",
+    "8yc4b",
+    "BtnStyle2Select_GButton",
+    "gauwg",
+    "n16_clj1",
+    "n16",
+    "gauwh",
+    "n17_clj1",
+    "n17",
+    "8yc4c",
+    "BtnStyle2_GButton",
+    "ccolor",
+    "red",
+    "blue",
+    "ui://ufgirfkmgauwg",
+    "ui://ufgirfkmgauwh",
+    "8yc4d",
+    "BtnStyle3_GButton",
+    "color",
+    "green",
+    "yellow",
+    "ui://ufgirfkmgauwj",
+    "ui://ufgirfkmgauwi",
+    "ui://ufgirfkmgauwk",
+    "8yc4e",
+    "BtnStyle4_GButton",
+    "icon",
+    "8yc4g",
+    "Empty_GButton",
+    "gauwl",
+    "n4_fhsc",
+    "8yc4h",
+    "Icon9GridBtn",
+    "8yc4i",
+    "IconBtn",
+    "8yc4j",
+    "IconRightTitle",
+    "State",
+    "Red",
+    "White",
+    "Enough",
+    "NoEnough",
+    "icon_item",
+    "n3_fhsc",
+    "500",
+    "8yc4k",
+    "IconTitle_GButton",
+    "分解",
+    "aban1a",
+    "BtnStyle6Icon",
+    "Normal",
+    "NOEnough",
+    "BuyState",
+    "Free",
+    "NotAchieved",
+    "ui://ufgirfkmaban6h2pp",
+    "lb_cost",
+    "n17_p063",
+    "icon_cost",
+    "ui://cyrayt3hpsobh241",
+    "n18_aban",
+    "e0us6h2tk",
+    "LabelColorBtn",
+    "n3_psob",
+    "ui://ufgirfkmttqx6h4b6",
+    "n4_psob",
+    "lb_title",
+    "h1wsh268",
+    "n6_cqef",
+    "RedDot",
+    "eeo81lyorlw",
+    "GraphicsBtnNew",
+    "6",
+    "blue2",
+    "10",
+    "11",
+    "gold",
+    "12",
+    "orange2",
+    "13",
+    "greay",
+    "14",
+    "black",
+    "15",
+    "purple",
+    "16",
+    "LabPos",
+    "n7_k36z",
+    "fmg56h2u4",
+    "ProBar7",
+    "fmg56h4pd",
+    "fmg56h4pe",
+    "n4_pifh",
+    "12/12",
+    "fobj1lyorlt",
+    "MountSelectBtn",
+    "n4_fobj",
+    "n4",
+    "ui://ufgirfkmeqxp6h4fn",
+    "n3_k36z",
+    "title_state",
+    "fwqi6h2r3",
+    "FuntionBtn",
+    "text",
+    "normal",
+    "n10_7v64",
+    "ui://cyrayt3hfa916h3za",
+    "n11_7v64",
+    "签到",
+    "n13_gsum",
+    "签到",
+    "n14_rvj0",
+    "i3m66h2tx",
+    "LabelBtn",
+    "n7_i3m6",
+    "0/1",
+    "i7i76h2u2",
+    "ProBar6",
+    "HPState",
+    "LowHp",
+    "WillDie",
+    "i7i76h4oy",
+    "ui://ufgirfkmi7i76h4gq",
+    "ui://ufgirfkmi7i76h4go",
+    "ui://ufgirfkmi7i76h4gp",
+    "10%",
+    "io1q6h2ti",
+    "ProBarHp",
+    "cmfq6h2s7",
+    "n0_io1q",
+    "cmfq6h2s5",
+    "n1_io1q",
+    "io1q6h2tj",
+    "ProBarExp",
+    "cmfq6h2s4",
+    "jfq86h2tt",
+    "GraphicsPixelFontBtn",
+    "5",
+    "k36z6h2tn",
+    "SwitchBtn",
+    "p0l36h4gr",
+    "p0l36h4gv",
+    "n5_p0l3",
+    "n5",
+    "j43i6h2u2",
+    "n2",
+    "btn_switch",
+    "ui://ufgirfkmp0l36h4gu",
+    "n4_k36z",
+    "关",
+    "k36z6h2to",
+    "SelectBtn",
+    "textColor",
+    "write",
+    "ui://c1imbcrlp0l36h2tr",
+    "ui://c1imbcrlp0l36h2ts",
+    "mhb0o",
+    "BtnStyle5Icon",
+    "model",
+    "outline",
+    "n18_ux09",
+    "title2",
+    "p0l36h2tv",
+    "ProBar4",
+    "p0l36h4ij",
+    "p0l36h4ik",
+    "12/12",
+    "p0l36h2tw",
+    "BarExp",
+    "ShowBg",
+    "HideBg",
+    "p0l36h4im",
+    "n3_p0l3",
+    "p0l36h4io",
+    "n2_p0l3",
+    "p0l36h4in",
+    "n4_p0l3",
+    "bg_width",
+    "p7j41lyorlx",
+    "NoOutlineBtn2",
+    "psobw",
+    "GraphicsBtn",
+    "17",
+    "white",
+    "Middle",
+    "Bottom",
+    "qfss18",
+    "CommonAttrProBar",
+    "c1",
+    "attr1",
+    "attr2",
+    "attr3",
+    "attr4",
+    "4",
+    "attr5",
+    "attr6",
+    "attr7",
+    "BarState",
+    "Hide",
+    "Show",
+    "TextState",
+    "cmfq6h2t1",
+    "n0_qfss",
+    "n10_rev5",
+    "bar1",
+    "cuyu6h2th",
+    "n9_qfss",
+    "n2_qfss",
+    "+15",
+    "qj0v1lyorlv",
+    "OnChangeDownLbBtn",
+    "ui://c6iwlr2rrhl13t",
+    "n4_ultg",
+    "mode",
+    "n5_qj0v",
+    "r4cn6h2u1",
+    "ProBar5",
+    "r4cn6h4n7",
+    "r4cn6h4n8",
+    "rlbz1lyorlu",
+    "ProBarMain",
+    "gxwd1lyot1x",
+    "n7wj1lyota4",
+    "n6_n7wj",
+    "12/12",
+    "row4x",
+    "ProBar1",
+    "dlfz6h4g5",
+    "dlfz6h4g4",
+    "12/12",
+    "row4y",
+    "ProBar2",
+    "lebv6h2ag",
+    "lebv6h2ah",
+    "siql6h2ty",
+    "NoOutlineBtn",
+    "ultg6h2tz",
+    "OnChangeBtn",
+    "w1gs6h2u0",
+    "Title_GButton",
+    "n17_w1gs",
+    "[color=#f9f387,#ff906c]性格洗炼",
+    "p0l36h324",
+    "n18_w1gs",
+    "n18",
+    "n19_w1gs",
+    "n19",
+    "n20_w1gs",
+    "n20",
+    "jl_bb_jdt3",
+    "jl_bb_jdt2",
+    "jl_bb_jdt1",
+    "jl_bg_jdt1",
+    "jl_bg_jdt8",
+    "p0l36h2tr",
+    "sz_bth_xz1",
+    "p0l36h2ts",
+    "sz_bth_xz2",
+    "atlas0",
+    "atlas0.png"
+  ]
+}

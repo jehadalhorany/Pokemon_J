@@ -1,0 +1,9 @@
+import assert from 'node:assert/strict';import fs from 'node:fs';import vm from 'node:vm';import {gunzipSync} from 'node:zlib';import * as THREE from '../pokemon-j/public/vendor/three.module.js';
+const root=new URL('../pokemon-j/public/',import.meta.url);globalThis.fetch=async p=>({json:async()=>JSON.parse(gunzipSync(fs.readFileSync(new URL(p.replace(/^\//,'' )+'.gz',root))))});
+const originalCode=fs.readFileSync(new URL('original-world.js',root),'utf8').replace(/^import .*\n/gm,'');globalThis.THREE=THREE;
+const {OriginalWorld,original,point}=await import('data:text/javascript;base64,'+Buffer.from(originalCode).toString('base64'));
+const data=JSON.parse(gunzipSync(fs.readFileSync(new URL('data/original/4110008.json.gz',root))));const world=new OriginalWorld(data);
+const code=fs.readFileSync(new URL('scene.js',root),'utf8');const pathCode=code.slice(code.indexOf('function pathTo'),code.indexOf('function areaRoute'));
+for(const [name,spawn,target]of [['2F stairs',7180599,6180501],['1F Mom',7180402,1180401],['1F exit',7180402,6180401]]){
+ const a=point(original.spawns[spawn].p),b=point(original.spawns[target].p);const safe=world.nearestWalkable(a.x,a.z,100)||a;let pos={x:safe.x,y:safe.z};console.log("safe",safe,"target",world.nearestWalkable(b.x,b.z,40));const context={world,pos,navigation:null,keys:new Set(),loading:false,jump:null,toast:console.log,distance:t=>Math.hypot(context.pos.x-t.x,context.pos.y-t.z),blocked:(x,z)=>!world.canWalk(x,z),step:(dx,dz)=>{if(world.canWalk(context.pos.x+dx,context.pos.y+dz))context.pos={x:context.pos.x+dx,y:context.pos.y+dz}},facing:0};vm.createContext(context);vm.runInContext(pathCode,context);let arrived=false;context.walkTo(b,()=>arrived=true);for(let i=0;i<1000&&context.navigation;i++)context.updateNavigation(.016);assert.equal(arrived,true,name);assert(Math.hypot(context.pos.x-b.x,context.pos.y-b.z)<25,name);console.log('PASS',name);
+}

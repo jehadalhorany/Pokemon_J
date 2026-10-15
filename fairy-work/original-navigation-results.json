@@ -1,0 +1,52 @@
+{
+  "worlds": 214,
+  "portals": 2943,
+  "unresolved": 0,
+  "portalsNearWalk": 2943,
+  "missingModels": [],
+  "sourceSceneConflicts": [
+    {
+      "scene": "2500001",
+      "portal": 6227601,
+      "areaScene": 2500001,
+      "spawnScene": 2520008
+    },
+    {
+      "scene": "2520008",
+      "portal": 6227702,
+      "areaScene": 2500001,
+      "spawnScene": 2520008
+    },
+    {
+      "scene": "2520008",
+      "portal": 6227703,
+      "areaScene": 2500001,
+      "spawnScene": 2520008
+    },
+    {
+      "scene": "2520008",
+      "portal": 6227801,
+      "areaScene": 2500001,
+      "spawnScene": 2520008
+    },
+    {
+      "scene": "2520008",
+      "portal": 6227802,
+      "areaScene": 2500001,
+      "spawnScene": 2520008
+    },
+    {
+      "scene": "2520008",
+      "portal": 6227901,
+      "areaScene": 2500001,
+      "spawnScene": 2520008
+    },
+    {
+      "scene": "2520008",
+      "portal": 6227902,
+      "areaScene": 2500001,
+      "spawnScene": 2520008
+    }
+  ],
+  "failures": []
+}
