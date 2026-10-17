@@ -18,7 +18,8 @@ const sceneCode=fs.readFileSync(new URL('scene.js',root),'utf8');
 const navigationCode=sceneCode.slice(sceneCode.indexOf('function pathTo'),sceneCode.indexOf('function areaRoute'));
 function simulate(scene,spawn,target,range=25){
  const world=new OriginalWorld(read(scene));const a=point(spawn),b=point(target),safe=world.nearestWalkable(a.x,a.z,100)||a;
- const context={world,pos:{x:safe.x,y:safe.z},navigation:null,keys:new Set(),loading:false,jump:null,facing:0,toast:()=>{}};
+ const global=read('configs/GlobalValueConfig')[0];
+ const context={world,pos:{x:safe.x,y:safe.z},nativeWalkSpeed:global.BaseSpeed/10000*16,navigation:null,keys:new Set(),loading:false,jump:null,facing:0,toast:()=>{}};
  context.distance=t=>Math.hypot(context.pos.x-t.x,context.pos.y-t.z);
  context.blocked=(x,z)=>!world.canWalk(x,z);
  context.step=(dx,dz)=>{if(!context.blocked(context.pos.x+dx,context.pos.y+dz))context.pos={x:context.pos.x+dx,y:context.pos.y+dz};};
