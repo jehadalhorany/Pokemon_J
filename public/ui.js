@@ -1,5 +1,5 @@
 let lastModalFocus=null,currentDetailId=null;
-function uiBlocked(){return !$('world-map-modal').hidden|| $('starter').style.display!=='none'||!$('dex-modal').hidden||!$('dialog-modal').hidden||!$('activity-modal').hidden;}
+function uiBlocked(){return !!window.sourcePanelOpen||!!window.sourceMapOpen||!$('world-map-modal').hidden|| $('starter').style.display!=='none'||!$('dex-modal').hidden||!$('dialog-modal').hidden||!$('activity-modal').hidden;}
 function rememberFocus(){lastModalFocus=document.activeElement;if(typeof keys!=='undefined')keys.clear();}
 function restoreFocus(){lastModalFocus?.focus?.();}
 function openDex(){if(state?.battle)return;rememberFocus();dexBack();$('dex-modal').hidden=false;$('dex-search').focus();}
