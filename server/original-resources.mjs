@@ -13,7 +13,7 @@ export function ensureResources(s,now=Date.now()){
   const item=r[key],max=level[f.max],interval=global[f.reply]*1000;
   if(!(interval>0))throw Error('Original resource recovery interval unavailable');
   const ticks=Math.max(0,Math.floor((now-item.at)/interval));
-  if(ticks){item.value=Math.min(max,item.value+ticks);item.at=item.value===max?now:item.at+ticks*interval;}
+  if(item.value>=max){item.at=now;}else if(ticks){item.value=Math.min(max,item.value+ticks);item.at=item.value===max?now:item.at+ticks*interval;}
   item.max=max;item.intervalMs=interval;item.itemId=f.item;
  }
  s.energy=r.power.value;return r;

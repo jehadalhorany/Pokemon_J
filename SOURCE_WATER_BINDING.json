@@ -1,0 +1,12 @@
+{
+  "model": "e1476ae351dec682f4304a23e87ad1a7.glb.gz",
+  "source": "ae65c719f3f4998cbc93a9fa20bb54b7.bundle",
+  "material": "SampleWater",
+  "property": "_WaterColor",
+  "rgba": [
+    0.1411764770746231,
+    0.2549019753932953,
+    0.5647059082984924,
+    1
+  ]
+}

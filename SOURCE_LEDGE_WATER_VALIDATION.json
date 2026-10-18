@@ -1,0 +1,54 @@
+{
+  "fixture": {
+    "start": {
+      "x": 200,
+      "z": 424
+    },
+    "jump": {
+      "from": {
+        "x": 200,
+        "z": 424
+      },
+      "to": {
+        "x": 200,
+        "z": 404.8
+      },
+      "node": {
+        "id": 0,
+        "type": 72,
+        "p": [
+          125,
+          0,
+          -265
+        ],
+        "area": 1102,
+        "face": 0,
+        "group": "3"
+      },
+      "source": "TileWatcher_Transfer"
+    },
+    "tile": 0
+  },
+  "jump": {
+    "source": "TileWatcher_Transfer",
+    "from": {
+      "x": 200,
+      "z": 424
+    },
+    "to": {
+      "x": 200,
+      "z": 404.8
+    }
+  },
+  "clip": "Jump",
+  "landing": {
+    "x": 200,
+    "y": 404.8
+  },
+  "water": [
+    0.1411764770746231,
+    0.2549019753932953,
+    0.5647059082984924
+  ],
+  "pageErrors": []
+}

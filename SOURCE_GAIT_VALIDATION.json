@@ -1,0 +1,1229 @@
+{
+  "movingSamples": 28,
+  "waypointCounts": [
+    13,
+    12,
+    11,
+    10,
+    9,
+    8,
+    7,
+    6,
+    5,
+    4,
+    3,
+    2
+  ],
+  "bonePoses": 28,
+  "pageErrors": [],
+  "samples": [
+    {
+      "moving": true,
+      "animation": {
+        "clip": "Run",
+        "time": 0.16,
+        "enabled": true
+      },
+      "bone": [
+        0,
+        0,
+        0.503576643567837,
+        0.8639505076270282
+      ],
+      "navigation": {
+        "target": {
+          "x": 272,
+          "z": 40
+        },
+        "remaining": 13
+      },
+      "area": 1805
+    },
+    {
+      "moving": true,
+      "animation": {
+        "clip": "Run",
+        "time": 0.24,
+        "enabled": true
+      },
+      "bone": [
+        0,
+        0,
+        0.7886028307045163,
+        0.6149029248796235
+      ],
+      "navigation": {
+        "target": {
+          "x": 272,
+          "z": 40
+        },
+        "remaining": 12
+      },
+      "area": 1805
+    },
+    {
+      "moving": true,
+      "animation": {
+        "clip": "Run",
+        "time": 0.32,
+        "enabled": true
+      },
+      "bone": [
+        0,
+        0,
+        0.6448549238252317,
+        0.7643049768509589
+      ],
+      "navigation": {
+        "target": {
+          "x": 272,
+          "z": 40
+        },
+        "remaining": 12
+      },
+      "area": 1805
+    },
+    {
+      "moving": true,
+      "animation": {
+        "clip": "Run",
+        "time": 0.4,
+        "enabled": true
+      },
+      "bone": [
+        0,
+        0,
+        0.023402126869073014,
+        0.999726175642962
+      ],
+      "navigation": {
+        "target": {
+          "x": 272,
+          "z": 40
+        },
+        "remaining": 11
+      },
+      "area": 1805
+    },
+    {
+      "moving": true,
+      "animation": {
+        "clip": "Run",
+        "time": 0.48000000000000004,
+        "enabled": true
+      },
+      "bone": [
+        0,
+        0,
+        0.436403501454378,
+        0.8997510890658287
+      ],
+      "navigation": {
+        "target": {
+          "x": 272,
+          "z": 40
+        },
+        "remaining": 10
+      },
+      "area": 1805
+    },
+    {
+      "moving": true,
+      "animation": {
+        "clip": "Run",
+        "time": 0.06000000000000005,
+        "enabled": true
+      },
+      "bone": [
+        0,
+        0,
+        0.10069522802994169,
+        0.9949173594316226
+      ],
+      "navigation": {
+        "target": {
+          "x": 272,
+          "z": 40
+        },
+        "remaining": 9
+      },
+      "area": 1805
+    },
+    {
+      "moving": true,
+      "animation": {
+        "clip": "Run",
+        "time": 0.14000000000000007,
+        "enabled": true
+      },
+      "bone": [
+        0,
+        0,
+        0.38891573983473304,
+        0.9212732715864651
+      ],
+      "navigation": {
+        "target": {
+          "x": 272,
+          "z": 40
+        },
+        "remaining": 8
+      },
+      "area": 1805
+    },
+    {
+      "moving": true,
+      "animation": {
+        "clip": "Run",
+        "time": 0.22000000000000008,
+        "enabled": true
+      },
+      "bone": [
+        0,
+        0,
+        0.7509267873316869,
+        0.6603854869139352
+      ],
+      "navigation": {
+        "target": {
+          "x": 272,
+          "z": 40
+        },
+        "remaining": 7
+      },
+      "area": 1805
+    },
+    {
+      "moving": true,
+      "animation": {
+        "clip": "Run",
+        "time": 0.3000000000000001,
+        "enabled": true
+      },
+      "bone": [
+        0,
+        0,
+        0.7751942978221724,
+        0.6317227949725355
+      ],
+      "navigation": {
+        "target": {
+          "x": 272,
+          "z": 40
+        },
+        "remaining": 7
+      },
+      "area": 1805
+    },
+    {
+      "moving": true,
+      "animation": {
+        "clip": "Run",
+        "time": 0.3800000000000001,
+        "enabled": true
+      },
+      "bone": [
+        0,
+        0,
+        0.1119120081725743,
+        0.9937181501327668
+      ],
+      "navigation": {
+        "target": {
+          "x": 272,
+          "z": 40
+        },
+        "remaining": 6
+      },
+      "area": 1805
+    },
+    {
+      "moving": true,
+      "animation": {
+        "clip": "Run",
+        "time": 0.46000000000000013,
+        "enabled": true
+      },
+      "bone": [
+        0,
+        0,
+        0.30606967549720154,
+        0.9520091314066444
+      ],
+      "navigation": {
+        "target": {
+          "x": 272,
+          "z": 40
+        },
+        "remaining": 5
+      },
+      "area": 1805
+    },
+    {
+      "moving": true,
+      "animation": {
+        "clip": "Run",
+        "time": 0.04000000000000015,
+        "enabled": true
+      },
+      "bone": [
+        0,
+        0,
+        0.38973261161679734,
+        0.9209280780546176
+      ],
+      "navigation": {
+        "target": {
+          "x": 272,
+          "z": 40
+        },
+        "remaining": 4
+      },
+      "area": 1805
+    },
+    {
+      "moving": true,
+      "animation": {
+        "clip": "Run",
+        "time": 0.12000000000000015,
+        "enabled": true
+      },
+      "bone": [
+        0,
+        0,
+        0.3002573286974515,
+        0.9538582009771419
+      ],
+      "navigation": {
+        "target": {
+          "x": 272,
+          "z": 40
+        },
+        "remaining": 3
+      },
+      "area": 1805
+    },
+    {
+      "moving": true,
+      "animation": {
+        "clip": "Run",
+        "time": 0.20000000000000015,
+        "enabled": true
+      },
+      "bone": [
+        0,
+        0,
+        0.6963201037010377,
+        0.7177314286619002
+      ],
+      "navigation": {
+        "target": {
+          "x": 272,
+          "z": 40
+        },
+        "remaining": 2
+      },
+      "area": 1805
+    },
+    {
+      "moving": false,
+      "animation": {
+        "clip": "Idle",
+        "time": 0,
+        "enabled": true
+      },
+      "bone": [
+        4.7589167171844735e-14,
+        2.362046241108709e-14,
+        0.08399126678705215,
+        0.9964665174484253
+      ],
+      "navigation": null,
+      "area": 1804
+    },
+    {
+      "moving": false,
+      "animation": {
+        "clip": "Idle",
+        "time": 0.03339999999999964,
+        "enabled": true
+      },
+      "bone": [
+        3.7072467573204336e-14,
+        1.8400591538764975e-14,
+        0.12398712775751078,
+        0.9922838429960712
+      ],
+      "navigation": null,
+      "area": 1804
+    },
+    {
+      "moving": false,
+      "animation": {
+        "clip": "Idle",
+        "time": 0.06669999999999981,
+        "enabled": true
+      },
+      "bone": [
+        2.652311670296e-14,
+        1.3164514496437609e-14,
+        0.1618859475848873,
+        0.9868094844213051
+      ],
+      "navigation": null,
+      "area": 1804
+    },
+    {
+      "moving": false,
+      "animation": {
+        "clip": "Idle",
+        "time": 0.10010000000000036,
+        "enabled": true
+      },
+      "bone": [
+        1.590138522555201e-14,
+        7.892511979629318e-15,
+        0.19788894593854653,
+        0.9802244512944136
+      ],
+      "navigation": null,
+      "area": 1804
+    },
+    {
+      "moving": false,
+      "animation": {
+        "clip": "Idle",
+        "time": 0.13330000000000017,
+        "enabled": true
+      },
+      "bone": [
+        5.323092521682563e-15,
+        2.6420699140440086e-15,
+        0.2316692348700685,
+        0.9727946196784208
+      ],
+      "navigation": null,
+      "area": 1804
+    },
+    {
+      "moving": false,
+      "animation": {
+        "clip": "Idle",
+        "time": 0.15,
+        "enabled": true
+      },
+      "bone": [
+        2.849671995274402e-21,
+        1.4144095021719487e-21,
+        0.247904030219441,
+        0.968784598584185
+      ],
+      "navigation": null,
+      "area": 1804
+    },
+    {
+      "moving": false,
+      "animation": {
+        "clip": "Idle",
+        "time": 0.18339999999999962,
+        "enabled": true
+      },
+      "bone": [
+        0,
+        0,
+        0.2439647132711092,
+        0.9697841120733057
+      ],
+      "navigation": null,
+      "area": 1804
+    },
+    {
+      "moving": false,
+      "animation": {
+        "clip": "Idle",
+        "time": 0.20010000000000033,
+        "enabled": true
+      },
+      "bone": [
+        0,
+        0,
+        0.24199353480804742,
+        0.9702778642376484
+      ],
+      "navigation": null,
+      "area": 1804
+    },
+    {
+      "moving": false,
+      "animation": {
+        "clip": "Idle",
+        "time": 0.23330000000000015,
+        "enabled": true
+      },
+      "bone": [
+        0,
+        0,
+        0.23807182480911615,
+        0.9712475532675984
+      ],
+      "navigation": null,
+      "area": 1804
+    },
+    {
+      "moving": false,
+      "animation": {
+        "clip": "Idle",
+        "time": 0.26660000000000034,
+        "enabled": true
+      },
+      "bone": [
+        0,
+        0,
+        0.23413439957158452,
+        0.972204240504789
+      ],
+      "navigation": null,
+      "area": 1804
+    },
+    {
+      "moving": false,
+      "animation": {
+        "clip": "Idle",
+        "time": 0.3,
+        "enabled": true
+      },
+      "bone": [
+        0,
+        0,
+        0.23018128882006472,
+        0.973147766509338
+      ],
+      "navigation": null,
+      "area": 1804
+    },
+    {
+      "moving": true,
+      "animation": {
+        "clip": "Run",
+        "time": 0.016700000000000728,
+        "enabled": true
+      },
+      "bone": [
+        0,
+        0,
+        0.25982296797353277,
+        0.965656267142886
+      ],
+      "navigation": {
+        "target": {
+          "x": -49.6,
+          "z": -19.200000000000003
+        },
+        "remaining": 13
+      },
+      "area": 1804
+    },
+    {
+      "moving": true,
+      "animation": {
+        "clip": "Run",
+        "time": 0.09670000000000073,
+        "enabled": true
+      },
+      "bone": [
+        1.4220507303291606e-21,
+        7.058223082809379e-22,
+        0.2089293577444775,
+        0.9779307226974918
+      ],
+      "navigation": {
+        "target": {
+          "x": -49.6,
+          "z": -19.200000000000003
+        },
+        "remaining": 13
+      },
+      "area": 1804
+    },
+    {
+      "moving": true,
+      "animation": {
+        "clip": "Run",
+        "time": 0.17670000000000075,
+        "enabled": true
+      },
+      "bone": [
+        0,
+        0,
+        0.5896476577864698,
+        0.8076605650388433
+      ],
+      "navigation": {
+        "target": {
+          "x": -49.6,
+          "z": -19.200000000000003
+        },
+        "remaining": 12
+      },
+      "area": 1804
+    },
+    {
+      "moving": true,
+      "animation": {
+        "clip": "Run",
+        "time": 0.25670000000000076,
+        "enabled": true
+      },
+      "bone": [
+        0,
+        0,
+        0.7981563287117662,
+        0.6024504161886874
+      ],
+      "navigation": {
+        "target": {
+          "x": -49.6,
+          "z": -19.200000000000003
+        },
+        "remaining": 11
+      },
+      "area": 1804
+    },
+    {
+      "moving": true,
+      "animation": {
+        "clip": "Run",
+        "time": 0.3367000000000008,
+        "enabled": true
+      },
+      "bone": [
+        0,
+        0,
+        0.5104958796505336,
+        0.8598801852640551
+      ],
+      "navigation": {
+        "target": {
+          "x": -49.6,
+          "z": -19.200000000000003
+        },
+        "remaining": 11
+      },
+      "area": 1804
+    },
+    {
+      "moving": true,
+      "animation": {
+        "clip": "Run",
+        "time": 0.4167000000000008,
+        "enabled": true
+      },
+      "bone": [
+        0,
+        0,
+        0.012197541076870702,
+        0.9999256330336685
+      ],
+      "navigation": {
+        "target": {
+          "x": -49.6,
+          "z": -19.200000000000003
+        },
+        "remaining": 10
+      },
+      "area": 1804
+    },
+    {
+      "moving": true,
+      "animation": {
+        "clip": "Run",
+        "time": 0.4967000000000008,
+        "enabled": true
+      },
+      "bone": [
+        0,
+        0,
+        0.5059993687768554,
+        0.862533915716595
+      ],
+      "navigation": {
+        "target": {
+          "x": -49.6,
+          "z": -19.200000000000003
+        },
+        "remaining": 9
+      },
+      "area": 1804
+    },
+    {
+      "moving": true,
+      "animation": {
+        "clip": "Run",
+        "time": 0.07670000000000077,
+        "enabled": true
+      },
+      "bone": [
+        0,
+        0,
+        0.06910459116173431,
+        0.9976094465056532
+      ],
+      "navigation": {
+        "target": {
+          "x": -49.6,
+          "z": -19.200000000000003
+        },
+        "remaining": 8
+      },
+      "area": 1804
+    },
+    {
+      "moving": true,
+      "animation": {
+        "clip": "Run",
+        "time": 0.15670000000000078,
+        "enabled": true
+      },
+      "bone": [
+        0,
+        0,
+        0.48517876531167886,
+        0.8744149423212637
+      ],
+      "navigation": {
+        "target": {
+          "x": -49.6,
+          "z": -19.200000000000003
+        },
+        "remaining": 7
+      },
+      "area": 1804
+    },
+    {
+      "moving": true,
+      "animation": {
+        "clip": "Run",
+        "time": 0.2367000000000008,
+        "enabled": true
+      },
+      "bone": [
+        0,
+        0,
+        0.7866919546520053,
+        0.6173457753740456
+      ],
+      "navigation": {
+        "target": {
+          "x": -49.6,
+          "z": -19.200000000000003
+        },
+        "remaining": 7
+      },
+      "area": 1804
+    },
+    {
+      "moving": true,
+      "animation": {
+        "clip": "Run",
+        "time": 0.3167000000000008,
+        "enabled": true
+      },
+      "bone": [
+        0,
+        0,
+        0.6680273390144569,
+        0.7441367065892343
+      ],
+      "navigation": {
+        "target": {
+          "x": -49.6,
+          "z": -19.200000000000003
+        },
+        "remaining": 6
+      },
+      "area": 1804
+    },
+    {
+      "moving": true,
+      "animation": {
+        "clip": "Run",
+        "time": 0.39670000000000083,
+        "enabled": true
+      },
+      "bone": [
+        0,
+        0,
+        0.03803762592951237,
+        0.9992763431676039
+      ],
+      "navigation": {
+        "target": {
+          "x": -49.6,
+          "z": -19.200000000000003
+        },
+        "remaining": 5
+      },
+      "area": 1804
+    },
+    {
+      "moving": true,
+      "animation": {
+        "clip": "Run",
+        "time": 0.47670000000000085,
+        "enabled": true
+      },
+      "bone": [
+        0,
+        0,
+        0.42231535867676473,
+        0.9064489900721795
+      ],
+      "navigation": {
+        "target": {
+          "x": -49.6,
+          "z": -19.200000000000003
+        },
+        "remaining": 4
+      },
+      "area": 1804
+    },
+    {
+      "moving": true,
+      "animation": {
+        "clip": "Run",
+        "time": 0.05670000000000086,
+        "enabled": true
+      },
+      "bone": [
+        0,
+        0,
+        0.1497145464161062,
+        0.9887292957600606
+      ],
+      "navigation": {
+        "target": {
+          "x": -49.6,
+          "z": -19.200000000000003
+        },
+        "remaining": 3
+      },
+      "area": 1804
+    },
+    {
+      "moving": false,
+      "animation": {
+        "clip": "Idle",
+        "time": 0.08,
+        "enabled": true
+      },
+      "bone": [
+        0,
+        0,
+        0.3095178361271913,
+        0.9508936237221408
+      ],
+      "navigation": null,
+      "area": 1804
+    },
+    {
+      "moving": false,
+      "animation": {
+        "clip": "Idle",
+        "time": 0.16,
+        "enabled": true
+      },
+      "bone": [
+        0,
+        0,
+        0.24672502723867581,
+        0.9690855314120951
+      ],
+      "navigation": null,
+      "area": 1804
+    },
+    {
+      "moving": false,
+      "animation": {
+        "clip": "Idle",
+        "time": 0.24,
+        "enabled": true
+      },
+      "bone": [
+        0,
+        0,
+        0.2372799221517004,
+        0.9714413218507071
+      ],
+      "navigation": null,
+      "area": 1804
+    },
+    {
+      "moving": false,
+      "animation": {
+        "clip": "Idle",
+        "time": 0.32,
+        "enabled": true
+      },
+      "bone": [
+        0,
+        0,
+        0.2278123325094642,
+        0.9737050588787914
+      ],
+      "navigation": null,
+      "area": 1804
+    },
+    {
+      "moving": false,
+      "animation": {
+        "clip": "Idle",
+        "time": 0.4,
+        "enabled": true
+      },
+      "bone": [
+        0,
+        0,
+        0.2183231554571642,
+        0.9758765279854877
+      ],
+      "navigation": null,
+      "area": 1804
+    },
+    {
+      "moving": false,
+      "animation": {
+        "clip": "Idle",
+        "time": 0.48000000000000004,
+        "enabled": true
+      },
+      "bone": [
+        0,
+        0,
+        0.208813290185612,
+        0.9779555234032082
+      ],
+      "navigation": null,
+      "area": 1804
+    },
+    {
+      "moving": false,
+      "animation": {
+        "clip": "Idle",
+        "time": 0.56,
+        "enabled": true
+      },
+      "bone": [
+        0,
+        0,
+        0.19928363784602737,
+        0.9799418481271374
+      ],
+      "navigation": null,
+      "area": 1804
+    },
+    {
+      "moving": false,
+      "animation": {
+        "clip": "Idle",
+        "time": 0.64,
+        "enabled": true
+      },
+      "bone": [
+        0,
+        0,
+        0.2106146646337447,
+        0.9775691571056102
+      ],
+      "navigation": null,
+      "area": 1804
+    },
+    {
+      "moving": false,
+      "animation": {
+        "clip": "Idle",
+        "time": 0.72,
+        "enabled": true
+      },
+      "bone": [
+        0,
+        0,
+        0.22380624269166496,
+        0.9746336523161558
+      ],
+      "navigation": null,
+      "area": 1804
+    },
+    {
+      "moving": false,
+      "animation": {
+        "clip": "Idle",
+        "time": 0.7999999999999999,
+        "enabled": true
+      },
+      "bone": [
+        0,
+        0,
+        0.23695694551803212,
+        0.9715201436616674
+      ],
+      "navigation": null,
+      "area": 1804
+    },
+    {
+      "moving": false,
+      "animation": {
+        "clip": "Idle",
+        "time": 0.8799999999999999,
+        "enabled": true
+      },
+      "bone": [
+        0,
+        0,
+        0.25006437131199993,
+        0.9682291997830628
+      ],
+      "navigation": null,
+      "area": 1804
+    },
+    {
+      "moving": false,
+      "animation": {
+        "clip": "Idle",
+        "time": 0.9599999999999999,
+        "enabled": true
+      },
+      "bone": [
+        0,
+        0,
+        0.263126126176696,
+        0.9647614217274418
+      ],
+      "navigation": null,
+      "area": 1804
+    },
+    {
+      "moving": false,
+      "animation": {
+        "clip": "Idle",
+        "time": 1.0399999999999998,
+        "enabled": true
+      },
+      "bone": [
+        0,
+        0,
+        0.2761398245564353,
+        0.9611174428383124
+      ],
+      "navigation": null,
+      "area": 1804
+    },
+    {
+      "moving": false,
+      "animation": {
+        "clip": "Idle",
+        "time": 1.1199999999999999,
+        "enabled": true
+      },
+      "bone": [
+        0,
+        0,
+        0.28910308967241033,
+        0.9572979286399208
+      ],
+      "navigation": null,
+      "area": 1804
+    },
+    {
+      "moving": false,
+      "animation": {
+        "clip": "Idle",
+        "time": 1.2,
+        "enabled": true
+      },
+      "bone": [
+        0,
+        0,
+        0.29986449314331676,
+        0.9539817639709146
+      ],
+      "navigation": null,
+      "area": 1804
+    },
+    {
+      "moving": false,
+      "animation": {
+        "clip": "Idle",
+        "time": 1.28,
+        "enabled": true
+      },
+      "bone": [
+        0,
+        0,
+        0.30758737285382143,
+        0.9515198168449299
+      ],
+      "navigation": null,
+      "area": 1804
+    },
+    {
+      "moving": false,
+      "animation": {
+        "clip": "Idle",
+        "time": 1.36,
+        "enabled": true
+      },
+      "bone": [
+        0,
+        0,
+        0.3152900430953972,
+        0.9489953518398939
+      ],
+      "navigation": null,
+      "area": 1804
+    },
+    {
+      "moving": false,
+      "animation": {
+        "clip": "Idle",
+        "time": 1.4400000000000002,
+        "enabled": true
+      },
+      "bone": [
+        0,
+        0,
+        0.3229719977781045,
+        0.9464085348211883
+      ],
+      "navigation": null,
+      "area": 1804
+    },
+    {
+      "moving": false,
+      "animation": {
+        "clip": "Idle",
+        "time": 1.5200000000000002,
+        "enabled": true
+      },
+      "bone": [
+        0,
+        0,
+        0.3306327321730819,
+        0.9437595357509206
+      ],
+      "navigation": null,
+      "area": 1804
+    },
+    {
+      "moving": false,
+      "animation": {
+        "clip": "Idle",
+        "time": 1.6000000000000003,
+        "enabled": true
+      },
+      "bone": [
+        0,
+        0,
+        0.3382717429457085,
+        0.9410485286767574
+      ],
+      "navigation": null,
+      "area": 1804
+    },
+    {
+      "moving": false,
+      "animation": {
+        "clip": "Idle",
+        "time": 1.6800000000000004,
+        "enabled": true
+      },
+      "bone": [
+        0,
+        0,
+        0.3385210387202563,
+        0.9409588822860278
+      ],
+      "navigation": null,
+      "area": 1804
+    },
+    {
+      "moving": false,
+      "animation": {
+        "clip": "Idle",
+        "time": 1.7600000000000005,
+        "enabled": true
+      },
+      "bone": [
+        0,
+        0,
+        0.3334956476739801,
+        0.9427516886576484
+      ],
+      "navigation": null,
+      "area": 1804
+    },
+    {
+      "moving": false,
+      "animation": {
+        "clip": "Idle",
+        "time": 1.8400000000000005,
+        "enabled": true
+      },
+      "bone": [
+        0,
+        0,
+        0.32846076253897555,
+        0.9445176563936128
+      ],
+      "navigation": null,
+      "area": 1804
+    },
+    {
+      "moving": false,
+      "animation": {
+        "clip": "Idle",
+        "time": 1.9200000000000006,
+        "enabled": true
+      },
+      "bone": [
+        0,
+        0,
+        0.32341652665038545,
+        0.9462567352196392
+      ],
+      "navigation": null,
+      "area": 1804
+    },
+    {
+      "moving": false,
+      "animation": {
+        "clip": "Idle",
+        "time": 2.0000000000000004,
+        "enabled": true
+      },
+      "bone": [
+        0,
+        0,
+        0.3183630836095534,
+        0.947968875626929
+      ],
+      "navigation": null,
+      "area": 1804
+    },
+    {
+      "moving": false,
+      "animation": {
+        "clip": "Idle",
+        "time": 2.0800000000000005,
+        "enabled": true
+      },
+      "bone": [
+        0,
+        0,
+        0.3133005772799358,
+        0.949654028873578
+      ],
+      "navigation": null,
+      "area": 1804
+    }
+  ]
+}

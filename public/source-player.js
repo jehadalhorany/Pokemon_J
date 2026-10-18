@@ -1,0 +1,46 @@
+import * as F from './vendor/fairygui.module.js';
+import {openSourcePanel,sourceText,onSourcePanelClose} from './source-map.js';
+import {interfaceData,clearSourceLists,wireSourceClose,hideSource,fillSourceType,sourceImage,sourceControlBounds} from './source-widgets.js';
+const entries=await fetch('/data/pokedex.json').then(r=>r.json()).then(d=>d.entries);
+const moveCatalog=await fetch('/data/moves.json').then(r=>r.json()).then(d=>d.moves);
+const statNames=[['hp','血量'],['attack','攻击'],['defense','防御'],['specialAttack','特攻'],['specialDefense','特防'],['speed','速度']];
+let report={};export const sourcePlayerStatus=()=>report;
+function set(node,name,text){const field=node?.getChild(name);sourceText(field?.getChild?.('lab_name')||field,text);}
+function bar(node,name,current,max){const p=node?.getChild(name);if(p){p.max=max||1;p.value=current||0;}}
+function disableUnsupported(node){for(const c of node._children||[]){if(c instanceof F.GButton){c.enabled=false;c.grayed=true;}disableUnsupported(c);}}
+function setup(root){clearSourceLists(root);disableUnsupported(root);wireSourceClose(root);function back(n){for(const c of n._children||[]){if(['Close','close','btn_back','btn_close'].includes(c.name)){c.enabled=true;c.grayed=false;}back(c);}}back(root);}
+function stats(panel,listName,values){const list=panel.getChild(listName);if(!list)return;list.removeChildrenToPool();for(const [key,label]of statNames){const row=list.addItemFromPool();set(row,'lb_prop_name',interfaceData.text[key==='speed'?'SpeedTitle':({hp:'HpTitle',attack:'AtkTitle',defense:'DefTitle',specialAttack:'SatkTitle',specialDefense:'SdefTitle'})[key]]||interfaceData.cn[label]||'');set(row,'lb_prop_val',values?.[key]??'—');set(row,'lb_prop_add','');if(!row.getChild('lb_prop_name')){set(row,'title',(interfaceData.text[key==='speed'?'SpeedTitle':({hp:'HpTitle',attack:'AtkTitle',defense:'DefTitle',specialAttack:'SatkTitle',specialDefense:'SdefTitle'})[key]]||interfaceData.cn[label]||'')+' '+(values?.[key]??'—'));row.enabled=false;}}}
+export async function openSourceRole(state){return openSourcePanel('Role','RoleCenter_Window',root=>{
+ setup(root);root.getController('c1').selectedPage='role';const info=root.getChild('role');
+ set(info,'lb_name',state.name);set(info,'lb_level',state.level);set(info,'lb_lvpro',state.xp+'/'+state.xpRequired);set(info,'lb_id',interfaceData.text.RoleId?.replace('{0}',state.id)||state.id);bar(info,'pro_lv',state.xp,state.xpRequired);
+ const collected=new Set([...state.team,...state.box].map(c=>c.id)).size;set(info,'lb_tujianpro',collected+'/'+entries.length);bar(info,'pro_tujian',collected,entries.length);
+ info.getController('LevelState').selectedPage=state.level>=100?'Max':'Normal';info.getController('StateVip').selectedPage=state.vip?'Vip':'NoVip';set(info,'lb_vip',state.vip||0);
+ hideSource(info,'lb_server','lb_thouse','lb_tflats','lb_house','lb_flats','lb_tguild','lb_guild','lb_tachievement','lb_achievement','lb_trank','lb_rank','lb_gametime','ladderRank');hideSource(root,'role_title','list_playerTitle','btn_set','lb_set','g_set');
+ const tab=root.getChild('list_tab').addItemFromPool();set(tab,'lb_title',interfaceData.text.RoleName);tab.enabled=false;report={window:'Role/RoleCenter_Window',name:state.name,level:state.level,collected};
+});}
+export async function openSourceTeam(state){
+ let host,selected,rootRef;const creatures=state.team;
+ const root=await openSourcePanel('Eudemon','Eudemon_Window',root=>{
+  rootRef=root;setup(root);root.getController('c2').selectedPage='eudemon';root.getController('c1').selectedPage='eudemon_base';
+  hideSource(root,'btn_eudemon_held','btn_eudemon_fruit','btn_mutation','btn_dynamax','btn_rank','btn_evalution','btn_evolution','btn_follow','btn_terastal','btn_boss','btn_swap','lb_proficiency','g_mode','g_skill','g_ability','share','EudemonBag','effect','btn_share','input_eudemonId','btn_changeModel','input_abilityId','btn_changeAbility');
+  const base=root.getChild('Eudemon_Base');base.getController('c1').selectedPage='NotShowUpgrade';base.getController('ShowEdit').selectedPage='no';hideSource(base,'lab_desc','btn_sex','ballType','typeofT','btn_upgrade','btn_upgrade5','share','lab_nameadd','lab_source','lab_naturedesc','btn_ability_active','btn_nature_wash','btn_species','goodItem','list_exp_item','list_lab','AttrSwitch');
+  const tabs=[['eudemon_base','EudemonAttribute'],['eudemon_skill','EudemonSkill'],['eudemon_individual','EudemonIndividual'],['eudemon_effort','EudemonEffortName']];
+  for(const [page,title]of tabs){const b=root.getChild('list_tab').addItemFromPool();for(const name of ['title','title_with_icon'])set(b,name,interfaceData.text[title]||'');hideSource(b,'RedDot');b.enabled=true;b.grayed=false;b.onClick(()=>{root.getController('c1').selectedPage=page;report.page=page;});}
+  function select(c){selected=c;const p=entries.find(p=>p.id===c.id);if(!p)return;
+   for(const panel of [root,base]){set(panel,'lab_name',c.name||p.name);set(panel,'lab_lv',c.level);set(panel,'lab_exp',(c.xp||0)+'/'+c.xpRequired);bar(panel,'barExp',c.xp,c.xpRequired);fillSourceType(panel.getChild('type1'),p.original.Type1);fillSourceType(panel.getChild('type2'),p.original.Type2);}
+   hideSource(root,'ballType','btn_sex');const quality=root.getChild('item_quality');hideSource(quality,'myicon');const rarity=quality.getChild('lb_none');if(rarity){rarity.visible=true;sourceText(rarity,c.rarity||p.rarity);}else quality.visible=false;
+   set(root,'lab_nameadd','');set(root,'lab_power','');set(root,'lb_proficiency','');set(base,'lab_species',interfaceData.text.SpeciesTitle);set(base,'lab_nature',c.nature);set(base,'lab_ability',c.ability?.name||'—');stats(base,'list_prop',c);
+   const iv=root.getChild('Eudemon_Individual'),ev=root.getChild('Eudemon_Effort');stats(iv,'list_lab',c.ivs);stats(ev,'list_lab',c.evs);set(ev,'lab_effort_value',Object.values(c.evs||{}).reduce((a,b)=>a+b,0)+'/510');
+   hideSource(iv,'lab_maxTip','lab_all_max','lab_Individual','lab_desc','btn_wash','btn_ability','goodItem','list_cost','btn_lock_1','btn_lock_2','btn_lock_3','btn_lock_4','btn_lock_5','btn_lock_6');hideSource(ev,'goodItem','list_item','list_prop','slider','textInput','lab_jingsu','lab_effort_value1','lab_effort1','btn_break','btn_item','btn_currency','btn_jingsu','btn_jingsusure','lab_quality_cost','lab_title');set(ev,'lab_effort',interfaceData.text.EudemonEffort);
+   const skill=root.getChild('Eudemon_Skill');hideSource(skill,'lab_skill_power','lab_skill_hit','lab_skill_pp','lab_lskill_power','lab_lskill_hit','lab_lskill_pp','btn_replace','btn_add_pp','btn_skill');const list=skill.getChild('list_skill');list.removeChildrenToPool();for(const id of c.moveSet||[]){const name=moveCatalog[id]?.name;const move=interfaceData.skills.find(m=>m.name===name);if(!move)continue;const row=list.addItemFromPool();row.enabled=false;for(const field of ['lab_name','lb_name','lab_skill_name','title'])set(row,field,move.name);set(row,'lb_pp','PP '+move.PP+'/'+move.PP);hideSource(row,'RedDot','technical','img_select');const bg=row.getChild('skill_bg');sourceText(bg,interfaceData.types.find(t=>t.Id===move.Element)?.name||'');hideSource(bg,'category');row.data={id:move.Id,name:move.name,pp:move.PP};}
+   report={window:'Eudemon/Eudemon_Window',selected:c.uid,species:c.id,count:creatures.length,team:state.team.length,box:state.box.length,page:root.getController('c1').selectedPage};
+   if(host){host.replaceChildren();window.disposeOriginalStarterModels?.();window.mountOriginalStarterModel?.(host,c.id,c.shiny);}
+  }
+  const list=root.getChild('list_eudemon');for(const c of creatures){const p=entries.find(p=>p.id===c.id);if(!p)continue;const row=list.addItemFromPool();row.enabled=true;row.grayed=false;row.getChild('img_icon').url=sourceImage(p.icon,['EudemonIcon']);row.getChild('img_flash').visible=!!c.shiny;row.getController('quality').selectedPage='quality'+p.original.Quality;set(row,'lab_lv',c.level);set(row,'la_hp',c.hp+'/'+c.hp);bar(row,'hpBar',c.hp,c.hp);hideSource(row,'RedDot','flashItem','lab_dead','megaIcon','dynamaxicon','lab_lv_dynamax','icon_held','lab_held','lab_noheld');row.data=c.uid;row.onClick(()=>select(c));}
+  if(creatures[0])select(creatures[0]);else{report={window:'Eudemon/Eudemon_Window',count:0};hideSource(root,'g_info','Eudemon_Base');}
+ });
+ if(selected){await import('./pokemon-3d.js');if(root.isDisposed)return root;host=document.createElement('div');host.style.cssText='position:fixed;z-index:91;pointer-events:none';document.body.append(host);
+  const layout=()=>{const r=sourceControlBounds(rootRef.getChild('Model').getChild('img_mask'));if(r)Object.assign(host.style,{left:r.x+'px',top:r.y+'px',width:r.width+'px',height:r.height+'px'});};layout();window.addEventListener('resize',layout);
+  onSourcePanelClose(()=>{host.remove();window.removeEventListener('resize',layout);window.disposeOriginalStarterModels?.();});await window.mountOriginalStarterModel(host,selected.id,selected.shiny);
+ }return root;
+}

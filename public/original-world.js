@@ -28,7 +28,16 @@ export class OriginalWorld{
  monsterAt(x,z){return this.tilesAt(x,z).find(t=>t.group==='5');}
  areaAt(x,z,preferred=0){const [sx,sz]=source(x,z);const choices=this.regions.filter(a=>Math.abs(sx-a.p[0]/10)<=a.size[0]/2+.15&&Math.abs(sz-a.p[2]/10)<=a.size[2]/2+.15);return choices.find(a=>a.id===preferred)||choices.find(a=>areaById.get(a.id)?.Gen===areaById.get(preferred)?.Gen)||choices[0];}
  nearestWalkable(x,z,max=80){if(this.canWalk(x,z))return {x,z};let best=null,distance=Infinity;for(let dz=-max;dz<=max;dz+=3)for(let dx=-max;dx<=max;dx+=3){const d=dx*dx+dz*dz;if(d<distance&&this.canWalk(x+dx,z+dz)){best={x:x+dx,z:z+dz};distance=d;}}return best;}
- jumpNear(x,z,dx,dz){const [sx,sz]=source(x,z);let best=null,near=Infinity;for(const node of this.navPoints.values()){if(node.type!==82)continue;const p=point(node.p),d=Math.hypot(p.x-x,p.z-z);if(d>23||d>=near)continue;for(const id of node.links){const end=this.navPoints.get(id);if(!end)continue;const q=point(end.p),dot=dx*(q.x-p.x)+dz*(q.z-p.z);if(dot<=0)continue;near=d;best={from:p,to:q,node};}}return best;}
+ jumpNear(x,z,dx,dz){
+  // Source TileType71..74 and MoveHelper.JumpToAsync/IsNeedJump.
+  const length=Math.hypot(dx,dz);if(!length)return null;
+  const dirs={71:[0,1],72:[0,-1],73:[1,0],74:[-1,0]};
+  for(const t of [...this.tilesAt(x,z),...this.tilesAt(x+dx,z+dz)]){
+   const d=t.group==='3'&&dirs[t.type];if(!d||(dx*d[0]+dz*d[1])/length<.5)continue;
+   const p=point(t.p);if(Math.hypot(x-p.x,z-p.z)>SCALE*1.1)continue;
+   for(let i=1;i<=6;i++){const to={x:x+d[0]*1.2*SCALE*i,z:z+d[1]*1.2*SCALE*i};if(this.canWalk(to.x,to.z))return {from:{x,z},to,node:t,source:'TileWatcher_Transfer'};}
+  }
+  const [sx,sz]=source(x,z);let best=null,near=Infinity;for(const node of this.navPoints.values()){if(node.type!==82)continue;const p=point(node.p),d=Math.hypot(p.x-x,p.z-z);if(d>23||d>=near)continue;for(const id of node.links){const end=this.navPoints.get(id);if(!end)continue;const q=point(end.p),dot=dx*(q.x-p.x)+dz*(q.z-p.z);if(dot<=0)continue;near=d;best={from:p,to:q,node};}}return best;}
  async update(x,z,radius=1){const [sx,sz]=source(x,z),cx=Math.floor(sx/40),cz=Math.floor(sz/40),jobs=[];for(let dx=-radius;dx<=radius;dx++)for(let dz=-radius;dz<=radius;dz++){const key=(cx+dx)+','+(cz+dz),rows=this.cells.get(key);if(rows&&!this.loaded.has(key)){const job=this.loadCell(key,rows);this.loaded.set(key,job);jobs.push(job);}}await Promise.all(jobs);}
  async loadAll(){await Promise.all([...this.cells].map(([key,rows])=>{if(!this.loaded.has(key))this.loaded.set(key,this.loadCell(key,rows));return this.loaded.get(key);}));}
  async loadCell(key,rows){const cell=new THREE.Group();cell.name='Original cell '+key;this.root.add(cell);const groups=new Map();for(const r of rows){if(!groups.has(r.model))groups.set(r.model,[]);groups.get(r.model).push(r);}await Promise.all([...groups].map(async([id,list])=>{try{

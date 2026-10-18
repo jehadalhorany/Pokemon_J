@@ -30,4 +30,4 @@ export {text as sourceText};
 let hud;
 function resumeHud(){if(hud){view.visible=false;hud.visible=true;canvas.style.display='block';canvas.style.pointerEvents='none';cancelAnimationFrame(raf);tick();}else{canvas.style.display='none';cancelAnimationFrame(raf);}}
 export async function mountSourceHud(bind){await(initialized??=initialize());view.visible=false;hud=F.UIPackage.createObject('Main','Main_Bg');F.GRoot.inst.addChildAt(hud,0);hud.makeFullScreen();localize(hud);bind(hud);await settleSourceTextures();resize();resumeHud();return hud;}
-export function sourceHudHit(x,y){if(!hud||!hud.visible)return false;let owner=F.Stage.hitTest(x,y,true)?.['$owner'];while(owner&&owner!==hud){if(owner instanceof F.GButton||['list_task','miniMap','joy'].includes(owner.name))return true;owner=owner.parent;}return false;}
+export function sourceHudHit(x,y){if(!hud||!hud.visible)return false;let owner=F.Stage.hitTest(x,y,true)?.['$owner'];while(owner&&owner!==hud){if(owner instanceof F.GButton||['list_task','miniMap','joy','head','n45','lb_playername','lb_rank','pro_lv'].includes(owner.name))return true;owner=owner.parent;}return false;}
