@@ -1,0 +1,179 @@
+{
+  "physicalClicks": 4,
+  "results": [
+    {
+      "report": {
+        "loaded": true,
+        "quest": 1000101,
+        "rewards": [
+          [
+            5,
+            10
+          ],
+          [
+            1,
+            5000
+          ],
+          [
+            1001,
+            3
+          ],
+          [
+            2001,
+            3
+          ],
+          [
+            50102,
+            5
+          ]
+        ],
+        "otherCategoriesBound": false,
+        "open": true,
+        "go": {
+          "x": 1436.1009287828647,
+          "y": 738.1615750530251,
+          "width": 239.6574074074074,
+          "height": 82.12037037037037
+        }
+      },
+      "toasts": []
+    },
+    {
+      "report": {
+        "loaded": true,
+        "quest": 1000101,
+        "rewards": [
+          [
+            5,
+            10
+          ],
+          [
+            1,
+            5000
+          ],
+          [
+            1001,
+            3
+          ],
+          [
+            2001,
+            3
+          ],
+          [
+            50102,
+            5
+          ]
+        ],
+        "otherCategoriesBound": false,
+        "lastCategory": {
+          "id": 804,
+          "locked": true,
+          "reason": "Complete the main task: 【 Capture learning 】 Open"
+        },
+        "open": true,
+        "go": {
+          "x": 1436.1009287828647,
+          "y": 738.1615750530251,
+          "width": 239.6574074074074,
+          "height": 82.12037037037037
+        }
+      },
+      "toasts": [
+        "Complete the main task: 【 Capture learning 】 Open"
+      ]
+    },
+    {
+      "report": {
+        "loaded": true,
+        "quest": 1000101,
+        "rewards": [
+          [
+            5,
+            10
+          ],
+          [
+            1,
+            5000
+          ],
+          [
+            1001,
+            3
+          ],
+          [
+            2001,
+            3
+          ],
+          [
+            50102,
+            5
+          ]
+        ],
+        "otherCategoriesBound": false,
+        "lastCategory": {
+          "id": 805,
+          "locked": true,
+          "reason": "Main task interface"
+        },
+        "open": true,
+        "go": {
+          "x": 1436.1009287828647,
+          "y": 738.1615750530251,
+          "width": 239.6574074074074,
+          "height": 82.12037037037037
+        }
+      },
+      "toasts": [
+        "Complete the main task: 【 Capture learning 】 Open",
+        "Main task interface"
+      ]
+    },
+    {
+      "report": {
+        "loaded": true,
+        "quest": 1000101,
+        "rewards": [
+          [
+            5,
+            10
+          ],
+          [
+            1,
+            5000
+          ],
+          [
+            1001,
+            3
+          ],
+          [
+            2001,
+            3
+          ],
+          [
+            50102,
+            5
+          ]
+        ],
+        "otherCategoriesBound": false,
+        "lastCategory": {
+          "id": 806,
+          "locked": true,
+          "reason": "Level 62 open"
+        },
+        "open": true,
+        "go": {
+          "x": 1436.1009287828647,
+          "y": 738.1615750530251,
+          "width": 239.6574074074074,
+          "height": 82.12037037037037
+        }
+      },
+      "toasts": [
+        "Complete the main task: 【 Capture learning 】 Open",
+        "Main task interface",
+        "Level 62 open"
+      ]
+    }
+  ],
+  "pageErrors": [],
+  "scope": "Locked category responses only; unlocked category instances remain unbound"
+}

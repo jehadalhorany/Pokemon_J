@@ -50,5 +50,20 @@
     0.2549019753932953,
     0.5647059082984924
   ],
+  "runtimeWater": {
+    "shader": "Pokemon/SampleWater",
+    "sourceBundle": "ae65c719f3f4998cbc93a9fa20bb54b7",
+    "depthFrames": 72,
+    "textures": [
+      "_Normal2",
+      "_WaterNormal"
+    ],
+    "scope": "Original GLES fragment; Three.js coordinate/depth bridge; existing scene lighting"
+  },
+  "faceSkin": {
+    "skinned": true,
+    "bone": "Bip001_Head"
+  },
+  "downwardRun": true,
   "pageErrors": []
 }
