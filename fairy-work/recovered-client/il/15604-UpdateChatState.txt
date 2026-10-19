@@ -1,0 +1,6 @@
+MainWindow::UpdateChatState
+0001 ldarg.0 
+0002 ldfld m_g_chat
+0007 ldarg.1 
+0008 callvirt set_visible
+000d ret 

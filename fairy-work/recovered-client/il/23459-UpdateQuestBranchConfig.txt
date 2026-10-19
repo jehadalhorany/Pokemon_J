@@ -1,0 +1,24 @@
+NewTaskBranch::UpdateQuestBranchConfig
+000c ldarg.0 
+000d ldfld _chatpList
+0012 ldarg.0 
+0013 ldfld _selectIndex
+0018 callvirt get_Item
+001d stloc.0 
+001e ldarg.0 
+001f ldfld _branchQuestComponent
+0024 ldloc.0 
+0025 ldarg.0 
+0026 ldflda rConfigs
+002b call BranchQuestComponentSystem::GetBranchOfArea
+0030 ldarg.0 
+0031 ldarg.0 
+0032 ldfld rConfigs
+0037 ldc.i4.0 
+0038 callvirt get_Item
+003d stfld _questBranchConfig
+0042 ldarg.0 
+0043 ldarg.0 
+0044 ldfld _questBranchConfig
+0049 call NewTaskBranch::UpdateTaskInfo
+004e ret 

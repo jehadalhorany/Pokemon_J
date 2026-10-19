@@ -1,0 +1,1870 @@
+{
+  "items": [
+    {
+      "type": 3,
+      "id": "hsoa2i",
+      "name": "GashaponFreeSettingBtn",
+      "path": "/",
+      "file": null,
+      "size": [
+        155,
+        50
+      ],
+      "extension": 12
+    },
+    {
+      "type": 0,
+      "id": "hwaf1o",
+      "name": "ty_bg_tc15",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        383,
+        125
+      ]
+    },
+    {
+      "type": 3,
+      "id": "75cq0",
+      "name": "Gashapon_Window",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "75cq1",
+      "name": "GashaponBtn",
+      "path": "/Button/",
+      "file": null,
+      "size": [
+        299,
+        102
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "75cq2",
+      "name": "GenBtn",
+      "path": "/Button/",
+      "file": null,
+      "size": [
+        161,
+        91
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "75cq4",
+      "name": "GashaponRecord_MiniWindow",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "75cq5",
+      "name": "GashaponMessageItem",
+      "path": "/Item/",
+      "file": null,
+      "size": [
+        1080,
+        50
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "75cq6",
+      "name": "GashaponJackpotPreView_MiniWindow",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "75cq7",
+      "name": "PreviewComponent",
+      "path": "/Item/",
+      "file": null,
+      "size": [
+        1375,
+        437
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "eqxp15",
+      "name": "TextBtn",
+      "path": "/Button/",
+      "file": null,
+      "size": [
+        156,
+        98
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "eqxp16",
+      "name": "IconBtn",
+      "path": "/Button/",
+      "file": null,
+      "size": [
+        307,
+        392
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "eqxp17",
+      "name": "CloseBtn",
+      "path": "/Button/",
+      "file": null,
+      "size": [
+        675,
+        127
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "hsoa2j",
+      "name": "GashaponFreeSetting_MiniWindow",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "tu612k",
+      "name": "DesItem",
+      "path": "/",
+      "file": null,
+      "size": [
+        185,
+        42
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "tu612l",
+      "name": "TypeItem",
+      "path": "/",
+      "file": null,
+      "size": [
+        196,
+        54
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "tu612n",
+      "name": "QualityItem",
+      "path": "/",
+      "file": null,
+      "size": [
+        96,
+        42
+      ],
+      "extension": 12
+    },
+    {
+      "type": 0,
+      "id": "aqf7i",
+      "name": "ic_x",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        907,
+        8
+      ]
+    },
+    {
+      "type": 0,
+      "id": "dlfz1a",
+      "name": "nd_bg_jcpz",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        270,
+        52
+      ]
+    },
+    {
+      "type": 0,
+      "id": "eqxp13",
+      "name": "nd_gen_01",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        115,
+        60
+      ]
+    },
+    {
+      "type": 0,
+      "id": "eqxp14",
+      "name": "nd_gen_02",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        111,
+        56
+      ]
+    },
+    {
+      "type": 0,
+      "id": "eqxpl",
+      "name": "nd_bg_01",
+      "path": "/BG/",
+      "file": null,
+      "size": [
+        1933,
+        957
+      ]
+    },
+    {
+      "type": 0,
+      "id": "eqxpn",
+      "name": "nd_stick_yq",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        299,
+        102
+      ]
+    },
+    {
+      "type": 0,
+      "id": "eqxpo",
+      "name": "nd_stick_xx",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        299,
+        102
+      ]
+    },
+    {
+      "type": 0,
+      "id": "eqxpp",
+      "name": "nd_stick_jl",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        299,
+        102
+      ]
+    },
+    {
+      "type": 0,
+      "id": "eqxpq",
+      "name": "nd_stick_dj",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        299,
+        102
+      ]
+    },
+    {
+      "type": 0,
+      "id": "eqxpr",
+      "name": "nd_shop",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        512,
+        95
+      ]
+    },
+    {
+      "type": 0,
+      "id": "eqxps",
+      "name": "nd_sale_10",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        307,
+        392
+      ]
+    },
+    {
+      "type": 0,
+      "id": "eqxpt",
+      "name": "nd_sale_1",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        307,
+        392
+      ]
+    },
+    {
+      "type": 0,
+      "id": "eqxpu",
+      "name": "nd_pm1_06",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        14,
+        35
+      ]
+    },
+    {
+      "type": 0,
+      "id": "eqxpv",
+      "name": "nd_pm1_05",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        14,
+        35
+      ]
+    },
+    {
+      "type": 0,
+      "id": "eqxpw",
+      "name": "nd_pm1_04",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        28,
+        26
+      ]
+    },
+    {
+      "type": 0,
+      "id": "eqxpx",
+      "name": "nd_pm1_03",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        239,
+        68
+      ]
+    },
+    {
+      "type": 0,
+      "id": "eqxpy",
+      "name": "nd_pm1_02",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        73,
+        33
+      ]
+    },
+    {
+      "type": 0,
+      "id": "eqxpz",
+      "name": "nd_pm1_01",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        135,
+        63
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h7so1i",
+      "name": "nd_dj_10",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        307,
+        392
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h7so1j",
+      "name": "nd_dj_1",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        307,
+        392
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h7so1k",
+      "name": "nd_jn_10",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        307,
+        392
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h7so1l",
+      "name": "nd_jn_1",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        307,
+        392
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h7so1m",
+      "name": "nd_yq_1",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        307,
+        392
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h7so1n",
+      "name": "nd_yq_10",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        307,
+        392
+      ]
+    },
+    {
+      "type": 0,
+      "id": "o1fh1p",
+      "name": "nd_gen1_1",
+      "path": "/Image/Gen/",
+      "file": null,
+      "size": [
+        161,
+        91
+      ]
+    },
+    {
+      "type": 0,
+      "id": "o1fh1q",
+      "name": "nd_gen9_1",
+      "path": "/Image/Gen/",
+      "file": null,
+      "size": [
+        161,
+        91
+      ]
+    },
+    {
+      "type": 0,
+      "id": "o1fh1r",
+      "name": "nd_gen8_3",
+      "path": "/Image/Gen/",
+      "file": null,
+      "size": [
+        161,
+        91
+      ]
+    },
+    {
+      "type": 0,
+      "id": "o1fh1s",
+      "name": "nd_gen8_2",
+      "path": "/Image/Gen/",
+      "file": null,
+      "size": [
+        161,
+        91
+      ]
+    },
+    {
+      "type": 0,
+      "id": "o1fh1t",
+      "name": "nd_gen8_1",
+      "path": "/Image/Gen/",
+      "file": null,
+      "size": [
+        161,
+        91
+      ]
+    },
+    {
+      "type": 0,
+      "id": "o1fh1u",
+      "name": "nd_gen7_3",
+      "path": "/Image/Gen/",
+      "file": null,
+      "size": [
+        161,
+        91
+      ]
+    },
+    {
+      "type": 0,
+      "id": "o1fh1v",
+      "name": "nd_gen7_2",
+      "path": "/Image/Gen/",
+      "file": null,
+      "size": [
+        161,
+        91
+      ]
+    },
+    {
+      "type": 0,
+      "id": "o1fh1w",
+      "name": "nd_gen7_1",
+      "path": "/Image/Gen/",
+      "file": null,
+      "size": [
+        161,
+        91
+      ]
+    },
+    {
+      "type": 0,
+      "id": "o1fh1x",
+      "name": "nd_gen6_3",
+      "path": "/Image/Gen/",
+      "file": null,
+      "size": [
+        161,
+        91
+      ]
+    },
+    {
+      "type": 0,
+      "id": "o1fh1y",
+      "name": "nd_gen6_2",
+      "path": "/Image/Gen/",
+      "file": null,
+      "size": [
+        161,
+        91
+      ]
+    },
+    {
+      "type": 0,
+      "id": "o1fh1z",
+      "name": "nd_gen6_1",
+      "path": "/Image/Gen/",
+      "file": null,
+      "size": [
+        161,
+        91
+      ]
+    },
+    {
+      "type": 0,
+      "id": "o1fh20",
+      "name": "nd_gen5_3",
+      "path": "/Image/Gen/",
+      "file": null,
+      "size": [
+        161,
+        91
+      ]
+    },
+    {
+      "type": 0,
+      "id": "o1fh21",
+      "name": "nd_gen9_2",
+      "path": "/Image/Gen/",
+      "file": null,
+      "size": [
+        161,
+        91
+      ]
+    },
+    {
+      "type": 0,
+      "id": "o1fh22",
+      "name": "nd_gen5_2",
+      "path": "/Image/Gen/",
+      "file": null,
+      "size": [
+        161,
+        91
+      ]
+    },
+    {
+      "type": 0,
+      "id": "o1fh23",
+      "name": "nd_gen4_3",
+      "path": "/Image/Gen/",
+      "file": null,
+      "size": [
+        161,
+        91
+      ]
+    },
+    {
+      "type": 0,
+      "id": "o1fh24",
+      "name": "nd_gen4_2",
+      "path": "/Image/Gen/",
+      "file": null,
+      "size": [
+        161,
+        91
+      ]
+    },
+    {
+      "type": 0,
+      "id": "o1fh25",
+      "name": "nd_gen4_1",
+      "path": "/Image/Gen/",
+      "file": null,
+      "size": [
+        161,
+        91
+      ]
+    },
+    {
+      "type": 0,
+      "id": "o1fh26",
+      "name": "nd_gen3_3",
+      "path": "/Image/Gen/",
+      "file": null,
+      "size": [
+        161,
+        91
+      ]
+    },
+    {
+      "type": 0,
+      "id": "o1fh27",
+      "name": "nd_gen3_2",
+      "path": "/Image/Gen/",
+      "file": null,
+      "size": [
+        161,
+        91
+      ]
+    },
+    {
+      "type": 0,
+      "id": "o1fh28",
+      "name": "nd_gen3_1",
+      "path": "/Image/Gen/",
+      "file": null,
+      "size": [
+        161,
+        91
+      ]
+    },
+    {
+      "type": 0,
+      "id": "o1fh29",
+      "name": "nd_gen2_3",
+      "path": "/Image/Gen/",
+      "file": null,
+      "size": [
+        161,
+        91
+      ]
+    },
+    {
+      "type": 0,
+      "id": "o1fh2a",
+      "name": "nd_gen2_2",
+      "path": "/Image/Gen/",
+      "file": null,
+      "size": [
+        161,
+        91
+      ]
+    },
+    {
+      "type": 0,
+      "id": "o1fh2b",
+      "name": "nd_gen2_1",
+      "path": "/Image/Gen/",
+      "file": null,
+      "size": [
+        161,
+        91
+      ]
+    },
+    {
+      "type": 0,
+      "id": "o1fh2c",
+      "name": "nd_gen1_3",
+      "path": "/Image/Gen/",
+      "file": null,
+      "size": [
+        161,
+        91
+      ]
+    },
+    {
+      "type": 0,
+      "id": "o1fh2d",
+      "name": "nd_gen1_2",
+      "path": "/Image/Gen/",
+      "file": null,
+      "size": [
+        161,
+        91
+      ]
+    },
+    {
+      "type": 0,
+      "id": "o1fh2e",
+      "name": "nd_gen5_1",
+      "path": "/Image/Gen/",
+      "file": null,
+      "size": [
+        161,
+        91
+      ]
+    },
+    {
+      "type": 0,
+      "id": "o1fh2f",
+      "name": "nd_gen9_3",
+      "path": "/Image/Gen/",
+      "file": null,
+      "size": [
+        161,
+        91
+      ]
+    },
+    {
+      "type": 0,
+      "id": "o1fh2g",
+      "name": "nd_gen_03",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        32,
+        21
+      ]
+    },
+    {
+      "type": 0,
+      "id": "tu612r",
+      "name": "ty_bth_yjsj2",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        155,
+        82
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas0",
+      "name": null,
+      "path": null,
+      "file": "atlas0.png",
+      "size": [
+        2048,
+        1024
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas_eqxpl",
+      "name": null,
+      "path": null,
+      "file": "atlas_eqxpl.png",
+      "size": [
+        2048,
+        1024
+      ]
+    }
+  ],
+  "sprites": [
+    {
+      "id": "aqf7i",
+      "atlas": "atlas0",
+      "rect": [
+        1,
+        1,
+        8,
+        907
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "eqxpr",
+      "atlas": "atlas0",
+      "rect": [
+        1,
+        910,
+        512,
+        95
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "h7so1n",
+      "atlas": "atlas0",
+      "rect": [
+        515,
+        1,
+        307,
+        392
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "h7so1m",
+      "atlas": "atlas0",
+      "rect": [
+        11,
+        1,
+        392,
+        307
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "h7so1l",
+      "atlas": "atlas0",
+      "rect": [
+        11,
+        310,
+        392,
+        307
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "h7so1k",
+      "atlas": "atlas0",
+      "rect": [
+        405,
+        395,
+        307,
+        392
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "eqxps",
+      "atlas": "atlas0",
+      "rect": [
+        714,
+        395,
+        307,
+        392
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "eqxpt",
+      "atlas": "atlas0",
+      "rect": [
+        824,
+        1,
+        307,
+        392
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "h7so1j",
+      "atlas": "atlas0",
+      "rect": [
+        1023,
+        395,
+        307,
+        392
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "h7so1i",
+      "atlas": "atlas0",
+      "rect": [
+        1133,
+        1,
+        307,
+        392
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "hwaf1o",
+      "atlas": "atlas0",
+      "rect": [
+        11,
+        619,
+        383,
+        125
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "eqxpq",
+      "atlas": "atlas0",
+      "rect": [
+        405,
+        1,
+        102,
+        299
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "eqxpp",
+      "atlas": "atlas0",
+      "rect": [
+        11,
+        746,
+        299,
+        102
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "eqxpo",
+      "atlas": "atlas0",
+      "rect": [
+        312,
+        789,
+        299,
+        102
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "eqxpn",
+      "atlas": "atlas0",
+      "rect": [
+        515,
+        893,
+        299,
+        102
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "dlfz1a",
+      "atlas": "atlas0",
+      "rect": [
+        11,
+        850,
+        270,
+        52
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "eqxpx",
+      "atlas": "atlas0",
+      "rect": [
+        613,
+        789,
+        239,
+        68
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "o1fh1p",
+      "atlas": "atlas0",
+      "rect": [
+        816,
+        859,
+        91,
+        161
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "tu612r",
+      "atlas": "atlas0",
+      "rect": [
+        909,
+        859,
+        82,
+        155
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "o1fh29",
+      "atlas": "atlas0",
+      "rect": [
+        993,
+        859,
+        83,
+        153
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "o1fh2f",
+      "atlas": "atlas0",
+      "rect": [
+        1078,
+        859,
+        83,
+        150
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "o1fh2c",
+      "atlas": "atlas0",
+      "rect": [
+        1163,
+        859,
+        84,
+        150
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "o1fh26",
+      "atlas": "atlas0",
+      "rect": [
+        1249,
+        789,
+        89,
+        150
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "o1fh23",
+      "atlas": "atlas0",
+      "rect": [
+        1340,
+        789,
+        85,
+        150
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "o1fh20",
+      "atlas": "atlas0",
+      "rect": [
+        1332,
+        395,
+        87,
+        150
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "o1fh1u",
+      "atlas": "atlas0",
+      "rect": [
+        1332,
+        547,
+        85,
+        150
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "o1fh1x",
+      "atlas": "atlas0",
+      "rect": [
+        1332,
+        699,
+        150,
+        87
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "o1fh1r",
+      "atlas": "atlas0",
+      "rect": [
+        1419,
+        547,
+        84,
+        150
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "o1fh2d",
+      "atlas": "atlas0",
+      "rect": [
+        1249,
+        941,
+        148,
+        74
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "o1fh2a",
+      "atlas": "atlas0",
+      "rect": [
+        1399,
+        941,
+        148,
+        74
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "o1fh27",
+      "atlas": "atlas0",
+      "rect": [
+        1427,
+        788,
+        74,
+        148
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "o1fh24",
+      "atlas": "atlas0",
+      "rect": [
+        1484,
+        699,
+        148,
+        74
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "o1fh1s",
+      "atlas": "atlas0",
+      "rect": [
+        1503,
+        775,
+        70,
+        144
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "o1fh1v",
+      "atlas": "atlas0",
+      "rect": [
+        1549,
+        921,
+        144,
+        70
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "o1fh1y",
+      "atlas": "atlas0",
+      "rect": [
+        1575,
+        775,
+        70,
+        144
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "o1fh21",
+      "atlas": "atlas0",
+      "rect": [
+        1421,
+        395,
+        70,
+        144
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "o1fh22",
+      "atlas": "atlas0",
+      "rect": [
+        1493,
+        395,
+        70,
+        144
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "eqxpz",
+      "atlas": "atlas0",
+      "rect": [
+        854,
+        789,
+        135,
+        63
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "o1fh2b",
+      "atlas": "atlas0",
+      "rect": [
+        991,
+        789,
+        134,
+        66
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "o1fh28",
+      "atlas": "atlas0",
+      "rect": [
+        1505,
+        541,
+        66,
+        134
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "o1fh25",
+      "atlas": "atlas0",
+      "rect": [
+        1442,
+        1,
+        66,
+        134
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "o1fh1z",
+      "atlas": "atlas0",
+      "rect": [
+        1442,
+        137,
+        63,
+        130
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "o1fh1w",
+      "atlas": "atlas0",
+      "rect": [
+        1442,
+        269,
+        130,
+        63
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "o1fh1q",
+      "atlas": "atlas0",
+      "rect": [
+        1507,
+        137,
+        63,
+        130
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "o1fh2e",
+      "atlas": "atlas0",
+      "rect": [
+        1510,
+        1,
+        63,
+        130
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "o1fh1t",
+      "atlas": "atlas0",
+      "rect": [
+        1572,
+        133,
+        63,
+        130
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "eqxp13",
+      "atlas": "atlas0",
+      "rect": [
+        1127,
+        789,
+        115,
+        60
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "eqxp14",
+      "atlas": "atlas0",
+      "rect": [
+        1442,
+        334,
+        111,
+        56
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "eqxpy",
+      "atlas": "atlas0",
+      "rect": [
+        312,
+        746,
+        73,
+        33
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "eqxpv",
+      "atlas": "atlas0",
+      "rect": [
+        387,
+        746,
+        14,
+        35
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "eqxpu",
+      "atlas": "atlas0",
+      "rect": [
+        1503,
+        921,
+        35,
+        14
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "o1fh2g",
+      "atlas": "atlas0",
+      "rect": [
+        283,
+        850,
+        21,
+        32
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "eqxpw",
+      "atlas": "atlas0",
+      "rect": [
+        613,
+        859,
+        26,
+        28
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "eqxpl",
+      "atlas": "atlas_eqxpl",
+      "rect": [
+        0,
+        0,
+        1933,
+        957
+      ],
+      "rotated": 0
+    }
+  ],
+  "strings": [
+    "c1imbcrl",
+    "Base",
+    "ufgirfkm",
+    "Common",
+    "cyrayt3h",
+    "Item",
+    "hsoa2i",
+    "GashaponFreeSettingBtn",
+    "/",
+    "tu612r",
+    "n80_hsoa",
+    "n80",
+    "hsoa1lyos4i",
+    "n81_hsoa",
+    "n81",
+    "n83_hsoa",
+    "title",
+    "hwaf1o",
+    "ty_bg_tc15",
+    "/Image/",
+    "75cq0",
+    "Gashapon_Window",
+    "Status",
+    "1",
+    "Eudemon",
+    "6",
+    "Held",
+    "4",
+    "Technical",
+    "5",
+    "Friendly",
+    "free",
+    "0",
+    "no",
+    "yes",
+    "2",
+    "cant",
+    "None",
+    "mjc16h4bw",
+    "n73_ptwz",
+    "n73",
+    "mjc16h4bx",
+    "n74_ptwz",
+    "n74",
+    "eqxpl",
+    "n57_eqxp",
+    "n57",
+    "8yc42",
+    "n1_igz4",
+    "wnd",
+    "stytle",
+    "公会",
+    "n52_75cq",
+    "img_point",
+    "ui://cyrayt3hpsobh241",
+    "eqxpx",
+    "n58_eqxp",
+    "n58",
+    "eqxpz",
+    "n61_eqxp",
+    "n61",
+    "eqxpy",
+    "n62_eqxp",
+    "n62",
+    "eqxp14",
+    "n75_o1fh",
+    "n75",
+    "o1fh2g",
+    "n76_o1fh",
+    "n76",
+    "eqxp16",
+    "n43_75cq",
+    "btn_ten",
+    "ui://j5ubmlq8h7so1i",
+    "ui://j5ubmlq8h7so1k",
+    "ui://j5ubmlq8h7so1n",
+    "ui://j5ubmlq8eqxps",
+    "n44_75cq",
+    "btn_one",
+    "ui://j5ubmlq8h7so1j",
+    "ui://j5ubmlq8h7so1l",
+    "ui://j5ubmlq8h7so1m",
+    "ui://j5ubmlq8eqxpt",
+    "eqxp15",
+    "n45_75cq",
+    "btn_record",
+    "n46_75cq",
+    "btn_jackoitPreview",
+    "i9zd6h2q7",
+    "n47_75cq",
+    "btn_pointEx",
+    "积分兑换",
+    "ui://ufgirfkmqs176h4d7",
+    "n54_aqf7",
+    "btn_free",
+    "eqxp17",
+    "n70_eqxp",
+    "btn_back",
+    "psobw",
+    "n78_6isz",
+    "btn_explain",
+    "ui://ufgirfkmkijk6h27i",
+    "n49_75cq",
+    "list_gen",
+    "ui://j5ubmlq875cq2",
+    "n22_lewj",
+    "list_type",
+    "ui://j5ubmlq875cq1",
+    "n32_lewj",
+    "text_mustLegend",
+    "再扭蛋{0}[color=#FFFFFF]次[/color]，必得超越再扭蛋{0}[color=#FFFFFF]次[/color]，必得超越再扭蛋{0}[color=#FFFFFF]次[/color]，必得超越再扭蛋{0}[color=#FFFFFF]次[/color]，必得超越]，必得超越再扭蛋{0}[color=#FFFFFF]次[/color]，必得超越",
+    "n56_aqf7",
+    "n56",
+    "你不配",
+    "n48_75cq",
+    "text_mustSuper",
+    "{0}{1}在扭蛋机中抽中{2}",
+    "n50_75cq",
+    "text_freeCountDown",
+    "13:20后免费",
+    "n51_75cq",
+    "text_title",
+    "ui://ufgirfkmqz27h255",
+    "精灵",
+    "n53_75cq",
+    "text_score",
+    "999999",
+    "n64_eqxp",
+    "text_title1",
+    "NewFont",
+    "限时活动开启中",
+    "n65_eqxp",
+    "text_title2",
+    "超·稀有概率超UP!!!",
+    "n66_eqxp",
+    "text_title3",
+    "世代",
+    "n67_eqxp",
+    "text_title4",
+    "UR(彩)",
+    "n68_eqxp",
+    "text_title5",
+    "谢谢惠顾",
+    "n69_eqxp",
+    "text_title6",
+    "礼品区",
+    "btn_freesetting",
+    "n72_s6hq",
+    "text_title7",
+    "UR(彩)",
+    "n77_z3jy",
+    "n77",
+    "99gr1tcvsfw",
+    "n81_k7pz",
+    "IAA",
+    "75cq1",
+    "GashaponBtn",
+    "/Button/",
+    "button",
+    "up",
+    "down",
+    "over",
+    "3",
+    "selectedOver",
+    "textColor",
+    "red",
+    "blue",
+    "orange",
+    "green",
+    "n4_j398",
+    "icon",
+    "ui://j5ubmlq8eqxpp",
+    "ui://j5ubmlq8eqxpo",
+    "ui://j5ubmlq8eqxpn",
+    "ui://j5ubmlq8eqxpq",
+    "n8_ey9v",
+    "精灵扭蛋精灵扭蛋精灵扭蛋",
+    "h1wsh268",
+    "n11_k36z",
+    "RedDot",
+    "aban6h2pl",
+    "n12_eqxp",
+    "n12",
+    "75cq2",
+    "GenBtn",
+    "genIcon",
+    "gen0",
+    "gen1",
+    "gen2",
+    "gen3",
+    "gen4",
+    "gen5",
+    "gen6",
+    "7",
+    "gen7",
+    "8",
+    "gen8",
+    "9",
+    "gen9",
+    "ui://j5ubmlq8o1fh1p",
+    "ui://j5ubmlq8o1fh2b",
+    "ui://j5ubmlq8o1fh28",
+    "ui://j5ubmlq8o1fh25",
+    "ui://j5ubmlq8o1fh2e",
+    "ui://j5ubmlq8o1fh1z",
+    "ui://j5ubmlq8o1fh1w",
+    "ui://j5ubmlq8o1fh1t",
+    "ui://j5ubmlq8o1fh1q",
+    "h1wsh269",
+    "n6_pqm4",
+    "GEN1",
+    "t1",
+    "ui://j5ubmlq8o1fh2d",
+    "ui://j5ubmlq8o1fh2c",
+    "t2",
+    "ui://j5ubmlq8o1fh2a",
+    "ui://j5ubmlq8o1fh29",
+    "t3",
+    "ui://j5ubmlq8o1fh27",
+    "ui://j5ubmlq8o1fh26",
+    "t4",
+    "ui://j5ubmlq8o1fh24",
+    "ui://j5ubmlq8o1fh23",
+    "t5",
+    "ui://j5ubmlq8o1fh22",
+    "ui://j5ubmlq8o1fh20",
+    "t6",
+    "ui://j5ubmlq8o1fh1y",
+    "ui://j5ubmlq8o1fh1x",
+    "t7",
+    "ui://j5ubmlq8o1fh1v",
+    "ui://j5ubmlq8o1fh1u",
+    "t8",
+    "ui://j5ubmlq8o1fh1s",
+    "ui://j5ubmlq8o1fh1r",
+    "t9",
+    "ui://j5ubmlq8o1fh21",
+    "ui://j5ubmlq8o1fh2f",
+    "75cq4",
+    "GashaponRecord_MiniWindow",
+    "Empty",
+    "eqxp6h4fd",
+    "n0_g47n",
+    "win",
+    "BigSize",
+    "q2rv6h3it",
+    "n21_dlfz",
+    "n21",
+    "n18_75cq",
+    "list_gashaponRecord",
+    "ui://j5ubmlq875cq5",
+    "n20_aqf7",
+    "lab_none",
+    "暂无记录",
+    "75cq5",
+    "GashaponMessageItem",
+    "/Item/",
+    "n0_igz4",
+    "lb_GuildMsg",
+    "[{time=2月16日 15:10}]  [u]{name=牛逼的玩家名称}[/u] 在扭蛋机中抽中{type=皮卡丘}",
+    "aqf7i",
+    "n1_ey9v",
+    "n1",
+    "75cq6",
+    "GashaponJackpotPreView_MiniWindow",
+    "Selected",
+    "n19_dlfz",
+    "n19",
+    "ui://j5ubmlq875cq7",
+    "n20_doqj",
+    "lb_desc",
+    "75cq7",
+    "PreviewComponent",
+    "n20_dlfz",
+    "n20",
+    "n19_75cq",
+    "list_cost",
+    "ui://ufgirfkmpfha1tcvsg6",
+    "dlfz1a",
+    "n22_dlfz",
+    "n22",
+    "lagc8c",
+    "n23_dlfz",
+    "item_quality",
+    "c1",
+    "TextBtn",
+    "历史记录",
+    "eqxpv",
+    "n9_ey9v",
+    "n9",
+    "eqxpu",
+    "n10_ey9v",
+    "n10",
+    "eqxpw",
+    "n11_eqxp",
+    "n11",
+    "tip",
+    "点击回顾",
+    "IconBtn",
+    "purple",
+    "n13_eqxp",
+    "n19_o1fh",
+    "sp_gen",
+    "ui://cyrayt3hh7so6h2x3",
+    "n14_eqxp",
+    "ui://j5ubmlq8eqxp12",
+    "n15_eqxp",
+    "lab_count",
+    "X1",
+    "n16_eqxp",
+    "一发入魂",
+    "n18_eqxp",
+    "lab_free",
+    "免费X1",
+    "CloseBtn",
+    "ui://j5ubmlq8eqxpr",
+    "退出",
+    "hsoa2j",
+    "GashaponFreeSetting_MiniWindow",
+    "n36_tu61",
+    "graph_close",
+    "n22_hsoa",
+    "n28_hsoa",
+    "lb_eudAttrTip",
+    "tu612k",
+    "n24_hsoa",
+    "typeBtn",
+    "n23_hsoa",
+    "typeList",
+    "ui://j5ubmlq8tu612l",
+    "n29_hsoa",
+    "lb_eudQualityTip",
+    "n25_hsoa",
+    "qualityBtn",
+    "n26_hsoa",
+    "qualityList",
+    "ui://j5ubmlq8tu612n",
+    "t1156q",
+    "n31_hsoa",
+    "n31",
+    "n33_hsoa",
+    "n33",
+    "n34_hsoa",
+    "lb_tips1",
+    "请选择要自动放生的精灵属性和品质，选择后扭蛋成功自动放生",
+    "n35_hsoa",
+    "lb_tips2",
+    "第一次获得对应精灵的时候不会被放生掉",
+    "n30_hsoa",
+    "btn_sure",
+    "确定",
+    "n27_hsoa",
+    "sort",
+    "DesItem",
+    "noselect",
+    "select",
+    "p0l36h4ia",
+    "n3_fwqi",
+    "n3",
+    "p0l36h4i9",
+    "n4_fwqi",
+    "n4",
+    "n5_fwqi",
+    "des",
+    "tu612l",
+    "TypeItem",
+    "vxy168",
+    "attr",
+    "tu612n",
+    "QualityItem",
+    "n6_w5md",
+    "qua",
+    "ic_x",
+    "nd_bg_jcpz",
+    "eqxp13",
+    "nd_gen_01",
+    "nd_gen_02",
+    "nd_bg_01",
+    "/BG/",
+    "eqxpn",
+    "nd_stick_yq",
+    "eqxpo",
+    "nd_stick_xx",
+    "eqxpp",
+    "nd_stick_jl",
+    "eqxpq",
+    "nd_stick_dj",
+    "eqxpr",
+    "nd_shop",
+    "eqxps",
+    "nd_sale_10",
+    "eqxpt",
+    "nd_sale_1",
+    "nd_pm1_06",
+    "nd_pm1_05",
+    "nd_pm1_04",
+    "nd_pm1_03",
+    "nd_pm1_02",
+    "nd_pm1_01",
+    "h7so1i",
+    "nd_dj_10",
+    "h7so1j",
+    "nd_dj_1",
+    "h7so1k",
+    "nd_jn_10",
+    "h7so1l",
+    "nd_jn_1",
+    "h7so1m",
+    "nd_yq_1",
+    "h7so1n",
+    "nd_yq_10",
+    "o1fh1p",
+    "nd_gen1_1",
+    "/Image/Gen/",
+    "o1fh1q",
+    "nd_gen9_1",
+    "o1fh1r",
+    "nd_gen8_3",
+    "o1fh1s",
+    "nd_gen8_2",
+    "o1fh1t",
+    "nd_gen8_1",
+    "o1fh1u",
+    "nd_gen7_3",
+    "o1fh1v",
+    "nd_gen7_2",
+    "o1fh1w",
+    "nd_gen7_1",
+    "o1fh1x",
+    "nd_gen6_3",
+    "o1fh1y",
+    "nd_gen6_2",
+    "o1fh1z",
+    "nd_gen6_1",
+    "o1fh20",
+    "nd_gen5_3",
+    "o1fh21",
+    "nd_gen9_2",
+    "o1fh22",
+    "nd_gen5_2",
+    "o1fh23",
+    "nd_gen4_3",
+    "o1fh24",
+    "nd_gen4_2",
+    "o1fh25",
+    "nd_gen4_1",
+    "o1fh26",
+    "nd_gen3_3",
+    "o1fh27",
+    "nd_gen3_2",
+    "o1fh28",
+    "nd_gen3_1",
+    "o1fh29",
+    "nd_gen2_3",
+    "o1fh2a",
+    "nd_gen2_2",
+    "o1fh2b",
+    "nd_gen2_1",
+    "o1fh2c",
+    "nd_gen1_3",
+    "o1fh2d",
+    "nd_gen1_2",
+    "o1fh2e",
+    "nd_gen5_1",
+    "o1fh2f",
+    "nd_gen9_3",
+    "nd_gen_03",
+    "ty_bth_yjsj2",
+    "atlas0",
+    "atlas0.png",
+    "atlas_eqxpl",
+    "atlas_eqxpl.png"
+  ]
+}

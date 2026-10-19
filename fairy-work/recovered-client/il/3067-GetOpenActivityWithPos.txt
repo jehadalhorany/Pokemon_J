@@ -1,0 +1,99 @@
+ActivityComponentSystem::GetOpenActivityWithPos
+000c ldarg.0 
+000d ldfld clientPlayerActivityInfos
+0012 callvirt Clear
+0017 ldarg.0 
+0018 ldfld PlayerActivityInfoList
+001d callvirt get_Values
+0022 callvirt GetEnumerator
+0027 stloc.0 
+0028 br 281
+002d ldloca.s local(0x0000)
+002f call get_Current
+0034 stloc.1 
+0035 ldloc.1 
+0036 ldfld pos
+003b ldarg.1 
+003c bne.un 281
+0041 ldarg.1 
+0042 ldc.i4.s 11
+0044 beq.s 83
+0046 ldarg.1 
+0047 ldc.i4.s 12
+0049 beq.s 83
+004b ldarg.1 
+004c ldc.i4.s 19
+004e bne.un 260
+0053 ldloc.1 
+0054 ldfld info
+0059 callvirt get_FunctionId
+005e ldc.i4 603
+0063 bne.un.s 143
+0065 ldarg.0 
+0066 ldloc.1 
+0067 ldfld activityId
+006c call ActivityComponentSystem::GetActivityUnit
+0071 stloc.2 
+0072 ldloc.2 
+0073 callvirt get_Info
+0078 brfalse.s 143
+007a ldloc.2 
+007b callvirt get_Info
+0080 callvirt get_Template
+0085 ldc.i4 60315
+008a beq 281
+008f ldloc.1 
+0090 ldfld info
+0095 callvirt get_FunctionId
+009a ldc.i4 555
+009f bne.un.s 200
+00a1 ldarg.0 
+00a2 ldloc.1 
+00a3 ldfld activityId
+00a8 call ActivityComponentSystem::GetActivityUnit
+00ad stloc.3 
+00ae ldloc.3 
+00af callvirt get_Info
+00b4 brfalse.s 200
+00b6 ldloc.3 
+00b7 callvirt get_Info
+00bc callvirt get_Template
+00c1 ldc.i4 55515
+00c6 beq.s 281
+00c8 ldloc.1 
+00c9 ldfld info
+00ce callvirt get_FunctionId
+00d3 ldc.i4 901
+00d8 bne.un.s 260
+00da ldarg.0 
+00db ldloc.1 
+00dc ldfld activityId
+00e1 call ActivityComponentSystem::GetActivityUnit
+00e6 stloc.s local(0x0004)
+00e8 ldloc.s local(0x0004)
+00ea callvirt get_Info
+00ef brfalse.s 260
+00f1 ldloc.s local(0x0004)
+00f3 callvirt get_Info
+00f8 callvirt get_Template
+00fd ldc.i4 90115
+0102 beq.s 281
+0104 ldarg.0 
+0105 ldloc.1 
+0106 call ActivityComponentSystem::CheckComponentData
+010b brfalse.s 281
+010d ldarg.0 
+010e ldfld clientPlayerActivityInfos
+0113 ldloc.1 
+0114 callvirt Add
+0119 ldloca.s local(0x0000)
+011b call MoveNext
+0120 brtrue 45
+0125 leave.s 309
+0127 ldloca.s local(0x0000)
+0129 constrained. 0x1b001167
+012f callvirt Dispose
+0134 endfinally 
+0135 ldarg.0 
+0136 ldfld clientPlayerActivityInfos
+013b ret 

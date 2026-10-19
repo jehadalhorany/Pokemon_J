@@ -1,0 +1,50 @@
+{
+  "items": [
+    {
+      "type": 9,
+      "id": "jx09o",
+      "name": "spine_specialprize",
+      "path": "/",
+      "file": "spine_specialprize.json",
+      "size": [
+        1141,
+        1045
+      ]
+    },
+    {
+      "type": 9,
+      "id": "jx09p",
+      "name": "spine_double",
+      "path": "/",
+      "file": "spine_double.json",
+      "size": [
+        486,
+        141
+      ]
+    },
+    {
+      "type": 9,
+      "id": "ml0o11",
+      "name": "shuqihuodong",
+      "path": "/",
+      "file": "shuqihuodong.json",
+      "size": [
+        2774,
+        1165
+      ]
+    }
+  ],
+  "sprites": [],
+  "strings": [
+    "jx09o",
+    "spine_specialprize",
+    "/",
+    "spine_specialprize.json",
+    "jx09p",
+    "spine_double",
+    "spine_double.json",
+    "ml0o11",
+    "shuqihuodong",
+    "shuqihuodong.json"
+  ]
+}

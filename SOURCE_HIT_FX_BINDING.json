@@ -1,0 +1,30 @@
+{
+  "sourceEffects": {
+    "00033_hit": "c476e7256b5694f1c65dc4a5b143c9db.bundle",
+    "00055_hit": "c1130552aa4ebe97b5bc7267fc7d65fd.bundle",
+    "00052_hit": "54e4a39a31f86c80621005febd2564ae.bundle"
+  },
+  "sourceMaterialLibrary": "f69a4c6a28a5bd218bde2158f635a22e.bundle",
+  "sourceShaders": "98011065bf2fbc5aede2182269d72494.bundle",
+  "sourceTextures": "dbaec2475d7d0e74f0b6f5d1cf90f10c.bundle",
+  "sourceMeshes": "759a933fec124dcd9e018d6a05a6a876.bundle",
+  "anchorProof": {
+    "model": "e6734c564410c7bea9391fd55d4ab4e0.bundle",
+    "component": "ObjReference",
+    "index": 3,
+    "name": "eChest"
+  },
+  "placement": "Replace prefab root editor translation with the target attachment position; preserve child transforms and source scale",
+  "waterGunAuthoredRootX": -3.8299999237060547,
+  "shaderPolicy": "Original GLES3 fragment programs with a Three.js vertex/attribute bridge; no generated artwork",
+  "supported": [
+    "Tackle",
+    "Water Gun",
+    "Ember"
+  ],
+  "remaining": [
+    "Other skill prefabs",
+    "Full SubModule behavior",
+    "All species/model variants and full gameplay validation"
+  ]
+}

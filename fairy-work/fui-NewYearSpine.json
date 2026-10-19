@@ -1,0 +1,36 @@
+{
+  "items": [
+    {
+      "type": 9,
+      "id": "dwafi",
+      "name": "xinchunyouyuanhui",
+      "path": "/",
+      "file": "xinchunyouyuanhui.json",
+      "size": [
+        1934,
+        1124
+      ]
+    },
+    {
+      "type": 9,
+      "id": "l12zc",
+      "name": "chunsehuawu",
+      "path": "/",
+      "file": "chunsehuawu.json",
+      "size": [
+        921,
+        478
+      ]
+    }
+  ],
+  "sprites": [],
+  "strings": [
+    "dwafi",
+    "xinchunyouyuanhui",
+    "/",
+    "xinchunyouyuanhui.json",
+    "l12zc",
+    "chunsehuawu",
+    "chunsehuawu.json"
+  ]
+}

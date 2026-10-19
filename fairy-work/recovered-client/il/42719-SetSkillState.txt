@@ -1,0 +1,9 @@
+NormalBattleWindow::SetSkillState
+0001 ldarg.0 
+0002 ldfld m_menuState
+0007 ldc.i4.0 
+0008 callvirt SetSelectedIndex
+000d ldarg.0 
+000e ldc.i4.0 
+000f call NormalBattleWindow::SetTabMenuListSelectIndex
+0014 ret 

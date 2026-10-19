@@ -1,0 +1,235 @@
+ActivityViewHelper::GetActivityBaseByType
+000c ldarg.0 
+000d callvirt GetComponent<ET.Pokemon.Activity.Component.ActivityComponent>
+0012 stloc.0 
+0013 ldloc.0 
+0014 brtrue.s 25
+0016 ldnull 
+0017 br.s 32
+0019 ldloc.0 
+001a ldarg.1 
+001b call ActivityComponentSystem::GetOpenActivityWithPos
+0020 stloc.1 
+0021 ldloc.1 
+0022 brtrue.s 37
+0024 ret 
+0025 ldloc.1 
+0026 ldsfld <>9__19_0
+002b dup 
+002c brtrue.s 69
+002e pop 
+002f ldsfld <>9
+0034 ldftn <>c::<GetActivityBaseByType>b__19_0
+003a newobj .ctor
+003f dup 
+0040 stsfld <>9__19_0
+0045 callvirt Sort
+004a ldc.i4.0 
+004b stloc.3 
+004c br 427
+0051 call get_Instance
+0056 ldloc.1 
+0057 ldloc.3 
+0058 callvirt get_Item
+005d ldfld info
+0062 callvirt get_FunctionId
+0067 ldc.i4.0 
+0068 callvirt GetConfig
+006d stloc.s local(0x0004)
+006f ldloc.s local(0x0004)
+0071 brfalse 423
+0076 ldarg.2 
+0077 brfalse.s 134
+0079 ldloc.s local(0x0004)
+007b callvirt get_IsHide
+0080 ldc.i4.1 
+0081 beq 423
+0086 ldloc.s local(0x0004)
+0088 callvirt get_Location
+008d ldarg.1 
+008e bne.un 423
+0093 ldarg.0 
+0094 ldloc.s local(0x0004)
+0096 callvirt get_FunctionId
+009b ldloc.1 
+009c ldloc.3 
+009d callvirt get_Item
+00a2 ldfld activityId
+00a7 ldloc.s local(0x0004)
+00a9 callvirt get_OpenInterface
+00ae call ActivityViewHelper::CheckFunctionCondition
+00b3 brfalse 423
+00b8 ldsfld _mainFunctionConfigs
+00bd ldloc.1 
+00be ldloc.3 
+00bf callvirt get_Item
+00c4 ldfld activityId
+00c9 ldloc.s local(0x0004)
+00cb newobj .ctor
+00d0 callvirt TryAdd
+00d5 pop 
+00d6 ldsfld _mainFunctionConfigs
+00db ldloc.1 
+00dc ldloc.3 
+00dd callvirt get_Item
+00e2 ldfld activityId
+00e7 callvirt get_Item
+00ec stloc.s local(0x0005)
+00ee ldloc.s local(0x0005)
+00f0 ldloc.1 
+00f1 ldloc.3 
+00f2 callvirt get_Item
+00f7 ldfld activityId
+00fc stfld activityId
+0101 ldloc.s local(0x0005)
+0103 ldloc.s local(0x0004)
+0105 callvirt SetActivityBaseConfig
+010a ldloc.0 
+010b ldloc.1 
+010c ldloc.3 
+010d callvirt get_Item
+0112 ldfld activityId
+0117 call ActivityComponentSystem::GetActivityUnit
+011c stloc.s local(0x0006)
+011e ldloc.s local(0x0006)
+0120 brfalse.s 365
+0122 ldloc.s local(0x0006)
+0124 callvirt get_Info
+0129 brfalse.s 365
+012b ldloc.s local(0x0006)
+012d callvirt get_ShowName
+0132 call IsNullOrEmpty
+0137 brtrue.s 327
+0139 ldloc.s local(0x0005)
+013b ldloc.s local(0x0006)
+013d callvirt get_ShowName
+0142 stfld activityName
+0147 ldloc.s local(0x0006)
+0149 callvirt get_Info
+014e callvirt get_Icon
+0153 call IsNullOrEmpty
+0158 brtrue.s 365
+015a ldloc.s local(0x0005)
+015c ldloc.s local(0x0006)
+015e callvirt get_Info
+0163 callvirt get_Icon
+0168 stfld activityIcon
+016d ldloc.1 
+016e ldloc.3 
+016f callvirt get_Item
+0174 ldfld info
+0179 callvirt get_FunctionId
+017e stloc.s local(0x0007)
+0180 ldloc.s local(0x0007)
+0182 ldc.i4 401
+0187 beq.s 402
+0189 ldloc.s local(0x0007)
+018b ldc.i4 528
+0190 bne.un.s 413
+0192 ldarg.3 
+0193 ldind.ref 
+0194 ldloc.s local(0x0005)
+0196 callvirt Add
+019b br.s 423
+019d ldarg.3 
+019e ldind.ref 
+019f ldc.i4.0 
+01a0 ldloc.s local(0x0005)
+01a2 callvirt Insert
+01a7 ldloc.3 
+01a8 ldc.i4.1 
+01a9 add 
+01aa stloc.3 
+01ab ldloc.3 
+01ac ldloc.1 
+01ad callvirt get_Count
+01b2 blt 81
+01b7 call get_Instance
+01bc ldarg.1 
+01bd callvirt GetConfgiListByPos
+01c2 stloc.2 
+01c3 ldc.i4.0 
+01c4 stloc.s local(0x0008)
+01c6 br 676
+01cb ldloc.2 
+01cc ldloc.s local(0x0008)
+01ce callvirt get_Item
+01d3 stloc.s local(0x0009)
+01d5 ldloc.s local(0x0009)
+01d7 brfalse 670
+01dc ldarg.2 
+01dd brfalse.s 492
+01df ldloc.s local(0x0009)
+01e1 callvirt get_IsHide
+01e6 ldc.i4.1 
+01e7 beq 670
+01ec ldloc.s local(0x0009)
+01ee callvirt get_IsFunction
+01f3 ldc.i4.1 
+01f4 bne.un 670
+01f9 ldloc.s local(0x0009)
+01fb callvirt get_OpenInterface
+0200 brfalse 670
+0205 call get_Instance
+020a ldloc.s local(0x0009)
+020c callvirt get_FunctionId
+0211 callvirt CheckUnLock
+0216 brfalse 670
+021b ldarg.0 
+021c ldloc.s local(0x0009)
+021e callvirt get_FunctionId
+0223 ldc.i4.0 
+0224 conv.i8 
+0225 ldloc.s local(0x0009)
+0227 callvirt get_OpenInterface
+022c call ActivityViewHelper::CheckFunctionCondition
+0231 brfalse.s 670
+0233 ldsfld _mainFunctionConfigs
+0238 ldloc.s local(0x0009)
+023a callvirt get_FunctionId
+023f conv.i8 
+0240 ldloc.s local(0x0009)
+0242 newobj .ctor
+0247 callvirt TryAdd
+024c pop 
+024d ldsfld _mainFunctionConfigs
+0252 ldloc.s local(0x0009)
+0254 callvirt get_FunctionId
+0259 conv.i8 
+025a callvirt get_Item
+025f stloc.s local(0x000A)
+0261 ldloc.s local(0x000A)
+0263 ldloc.s local(0x0009)
+0265 callvirt get_FunctionId
+026a conv.i8 
+026b stfld activityId
+0270 ldloc.s local(0x000A)
+0272 ldloc.s local(0x0009)
+0274 callvirt SetActivityBaseConfig
+0279 ldloc.s local(0x000A)
+027b ldloc.s local(0x0009)
+027d callvirt get_ShowName
+0282 stfld activityName
+0287 ldloc.s local(0x000A)
+0289 ldloc.s local(0x0009)
+028b callvirt get_Icon
+0290 stfld activityIcon
+0295 ldarg.3 
+0296 ldind.ref 
+0297 ldloc.s local(0x000A)
+0299 callvirt Add
+029e ldloc.s local(0x0008)
+02a0 ldc.i4.1 
+02a1 add 
+02a2 stloc.s local(0x0008)
+02a4 ldloc.s local(0x0008)
+02a6 ldloc.2 
+02a7 callvirt get_Count
+02ac blt 459
+02b1 ldarg.3 
+02b2 ldind.ref 
+02b3 ldnull 
+02b4 ldftn ActivityViewHelper::SortList
+02ba newobj .ctor
+02bf callvirt Sort
+02c4 ret 

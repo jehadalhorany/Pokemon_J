@@ -1,0 +1,148 @@
+MainWindow::UpdateFuncionOpen
+000c ldarg.0 
+000d ldfld m_activiyhide
+0012 ldarg.0 
+0013 ldfld activityHideState
+0018 brtrue.s 29
+001a ldc.i4.0 
+001b br.s 30
+001d ldc.i4.1 
+001e callvirt set_selectedIndex
+0023 ldarg.0 
+0024 ldfld m_lb_activityHide
+0029 ldarg.0 
+002a ldfld activityHideState
+002f brtrue.s 66
+0031 ldstr 'Hide'
+0036 call Empty
+003b call LanguageHelper::GetText
+0040 br.s 81
+0042 ldstr 'Open'
+0047 call Empty
+004c call LanguageHelper::GetText
+0051 callvirt set_text
+0056 ldarg.0 
+0057 ldarg.0 
+0058 call DomainScene
+005d callvirt GetComponent
+0062 stfld FunctionOpenComponent
+0067 ldarg.0 
+0068 call DomainScene
+006d ldc.i4.3 
+006e ldarg.0 
+006f ldflda FunctionConfigs1
+0074 ldarg.0 
+0075 ldfld activityHideState
+007a call ActivityViewHelper::GetMainFunctionConfigByType
+007f ldarg.0 
+0080 call DomainScene
+0085 ldc.i4.4 
+0086 ldarg.0 
+0087 ldflda FunctionConfigs2
+008c ldarg.0 
+008d ldfld activityHideState
+0092 call ActivityViewHelper::GetMainFunctionConfigByType
+0097 ldarg.0 
+0098 call MainWindow::SetFunctionConfigs3
+009d ldarg.0 
+009e call DomainScene
+00a3 ldc.i4.5 
+00a4 ldarg.0 
+00a5 ldflda MenuFunctionConfigs
+00aa ldc.i4.0 
+00ab call ActivityViewHelper::GetMainFunctionConfigByType
+00b0 ldarg.0 
+00b1 ldfld m_list_activity1
+00b6 ldc.i4.0 
+00b7 callvirt set_numItems
+00bc ldarg.0 
+00bd ldfld m_list_activity1
+00c2 ldarg.0 
+00c3 ldfld FunctionConfigs1
+00c8 callvirt get_Count
+00cd callvirt set_numItems
+00d2 ldarg.0 
+00d3 ldfld m_list_activity1
+00d8 callvirt get_scrollPane
+00dd ldarg.0 
+00de ldfld FunctionConfigs1
+00e3 callvirt get_Count
+00e8 ldc.i4.7 
+00e9 cgt 
+00eb callvirt set_touchEffect
+00f0 ldarg.0 
+00f1 ldfld m_list_activity2
+00f6 ldc.i4.0 
+00f7 callvirt set_numItems
+00fc ldarg.0 
+00fd ldfld m_list_activity2
+0102 ldarg.0 
+0103 ldfld FunctionConfigs2
+0108 callvirt get_Count
+010d callvirt set_numItems
+0112 ldarg.0 
+0113 ldfld m_list_activity3
+0118 ldc.i4.0 
+0119 callvirt set_numItems
+011e ldarg.0 
+011f ldfld m_list_activity3
+0124 ldarg.0 
+0125 call MainWindow::GetFunctionConfigs3Len
+012a ldc.r4 15.0
+012f add 
+0130 callvirt set_width
+0135 ldarg.0 
+0136 ldfld m_list_activity3
+013b ldarg.0 
+013c ldfld FunctionConfigs3
+0141 callvirt get_Count
+0146 callvirt set_numItems
+014b ldarg.0 
+014c ldfld m_list_menu
+0151 ldc.i4.s 16
+0153 callvirt set_numItems
+0158 ldarg.0 
+0159 call MainWindowLogicSystem::UpdateFunctionOpenInfo
+015e ldarg.0 
+015f ldfld m_btn_daily
+0164 ldarg.0 
+0165 ldfld FunctionOpenComponent
+016a ldc.i4.s 117
+016c call FunctionOpenComponentSystem::GetFunctionIsOpen
+0171 brtrue.s 389
+0173 ldarg.0 
+0174 ldfld FunctionOpenComponent
+0179 ldc.i4 134
+017e call FunctionOpenComponentSystem::GetFunctionIsOpen
+0183 br.s 390
+0185 ldc.i4.1 
+0186 callvirt set_visible
+018b ldarg.0 
+018c ldfld m_btn_friend
+0191 ldarg.0 
+0192 ldfld FunctionOpenComponent
+0197 ldc.i4 301
+019c call FunctionOpenComponentSystem::GetFunctionIsOpen
+01a1 callvirt set_visible
+01a6 ldarg.0 
+01a7 ldfld m_btn_gameHelp
+01ac ldarg.0 
+01ad ldfld FunctionOpenComponent
+01b2 ldc.i4 135
+01b7 call FunctionOpenComponentSystem::GetFunctionIsOpen
+01bc brfalse.s 469
+01be ldarg.0 
+01bf call DomainScene
+01c4 call CurrentScenesComponentSystem::CurrentScene
+01c9 ldc.i4.s 12
+01cb call MapHelper::IsInSenceWithType
+01d0 ldc.i4.0 
+01d1 ceq 
+01d3 br.s 470
+01d5 ldc.i4.0 
+01d6 callvirt set_visible
+01db ldarg.0 
+01dc call MainWindowLogicSystem::UpdateFriend
+01e1 ldarg.0 
+01e2 call MainWindow::UpdateActivitHideRed
+01e7 ret 

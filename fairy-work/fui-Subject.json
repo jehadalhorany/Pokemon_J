@@ -1,0 +1,385 @@
+{
+  "items": [
+    {
+      "type": 0,
+      "id": "enu7f6h547",
+      "name": "dt_bg_2",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        496,
+        491
+      ]
+    },
+    {
+      "type": 0,
+      "id": "enu7f6h548",
+      "name": "dt_bg_1",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        908,
+        428
+      ]
+    },
+    {
+      "type": 0,
+      "id": "enu7f6h54a",
+      "name": "sc_qwcz",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        425,
+        147
+      ]
+    },
+    {
+      "type": 0,
+      "id": "enu7n",
+      "name": "bg_1",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        910,
+        512
+      ]
+    },
+    {
+      "type": 3,
+      "id": "enu7f6h540",
+      "name": "AnswerSubject_Window",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "enu7f6h541",
+      "name": "AnswerRankItem",
+      "path": "/",
+      "file": null,
+      "size": [
+        496,
+        511
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "enu7f6h542",
+      "name": "AnswerCom",
+      "path": "/",
+      "file": null,
+      "size": [
+        1646,
+        635
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "enu7f6h549",
+      "name": "AnswerItem",
+      "path": "/",
+      "file": null,
+      "size": [
+        692,
+        56
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "enu7f6h54b",
+      "name": "SubjectScoreReward_MiniWindow",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "enu7f6h54c",
+      "name": "SubjectRewaedItem",
+      "path": "/",
+      "file": null,
+      "size": [
+        1373,
+        206
+      ],
+      "extension": 12
+    },
+    {
+      "type": 4,
+      "id": "atlas_enu7n",
+      "name": null,
+      "path": null,
+      "file": "atlas_enu7n.png",
+      "size": [
+        1024,
+        512
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas_enu7f6h548",
+      "name": null,
+      "path": null,
+      "file": "atlas_enu7f6h548.png",
+      "size": [
+        908,
+        428
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas0",
+      "name": null,
+      "path": null,
+      "file": "atlas0.png",
+      "size": [
+        512,
+        256
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas_enu7f6h547",
+      "name": null,
+      "path": null,
+      "file": "atlas_enu7f6h547.png",
+      "size": [
+        512,
+        512
+      ]
+    }
+  ],
+  "sprites": [
+    {
+      "id": "enu7n",
+      "atlas": "atlas_enu7n",
+      "rect": [
+        0,
+        0,
+        910,
+        512
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "enu7f6h548",
+      "atlas": "atlas_enu7f6h548",
+      "rect": [
+        0,
+        0,
+        908,
+        428
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "enu7f6h54a",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        0,
+        425,
+        146
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "enu7f6h547",
+      "atlas": "atlas_enu7f6h547",
+      "rect": [
+        0,
+        0,
+        496,
+        491
+      ],
+      "rotated": 0
+    }
+  ],
+  "strings": [
+    "c1imbcrl",
+    "Base",
+    "ufgirfkm",
+    "Common",
+    "cyrayt3h",
+    "Item",
+    "enu7f6h547",
+    "dt_bg_2",
+    "/Images/",
+    "enu7f6h548",
+    "dt_bg_1",
+    "enu7f6h54a",
+    "sc_qwcz",
+    "enu7n",
+    "bg_1",
+    "enu7f6h540",
+    "AnswerSubject_Window",
+    "/",
+    "AnswerState",
+    "0",
+    "Wait",
+    "1",
+    "Start",
+    "2",
+    "End",
+    "n22_enu7",
+    "n22",
+    "8yc42",
+    "n4_enu7",
+    "wnd",
+    "n16_enu7",
+    "n16",
+    "row4x",
+    "n5_enu7",
+    "pro_value",
+    "n6_enu7",
+    "list_box",
+    "ui://ufgirfkmrhl14",
+    "psobw",
+    "n10_enu7",
+    "btn_answer",
+    "front",
+    "13",
+    "开始答题",
+    "ui://6dco152lenu7f6h54a",
+    "enu7f6h541",
+    "n12_enu7",
+    "rank1",
+    "RankState",
+    "n13_enu7",
+    "rank2",
+    "State",
+    "n14_enu7",
+    "rank3",
+    "enu7f6h542",
+    "n21_enu7",
+    "answerCom",
+    "g9mo6h4gz",
+    "n17_enu7",
+    "n17",
+    "n9_enu7",
+    "lb_time",
+    "今日剩余答题时间:1天15小时13分",
+    "n11_enu7",
+    "lb_endTime1",
+    "答题活动已结束，距离本周下一场答题开启剩余时间：12小时11分钟55秒",
+    "n20_enu7",
+    "lb_endTime2",
+    "本周答题活动已结束，距离下周答题开启时间：12小时11分钟55秒",
+    "n7_enu7",
+    "lb_score",
+    "答题积分:250",
+    "n18_enu7",
+    "lb_trank",
+    "积分榜",
+    "n19_enu7",
+    "icon_click",
+    "rhl14",
+    "n23_enu7",
+    "boxItem",
+    "n24_9ysj",
+    "btn_explain",
+    "ui://ufgirfkmkijk6h27i",
+    "AnswerRankItem",
+    "Normal",
+    "None",
+    "Rank1",
+    "Rank2",
+    "Rank3",
+    "n8_enu7",
+    "n8",
+    "j0o0h24u",
+    "n0_enu7",
+    "head",
+    "list_reward",
+    "ui://ufgirfkmewfrh22n",
+    "n2_enu7",
+    "lb_name",
+    "用户昵称6个字",
+    "n3_enu7",
+    "积分:9999",
+    "lb_none",
+    "虚位以待",
+    "icon_rank",
+    "ui://ufgirfkmrvj06h2fc",
+    "ui://ufgirfkmrvj06h2es",
+    "ui://ufgirfkmrvj06h2f1",
+    "7v64h246",
+    "n10",
+    "AnswerCom",
+    "确定",
+    "lb_title",
+    "百科第一题 （1/20）",
+    "lb_desc",
+    "宝可梦一共有多少种属性？  ",
+    "剩余答题时间：59秒",
+    "list_answer",
+    "ui://6dco152lenu7f6h549",
+    "enu7f6h549",
+    "AnswerItem",
+    "Select",
+    "Result",
+    "5",
+    "Right",
+    "Fail",
+    "n1_enu7",
+    "n1",
+    "n3",
+    "ui://ufgirfkmeqxp6h4fn",
+    "ui://ufgirfkmenu7f6h54u",
+    "ui://ufgirfkmenu76h515",
+    "lb_answer",
+    "A:172种",
+    "enu7f6h54b",
+    "SubjectScoreReward_MiniWindow",
+    "eqxp6h4fd",
+    "n1_osx6",
+    "bg",
+    "BigSize",
+    "7",
+    "e0us6h4ch",
+    "n6_osx6",
+    "n6",
+    "n5_osx6",
+    "ui://6dco152lenu7f6h54c",
+    "lb_rank",
+    "我的排名：1553",
+    "积分：1553",
+    "每周所有答题活动结束后，通过邮件发送奖励",
+    "enu7f6h54c",
+    "SubjectRewaedItem",
+    "RansState",
+    "3",
+    "Other",
+    "NoRank",
+    "e0us6h4ci",
+    "n3_osx6",
+    "list",
+    "n4_osx6",
+    "42222222222",
+    "player",
+    "n13",
+    "玩家名称六个字",
+    "积分:9999",
+    "虚位以待",
+    "atlas_enu7n",
+    "atlas_enu7n.png",
+    "atlas_enu7f6h548",
+    "atlas_enu7f6h548.png",
+    "atlas0",
+    "atlas0.png",
+    "atlas_enu7f6h547",
+    "atlas_enu7f6h547.png"
+  ]
+}

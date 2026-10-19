@@ -1,0 +1,176 @@
+<SetShopType>d__55::MoveNext
+000c ldarg.0 
+000d ldfld <>1__state
+0012 stloc.0 
+0013 ldarg.0 
+0014 ldfld <>4__this
+0019 stloc.1 
+001a ldloc.0 
+001b brfalse.s 136
+001d ldloc.0 
+001e ldc.i4.1 
+001f beq 407
+0024 ldarg.0 
+0025 ldloc.1 
+0026 ldfld _shopCompoment
+002b ldarg.0 
+002c ldfld type
+0031 call ShopCompomentSystem::GetShopType
+0036 stfld <shopInfo>5__2
+003b ldarg.0 
+003c ldfld <shopInfo>5__2
+0041 brtrue 215
+0046 ldloc.1 
+0047 call DomainScene
+004c ldarg.0 
+004d ldfld type
+0052 call ShopServerSystem::QueryShopList
+0057 callvirt GetAwaiter
+005c stloc.3 
+005d ldloc.3 
+005e callvirt get_IsCompleted
+0063 brtrue.s 164
+0065 ldarg.0 
+0066 ldc.i4.0 
+0067 dup 
+0068 stloc.0 
+0069 stfld <>1__state
+006e ldarg.0 
+006f ldloc.3 
+0070 stfld <>u__1
+0075 ldarg.0 
+0076 ldflda <>t__builder
+007b ldloca.s local(0x0003)
+007d ldarg.0 
+007e call AwaitUnsafeOnCompleted<0x15,ET.ETTask`1,0x1,ET.Game2Client_QueryShopList,.<SetShopType>d__55>
+0083 leave 503
+0088 ldarg.0 
+0089 ldfld <>u__1
+008e castclass 0x1b0016d3
+0093 stloc.3 
+0094 ldarg.0 
+0095 ldnull 
+0096 stfld <>u__1
+009b ldarg.0 
+009c ldc.i4.m1 
+009d dup 
+009e stloc.0 
+009f stfld <>1__state
+00a4 ldloc.3 
+00a5 callvirt GetResult
+00aa stloc.2 
+00ab ldloc.2 
+00ac call TipHelper::TryWaitTipError
+00b1 brfalse.s 184
+00b3 leave 477
+00b8 ldloc.2 
+00b9 callvirt get_info
+00be callvirt get_type
+00c3 ldarg.0 
+00c4 ldfld type
+00c9 bne.un.s 215
+00cb ldarg.0 
+00cc ldloc.2 
+00cd callvirt get_info
+00d2 stfld <shopInfo>5__2
+00d7 ldarg.0 
+00d8 ldfld <shopInfo>5__2
+00dd brtrue.s 228
+00df leave 477
+00e4 ldloc.1 
+00e5 ldarg.0 
+00e6 ldfld <shopInfo>5__2
+00eb callvirt get_list
+00f0 stfld _shopItemInfos
+00f5 ldloc.1 
+00f6 ldfld _shopItems
+00fb callvirt Clear
+0100 ldloc.1 
+0101 ldfld _shopItemInfos
+0106 brfalse.s 277
+0108 ldloc.1 
+0109 ldfld _shopItemInfos
+010e callvirt get_Count
+0113 brtrue.s 294
+0115 ldloc.1 
+0116 ldfld m_list_shop
+011b ldc.i4.0 
+011c callvirt set_numItems
+0121 leave 477
+0126 ldloc.1 
+0127 call ShopWindow::UpdateShop
+012c ldloc.1 
+012d ldarg.0 
+012e ldfld <shopInfo>5__2
+0133 callvirt get_NextRefreshTime
+0138 stfld EndTime
+013d ldloc.1 
+013e call ShopWindow::UpdateLabelTime
+0143 ldloc.1 
+0144 call RemoveComponent<ET.Client.RepeatedTimerComponent>
+0149 ldloc.1 
+014a ldc.i4 500
+014f conv.i8 
+0150 ldc.i4 210
+0155 ldloc.1 
+0156 ldc.i4.0 
+0157 call AddComponent<ET.Client.RepeatedTimerComponent,0xa,0x8,0x1c>
+015c pop 
+015d call get_CompletedTask
+0162 stloc.s local(0x0005)
+0164 ldloca.s local(0x0005)
+0166 call GetAwaiter
+016b stloc.s local(0x0004)
+016d ldloca.s local(0x0004)
+016f call get_IsCompleted
+0174 brtrue.s 436
+0176 ldarg.0 
+0177 ldc.i4.1 
+0178 dup 
+0179 stloc.0 
+017a stfld <>1__state
+017f ldarg.0 
+0180 ldloc.s local(0x0004)
+0182 stfld <>u__2
+0187 ldarg.0 
+0188 ldflda <>t__builder
+018d ldloca.s local(0x0004)
+018f ldarg.0 
+0190 call AwaitUnsafeOnCompleted<ET.ETTaskCompleted,.<SetShopType>d__55>
+0195 leave.s 503
+0197 ldarg.0 
+0198 ldfld <>u__2
+019d stloc.s local(0x0004)
+019f ldarg.0 
+01a0 ldflda <>u__2
+01a5 initobj ETTaskCompleted
+01ab ldarg.0 
+01ac ldc.i4.m1 
+01ad dup 
+01ae stloc.0 
+01af stfld <>1__state
+01b4 ldloca.s local(0x0004)
+01b6 call GetResult
+01bb leave.s 477
+01bd stloc.s local(0x0006)
+01bf ldarg.0 
+01c0 ldc.i4.s -2
+01c2 stfld <>1__state
+01c7 ldarg.0 
+01c8 ldnull 
+01c9 stfld <shopInfo>5__2
+01ce ldarg.0 
+01cf ldflda <>t__builder
+01d4 ldloc.s local(0x0006)
+01d6 call SetException
+01db leave.s 503
+01dd ldarg.0 
+01de ldc.i4.s -2
+01e0 stfld <>1__state
+01e5 ldarg.0 
+01e6 ldnull 
+01e7 stfld <shopInfo>5__2
+01ec ldarg.0 
+01ed ldflda <>t__builder
+01f2 call SetResult
+01f7 ret 

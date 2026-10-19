@@ -1,0 +1,1145 @@
+<FunctionJump>d__0::MoveNext
+000c ldarg.0 
+000d ldfld <>1__state
+0012 stloc.0 
+0013 ldloc.0 
+0014 switch [361, 1834, 2458, 2832, 3144, 3811, 3978, 4573]
+0039 ldarg.0 
+003a call get_Instance
+003f ldarg.0 
+0040 ldfld functionType
+0045 callvirt Get
+004a stfld <functionConfig>5__2
+004f ldarg.0 
+0050 ldfld scene
+0055 callvirt GetComponent<ET.Pokemon.FunctionOpen.FunctionOpenComponent>
+005a ldarg.0 
+005b ldfld functionType
+0060 call FunctionOpenComponentSystem::GetFunctionIsOpen
+0065 brtrue.s 139
+0067 ldarg.0 
+0068 ldfld <functionConfig>5__2
+006d callvirt get_OpenDes
+0072 call Empty<0x1c>
+0077 call LanguageHelper::GetText
+007c call Empty<0x1c>
+0081 call TipHelper::ShowTips
+0086 leave 4885
+008b ldarg.0 
+008c ldfld scene
+0091 callvirt GetComponent<ET.Pokemon.FunctionOpen.FunctionOpenComponent>
+0096 ldarg.0 
+0097 ldfld functionType
+009c call FunctionOpenComponentSystem::GetFunctionIsLock
+00a1 brfalse.s 183
+00a3 ldstr 'FunctionIsLockTip'
+00a8 call Empty<0x1c>
+00ad call TipHelper::ShowTips
+00b2 leave 4885
+00b7 ldarg.0 
+00b8 ldfld functionType
+00bd call PvpWarHelper::GetPvpWarFirstConfigByFunType
+00c2 stloc.1 
+00c3 ldarg.0 
+00c4 ldfld functionType
+00c9 call PvpWarHelper::GetPvpNextOpenWeekDistance
+00ce stloc.2 
+00cf ldloc.1 
+00d0 brfalse.s 241
+00d2 ldloc.2 
+00d3 ldc.i4.0 
+00d4 ble.s 241
+00d6 ldarg.0 
+00d7 ldfld scene
+00dc call ClientSceneManagerComponentSystem::ClientScene
+00e1 ldloc.1 
+00e2 callvirt get_Function
+00e7 call PvpViewHelper::ShowFunWarOpenWeekTip
+00ec leave 4885
+00f1 ldarg.0 
+00f2 ldfld <functionConfig>5__2
+00f7 callvirt get_NpcId
+00fc ldc.i4.0 
+00fd ble 440
+0102 ldarg.0 
+0103 ldfld scene
+0108 ldarg.0 
+0109 ldfld <functionConfig>5__2
+010e callvirt get_NpcId
+0113 call PathFindHelper::CheckNearOfNpc
+0118 brtrue 440
+011d ldsfld Instance
+0122 call UIComponentSystem::GetOpenWindow<ET.Client.ActivitySevenIslands.SevenIslandsSceneWindow>
+0127 brfalse.s 402
+0129 ldsfld Instance
+012e call UIComponentSystem::GetOpenWindow<ET.Client.ActivitySevenIslands.SevenIslandsSceneWindow>
+0133 callvirt SevenIslandsSceneWindow::OutTip
+0138 callvirt GetAwaiter
+013d stloc.3 
+013e ldloc.3 
+013f callvirt get_IsCompleted
+0144 brtrue.s 389
+0146 ldarg.0 
+0147 ldc.i4.0 
+0148 dup 
+0149 stloc.0 
+014a stfld <>1__state
+014f ldarg.0 
+0150 ldloc.3 
+0151 stfld <>u__1
+0156 ldarg.0 
+0157 ldflda <>t__builder
+015c ldloca.s local(0x0003)
+015e ldarg.0 
+015f call AwaitUnsafeOnCompleted<0x15,ET.ETTask`1,0x1,0x2,.<FunctionJump>d__0>
+0164 leave 4918
+0169 ldarg.0 
+016a ldfld <>u__1
+016f castclass 0x1b000da7
+0174 stloc.3 
+0175 ldarg.0 
+0176 ldnull 
+0177 stfld <>u__1
+017c ldarg.0 
+017d ldc.i4.m1 
+017e dup 
+017f stloc.0 
+0180 stfld <>1__state
+0185 ldloc.3 
+0186 callvirt GetResult
+018b brtrue.s 402
+018d leave 4885
+0192 call CurrentSceneHelper::ResetWindow
+0197 ldarg.0 
+0198 ldfld scene
+019d ldarg.0 
+019e ldfld <functionConfig>5__2
+01a3 callvirt get_NpcId
+01a8 ldstr ''
+01ad call NavTreeHelper::TransmitOrPathFind
+01b2 pop 
+01b3 leave 4885
+01b8 ldarg.0 
+01b9 ldnull 
+01ba stfld <uiForm>5__3
+01bf ldarg.0 
+01c0 ldfld functionType
+01c5 stloc.s local(0x000A)
+01c7 ldloc.s local(0x000A)
+01c9 ldc.i4 411
+01ce bgt 1374
+01d3 ldloc.s local(0x000A)
+01d5 ldc.i4.s 101
+01d7 sub 
+01d8 switch [1993, 2744, 2009, 1732, 1709, 1446, 2744, 1686, 2032, 2048, 1663, 1469, 3506, 3522, 3490, 2374, 2522, 3726, 4776, 2917, 2933, 2955, 2977, 2999, 3043, 4494, 3065, 3021, 4510, 2103, 2119, 2395, 3081, 2522, 4776, 4776, 4776, 4776, 4776, 4776, 4776, 1513, 1529, 1545, 4776, 2744, 4776, 4776, 4776, 4776, 2087, 4776, 4776, 4776, 4776, 4776, 4776, 4776, 4776, 4776, 3474, 4776, 4776, 4776, 4776, 4776, 4776, 4776, 4776, 4776, 2549, 2581, 2723, 4229, 4341, 4213, 2639, 2565, 2602, 2623, 4637, 2681, 4776, 4776, 4776, 4776, 4776, 4776, 4776, 4776, 4776, 4776, 4776, 4776, 4776, 4776, 4776, 4776, 4776, 4776, 1420, 2135, 2359, 2135, 4776, 2071, 1755, 2359, 1771, 1886, 2177, 2161, 2229, 2307, 2255, 2333, 2203, 2203, 3458, 3458, 2135, 2135, 2135, 2135, 4776, 2135, 3538, 4077, 2281, 1561, 4197, 4107, 4137, 4167, 1605, 1583, 1605, 4776, 4776, 1977, 1945, 1961, 1929, 1902, 2333, 4776, 2702, 2660, 4757, 4670, 4731, 4744, 4776, 4776, 4776, 4776, 4776, 4776, 4776, 4776, 4776, 4776, 4776, 4776, 4776, 4776, 4776, 4776, 4776, 4776, 4776, 4776, 4776, 4776, 4776, 4776, 4776, 4776, 4776, 4776, 4776, 4776, 4776, 4776, 4776, 4776, 4776, 4776, 4776, 4776, 4776, 4776, 4776, 4776, 4776, 4776, 4776, 4776, 4776, 4776, 2885, 2760, 1492, 4776, 3208, 3224, 3250, 3276, 3302, 3328, 3354, 3380, 3406, 3432, 4776, 4776, 4776, 4776, 3554, 2901]
+054d ldloc.s local(0x000A)
+054f ldc.i4 411
+0554 beq 3680
+0559 br 4776
+055e ldloc.s local(0x000A)
+0560 ldc.i4 504
+0565 beq 1647
+056a ldloc.s local(0x000A)
+056c ldc.i4 803
+0571 sub 
+0572 switch [3576, 3602, 3628, 3654]
+0587 br 4776
+058c ldarg.0 
+058d ldsfld Instance
+0592 call UIComponentSystem::OpenWindow<ET.Client.Bag.BagCenterWindow>
+0597 callvirt GetParent<ET.Client.UIForm>
+059c stfld <uiForm>5__3
+05a1 br 4791
+05a6 ldsfld Instance
+05ab ldc.i4.s 106
+05ad box FunctionType
+05b2 call UIComponentSystem::OpenWindow<ET.Client.Role.RoleCenterWindow>
+05b7 pop 
+05b8 br 4791
+05bd ldsfld Instance
+05c2 ldc.i4.s 112
+05c4 box FunctionType
+05c9 call UIComponentSystem::OpenWindow<ET.Client.Role.DecorateBoxWindow>
+05ce pop 
+05cf br 4791
+05d4 ldsfld Instance
+05d9 call UIComponentSystem::OpenWindow<ET.Client.Chat.ChatViewWindow>
+05de ldc.i4.0 
+05df callvirt ChatViewWindow::ChangeType
+05e4 br 4791
+05e9 ldsfld Instance
+05ee call UIComponentSystem::OpenWindow<ET.Client.Safari.SafariWindow>
+05f3 pop 
+05f4 br 4791
+05f9 ldsfld Instance
+05fe call UIComponentSystem::OpenWindow<ET.Client.Subject.AnswerSubjectWindow>
+0603 pop 
+0604 br 4791
+0609 ldsfld Instance
+060e call UIComponentSystem::OpenWindow<ET.Client.CatchContest.CatchContestEnterWindow>
+0613 pop 
+0614 br 4791
+0619 ldsfld Instance
+061e ldarg.0 
+061f ldfld intent
+0624 call UIComponentSystem::OpenWindow<ET.Client.Eudemon.EudemonBossWindow>
+0629 pop 
+062a br 4791
+062f ldsfld Instance
+0634 ldarg.0 
+0635 ldfld intent
+063a call UIComponentSystem::OpenWindow<ET.Client.Eudemon.EudemonDynamaxTipWindow>
+063f pop 
+0640 br 4791
+0645 ldsfld Instance
+064a ldarg.0 
+064b ldfld intent
+0650 call UIComponentSystem::OpenWindow<ET.Client.Eudemon.EudemonDynamaxWindow>
+0655 dup 
+0656 brtrue.s 1630
+0658 pop 
+0659 br 4791
+065e ldarg.0 
+065f ldfld functionType
+0664 ldc.i4.1 
+0665 call EudemonDynamaxWindow::Refresh
+066a br 4791
+066f ldsfld Instance
+0674 call UIComponentSystem::OpenWindow<ET.Client.Activity2.MonthlyGiftWindow>
+0679 pop 
+067a br 4791
+067f ldsfld Instance
+0684 ldc.i4.s 111
+0686 box FunctionType
+068b call UIComponentSystem::OpenWindow<ET.Client.Role.DecorateBoxWindow>
+0690 pop 
+0691 br 4791
+0696 ldsfld Instance
+069b ldc.i4.s 108
+069d box FunctionType
+06a2 call UIComponentSystem::OpenWindow<ET.Client.Role.FashionWindow>
+06a7 pop 
+06a8 br 4791
+06ad ldsfld Instance
+06b2 ldc.i4.s 105
+06b4 box FunctionType
+06b9 call UIComponentSystem::OpenWindow<ET.Client.Role.FashionWindow>
+06be pop 
+06bf br 4791
+06c4 ldsfld Instance
+06c9 ldc.i4.s 104
+06cb box FunctionType
+06d0 call UIComponentSystem::OpenWindow<ET.Client.Role.FashionWindow>
+06d5 pop 
+06d6 br 4791
+06db ldsfld Instance
+06e0 call UIComponentSystem::OpenWindow<ET.Client.Guild.GuildShopWindow>
+06e5 pop 
+06e6 br 4791
+06eb ldarg.0 
+06ec ldfld scene
+06f1 call GuildHelper::RequestPlayerPrayInfo
+06f6 callvirt GetAwaiter
+06fb stloc.s local(0x000B)
+06fd ldloc.s local(0x000B)
+06ff callvirt get_IsCompleted
+0704 brtrue.s 1863
+0706 ldarg.0 
+0707 ldc.i4.1 
+0708 dup 
+0709 stloc.0 
+070a stfld <>1__state
+070f ldarg.0 
+0710 ldloc.s local(0x000B)
+0712 stfld <>u__1
+0717 ldarg.0 
+0718 ldflda <>t__builder
+071d ldloca.s local(0x000B)
+071f ldarg.0 
+0720 call AwaitUnsafeOnCompleted<ET.ETTask,.<FunctionJump>d__0>
+0725 leave 4918
+072a ldarg.0 
+072b ldfld <>u__1
+0730 castclass ETTask
+0735 stloc.s local(0x000B)
+0737 ldarg.0 
+0738 ldnull 
+0739 stfld <>u__1
+073e ldarg.0 
+073f ldc.i4.m1 
+0740 dup 
+0741 stloc.0 
+0742 stfld <>1__state
+0747 ldloc.s local(0x000B)
+0749 callvirt GetResult
+074e ldsfld Instance
+0753 call UIComponentSystem::OpenWindow<ET.Client.Guild.GuildPrayWindow>
+0758 pop 
+0759 br 4791
+075e ldsfld Instance
+0763 call UIComponentSystem::OpenWindow<ET.Client.Guild.GuildFightWindow>
+0768 pop 
+0769 br 4791
+076e ldarg.0 
+076f ldfld scene
+0774 ldarg.0 
+0775 ldfld <functionConfig>5__2
+077a call GuildHelper::JumpGuildArena
+077f callvirt Coroutine
+0784 br 4791
+0789 ldsfld Instance
+078e call UIComponentSystem::OpenWindow<ET.Client.Guild.GuildBossWindow>
+0793 pop 
+0794 br 4791
+0799 ldsfld Instance
+079e call UIComponentSystem::OpenWindow<ET.Client.Guild.GuildGuoldDonateWindow>
+07a3 pop 
+07a4 br 4791
+07a9 ldsfld Instance
+07ae call UIComponentSystem::OpenWindow<ET.Client.Guild.GuildResearchWindow>
+07b3 pop 
+07b4 br 4791
+07b9 ldsfld Instance
+07be call UIComponentSystem::OpenWindow<ET.Client.Guild.GuildWishWindow>
+07c3 pop 
+07c4 br 4791
+07c9 ldsfld Instance
+07ce call UIComponentSystem::OpenWindow<ET.Client.Role.RoleCenterWindow>
+07d3 pop 
+07d4 br 4791
+07d9 ldsfld Instance
+07de ldc.i4.s 103
+07e0 box FunctionType
+07e5 call UIComponentSystem::OpenWindow<ET.Client.Role.FashionWindow>
+07ea pop 
+07eb br 4791
+07f0 ldsfld Instance
+07f5 call UIComponentSystem::OpenWindow<ET.Client.Role.RoleCenterWindow>
+07fa pop 
+07fb br 4791
+0800 ldsfld Instance
+0805 ldc.i4.s 110
+0807 box FunctionType
+080c call UIComponentSystem::OpenWindow<ET.Client.Role.RoleCenterWindow>
+0811 pop 
+0812 br 4791
+0817 ldsfld Instance
+081c call UIComponentSystem::OpenWindow<ET.Client.Guild.GuildTaskWindow>
+0821 pop 
+0822 br 4791
+0827 ldsfld Instance
+082c call UIComponentSystem::OpenWindow<ET.Client.Assignment.TaskAchievementWindow>
+0831 pop 
+0832 br 4791
+0837 ldsfld Instance
+083c call UIComponentSystem::OpenWindow<ET.Client.Pve.PveTrialWindow>
+0841 pop 
+0842 br 4791
+0847 ldsfld Instance
+084c call UIComponentSystem::OpenWindow<ET.Client.Pve.PveDynamaxWindow>
+0851 pop 
+0852 br 4791
+0857 ldsfld Instance
+085c ldc.i4 204
+0861 box FunctionType
+0866 call UIComponentSystem::OpenWindow<ET.Client.Eudemon.EudemonWindow>
+086b pop 
+086c br 4791
+0871 ldsfld Instance
+0876 call UIComponentSystem::OpenWindow<ET.Client.Eudemon.EudemonIndividualWashWindow>
+087b pop 
+087c br 4791
+0881 ldsfld Instance
+0886 ldc.i4 211
+088b box FunctionType
+0890 call UIComponentSystem::OpenWindow<ET.Client.Eudemon.EudemonWindow>
+0895 pop 
+0896 br 4791
+089b ldsfld Instance
+08a0 ldc.i4 204
+08a5 box FunctionType
+08aa call UIComponentSystem::OpenWindow<ET.Client.Eudemon.EudemonWindow>
+08af pop 
+08b0 br 4791
+08b5 ldsfld Instance
+08ba ldc.i4 213
+08bf box FunctionType
+08c4 call UIComponentSystem::OpenWindow<ET.Client.Eudemon.EudemonWindow>
+08c9 pop 
+08ca br 4791
+08cf ldsfld Instance
+08d4 ldc.i4 215
+08d9 box FunctionType
+08de call UIComponentSystem::OpenWindow<ET.Client.Eudemon.EudemonWindow>
+08e3 pop 
+08e4 br 4791
+08e9 ldsfld Instance
+08ee ldc.i4 229
+08f3 box FunctionType
+08f8 call UIComponentSystem::OpenWindow<ET.Client.Eudemon.EudemonWindow>
+08fd pop 
+08fe br 4791
+0903 ldsfld Instance
+0908 ldc.i4 214
+090d box FunctionType
+0912 call UIComponentSystem::OpenWindow<ET.Client.Eudemon.EudemonWindow>
+0917 pop 
+0918 br 4791
+091d ldsfld Instance
+0922 ldc.i4 216
+0927 box FunctionType
+092c call UIComponentSystem::OpenWindow<ET.Client.Eudemon.EudemonWindow>
+0931 pop 
+0932 br 4791
+0937 call GuildHelper::Jump
+093c callvirt Coroutine
+0941 br 4791
+0946 ldarg.0 
+0947 ldfld scene
+094c call PvpViewHelper::JumpArena
+0951 callvirt Coroutine
+0956 br 4791
+095b ldarg.0 
+095c ldfld scene
+0961 call ArenaNewServerSystem::ArenaQueryOpponent
+0966 callvirt GetAwaiter
+096b stloc.s local(0x000C)
+096d ldloc.s local(0x000C)
+096f callvirt get_IsCompleted
+0974 brtrue.s 2487
+0976 ldarg.0 
+0977 ldc.i4.2 
+0978 dup 
+0979 stloc.0 
+097a stfld <>1__state
+097f ldarg.0 
+0980 ldloc.s local(0x000C)
+0982 stfld <>u__1
+0987 ldarg.0 
+0988 ldflda <>t__builder
+098d ldloca.s local(0x000C)
+098f ldarg.0 
+0990 call AwaitUnsafeOnCompleted<0x15,ET.ETTask`1,0x1,ET.Game2Client_ArenaNewQueryOpponent,.<FunctionJump>d__0>
+0995 leave 4918
+099a ldarg.0 
+099b ldfld <>u__1
+09a0 castclass 0x1b002187
+09a5 stloc.s local(0x000C)
+09a7 ldarg.0 
+09a8 ldnull 
+09a9 stfld <>u__1
+09ae ldarg.0 
+09af ldc.i4.m1 
+09b0 dup 
+09b1 stloc.0 
+09b2 stfld <>1__state
+09b7 ldloc.s local(0x000C)
+09b9 callvirt GetResult
+09be call TipHelper::TryWaitTipError
+09c3 brfalse.s 2506
+09c5 leave 4885
+09ca ldsfld Instance
+09cf call UIComponentSystem::OpenWindow<ET.Client.Pvp.ArenaNewWindow>
+09d4 pop 
+09d5 br 4791
+09da ldsfld Instance
+09df ldarg.0 
+09e0 ldfld functionType
+09e5 box FunctionType
+09ea call UIComponentSystem::OpenWindow<ET.Client.Assignment.DailyActiveWindow>
+09ef pop 
+09f0 br 4791
+09f5 ldsfld Instance
+09fa call UIComponentSystem::OpenWindow<ET.Client.Pvp.PvpWarCopyWindow>
+09ff pop 
+0a00 br 4791
+0a05 ldsfld Instance
+0a0a call UIComponentSystem::OpenWindow<ET.Client.Pvp.FierceFightWindow>
+0a0f pop 
+0a10 br 4791
+0a15 ldarg.0 
+0a16 ldfld scene
+0a1b call PvpViewHelper::JumpNewDuelMasters
+0a20 callvirt Coroutine
+0a25 br 4791
+0a2a ldarg.0 
+0a2b ldfld scene
+0a30 call PvpViewHelper::JumpNewDuelMasters
+0a35 callvirt Coroutine
+0a3a br 4791
+0a3f ldsfld Instance
+0a44 call UIComponentSystem::OpenWindow<ET.Client.Pve2.TeraRaidBattleWindow>
+0a49 pop 
+0a4a br 4791
+0a4f ldarg.0 
+0a50 ldfld scene
+0a55 call PvpViewHelper::JumpKingFight
+0a5a callvirt Coroutine
+0a5f br 4791
+0a64 ldarg.0 
+0a65 ldfld scene
+0a6a call PvpViewHelper::JumpGymLeader
+0a6f callvirt Coroutine
+0a74 br 4791
+0a79 ldarg.0 
+0a7a ldfld scene
+0a7f call PvpViewHelper::JumpFairArena
+0a84 callvirt Coroutine
+0a89 br 4791
+0a8e ldarg.0 
+0a8f ldfld scene
+0a94 call PvpViewHelper::JumpLadderChannel
+0a99 callvirt Coroutine
+0a9e br 4791
+0aa3 ldarg.0 
+0aa4 ldfld scene
+0aa9 call PvpViewHelper::JumpLadder
+0aae callvirt Coroutine
+0ab3 br 4791
+0ab8 ldsfld Instance
+0abd call UIComponentSystem::OpenWindow<ET.Client.Role.MountAndFasionWindow>
+0ac2 pop 
+0ac3 br 4791
+0ac8 ldsfld Instance
+0acd call ClientSceneManagerComponentSystem::ClientScene
+0ad2 ldc.i4.0 
+0ad3 ldc.i4.0 
+0ad4 conv.i8 
+0ad5 ldc.i4.0 
+0ad6 conv.i8 
+0ad7 call MailServerSystem::QueryMailInfo
+0adc callvirt GetAwaiter
+0ae1 stloc.s local(0x000D)
+0ae3 ldloc.s local(0x000D)
+0ae5 callvirt get_IsCompleted
+0aea brtrue.s 2861
+0aec ldarg.0 
+0aed ldc.i4.3 
+0aee dup 
+0aef stloc.0 
+0af0 stfld <>1__state
+0af5 ldarg.0 
+0af6 ldloc.s local(0x000D)
+0af8 stfld <>u__1
+0afd ldarg.0 
+0afe ldflda <>t__builder
+0b03 ldloca.s local(0x000D)
+0b05 ldarg.0 
+0b06 call AwaitUnsafeOnCompleted<0x15,ET.ETTask`1,0x1,ET.Game2Client_QueryMailInfo,.<FunctionJump>d__0>
+0b0b leave 4918
+0b10 ldarg.0 
+0b11 ldfld <>u__1
+0b16 castclass 0x1b0016b2
+0b1b stloc.s local(0x000D)
+0b1d ldarg.0 
+0b1e ldnull 
+0b1f stfld <>u__1
+0b24 ldarg.0 
+0b25 ldc.i4.m1 
+0b26 dup 
+0b27 stloc.0 
+0b28 stfld <>1__state
+0b2d ldloc.s local(0x000D)
+0b2f callvirt GetResult
+0b34 pop 
+0b35 ldsfld Instance
+0b3a call UIComponentSystem::OpenWindow<ET.Client.Mail.MailWindow>
+0b3f pop 
+0b40 br 4791
+0b45 ldsfld Instance
+0b4a call UIComponentSystem::OpenWindow<ET.Client.Friend.FriendWindow>
+0b4f pop 
+0b50 br 4791
+0b55 ldsfld Instance
+0b5a call UIComponentSystem::OpenWindow<ET.Client.Vip.VipCenterWindow>
+0b5f pop 
+0b60 br 4791
+0b65 ldsfld Instance
+0b6a call UIComponentSystem::OpenWindow<ET.Client.Pve.PveMainWindow>
+0b6f pop 
+0b70 br 4791
+0b75 ldsfld Instance
+0b7a ldarg.0 
+0b7b ldfld intent
+0b80 call UIComponentSystem::OpenWindow<ET.Client.Pve.PveTrainerWindow>
+0b85 pop 
+0b86 br 4791
+0b8b ldsfld Instance
+0b90 ldarg.0 
+0b91 ldfld intent
+0b96 call UIComponentSystem::OpenWindow<ET.Client.Pve.PveTreasureWindow>
+0b9b pop 
+0b9c br 4791
+0ba1 ldsfld Instance
+0ba6 ldarg.0 
+0ba7 ldfld intent
+0bac call UIComponentSystem::OpenWindow<ET.Client.Pve.PveEudemonStarWindow>
+0bb1 pop 
+0bb2 br 4791
+0bb7 ldsfld Instance
+0bbc ldarg.0 
+0bbd ldfld intent
+0bc2 call UIComponentSystem::OpenWindow<ET.Client.Pve.PveGymLeaderWindow>
+0bc7 pop 
+0bc8 br 4791
+0bcd ldsfld Instance
+0bd2 ldarg.0 
+0bd3 ldfld intent
+0bd8 call UIComponentSystem::OpenWindow<ET.Client.Pve.PveTerastalWindow>
+0bdd pop 
+0bde br 4791
+0be3 ldsfld Instance
+0be8 ldarg.0 
+0be9 ldfld intent
+0bee call UIComponentSystem::OpenWindow<ET.Client.Pve.PveEliteFourWindow>
+0bf3 pop 
+0bf4 br 4791
+0bf9 ldsfld Instance
+0bfe call UIComponentSystem::OpenWindow<ET.Client.Pve.PveUnionWindow>
+0c03 pop 
+0c04 br 4791
+0c09 ldarg.0 
+0c0a ldfld scene
+0c0f call PveBossServerSystem::SendPveBossData
+0c14 callvirt GetAwaiter
+0c19 stloc.s local(0x000E)
+0c1b ldloc.s local(0x000E)
+0c1d callvirt get_IsCompleted
+0c22 brtrue.s 3173
+0c24 ldarg.0 
+0c25 ldc.i4.4 
+0c26 dup 
+0c27 stloc.0 
+0c28 stfld <>1__state
+0c2d ldarg.0 
+0c2e ldloc.s local(0x000E)
+0c30 stfld <>u__1
+0c35 ldarg.0 
+0c36 ldflda <>t__builder
+0c3b ldloca.s local(0x000E)
+0c3d ldarg.0 
+0c3e call AwaitUnsafeOnCompleted<0x15,ET.ETTask`1,0x1,ET.Game2Client_PveBossData,.<FunctionJump>d__0>
+0c43 leave 4918
+0c48 ldarg.0 
+0c49 ldfld <>u__1
+0c4e castclass 0x1b002146
+0c53 stloc.s local(0x000E)
+0c55 ldarg.0 
+0c56 ldnull 
+0c57 stfld <>u__1
+0c5c ldarg.0 
+0c5d ldc.i4.m1 
+0c5e dup 
+0c5f stloc.0 
+0c60 stfld <>1__state
+0c65 ldloc.s local(0x000E)
+0c67 callvirt GetResult
+0c6c call TipHelper::TryWaitTipError
+0c71 brfalse.s 3192
+0c73 leave 4885
+0c78 ldsfld Instance
+0c7d call UIComponentSystem::OpenWindow<ET.Client.Pve2.PveBossWindow>
+0c82 pop 
+0c83 br 4791
+0c88 ldsfld Instance
+0c8d call UIComponentSystem::OpenWindow<ET.Client.Shop.ShopWindow>
+0c92 pop 
+0c93 br 4791
+0c98 ldsfld Instance
+0c9d ldc.i4 306
+0ca2 box FunctionType
+0ca7 call UIComponentSystem::OpenWindow<ET.Client.Shop.ShopWindow>
+0cac pop 
+0cad br 4791
+0cb2 ldsfld Instance
+0cb7 ldc.i4 307
+0cbc box FunctionType
+0cc1 call UIComponentSystem::OpenWindow<ET.Client.Shop.ShopWindow>
+0cc6 pop 
+0cc7 br 4791
+0ccc ldsfld Instance
+0cd1 ldc.i4 308
+0cd6 box FunctionType
+0cdb call UIComponentSystem::OpenWindow<ET.Client.Shop.ShopWindow>
+0ce0 pop 
+0ce1 br 4791
+0ce6 ldsfld Instance
+0ceb ldc.i4 309
+0cf0 box FunctionType
+0cf5 call UIComponentSystem::OpenWindow<ET.Client.Shop.ShopWindow>
+0cfa pop 
+0cfb br 4791
+0d00 ldsfld Instance
+0d05 ldc.i4 310
+0d0a box FunctionType
+0d0f call UIComponentSystem::OpenWindow<ET.Client.Shop.ShopWindow>
+0d14 pop 
+0d15 br 4791
+0d1a ldsfld Instance
+0d1f ldc.i4 311
+0d24 box FunctionType
+0d29 call UIComponentSystem::OpenWindow<ET.Client.Shop.ShopWindow>
+0d2e pop 
+0d2f br 4791
+0d34 ldsfld Instance
+0d39 ldc.i4 312
+0d3e box FunctionType
+0d43 call UIComponentSystem::OpenWindow<ET.Client.Shop.ShopWindow>
+0d48 pop 
+0d49 br 4791
+0d4e ldsfld Instance
+0d53 ldc.i4 313
+0d58 box FunctionType
+0d5d call UIComponentSystem::OpenWindow<ET.Client.Shop.ShopWindow>
+0d62 pop 
+0d63 br 4791
+0d68 ldsfld Instance
+0d6d ldc.i4 314
+0d72 box FunctionType
+0d77 call UIComponentSystem::OpenWindow<ET.Client.Shop.ShopWindow>
+0d7c pop 
+0d7d br 4791
+0d82 ldsfld Instance
+0d87 call UIComponentSystem::OpenWindow<ET.Client.Eudemon.EudemonNatureWashWindow>
+0d8c pop 
+0d8d br 4791
+0d92 ldsfld Instance
+0d97 call UIComponentSystem::OpenWindow<ET.Client.Gather.GatherWindow>
+0d9c pop 
+0d9d br 4791
+0da2 ldsfld Instance
+0da7 call UIComponentSystem::OpenWindow<ET.Client.Gashapon.GashaponWindow>
+0dac pop 
+0dad br 4791
+0db2 ldsfld Instance
+0db7 call UIComponentSystem::OpenWindow<ET.Client.Badge.BadgeWindow>
+0dbc pop 
+0dbd br 4791
+0dc2 ldsfld Instance
+0dc7 call UIComponentSystem::OpenWindow<ET.Client.Rank.RankCenterWindow>
+0dcc pop 
+0dcd br 4791
+0dd2 ldsfld Instance
+0dd7 call UIComponentSystem::OpenWindow<ET.Client.Eudemon.EudemonFreeWindow>
+0ddc pop 
+0ddd br 4791
+0de2 ldsfld Instance
+0de7 ldarg.0 
+0de8 ldfld intent
+0ded call UIComponentSystem::OpenWindow<ET.Client.Shop.NpcShopWindow>
+0df2 pop 
+0df3 br 4791
+0df8 ldsfld Instance
+0dfd ldc.i4 803
+0e02 box FunctionType
+0e07 call UIComponentSystem::OpenWindow<ET.Client.Assignment.TaskCenterWindow>
+0e0c pop 
+0e0d br 4791
+0e12 ldsfld Instance
+0e17 ldc.i4 804
+0e1c box FunctionType
+0e21 call UIComponentSystem::OpenWindow<ET.Client.Assignment.TaskCenterWindow>
+0e26 pop 
+0e27 br 4791
+0e2c ldsfld Instance
+0e31 ldc.i4 805
+0e36 box FunctionType
+0e3b call UIComponentSystem::OpenWindow<ET.Client.Assignment.TaskCenterWindow>
+0e40 pop 
+0e41 br 4791
+0e46 ldsfld Instance
+0e4b ldc.i4 806
+0e50 box FunctionType
+0e55 call UIComponentSystem::OpenWindow<ET.Client.Assignment.TaskCenterWindow>
+0e5a pop 
+0e5b br 4791
+0e60 ldarg.0 
+0e61 ldfld scene
+0e66 callvirt GetComponent<ET.Pokemon.Activity.Component.ActivityComponent>
+0e6b ldc.i4 611
+0e70 call ActivityComponentSystem::GetFirstActivityIdByBaseType
+0e75 stloc.s local(0x0004)
+0e77 ldsfld Instance
+0e7c ldloc.s local(0x0004)
+0e7e box Int64
+0e83 call UIComponentSystem::OpenWindow<ET.Client.Activity.ActivityUIWindow>
+0e88 pop 
+0e89 br 4791
+0e8e ldarg.0 
+0e8f ldarg.0 
+0e90 ldfld intent
+0e95 unbox.any Int32
+0e9a stfld <npcId>5__4
+0e9f ldarg.0 
+0ea0 ldfld scene
+0ea5 call ClientSceneManagerComponentSystem::ClientScene
+0eaa call NpcHelper::TriggerRestoreEudemon
+0eaf callvirt GetAwaiter
+0eb4 stloc.s local(0x000F)
+0eb6 ldloc.s local(0x000F)
+0eb8 callvirt get_IsCompleted
+0ebd brtrue.s 3840
+0ebf ldarg.0 
+0ec0 ldc.i4.5 
+0ec1 dup 
+0ec2 stloc.0 
+0ec3 stfld <>1__state
+0ec8 ldarg.0 
+0ec9 ldloc.s local(0x000F)
+0ecb stfld <>u__1
+0ed0 ldarg.0 
+0ed1 ldflda <>t__builder
+0ed6 ldloca.s local(0x000F)
+0ed8 ldarg.0 
+0ed9 call AwaitUnsafeOnCompleted<0x15,ET.ETTask`1,0x1,ET.Game2Client_RestoreEudemon,.<FunctionJump>d__0>
+0ede leave 4918
+0ee3 ldarg.0 
+0ee4 ldfld <>u__1
+0ee9 castclass 0x1b001db7
+0eee stloc.s local(0x000F)
+0ef0 ldarg.0 
+0ef1 ldnull 
+0ef2 stfld <>u__1
+0ef7 ldarg.0 
+0ef8 ldc.i4.m1 
+0ef9 dup 
+0efa stloc.0 
+0efb stfld <>1__state
+0f00 ldloc.s local(0x000F)
+0f02 callvirt GetResult
+0f07 stloc.s local(0x0005)
+0f09 ldloc.s local(0x0005)
+0f0b callvirt get_Error
+0f10 brfalse.s 3871
+0f12 ldloc.s local(0x0005)
+0f14 call ConfirmHelper::ErrorTips
+0f19 pop 
+0f1a leave 4885
+0f1f ldarg.0 
+0f20 ldfld scene
+0f25 call CurrentScenesComponentSystem::CurrentScene
+0f2a callvirt GetComponent<ET.Client.MapViewComponent>
+0f2f stloc.s local(0x0006)
+0f31 ldloc.s local(0x0006)
+0f33 brfalse.s 4014
+0f35 ldarg.0 
+0f36 ldfld scene
+0f3b callvirt GetComponent<ET.EudemonBallComponent>
+0f40 stloc.s local(0x0010)
+0f42 ldloc.s local(0x0006)
+0f44 ldloc.s local(0x0010)
+0f46 call EudemonBallComponentSystem::GetEudemonInBallNum
+0f4b ldarg.0 
+0f4c ldfld <npcId>5__4
+0f51 call MapViewComponentSystem::PlayNearPrefabDying
+0f56 callvirt GetAwaiter
+0f5b stloc.s local(0x000B)
+0f5d ldloc.s local(0x000B)
+0f5f callvirt get_IsCompleted
+0f64 brtrue.s 4007
+0f66 ldarg.0 
+0f67 ldc.i4.6 
+0f68 dup 
+0f69 stloc.0 
+0f6a stfld <>1__state
+0f6f ldarg.0 
+0f70 ldloc.s local(0x000B)
+0f72 stfld <>u__1
+0f77 ldarg.0 
+0f78 ldflda <>t__builder
+0f7d ldloca.s local(0x000B)
+0f7f ldarg.0 
+0f80 call AwaitUnsafeOnCompleted<ET.ETTask,.<FunctionJump>d__0>
+0f85 leave 4918
+0f8a ldarg.0 
+0f8b ldfld <>u__1
+0f90 castclass ETTask
+0f95 stloc.s local(0x000B)
+0f97 ldarg.0 
+0f98 ldnull 
+0f99 stfld <>u__1
+0f9e ldarg.0 
+0f9f ldc.i4.m1 
+0fa0 dup 
+0fa1 stloc.0 
+0fa2 stfld <>1__state
+0fa7 ldloc.s local(0x000B)
+0fa9 callvirt GetResult
+0fae ldstr 'EudemonRestoreSuc'
+0fb3 call Empty<0x1c>
+0fb8 call TipHelper::ShowTips
+0fbd ldarg.0 
+0fbe ldfld scene
+0fc3 call CurrentScenesComponentSystem::CurrentScene
+0fc8 ldarg.0 
+0fc9 ldfld <npcId>5__4
+0fce ldloca.s local(0x0007)
+0fd0 call NpcHelper::FindNpcUnitByConfigId
+0fd5 brtrue.s 4060
+0fd7 leave 4885
+0fdc ldloc.s local(0x0007)
+0fde callvirt GetComponent<ET.NpcComponent>
+0fe3 call NpcHelper::ForceExcuteWithMyUnit
+0fe8 br 4791
+0fed ldsfld Instance
+0ff2 call UIComponentSystem::OpenWindow<ET.Client.Eudemon.EudemonSaveWindow>
+0ff7 dup 
+0ff8 brtrue.s 4096
+0ffa pop 
+0ffb br 4791
+1000 ldc.i4.0 
+1001 call EudemonSaveWindow::SetType
+1006 br 4791
+100b ldsfld Instance
+1010 call UIComponentSystem::OpenWindow<ET.Client.Eudemon.EudemonSaveWindow>
+1015 dup 
+1016 brtrue.s 4126
+1018 pop 
+1019 br 4791
+101e ldc.i4.1 
+101f call EudemonSaveWindow::SetType
+1024 br 4791
+1029 ldsfld Instance
+102e call UIComponentSystem::OpenWindow<ET.Client.Eudemon.EudemonMutationWindow>
+1033 dup 
+1034 brtrue.s 4156
+1036 pop 
+1037 br 4791
+103c ldc.i4.0 
+103d call EudemonMutationWindow::Refresh
+1042 br 4791
+1047 ldsfld Instance
+104c call UIComponentSystem::OpenWindow<ET.Client.Eudemon.EudemonMutationWindow>
+1051 dup 
+1052 brtrue.s 4186
+1054 pop 
+1055 br 4791
+105a ldc.i4.1 
+105b call EudemonMutationWindow::Refresh
+1060 br 4791
+1065 ldsfld Instance
+106a call UIComponentSystem::OpenWindow<ET.Client.EudemonStone.EudemonStoneWindow>
+106f pop 
+1070 br 4791
+1075 ldsfld Instance
+107a call UIComponentSystem::OpenWindow<ET.Client.Pvp.DoubleBattleMainWindow>
+107f pop 
+1080 br 4791
+1085 ldarg.0 
+1086 ldfld scene
+108b callvirt GetComponent<ET.FameHallComponent>
+1090 stloc.s local(0x0008)
+1092 ldloc.s local(0x0008)
+1094 call FameHallComponentSystem::CheckOpen
+1099 brtrue.s 4300
+109b ldc.i4.3 
+109c stloc.s local(0x0011)
+109e ldloc.s local(0x0008)
+10a0 callvirt get_FameHallInfo
+10a5 brfalse.s 4277
+10a7 ldloc.s local(0x0008)
+10a9 callvirt get_FameHallInfo
+10ae callvirt get_FameHallType
+10b3 stloc.s local(0x0011)
+10b5 ldsfld Instance
+10ba ldloc.s local(0x0011)
+10bc box FameHallType
+10c1 call UIComponentSystem::OpenWindow<ET.Client.Pvp.FameHallRankWindow>
+10c6 pop 
+10c7 br 4791
+10cc ldloc.s local(0x0008)
+10ce callvirt get_SelectId
+10d3 brtrue.s 4325
+10d5 ldsfld Instance
+10da call UIComponentSystem::OpenWindow<ET.Client.Pvp.FameHallJoinWindow>
+10df pop 
+10e0 br 4791
+10e5 ldsfld Instance
+10ea call UIComponentSystem::OpenWindow<ET.Client.Pvp.FameHallChallengeWindow>
+10ef pop 
+10f0 br 4791
+10f5 ldarg.0 
+10f6 ldfld scene
+10fb callvirt GetComponent<ET.RelaxFightComponent>
+1100 stloc.s local(0x0009)
+1102 ldloc.s local(0x0009)
+1104 ldfld RelaxFightRoomInfo
+1109 brtrue.s 4379
+110b ldsfld Instance
+1110 call UIComponentSystem::OpenWindow<ET.Client.Pvp.RelaxFightMainWindow>
+1115 pop 
+1116 br 4791
+111b ldloc.s local(0x0009)
+111d ldfld Stage
+1122 ldc.i4.1 
+1123 bgt.s 4410
+1125 ldsfld Instance
+112a call UIComponentSystem::OpenWindow<ET.Client.Pvp.RelaxFightRoomWindow>
+112f ldc.i4.1 
+1130 callvirt RelaxFightRoomWindow::UpdateRoomInfo
+1135 br 4791
+113a ldloc.s local(0x0009)
+113c ldfld Stage
+1141 ldc.i4.1 
+1142 ble.s 4478
+1144 ldsfld Instance
+1149 ldloca.s local(0x0012)
+114b initobj RelaxFightBattleRoomDto
+1151 ldloca.s local(0x0012)
+1153 ldloc.s local(0x0009)
+1155 ldfld RelaxFightRoomInfo
+115a callvirt get_RoomId
+115f stfld RoomId
+1164 ldloca.s local(0x0012)
+1166 ldc.i4.1 
+1167 stfld IsSelf
+116c ldloc.s local(0x0012)
+116e box RelaxFightBattleRoomDto
+1173 call UIComponentSystem::OpenWindow<ET.Client.Pvp.RelaxFightBattleRoomWindow>
+1178 pop 
+1179 br 4791
+117e ldsfld Instance
+1183 call UIComponentSystem::OpenWindow<ET.Client.Pvp.RelaxFightMainWindow>
+1188 pop 
+1189 br 4791
+118e ldsfld Instance
+1193 call UIComponentSystem::OpenWindow<ET.Client.Pve.PveTowerCopyWindow>
+1198 pop 
+1199 br 4791
+119e ldarg.0 
+119f ldfld scene
+11a4 call PveExpeditionLoadServerSystem::GetPveExpeditionLoadInfo
+11a9 callvirt GetAwaiter
+11ae stloc.s local(0x0013)
+11b0 ldloc.s local(0x0013)
+11b2 callvirt get_IsCompleted
+11b7 brtrue.s 4602
+11b9 ldarg.0 
+11ba ldc.i4.7 
+11bb dup 
+11bc stloc.0 
+11bd stfld <>1__state
+11c2 ldarg.0 
+11c3 ldloc.s local(0x0013)
+11c5 stfld <>u__1
+11ca ldarg.0 
+11cb ldflda <>t__builder
+11d0 ldloca.s local(0x0013)
+11d2 ldarg.0 
+11d3 call AwaitUnsafeOnCompleted<0x15,ET.ETTask`1,0x1,ET.Game2Client_GetPveExpeditionLoadInfo,.<FunctionJump>d__0>
+11d8 leave 4918
+11dd ldarg.0 
+11de ldfld <>u__1
+11e3 castclass 0x1b000f93
+11e8 stloc.s local(0x0013)
+11ea ldarg.0 
+11eb ldnull 
+11ec stfld <>u__1
+11f1 ldarg.0 
+11f2 ldc.i4.m1 
+11f3 dup 
+11f4 stloc.0 
+11f5 stfld <>1__state
+11fa ldloc.s local(0x0013)
+11fc callvirt GetResult
+1201 call TipHelper::TryWaitTipError
+1206 brfalse.s 4621
+1208 leave 4885
+120d ldsfld Instance
+1212 call UIComponentSystem::OpenWindow<ET.Client.Pve2.PveExpeditionLoadWindow>
+1217 pop 
+1218 br 4791
+121d ldsfld Instance
+1222 call UIComponentSystem::GetOpenWindow<ET.Client.Main.MainWindow>
+1227 dup 
+1228 brtrue.s 4656
+122a pop 
+122b br 4791
+1230 ldarg.0 
+1231 ldfld scene
+1236 call MainWindow::JumpToSnowTemple
+123b pop 
+123c br.s 4791
+123e ldarg.0 
+123f ldfld scene
+1244 callvirt GetComponent<ET.SeasonChannelComponent>
+1249 stloc.s local(0x0014)
+124b ldloc.s local(0x0014)
+124d callvirt get_baseConfig
+1252 brtrue.s 4718
+1254 ldloc.s local(0x0014)
+1256 callvirt get_nextLevelConfig
+125b brtrue.s 4718
+125d ldstr 'ComingSoon'
+1262 call Empty<0x1c>
+1267 call TipHelper::ShowTips
+126c br.s 4791
+126e ldsfld Instance
+1273 call UIComponentSystem::OpenWindow<ET.Client.Pvp2.SeasonChannelWindow>
+1278 pop 
+1279 br.s 4791
+127b ldsfld Instance
+1280 call UIComponentSystem::OpenWindow<ET.Client.Pvp2.SeasonChannelBookWindow>
+1285 pop 
+1286 br.s 4791
+1288 ldsfld Instance
+128d call UIComponentSystem::OpenWindow<ET.Client.Activity105.ActivityServerCelebrationWindow>
+1292 pop 
+1293 br.s 4791
+1295 ldsfld Instance
+129a ldarg.0 
+129b ldfld intent
+12a0 call UIComponentSystem::OpenWindow<ET.Client.Eudemon.EudemonSwapWindow>
+12a5 pop 
+12a6 br.s 4791
+12a8 ldstr 'ComingSoon'
+12ad call Empty<0x1c>
+12b2 call TipHelper::ShowTips
+12b7 ldarg.0 
+12b8 ldfld <uiForm>5__3
+12bd ldnull 
+12be cgt.un 
+12c0 ldarg.0 
+12c1 ldfld isOrder
+12c6 and 
+12c7 brfalse.s 4844
+12c9 ldarg.0 
+12ca ldfld <uiForm>5__3
+12cf callvirt RemoveComponent<ET.Client.UIShowOrderComponent>
+12d4 ldarg.0 
+12d5 ldfld <uiForm>5__3
+12da ldc.i4.1 
+12db ldc.i4.0 
+12dc callvirt AddComponent<ET.Client.UIShowOrderComponent,0x8>
+12e1 pop 
+12e2 ldsfld Instance
+12e7 call UIComponentSystem::ResetWindowsState
+12ec leave.s 4885
+12ee stloc.s local(0x0015)
+12f0 ldarg.0 
+12f1 ldc.i4.s -2
+12f3 stfld <>1__state
+12f8 ldarg.0 
+12f9 ldnull 
+12fa stfld <functionConfig>5__2
+12ff ldarg.0 
+1300 ldnull 
+1301 stfld <uiForm>5__3
+1306 ldarg.0 
+1307 ldflda <>t__builder
+130c ldloc.s local(0x0015)
+130e call SetException
+1313 leave.s 4918
+1315 ldarg.0 
+1316 ldc.i4.s -2
+1318 stfld <>1__state
+131d ldarg.0 
+131e ldnull 
+131f stfld <functionConfig>5__2
+1324 ldarg.0 
+1325 ldnull 
+1326 stfld <uiForm>5__3
+132b ldarg.0 
+132c ldflda <>t__builder
+1331 call SetResult
+1336 ret 

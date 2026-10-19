@@ -1,0 +1,818 @@
+{
+  "items": [
+    {
+      "type": 3,
+      "id": "k36zh266",
+      "name": "FunctionPreview_MiniWindow",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "k36zh268",
+      "name": "FunctionOpen_MiniWindow",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 0,
+      "id": "gtag6h2w1",
+      "name": "fun_show130",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        329,
+        310
+      ]
+    },
+    {
+      "type": 0,
+      "id": "gtag6h2w2",
+      "name": "fun_show177",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        329,
+        310
+      ]
+    },
+    {
+      "type": 0,
+      "id": "gtag6h2w3",
+      "name": "fun_show229",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        329,
+        310
+      ]
+    },
+    {
+      "type": 0,
+      "id": "gtag6h2w4",
+      "name": "fun_show230",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        329,
+        310
+      ]
+    },
+    {
+      "type": 0,
+      "id": "gtag6h2w5",
+      "name": "fun_show231",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        329,
+        310
+      ]
+    },
+    {
+      "type": 0,
+      "id": "j1426h2vd",
+      "name": "fun_show102",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        329,
+        310
+      ]
+    },
+    {
+      "type": 0,
+      "id": "j1426h2ve",
+      "name": "fun_show222",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        329,
+        310
+      ]
+    },
+    {
+      "type": 0,
+      "id": "j1426h2vf",
+      "name": "fun_show220",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        329,
+        310
+      ]
+    },
+    {
+      "type": 0,
+      "id": "j1426h2vg",
+      "name": "fun_show216",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        329,
+        310
+      ]
+    },
+    {
+      "type": 0,
+      "id": "j1426h2vh",
+      "name": "fun_show214",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        329,
+        310
+      ]
+    },
+    {
+      "type": 0,
+      "id": "j1426h2vi",
+      "name": "fun_show213",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        329,
+        310
+      ]
+    },
+    {
+      "type": 0,
+      "id": "j1426h2vj",
+      "name": "fun_show212",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        329,
+        310
+      ]
+    },
+    {
+      "type": 0,
+      "id": "j1426h2vk",
+      "name": "fun_show211",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        329,
+        310
+      ]
+    },
+    {
+      "type": 0,
+      "id": "j1426h2vl",
+      "name": "fun_show204",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        329,
+        310
+      ]
+    },
+    {
+      "type": 0,
+      "id": "j1426h2vm",
+      "name": "fun_show203",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        329,
+        310
+      ]
+    },
+    {
+      "type": 0,
+      "id": "j1426h2vn",
+      "name": "fun_show173",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        329,
+        310
+      ]
+    },
+    {
+      "type": 0,
+      "id": "j1426h2vo",
+      "name": "fun_show172",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        329,
+        310
+      ]
+    },
+    {
+      "type": 0,
+      "id": "j1426h2vp",
+      "name": "fun_show161",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        329,
+        310
+      ]
+    },
+    {
+      "type": 0,
+      "id": "j1426h2vq",
+      "name": "fun_show125",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        329,
+        310
+      ]
+    },
+    {
+      "type": 0,
+      "id": "j1426h2vr",
+      "name": "fun_show124",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        329,
+        310
+      ]
+    },
+    {
+      "type": 0,
+      "id": "j1426h2vs",
+      "name": "fun_show123",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        329,
+        310
+      ]
+    },
+    {
+      "type": 0,
+      "id": "j1426h2vt",
+      "name": "fun_show122",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        329,
+        310
+      ]
+    },
+    {
+      "type": 0,
+      "id": "j1426h2vu",
+      "name": "fun_show117",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        329,
+        310
+      ]
+    },
+    {
+      "type": 0,
+      "id": "j1426h2vv",
+      "name": "fun_show116",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        329,
+        310
+      ]
+    },
+    {
+      "type": 0,
+      "id": "j1426h2vw",
+      "name": "fun_show115",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        329,
+        310
+      ]
+    },
+    {
+      "type": 0,
+      "id": "j1426h2vx",
+      "name": "fun_show113",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        329,
+        310
+      ]
+    },
+    {
+      "type": 0,
+      "id": "j1426h2vy",
+      "name": "fun_show107",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        329,
+        310
+      ]
+    },
+    {
+      "type": 0,
+      "id": "j1426h2vz",
+      "name": "fun_show223",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        329,
+        310
+      ]
+    },
+    {
+      "type": 0,
+      "id": "j1426h2w0",
+      "name": "fun_show224",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        329,
+        310
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas0",
+      "name": null,
+      "path": null,
+      "file": "atlas0.png",
+      "size": [
+        2048,
+        2048
+      ]
+    }
+  ],
+  "sprites": [
+    {
+      "id": "j1426h2vd",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        0,
+        329,
+        310
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "gtag6h2w3",
+      "atlas": "atlas0",
+      "rect": [
+        331,
+        0,
+        329,
+        310
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "gtag6h2w2",
+      "atlas": "atlas0",
+      "rect": [
+        662,
+        0,
+        329,
+        310
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "gtag6h2w1",
+      "atlas": "atlas0",
+      "rect": [
+        993,
+        0,
+        329,
+        310
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "j1426h2w0",
+      "atlas": "atlas0",
+      "rect": [
+        1324,
+        0,
+        329,
+        310
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "j1426h2vz",
+      "atlas": "atlas0",
+      "rect": [
+        1655,
+        0,
+        329,
+        310
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "j1426h2vy",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        312,
+        310,
+        329
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "j1426h2vx",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        643,
+        310,
+        329
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "j1426h2vw",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        974,
+        310,
+        329
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "j1426h2vv",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        1305,
+        310,
+        329
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "j1426h2vu",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        1636,
+        310,
+        329
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "j1426h2vt",
+      "atlas": "atlas0",
+      "rect": [
+        312,
+        312,
+        329,
+        310
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "j1426h2vs",
+      "atlas": "atlas0",
+      "rect": [
+        643,
+        312,
+        329,
+        310
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "gtag6h2w4",
+      "atlas": "atlas0",
+      "rect": [
+        974,
+        312,
+        329,
+        310
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "j1426h2vr",
+      "atlas": "atlas0",
+      "rect": [
+        1305,
+        312,
+        329,
+        310
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "j1426h2vp",
+      "atlas": "atlas0",
+      "rect": [
+        1636,
+        312,
+        329,
+        310
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "j1426h2vo",
+      "atlas": "atlas0",
+      "rect": [
+        312,
+        624,
+        310,
+        329
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "j1426h2vn",
+      "atlas": "atlas0",
+      "rect": [
+        312,
+        955,
+        310,
+        329
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "j1426h2vm",
+      "atlas": "atlas0",
+      "rect": [
+        312,
+        1286,
+        310,
+        329
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "j1426h2vl",
+      "atlas": "atlas0",
+      "rect": [
+        312,
+        1617,
+        310,
+        329
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "j1426h2vk",
+      "atlas": "atlas0",
+      "rect": [
+        624,
+        624,
+        329,
+        310
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "j1426h2vj",
+      "atlas": "atlas0",
+      "rect": [
+        955,
+        624,
+        329,
+        310
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "j1426h2vi",
+      "atlas": "atlas0",
+      "rect": [
+        1286,
+        624,
+        329,
+        310
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "j1426h2vh",
+      "atlas": "atlas0",
+      "rect": [
+        1617,
+        624,
+        329,
+        310
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "j1426h2vg",
+      "atlas": "atlas0",
+      "rect": [
+        624,
+        936,
+        310,
+        329
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "j1426h2vf",
+      "atlas": "atlas0",
+      "rect": [
+        624,
+        1267,
+        310,
+        329
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "j1426h2ve",
+      "atlas": "atlas0",
+      "rect": [
+        624,
+        1598,
+        310,
+        329
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "j1426h2vq",
+      "atlas": "atlas0",
+      "rect": [
+        936,
+        936,
+        329,
+        310
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "gtag6h2w5",
+      "atlas": "atlas0",
+      "rect": [
+        1267,
+        936,
+        329,
+        310
+      ],
+      "rotated": 0
+    }
+  ],
+  "strings": [
+    "c1imbcrl",
+    "Base",
+    "ufgirfkm",
+    "Common",
+    "cyrayt3h",
+    "Item",
+    "k36zh266",
+    "FunctionPreview_MiniWindow",
+    "/",
+    "eqxp6h4fd",
+    "n51_qsto",
+    "win",
+    "n58_jcue",
+    "icon_function",
+    "ui://sgqwpc5aj1426h2vd",
+    "h1ws1k",
+    "n57_qsto",
+    "n57",
+    "eqxp6h4fj",
+    "n56_qsto",
+    "n56",
+    "qsto6h4gf",
+    "n53_qsto",
+    "n53",
+    "n54_qsto",
+    "n54",
+    "n44_k36z",
+    "list_preview",
+    "ui://ufgirfkmqsto6h2wt",
+    "n45_k36z",
+    "lb_name",
+    "功能预告",
+    "n46_k36z",
+    "lb_desc",
+    "功能预告",
+    "n47_k36z",
+    "lb_reward",
+    "功能奖励",
+    "n48_k36z",
+    "list_reward",
+    "ui://ufgirfkmewfrh22n",
+    "psobw",
+    "n49_k36z",
+    "btn_receive",
+    "领取",
+    "ui://ufgirfkmaban6h2pp",
+    "n59_n3pe",
+    "lb_open",
+    "100级开启456145361641561361213231",
+    "aban1",
+    "n60_sncv",
+    "panel",
+    "k36zh268",
+    "FunctionOpen_MiniWindow",
+    "n0_h1ws",
+    "bg",
+    "ui://ufgirfkmgauw4",
+    "cbjo6h4lm",
+    "n28_e0us",
+    "n28",
+    "lagc6h289",
+    "n18_mti7",
+    "lb_title",
+    "新功能开启",
+    "n5_h1ws",
+    "lb_close",
+    "NewFont",
+    "-----  点击任意区域关闭 -----",
+    "n9_h1ws",
+    "FlashFont",
+    "雷达功能：balaXXXX雷达功能：balaXXXX雷达功能：balaXXXX雷达功能：balaXXXX雷达功能：balaXXXX",
+    "n27_mti7",
+    "雷达",
+    "n26_mti7",
+    "img_icon",
+    "ui://cyrayt3hh1wsh242",
+    "gtag6h2w1",
+    "fun_show130",
+    "/Images/",
+    "gtag6h2w2",
+    "fun_show177",
+    "gtag6h2w3",
+    "fun_show229",
+    "gtag6h2w4",
+    "fun_show230",
+    "gtag6h2w5",
+    "fun_show231",
+    "j1426h2vd",
+    "fun_show102",
+    "j1426h2ve",
+    "fun_show222",
+    "j1426h2vf",
+    "fun_show220",
+    "j1426h2vg",
+    "fun_show216",
+    "j1426h2vh",
+    "fun_show214",
+    "j1426h2vi",
+    "fun_show213",
+    "j1426h2vj",
+    "fun_show212",
+    "j1426h2vk",
+    "fun_show211",
+    "j1426h2vl",
+    "fun_show204",
+    "j1426h2vm",
+    "fun_show203",
+    "j1426h2vn",
+    "fun_show173",
+    "j1426h2vo",
+    "fun_show172",
+    "j1426h2vp",
+    "fun_show161",
+    "j1426h2vq",
+    "fun_show125",
+    "j1426h2vr",
+    "fun_show124",
+    "j1426h2vs",
+    "fun_show123",
+    "j1426h2vt",
+    "fun_show122",
+    "j1426h2vu",
+    "fun_show117",
+    "j1426h2vv",
+    "fun_show116",
+    "j1426h2vw",
+    "fun_show115",
+    "j1426h2vx",
+    "fun_show113",
+    "j1426h2vy",
+    "fun_show107",
+    "j1426h2vz",
+    "fun_show223",
+    "j1426h2w0",
+    "fun_show224",
+    "atlas0",
+    "atlas0.png"
+  ]
+}

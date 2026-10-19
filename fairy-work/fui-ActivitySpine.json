@@ -1,0 +1,36 @@
+{
+  "items": [
+    {
+      "type": 9,
+      "id": "tmyj0",
+      "name": "spine_zppikaqiu",
+      "path": "/ActivityTurntable/",
+      "file": "spine_zppikaqiu.json",
+      "size": [
+        332,
+        318
+      ]
+    },
+    {
+      "type": 9,
+      "id": "tmyj3",
+      "name": "spine_zpyantuer",
+      "path": "/ActivityTurntable/",
+      "file": "spine_zpyantuer.json",
+      "size": [
+        261,
+        327
+      ]
+    }
+  ],
+  "sprites": [],
+  "strings": [
+    "tmyj0",
+    "spine_zppikaqiu",
+    "/ActivityTurntable/",
+    "spine_zppikaqiu.json",
+    "tmyj3",
+    "spine_zpyantuer",
+    "spine_zpyantuer.json"
+  ]
+}

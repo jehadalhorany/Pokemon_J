@@ -1,0 +1,7317 @@
+{
+  "items": [
+    {
+      "type": 0,
+      "id": "81od6h5j4",
+      "name": "jlth_bg_11",
+      "path": "/Images/Swap/",
+      "file": null,
+      "size": [
+        316,
+        148
+      ]
+    },
+    {
+      "type": 0,
+      "id": "aqqz6h5ld",
+      "name": "sjzpvp_di_10",
+      "path": "/Images/Main/",
+      "file": null,
+      "size": [
+        47,
+        47
+      ]
+    },
+    {
+      "type": 0,
+      "id": "aqqz6h5le",
+      "name": "sjzpvp_di_11",
+      "path": "/Images/Main/",
+      "file": null,
+      "size": [
+        817,
+        390
+      ]
+    },
+    {
+      "type": 0,
+      "id": "aqqz6h5lf",
+      "name": "sjzpvp_di_12",
+      "path": "/Images/Main/",
+      "file": null,
+      "size": [
+        322,
+        72
+      ]
+    },
+    {
+      "type": 0,
+      "id": "aqqz6h5lh",
+      "name": "sjzpvp_di_7",
+      "path": "/Images/Main/",
+      "file": null,
+      "size": [
+        313,
+        58
+      ]
+    },
+    {
+      "type": 0,
+      "id": "aqqz6h5li",
+      "name": "sjzpvp_di_8",
+      "path": "/Images/Main/",
+      "file": null,
+      "size": [
+        47,
+        47
+      ]
+    },
+    {
+      "type": 0,
+      "id": "aqqz6h5lj",
+      "name": "sjzpvp_di_9",
+      "path": "/Images/Main/",
+      "file": null,
+      "size": [
+        47,
+        47
+      ]
+    },
+    {
+      "type": 0,
+      "id": "d38i6h5m7",
+      "name": "bwyh_bth_1",
+      "path": "/Images/Main/",
+      "file": null,
+      "size": [
+        326,
+        58
+      ]
+    },
+    {
+      "type": 0,
+      "id": "d7fe6h5jm",
+      "name": "zd_bth_xjh0",
+      "path": "/Images/New/",
+      "file": null,
+      "size": [
+        92,
+        105
+      ]
+    },
+    {
+      "type": 0,
+      "id": "d7fe6h5jn",
+      "name": "zd_bth_xjh1",
+      "path": "/Images/New/",
+      "file": null,
+      "size": [
+        92,
+        105
+      ]
+    },
+    {
+      "type": 0,
+      "id": "dka06h5lh",
+      "name": "wyhd_lll_langlailebg_01",
+      "path": "/Images/Main/",
+      "file": null,
+      "size": [
+        512,
+        121
+      ]
+    },
+    {
+      "type": 0,
+      "id": "fytm6h5lj",
+      "name": "zd_bzck",
+      "path": "/Images/Main/",
+      "file": null,
+      "size": [
+        66,
+        66
+      ]
+    },
+    {
+      "type": 0,
+      "id": "g9moh28f",
+      "name": "sl_bth_1",
+      "path": "/Images/New/",
+      "file": null,
+      "size": [
+        231,
+        76
+      ]
+    },
+    {
+      "type": 0,
+      "id": "gfbt6h5lg",
+      "name": "wjzt_di_7",
+      "path": "/PveTrainerNew/",
+      "file": null,
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "type": 0,
+      "id": "gj546h4oe",
+      "name": "zd_jz",
+      "path": "/Images/Main/",
+      "file": null,
+      "size": [
+        219,
+        128
+      ]
+    },
+    {
+      "type": 0,
+      "id": "gxwd6h5jz",
+      "name": "emoji_bg",
+      "path": "/Images/Main/",
+      "file": null,
+      "size": [
+        164,
+        146
+      ]
+    },
+    {
+      "type": 0,
+      "id": "gxwd6h5k0",
+      "name": "emoji_list_bg",
+      "path": "/Images/Main/",
+      "file": null,
+      "size": [
+        465,
+        217
+      ]
+    },
+    {
+      "type": 0,
+      "id": "hbqah230",
+      "name": "ic_pan",
+      "path": "/Images/Swap/",
+      "file": null,
+      "size": [
+        42,
+        42
+      ]
+    },
+    {
+      "type": 0,
+      "id": "hbqah231",
+      "name": "ic_yaopin",
+      "path": "/Images/Swap/",
+      "file": null,
+      "size": [
+        37,
+        36
+      ]
+    },
+    {
+      "type": 0,
+      "id": "hbqah236",
+      "name": "ic_fruit",
+      "path": "/Images/Swap/",
+      "file": null,
+      "size": [
+        43,
+        42
+      ]
+    },
+    {
+      "type": 0,
+      "id": "hsoa6h5jf",
+      "name": "zd_bg_tq1",
+      "path": "/Images/Main/",
+      "file": null,
+      "size": [
+        306,
+        167
+      ]
+    },
+    {
+      "type": 0,
+      "id": "hsoa6h5jh",
+      "name": "zd_bth_tq1",
+      "path": "/Images/Main/",
+      "file": null,
+      "size": [
+        85,
+        45
+      ]
+    },
+    {
+      "type": 0,
+      "id": "i7i56h5l9",
+      "name": "lt_bth_3",
+      "path": "/UITipType/ChatAndEmoji/Images/",
+      "file": null,
+      "size": [
+        229,
+        69
+      ]
+    },
+    {
+      "type": 0,
+      "id": "i7i56h5la",
+      "name": "lt_bth_4",
+      "path": "/UITipType/ChatAndEmoji/Images/",
+      "file": null,
+      "size": [
+        229,
+        69
+      ]
+    },
+    {
+      "type": 0,
+      "id": "iahx6h5md",
+      "name": "sxkz_di_1",
+      "path": "/Images/AttrType/",
+      "file": null,
+      "size": [
+        177,
+        47
+      ]
+    },
+    {
+      "type": 0,
+      "id": "iahx6h5me",
+      "name": "sxkz_sxdi_4",
+      "path": "/Images/AttrType/",
+      "file": null,
+      "size": [
+        96,
+        84
+      ]
+    },
+    {
+      "type": 0,
+      "id": "iahx6h5mf",
+      "name": "sxkz_sxdi_5",
+      "path": "/Images/AttrType/",
+      "file": null,
+      "size": [
+        96,
+        84
+      ]
+    },
+    {
+      "type": 0,
+      "id": "iahx6h5mg",
+      "name": "sxkz_sxdi_6",
+      "path": "/Images/AttrType/",
+      "file": null,
+      "size": [
+        96,
+        84
+      ]
+    },
+    {
+      "type": 0,
+      "id": "iahx6h5mh",
+      "name": "sxkz_sxdi_7",
+      "path": "/Images/AttrType/",
+      "file": null,
+      "size": [
+        96,
+        84
+      ]
+    },
+    {
+      "type": 0,
+      "id": "iahx6h5mi",
+      "name": "sxkz_sxdi_8",
+      "path": "/Images/AttrType/",
+      "file": null,
+      "size": [
+        96,
+        84
+      ]
+    },
+    {
+      "type": 0,
+      "id": "iahx6h5mj",
+      "name": "sxkz_sxdi_9",
+      "path": "/Images/AttrType/",
+      "file": null,
+      "size": [
+        96,
+        84
+      ]
+    },
+    {
+      "type": 0,
+      "id": "iahx6h5mk",
+      "name": "sxkz_sxdi_10",
+      "path": "/Images/AttrType/",
+      "file": null,
+      "size": [
+        96,
+        84
+      ]
+    },
+    {
+      "type": 0,
+      "id": "iahx6h5ml",
+      "name": "sxkz_sxdi_11",
+      "path": "/Images/AttrType/",
+      "file": null,
+      "size": [
+        96,
+        84
+      ]
+    },
+    {
+      "type": 0,
+      "id": "iahx6h5mm",
+      "name": "sxkz_sxdi_3",
+      "path": "/Images/AttrType/",
+      "file": null,
+      "size": [
+        96,
+        84
+      ]
+    },
+    {
+      "type": 0,
+      "id": "iahx6h5mn",
+      "name": "sxkz_sxdi_12",
+      "path": "/Images/AttrType/",
+      "file": null,
+      "size": [
+        96,
+        84
+      ]
+    },
+    {
+      "type": 0,
+      "id": "iahx6h5mo",
+      "name": "sxkz_sxdi_14",
+      "path": "/Images/AttrType/",
+      "file": null,
+      "size": [
+        96,
+        84
+      ]
+    },
+    {
+      "type": 0,
+      "id": "iahx6h5mp",
+      "name": "sxkz_sxdi_15",
+      "path": "/Images/AttrType/",
+      "file": null,
+      "size": [
+        96,
+        84
+      ]
+    },
+    {
+      "type": 0,
+      "id": "iahx6h5mq",
+      "name": "sxkz_sxdi_16",
+      "path": "/Images/AttrType/",
+      "file": null,
+      "size": [
+        96,
+        84
+      ]
+    },
+    {
+      "type": 0,
+      "id": "iahx6h5mr",
+      "name": "sxkz_sxdi_17",
+      "path": "/Images/AttrType/",
+      "file": null,
+      "size": [
+        96,
+        84
+      ]
+    },
+    {
+      "type": 0,
+      "id": "iahx6h5ms",
+      "name": "sxkz_sxdi_18",
+      "path": "/Images/AttrType/",
+      "file": null,
+      "size": [
+        96,
+        84
+      ]
+    },
+    {
+      "type": 0,
+      "id": "iahx6h5mt",
+      "name": "sxkz_sxdi_19",
+      "path": "/Images/AttrType/",
+      "file": null,
+      "size": [
+        96,
+        84
+      ]
+    },
+    {
+      "type": 0,
+      "id": "iahx6h5mu",
+      "name": "sxkz_sxdi_20",
+      "path": "/Images/AttrType/",
+      "file": null,
+      "size": [
+        87,
+        40
+      ]
+    },
+    {
+      "type": 0,
+      "id": "iahx6h5mv",
+      "name": "sxkz_sxdi_21",
+      "path": "/Images/AttrType/",
+      "file": null,
+      "size": [
+        87,
+        40
+      ]
+    },
+    {
+      "type": 0,
+      "id": "iahx6h5mw",
+      "name": "sxkz_sxdi_13",
+      "path": "/Images/AttrType/",
+      "file": null,
+      "size": [
+        96,
+        84
+      ]
+    },
+    {
+      "type": 0,
+      "id": "iahx6h5mx",
+      "name": "sxkz_sxdi_22",
+      "path": "/Images/AttrType/",
+      "file": null,
+      "size": [
+        87,
+        40
+      ]
+    },
+    {
+      "type": 0,
+      "id": "iahx6h5my",
+      "name": "sxkz_sxdi_2",
+      "path": "/Images/AttrType/",
+      "file": null,
+      "size": [
+        96,
+        84
+      ]
+    },
+    {
+      "type": 0,
+      "id": "iahx6h5mz",
+      "name": "sxkz_sx_18",
+      "path": "/Images/AttrType/",
+      "file": null,
+      "size": [
+        96,
+        47
+      ]
+    },
+    {
+      "type": 0,
+      "id": "iahx6h5n0",
+      "name": "sxkz_di_2",
+      "path": "/Images/AttrType/",
+      "file": null,
+      "size": [
+        50,
+        50
+      ]
+    },
+    {
+      "type": 0,
+      "id": "iahx6h5n1",
+      "name": "sxkz_sx_1",
+      "path": "/Images/AttrType/",
+      "file": null,
+      "size": [
+        96,
+        47
+      ]
+    },
+    {
+      "type": 0,
+      "id": "iahx6h5n2",
+      "name": "sxkz_sx_2",
+      "path": "/Images/AttrType/",
+      "file": null,
+      "size": [
+        96,
+        47
+      ]
+    },
+    {
+      "type": 0,
+      "id": "iahx6h5n3",
+      "name": "sxkz_sx_3",
+      "path": "/Images/AttrType/",
+      "file": null,
+      "size": [
+        96,
+        47
+      ]
+    },
+    {
+      "type": 0,
+      "id": "iahx6h5n4",
+      "name": "sxkz_sx_4",
+      "path": "/Images/AttrType/",
+      "file": null,
+      "size": [
+        96,
+        47
+      ]
+    },
+    {
+      "type": 0,
+      "id": "iahx6h5n5",
+      "name": "sxkz_sx_5",
+      "path": "/Images/AttrType/",
+      "file": null,
+      "size": [
+        96,
+        47
+      ]
+    },
+    {
+      "type": 0,
+      "id": "iahx6h5n6",
+      "name": "sxkz_sx_6",
+      "path": "/Images/AttrType/",
+      "file": null,
+      "size": [
+        96,
+        47
+      ]
+    },
+    {
+      "type": 0,
+      "id": "iahx6h5n7",
+      "name": "sxkz_sx_7",
+      "path": "/Images/AttrType/",
+      "file": null,
+      "size": [
+        96,
+        47
+      ]
+    },
+    {
+      "type": 0,
+      "id": "iahx6h5n8",
+      "name": "sxkz_sxdi_1",
+      "path": "/Images/AttrType/",
+      "file": null,
+      "size": [
+        96,
+        84
+      ]
+    },
+    {
+      "type": 0,
+      "id": "iahx6h5n9",
+      "name": "sxkz_sx_8",
+      "path": "/Images/AttrType/",
+      "file": null,
+      "size": [
+        96,
+        47
+      ]
+    },
+    {
+      "type": 0,
+      "id": "iahx6h5na",
+      "name": "sxkz_sx_10",
+      "path": "/Images/AttrType/",
+      "file": null,
+      "size": [
+        96,
+        47
+      ]
+    },
+    {
+      "type": 0,
+      "id": "iahx6h5nb",
+      "name": "sxkz_sx_11",
+      "path": "/Images/AttrType/",
+      "file": null,
+      "size": [
+        96,
+        47
+      ]
+    },
+    {
+      "type": 0,
+      "id": "iahx6h5nc",
+      "name": "sxkz_sx_12",
+      "path": "/Images/AttrType/",
+      "file": null,
+      "size": [
+        96,
+        47
+      ]
+    },
+    {
+      "type": 0,
+      "id": "iahx6h5nd",
+      "name": "sxkz_sx_13",
+      "path": "/Images/AttrType/",
+      "file": null,
+      "size": [
+        96,
+        47
+      ]
+    },
+    {
+      "type": 0,
+      "id": "iahx6h5ne",
+      "name": "sxkz_sx_14",
+      "path": "/Images/AttrType/",
+      "file": null,
+      "size": [
+        96,
+        47
+      ]
+    },
+    {
+      "type": 0,
+      "id": "iahx6h5nf",
+      "name": "sxkz_sx_15",
+      "path": "/Images/AttrType/",
+      "file": null,
+      "size": [
+        96,
+        47
+      ]
+    },
+    {
+      "type": 0,
+      "id": "iahx6h5ng",
+      "name": "sxkz_sx_16",
+      "path": "/Images/AttrType/",
+      "file": null,
+      "size": [
+        96,
+        47
+      ]
+    },
+    {
+      "type": 0,
+      "id": "iahx6h5nh",
+      "name": "sxkz_sx_17",
+      "path": "/Images/AttrType/",
+      "file": null,
+      "size": [
+        96,
+        47
+      ]
+    },
+    {
+      "type": 0,
+      "id": "iahx6h5ni",
+      "name": "sxkz_sx_9",
+      "path": "/Images/AttrType/",
+      "file": null,
+      "size": [
+        96,
+        47
+      ]
+    },
+    {
+      "type": 0,
+      "id": "iahx6h5nj",
+      "name": "sxkz_sxdi_23",
+      "path": "/Images/AttrType/",
+      "file": null,
+      "size": [
+        87,
+        40
+      ]
+    },
+    {
+      "type": 0,
+      "id": "iahx6h5nn",
+      "name": "jz_di_7",
+      "path": "/Images/AttrType/",
+      "file": null,
+      "size": [
+        75,
+        85
+      ]
+    },
+    {
+      "type": 0,
+      "id": "im3e6h4pl",
+      "name": "zd_bg_sjtc2",
+      "path": "/Images/New/",
+      "file": null,
+      "size": [
+        522,
+        83
+      ]
+    },
+    {
+      "type": 0,
+      "id": "iwm66h5lb",
+      "name": "xych_tg",
+      "path": "/Images/Main/",
+      "file": null,
+      "size": [
+        61,
+        61
+      ]
+    },
+    {
+      "type": 0,
+      "id": "lha56h5l3",
+      "name": "jljx_bg6",
+      "path": "/Images/Main/",
+      "file": null,
+      "size": [
+        80,
+        80
+      ]
+    },
+    {
+      "type": 0,
+      "id": "lha56h5l4",
+      "name": "jljx_bg7",
+      "path": "/Images/Main/",
+      "file": null,
+      "size": [
+        395,
+        135
+      ]
+    },
+    {
+      "type": 0,
+      "id": "lha56h5l5",
+      "name": "jljx_bg8",
+      "path": "/Images/Main/",
+      "file": null,
+      "size": [
+        49,
+        36
+      ]
+    },
+    {
+      "type": 0,
+      "id": "m3ye6h5nq",
+      "name": "jl_hh_17",
+      "path": "/Images/Main/",
+      "file": null,
+      "size": [
+        401,
+        146
+      ]
+    },
+    {
+      "type": 0,
+      "id": "m7jx6h4of",
+      "name": "b0",
+      "path": "/Images/Font/",
+      "file": null,
+      "size": [
+        41,
+        48
+      ]
+    },
+    {
+      "type": 0,
+      "id": "m7jx6h4og",
+      "name": "减号",
+      "path": "/Images/Font/",
+      "file": null,
+      "size": [
+        34,
+        38
+      ]
+    },
+    {
+      "type": 0,
+      "id": "m7jx6h4oh",
+      "name": "s9",
+      "path": "/Images/Font/",
+      "file": null,
+      "size": [
+        34,
+        38
+      ]
+    },
+    {
+      "type": 0,
+      "id": "m7jx6h4oi",
+      "name": "s8",
+      "path": "/Images/Font/",
+      "file": null,
+      "size": [
+        34,
+        38
+      ]
+    },
+    {
+      "type": 0,
+      "id": "m7jx6h4oj",
+      "name": "s7",
+      "path": "/Images/Font/",
+      "file": null,
+      "size": [
+        34,
+        38
+      ]
+    },
+    {
+      "type": 0,
+      "id": "m7jx6h4ok",
+      "name": "s6",
+      "path": "/Images/Font/",
+      "file": null,
+      "size": [
+        34,
+        38
+      ]
+    },
+    {
+      "type": 0,
+      "id": "m7jx6h4ol",
+      "name": "s4",
+      "path": "/Images/Font/",
+      "file": null,
+      "size": [
+        34,
+        38
+      ]
+    },
+    {
+      "type": 0,
+      "id": "m7jx6h4om",
+      "name": "s3",
+      "path": "/Images/Font/",
+      "file": null,
+      "size": [
+        34,
+        38
+      ]
+    },
+    {
+      "type": 0,
+      "id": "m7jx6h4on",
+      "name": "s2",
+      "path": "/Images/Font/",
+      "file": null,
+      "size": [
+        34,
+        38
+      ]
+    },
+    {
+      "type": 0,
+      "id": "m7jx6h4oo",
+      "name": "s1",
+      "path": "/Images/Font/",
+      "file": null,
+      "size": [
+        34,
+        38
+      ]
+    },
+    {
+      "type": 0,
+      "id": "m7jx6h4os",
+      "name": "h9",
+      "path": "/Images/Font/",
+      "file": null,
+      "size": [
+        34,
+        38
+      ]
+    },
+    {
+      "type": 0,
+      "id": "m7jx6h4ot",
+      "name": "h8",
+      "path": "/Images/Font/",
+      "file": null,
+      "size": [
+        34,
+        38
+      ]
+    },
+    {
+      "type": 0,
+      "id": "m7jx6h4ou",
+      "name": "h7",
+      "path": "/Images/Font/",
+      "file": null,
+      "size": [
+        34,
+        38
+      ]
+    },
+    {
+      "type": 0,
+      "id": "m7jx6h4ov",
+      "name": "h6",
+      "path": "/Images/Font/",
+      "file": null,
+      "size": [
+        34,
+        38
+      ]
+    },
+    {
+      "type": 0,
+      "id": "m7jx6h4ow",
+      "name": "h5",
+      "path": "/Images/Font/",
+      "file": null,
+      "size": [
+        34,
+        38
+      ]
+    },
+    {
+      "type": 0,
+      "id": "m7jx6h4ox",
+      "name": "b1",
+      "path": "/Images/Font/",
+      "file": null,
+      "size": [
+        41,
+        48
+      ]
+    },
+    {
+      "type": 0,
+      "id": "m7jx6h4oy",
+      "name": "b2",
+      "path": "/Images/Font/",
+      "file": null,
+      "size": [
+        41,
+        48
+      ]
+    },
+    {
+      "type": 0,
+      "id": "m7jx6h4oz",
+      "name": "b3",
+      "path": "/Images/Font/",
+      "file": null,
+      "size": [
+        41,
+        48
+      ]
+    },
+    {
+      "type": 0,
+      "id": "m7jx6h4p0",
+      "name": "b4",
+      "path": "/Images/Font/",
+      "file": null,
+      "size": [
+        41,
+        48
+      ]
+    },
+    {
+      "type": 0,
+      "id": "m7jx6h4p1",
+      "name": "b5",
+      "path": "/Images/Font/",
+      "file": null,
+      "size": [
+        41,
+        48
+      ]
+    },
+    {
+      "type": 0,
+      "id": "m7jx6h4p2",
+      "name": "b6",
+      "path": "/Images/Font/",
+      "file": null,
+      "size": [
+        41,
+        48
+      ]
+    },
+    {
+      "type": 0,
+      "id": "m7jx6h4p3",
+      "name": "加号",
+      "path": "/Images/Font/",
+      "file": null,
+      "size": [
+        34,
+        38
+      ]
+    },
+    {
+      "type": 0,
+      "id": "m7jx6h4p4",
+      "name": "b7",
+      "path": "/Images/Font/",
+      "file": null,
+      "size": [
+        41,
+        48
+      ]
+    },
+    {
+      "type": 0,
+      "id": "m7jx6h4p5",
+      "name": "b9",
+      "path": "/Images/Font/",
+      "file": null,
+      "size": [
+        41,
+        48
+      ]
+    },
+    {
+      "type": 0,
+      "id": "m7jx6h4p6",
+      "name": "h0",
+      "path": "/Images/Font/",
+      "file": null,
+      "size": [
+        34,
+        38
+      ]
+    },
+    {
+      "type": 0,
+      "id": "m7jx6h4p7",
+      "name": "h1",
+      "path": "/Images/Font/",
+      "file": null,
+      "size": [
+        34,
+        38
+      ]
+    },
+    {
+      "type": 0,
+      "id": "m7jx6h4p8",
+      "name": "h2",
+      "path": "/Images/Font/",
+      "file": null,
+      "size": [
+        34,
+        38
+      ]
+    },
+    {
+      "type": 0,
+      "id": "m7jx6h4p9",
+      "name": "h3",
+      "path": "/Images/Font/",
+      "file": null,
+      "size": [
+        34,
+        38
+      ]
+    },
+    {
+      "type": 0,
+      "id": "m7jx6h4pa",
+      "name": "h4",
+      "path": "/Images/Font/",
+      "file": null,
+      "size": [
+        34,
+        38
+      ]
+    },
+    {
+      "type": 0,
+      "id": "m7jx6h4pb",
+      "name": "b8",
+      "path": "/Images/Font/",
+      "file": null,
+      "size": [
+        41,
+        48
+      ]
+    },
+    {
+      "type": 0,
+      "id": "m7jx6h4pd",
+      "name": "critical",
+      "path": "/Images/Font/",
+      "file": null,
+      "size": [
+        68,
+        50
+      ]
+    },
+    {
+      "type": 0,
+      "id": "m7jx6h4pe",
+      "name": "s0",
+      "path": "/Images/Font/",
+      "file": null,
+      "size": [
+        34,
+        38
+      ]
+    },
+    {
+      "type": 0,
+      "id": "m7jx6h4pf",
+      "name": "s5",
+      "path": "/Images/Font/",
+      "file": null,
+      "size": [
+        34,
+        38
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mqas6h5jp",
+      "name": "zd_tjxz",
+      "path": "/Images/Main/",
+      "file": null,
+      "size": [
+        272,
+        172
+      ]
+    },
+    {
+      "type": 0,
+      "id": "muzf6h4o8",
+      "name": "zd_bth_mg0",
+      "path": "/Images/Main/",
+      "file": null,
+      "size": [
+        87,
+        87
+      ]
+    },
+    {
+      "type": 0,
+      "id": "muzf6h4o9",
+      "name": "zd_bth_mg1",
+      "path": "/Images/Main/",
+      "file": null,
+      "size": [
+        87,
+        87
+      ]
+    },
+    {
+      "type": 0,
+      "id": "n7wj6h5ko",
+      "name": "ghboss_bg_6",
+      "path": "/Images/Main/",
+      "file": null,
+      "size": [
+        59,
+        53
+      ]
+    },
+    {
+      "type": 0,
+      "id": "n979h26k",
+      "name": "zd_jlq_bg",
+      "path": "/Images/New/",
+      "file": null,
+      "size": [
+        28,
+        37
+      ]
+    },
+    {
+      "type": 0,
+      "id": "n979h26l",
+      "name": "zd_jnxg_bg",
+      "path": "/Images/New/",
+      "file": null,
+      "size": [
+        184,
+        30
+      ]
+    },
+    {
+      "type": 0,
+      "id": "n979h26m",
+      "name": "zd_jsq",
+      "path": "/Images/New/",
+      "file": null,
+      "size": [
+        255,
+        92
+      ]
+    },
+    {
+      "type": 0,
+      "id": "n979h26n",
+      "name": "zd_n_1",
+      "path": "/Images/New/",
+      "file": null,
+      "size": [
+        117,
+        54
+      ]
+    },
+    {
+      "type": 0,
+      "id": "n979h26o",
+      "name": "zd_n_2",
+      "path": "/Images/New/",
+      "file": null,
+      "size": [
+        117,
+        54
+      ]
+    },
+    {
+      "type": 0,
+      "id": "n979h26p",
+      "name": "zd_tp",
+      "path": "/Images/New/",
+      "file": null,
+      "size": [
+        187,
+        90
+      ]
+    },
+    {
+      "type": 0,
+      "id": "n979h26q",
+      "name": "zd_txk_1",
+      "path": "/Images/New/",
+      "file": null,
+      "size": [
+        282,
+        133
+      ]
+    },
+    {
+      "type": 0,
+      "id": "n979h26u",
+      "name": "zd_bg_1",
+      "path": "/Images/New/",
+      "file": null,
+      "size": [
+        98,
+        130
+      ]
+    },
+    {
+      "type": 0,
+      "id": "n979h26v",
+      "name": "zd_bg_2",
+      "path": "/Images/New/",
+      "file": null,
+      "size": [
+        135,
+        198
+      ]
+    },
+    {
+      "type": 0,
+      "id": "n979h26y",
+      "name": "zd_bth_tjh0",
+      "path": "/Images/New/",
+      "file": null,
+      "size": [
+        79,
+        105
+      ]
+    },
+    {
+      "type": 0,
+      "id": "n979h271",
+      "name": "zd_bth_tjh3",
+      "path": "/Images/New/",
+      "file": null,
+      "size": [
+        106,
+        105
+      ]
+    },
+    {
+      "type": 0,
+      "id": "n979h275",
+      "name": "zd_hp_1",
+      "path": "/Images/New/",
+      "file": null,
+      "size": [
+        31,
+        19
+      ]
+    },
+    {
+      "type": 0,
+      "id": "n979h277",
+      "name": "zd_hp_bg",
+      "path": "/Images/New/",
+      "file": null,
+      "size": [
+        28,
+        25
+      ]
+    },
+    {
+      "type": 0,
+      "id": "n979h27z",
+      "name": "jl_nan",
+      "path": "/Images/New/",
+      "file": null,
+      "size": [
+        37,
+        43
+      ]
+    },
+    {
+      "type": 0,
+      "id": "n979h280",
+      "name": "jl_nv",
+      "path": "/Images/New/",
+      "file": null,
+      "size": [
+        39,
+        44
+      ]
+    },
+    {
+      "type": 0,
+      "id": "oenl6h4oc",
+      "name": "zd_txk_3",
+      "path": "/Images/New/",
+      "file": null,
+      "size": [
+        110,
+        36
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ohrjh26a",
+      "name": "zd_bth_tjh",
+      "path": "/Images/Main/",
+      "file": null,
+      "size": [
+        45,
+        45
+      ]
+    },
+    {
+      "type": 0,
+      "id": "osz46h5j5",
+      "name": "zjm_sj_bg",
+      "path": "/Images/Main/",
+      "file": null,
+      "size": [
+        87,
+        30
+      ]
+    },
+    {
+      "type": 0,
+      "id": "osz46h5j6",
+      "name": "zjm_sj_bg0",
+      "path": "/Images/Main/",
+      "file": null,
+      "size": [
+        137,
+        47
+      ]
+    },
+    {
+      "type": 0,
+      "id": "owam6h5m9",
+      "name": "zd_cjxg",
+      "path": "/Images/Main/",
+      "file": null,
+      "size": [
+        82,
+        58
+      ]
+    },
+    {
+      "type": 0,
+      "id": "p9qu6h5kq",
+      "name": "zdxz_di_1",
+      "path": "/Images/Main/",
+      "file": null,
+      "size": [
+        463,
+        166
+      ]
+    },
+    {
+      "type": 0,
+      "id": "p9qu6h5kr",
+      "name": "zdxz_di_2",
+      "path": "/Images/Main/",
+      "file": null,
+      "size": [
+        463,
+        166
+      ]
+    },
+    {
+      "type": 0,
+      "id": "p9qu6h5ks",
+      "name": "zdxz_di_3",
+      "path": "/Images/Main/",
+      "file": null,
+      "size": [
+        463,
+        166
+      ]
+    },
+    {
+      "type": 0,
+      "id": "p9qu6h5kt",
+      "name": "zdxz_di_4",
+      "path": "/Images/Main/",
+      "file": null,
+      "size": [
+        463,
+        166
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ph4w6h5m2",
+      "name": "hc2048_bth_1",
+      "path": "/Images/SeasonPvp/",
+      "file": null,
+      "size": [
+        132,
+        132
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ph4w6h5m3",
+      "name": "sjzpvp_di_18",
+      "path": "/Images/SeasonPvp/",
+      "file": null,
+      "size": [
+        995,
+        511
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ph4w6h5m4",
+      "name": "mrqd_di_4",
+      "path": "/Images/SeasonPvp/",
+      "file": null,
+      "size": [
+        88,
+        88
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ph4w6h5m5",
+      "name": "dy_xian_1",
+      "path": "/Images/SeasonPvp/",
+      "file": null,
+      "size": [
+        5,
+        2
+      ]
+    },
+    {
+      "type": 0,
+      "id": "pifhh24d",
+      "name": "zd_bth_mg",
+      "path": "/Images/Main/",
+      "file": null,
+      "size": [
+        111,
+        130
+      ]
+    },
+    {
+      "type": 0,
+      "id": "pifhh24t",
+      "name": "zd_icon_b",
+      "path": "/Images/Main/",
+      "file": null,
+      "size": [
+        32,
+        32
+      ]
+    },
+    {
+      "type": 0,
+      "id": "pifhh24u",
+      "name": "zd_icon_a",
+      "path": "/Images/Main/",
+      "file": null,
+      "size": [
+        32,
+        32
+      ]
+    },
+    {
+      "type": 0,
+      "id": "pifhh25a",
+      "name": "jlth_bg_8",
+      "path": "/Images/Swap/",
+      "file": null,
+      "size": [
+        60,
+        167
+      ]
+    },
+    {
+      "type": 0,
+      "id": "pifhh25d",
+      "name": "jlth_bg_9",
+      "path": "/Images/Swap/",
+      "file": null,
+      "size": [
+        10,
+        10
+      ]
+    },
+    {
+      "type": 0,
+      "id": "pifhh25e",
+      "name": "jlth_bg_5",
+      "path": "/Images/Swap/",
+      "file": null,
+      "size": [
+        63,
+        203
+      ]
+    },
+    {
+      "type": 0,
+      "id": "pifhh25f",
+      "name": "jlth_bg_6",
+      "path": "/Images/Swap/",
+      "file": null,
+      "size": [
+        34,
+        44
+      ]
+    },
+    {
+      "type": 0,
+      "id": "pifhh25h",
+      "name": "jlth_bg_7",
+      "path": "/Images/Swap/",
+      "file": null,
+      "size": [
+        316,
+        148
+      ]
+    },
+    {
+      "type": 0,
+      "id": "pifhh25i",
+      "name": "jl_bg_xl12",
+      "path": "/Images/Swap/",
+      "file": null,
+      "size": [
+        29,
+        26
+      ]
+    },
+    {
+      "type": 0,
+      "id": "pifhh25j",
+      "name": "jlth_bg_1",
+      "path": "/Images/Swap/",
+      "file": null,
+      "size": [
+        652,
+        108
+      ]
+    },
+    {
+      "type": 0,
+      "id": "pifhh25k",
+      "name": "jlth_bg_3",
+      "path": "/Images/Swap/",
+      "file": null,
+      "size": [
+        43,
+        74
+      ]
+    },
+    {
+      "type": 0,
+      "id": "pifhh25l",
+      "name": "jlth_bg_2",
+      "path": "/Images/Swap/",
+      "file": null,
+      "size": [
+        67,
+        52
+      ]
+    },
+    {
+      "type": 0,
+      "id": "pifhh25n",
+      "name": "jlth_bg_10",
+      "path": "/Images/Swap/",
+      "file": null,
+      "size": [
+        259,
+        41
+      ]
+    },
+    {
+      "type": 0,
+      "id": "qd9k6h5iy",
+      "name": "ty_ic_Selected",
+      "path": "/Images/Main/",
+      "file": null,
+      "size": [
+        124,
+        127
+      ]
+    },
+    {
+      "type": 0,
+      "id": "qyssh243",
+      "name": "skill_xz",
+      "path": "/Images/Swap/",
+      "file": null,
+      "size": [
+        330,
+        156
+      ]
+    },
+    {
+      "type": 0,
+      "id": "r60f6h5lt",
+      "name": "sxjn_di_1",
+      "path": "/Images/ExtraSkill/",
+      "file": null,
+      "size": [
+        383,
+        610
+      ]
+    },
+    {
+      "type": 0,
+      "id": "r60f6h5lu",
+      "name": "sxjn_di_2",
+      "path": "/Images/ExtraSkill/",
+      "file": null,
+      "size": [
+        383,
+        610
+      ]
+    },
+    {
+      "type": 0,
+      "id": "r60f6h5lv",
+      "name": "sxjn_di_3",
+      "path": "/Images/ExtraSkill/",
+      "file": null,
+      "size": [
+        383,
+        610
+      ]
+    },
+    {
+      "type": 0,
+      "id": "r60f6h5lw",
+      "name": "sxjn_di_4",
+      "path": "/Images/ExtraSkill/",
+      "file": null,
+      "size": [
+        383,
+        610
+      ]
+    },
+    {
+      "type": 0,
+      "id": "r60f6h5lz",
+      "name": "dy_xian_1",
+      "path": "/Images/ExtraSkill/",
+      "file": null,
+      "size": [
+        5,
+        2
+      ]
+    },
+    {
+      "type": 0,
+      "id": "t8y96h4dx",
+      "name": "jlg_bg_14",
+      "path": "/Images/New/",
+      "file": null,
+      "size": [
+        48,
+        48
+      ]
+    },
+    {
+      "type": 0,
+      "id": "t8y96h4o6",
+      "name": "zd_bg_sjtc",
+      "path": "/Images/New/",
+      "file": null,
+      "size": [
+        121,
+        133
+      ]
+    },
+    {
+      "type": 0,
+      "id": "uubt6h5j9",
+      "name": "zd_bth_jjh1",
+      "path": "/Images/Main/",
+      "file": null,
+      "size": [
+        87,
+        87
+      ]
+    },
+    {
+      "type": 0,
+      "id": "uubt6h5ja",
+      "name": "zd_bth_jjh2",
+      "path": "/Images/Main/",
+      "file": null,
+      "size": [
+        45,
+        45
+      ]
+    },
+    {
+      "type": 0,
+      "id": "uubt6h5jb",
+      "name": "zd_bth_jjh0",
+      "path": "/Images/Main/",
+      "file": null,
+      "size": [
+        87,
+        87
+      ]
+    },
+    {
+      "type": 0,
+      "id": "vxug6h5ke",
+      "name": "tjtz_bth_5",
+      "path": "/Images/Main/",
+      "file": null,
+      "size": [
+        44,
+        50
+      ]
+    },
+    {
+      "type": 0,
+      "id": "vxug6h5kf",
+      "name": "tjtz_bth_6",
+      "path": "/Images/Main/",
+      "file": null,
+      "size": [
+        214,
+        59
+      ]
+    },
+    {
+      "type": 0,
+      "id": "vxug6h5kg",
+      "name": "tjtz_bth_7",
+      "path": "/Images/Main/",
+      "file": null,
+      "size": [
+        214,
+        59
+      ]
+    },
+    {
+      "type": 0,
+      "id": "vxug6h5kh",
+      "name": "tjtz_bth_8",
+      "path": "/Images/Main/",
+      "file": null,
+      "size": [
+        214,
+        59
+      ]
+    },
+    {
+      "type": 0,
+      "id": "vxug6h5ki",
+      "name": "tjtz_zs_2",
+      "path": "/Images/Main/",
+      "file": null,
+      "size": [
+        74,
+        68
+      ]
+    },
+    {
+      "type": 0,
+      "id": "vxug6h5kj",
+      "name": "tjtz_bth_9",
+      "path": "/Images/Main/",
+      "file": null,
+      "size": [
+        44,
+        44
+      ]
+    },
+    {
+      "type": 0,
+      "id": "yqtb6h5kn",
+      "name": "tjtz_bg_6",
+      "path": "/Images/Main/",
+      "file": null,
+      "size": [
+        154,
+        21
+      ]
+    },
+    {
+      "type": 3,
+      "id": "9b136h5jr",
+      "name": "BattleFloatFuncsUI_Tip",
+      "path": "/UITipType/ChatAndEmoji/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "9b136h5ju",
+      "name": "BattleChatEmojiTips",
+      "path": "/UITipType/ChatAndEmoji/",
+      "file": null,
+      "size": [
+        164,
+        146
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "9b136h5jv",
+      "name": "BattleFloatBtnCom",
+      "path": "/UITipType/ChatAndEmoji/",
+      "file": null,
+      "size": [
+        90,
+        116
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "aqqz6h5lp",
+      "name": "BattleWinScoreCom",
+      "path": "/",
+      "file": null,
+      "size": [
+        313,
+        58
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "aqqz6h5lq",
+      "name": "BattleWinScorePointCell",
+      "path": "/",
+      "file": null,
+      "size": [
+        47,
+        47
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "aqqz6h5lr",
+      "name": "BattleWinScore_MiniWindow",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "d38i6h5m6",
+      "name": "BattlePlayerInfoCom",
+      "path": "/",
+      "file": null,
+      "size": [
+        313,
+        58
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "fltw6h5j2",
+      "name": "BattleChatBtn",
+      "path": "/UITipType/Chat/",
+      "file": null,
+      "size": [
+        80,
+        116
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "fltw6h5j3",
+      "name": "BattleChat_Tip",
+      "path": "/UITipType/Chat/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "fytm6h5ll",
+      "name": "BattleCatchRateBtn",
+      "path": "/",
+      "file": null,
+      "size": [
+        306,
+        75
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "fytm6h5lm",
+      "name": "BattleCatchRateTipCom",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "g9moh28h",
+      "name": "safariItem",
+      "path": "/Images/Component/",
+      "file": null,
+      "size": [
+        263,
+        84
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "gfbt6h5lc",
+      "name": "BattlePveTrainerNewTaskCom",
+      "path": "/PveTrainerNew/",
+      "file": null,
+      "size": [
+        538,
+        174
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "gfbt6h5ld",
+      "name": "BattlePveTrainerTaskItemCell",
+      "path": "/PveTrainerNew/",
+      "file": null,
+      "size": [
+        514,
+        43
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "gxwd6h5k1",
+      "name": "BattleEmojiListCom",
+      "path": "/UITipType/ChatAndEmoji/",
+      "file": null,
+      "size": [
+        618,
+        356
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "hsoa6h5ji",
+      "name": "WeatherFieldTip",
+      "path": "/",
+      "file": null,
+      "size": [
+        333,
+        209
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "hx2n5",
+      "name": "BallItem",
+      "path": "/",
+      "file": null,
+      "size": [
+        32,
+        32
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "hx2n6",
+      "name": "PokemonState",
+      "path": "/",
+      "file": null,
+      "size": [
+        455,
+        187
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "iahx6h5mb",
+      "name": "BattleAttrTypePreview_Tip",
+      "path": "/AttrTypePreview/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "iahx6h5nk",
+      "name": "BattleAttrTypePreviewCell",
+      "path": "/AttrTypePreview/",
+      "file": null,
+      "size": [
+        87,
+        40
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "iahx6h5nl",
+      "name": "BattleAttrTypePreviewCom",
+      "path": "/AttrTypePreview/",
+      "file": null,
+      "size": [
+        1849,
+        989
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "iahx6h5no",
+      "name": "BattleAttrTypePreviewSel1",
+      "path": "/AttrTypePreview/",
+      "file": null,
+      "size": [
+        123,
+        994
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "iahx6h5np",
+      "name": "BattleAttrTypePreviewSel2",
+      "path": "/AttrTypePreview/",
+      "file": null,
+      "size": [
+        44,
+        49
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "iq5n6h5l6",
+      "name": "BattleChatEmojiSwitchTabCell",
+      "path": "/UITipType/ChatAndEmoji/",
+      "file": null,
+      "size": [
+        229,
+        69
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "iq5n6h5l8",
+      "name": "BattleEmojiBtn",
+      "path": "/UITipType/ChatAndEmoji/",
+      "file": null,
+      "size": [
+        96,
+        96
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "iqg06h5k3",
+      "name": "BattleTRPlayerSkillBtn",
+      "path": "/TeraRaid/",
+      "file": null,
+      "size": [
+        225,
+        59
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "jfq8h28b",
+      "name": "BagEudemonInfo",
+      "path": "/",
+      "file": null,
+      "size": [
+        343,
+        374
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "kb696h4po",
+      "name": "SexBtn",
+      "path": "/",
+      "file": null,
+      "size": [
+        34,
+        50
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "m6bj0",
+      "name": "CommonBattleBtn",
+      "path": "/",
+      "file": null,
+      "size": [
+        192,
+        63
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "m6bj1",
+      "name": "ExpBar",
+      "path": "/",
+      "file": null,
+      "size": [
+        50,
+        6
+      ],
+      "extension": 14
+    },
+    {
+      "type": 3,
+      "id": "m6bj2",
+      "name": "HPBar",
+      "path": "/",
+      "file": null,
+      "size": [
+        350,
+        20
+      ],
+      "extension": 14
+    },
+    {
+      "type": 3,
+      "id": "m6bj3",
+      "name": "NormalBattle_Bg",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "mtnk6h4oa",
+      "name": "EudemonDebug",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "n7wj6h5kp",
+      "name": "BattleTRSkillInfo",
+      "path": "/",
+      "file": null,
+      "size": [
+        395,
+        99
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "n979h27s",
+      "name": "ExitBtn",
+      "path": "/",
+      "file": null,
+      "size": [
+        187,
+        90
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "n979h289",
+      "name": "BattleSkillItem2",
+      "path": "/Images/Component/",
+      "file": null,
+      "size": [
+        329,
+        40
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "n979h28a",
+      "name": "GenderBtn",
+      "path": "/Images/Component/",
+      "file": null,
+      "size": [
+        39,
+        44
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "osz46h5j7",
+      "name": "BattleMainTime",
+      "path": "/",
+      "file": null,
+      "size": [
+        70,
+        32
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "owam6h5ma",
+      "name": "BattleSeasonSkill",
+      "path": "/",
+      "file": null,
+      "size": [
+        719,
+        92
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "ox756h5iz",
+      "name": "BattleEudemonSkillEffect_Bg",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "ox756h5j0",
+      "name": "BattleSkillEffectFoot",
+      "path": "/",
+      "file": null,
+      "size": [
+        1,
+        1
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "p04n6h4ob",
+      "name": "RoundTip",
+      "path": "/",
+      "file": null,
+      "size": [
+        1000,
+        330
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "p9qu6h5kv",
+      "name": "BattleEudPanelSkillEffect",
+      "path": "/",
+      "file": null,
+      "size": [
+        463,
+        166
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "ph4w6h5m0",
+      "name": "BattleWinSeasonTJSel_MiniWindow",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "pifhh251",
+      "name": "BattleActionTJBtn",
+      "path": "/",
+      "file": null,
+      "size": [
+        111,
+        134
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "pifhh252",
+      "name": "ReturnButton",
+      "path": "/",
+      "file": null,
+      "size": [
+        442,
+        68
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "pifhh253",
+      "name": "BattleActionBtn",
+      "path": "/",
+      "file": null,
+      "size": [
+        111,
+        44
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "pifhh256",
+      "name": "BattleEudBallBtn",
+      "path": "/",
+      "file": null,
+      "size": [
+        140,
+        142
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "pifhh25m",
+      "name": "FightBtn",
+      "path": "/",
+      "file": null,
+      "size": [
+        292,
+        101
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "qyssh23r",
+      "name": "BattleActionMEGABtn",
+      "path": "/",
+      "file": null,
+      "size": [
+        111,
+        131
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "qyssh23s",
+      "name": "BattleSkillBtn",
+      "path": "/",
+      "file": null,
+      "size": [
+        225,
+        131
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "qyssh23t",
+      "name": "BattleChangeEudemon_Window",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "qyssh23v",
+      "name": "BattleChangeEudemonItem",
+      "path": "/",
+      "file": null,
+      "size": [
+        683,
+        173
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "qyssh241",
+      "name": "BattleTextProp",
+      "path": "/",
+      "file": null,
+      "size": [
+        238,
+        49
+      ],
+      "extension": 11
+    },
+    {
+      "type": 3,
+      "id": "qyssh242",
+      "name": "BattleSkillItem",
+      "path": "/",
+      "file": null,
+      "size": [
+        549,
+        164
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "r60f6h5ls",
+      "name": "BattleExtraSkill_MiniWindow",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "r60f6h5ly",
+      "name": "BattleExtraSkillCell",
+      "path": "/",
+      "file": null,
+      "size": [
+        411,
+        631
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "r8x1h245",
+      "name": "BattleLog_Bg",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "rz106h5jp",
+      "name": "BattleSpaceSkillBuff",
+      "path": "/",
+      "file": null,
+      "size": [
+        273,
+        45
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "t8y96h4o7",
+      "name": "LevelResultCom",
+      "path": "/Images/Component/",
+      "file": null,
+      "size": [
+        459,
+        61
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "uubt6h5jc",
+      "name": "BattleActionDynamaxBtn",
+      "path": "/",
+      "file": null,
+      "size": [
+        111,
+        131
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "uv5mh28c",
+      "name": "BagSkillInfo",
+      "path": "/",
+      "file": null,
+      "size": [
+        343,
+        374
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "uv5mh28d",
+      "name": "BagItemInfo",
+      "path": "/",
+      "file": null,
+      "size": [
+        343,
+        374
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "vxug6h5ka",
+      "name": "BattleSafariMaxIndividualTips",
+      "path": "/",
+      "file": null,
+      "size": [
+        876,
+        103
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "yqtb6h5km",
+      "name": "BattleWeatherFieldTipContent",
+      "path": "/",
+      "file": null,
+      "size": [
+        304,
+        98
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "z4wah22x",
+      "name": "BattleNumberTips",
+      "path": "/",
+      "file": null,
+      "size": [
+        200,
+        80
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "z4wah22y",
+      "name": "BattleNumberTips_MiniWindow",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 5,
+      "id": "m7jx6h4ph",
+      "name": "HurtFont",
+      "path": "/Images/Font/",
+      "file": null,
+      "size": [
+        0,
+        0
+      ]
+    },
+    {
+      "type": 5,
+      "id": "m7jx6h4pi",
+      "name": "RecoverFont",
+      "path": "/Images/Font/",
+      "file": null,
+      "size": [
+        0,
+        0
+      ]
+    },
+    {
+      "type": 5,
+      "id": "m7jx6h4pj",
+      "name": "CriticalFont",
+      "path": "/Images/Font/",
+      "file": null,
+      "size": [
+        0,
+        0
+      ]
+    },
+    {
+      "type": 0,
+      "id": "cc576h5ix",
+      "name": "fun_202",
+      "path": "/Images/Main/",
+      "file": null,
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "type": 0,
+      "id": "fltw6h5j1",
+      "name": "zd_ic_lt",
+      "path": "/Images/New/",
+      "file": null,
+      "size": [
+        80,
+        82
+      ]
+    },
+    {
+      "type": 0,
+      "id": "fytm6h5ln",
+      "name": "yxzs_bg_3",
+      "path": "/Images/Main/",
+      "file": null,
+      "size": [
+        30,
+        30
+      ]
+    },
+    {
+      "type": 0,
+      "id": "gxwd6h5jx",
+      "name": "zdbq",
+      "path": "/Images/Main/",
+      "file": null,
+      "size": [
+        76,
+        76
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ibfr6h5kz",
+      "name": "fun_301",
+      "path": "/Images/Main/",
+      "file": null,
+      "size": [
+        100,
+        101
+      ]
+    },
+    {
+      "type": 0,
+      "id": "kb696h4pm",
+      "name": "jl_sex_1",
+      "path": "/Images/New/",
+      "file": null,
+      "size": [
+        34,
+        50
+      ]
+    },
+    {
+      "type": 0,
+      "id": "kb696h4pn",
+      "name": "jl_sex_2",
+      "path": "/Images/New/",
+      "file": null,
+      "size": [
+        33,
+        49
+      ]
+    },
+    {
+      "type": 0,
+      "id": "kfhq6h5jl",
+      "name": "zd_bg_gbdjs",
+      "path": "/Images/New/",
+      "file": null,
+      "size": [
+        468,
+        53
+      ]
+    },
+    {
+      "type": 0,
+      "id": "lda96h5l1",
+      "name": "fun_133_1",
+      "path": "/Images/Main/",
+      "file": null,
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "type": 0,
+      "id": "lmu56h5kw",
+      "name": "maxV_es",
+      "path": "/Images/Main/",
+      "file": null,
+      "size": [
+        876,
+        103
+      ]
+    },
+    {
+      "type": 0,
+      "id": "lmu56h5kx",
+      "name": "maxV_ko",
+      "path": "/Images/Main/",
+      "file": null,
+      "size": [
+        876,
+        103
+      ]
+    },
+    {
+      "type": 0,
+      "id": "lmu56h5ky",
+      "name": "maxV_pt",
+      "path": "/Images/Main/",
+      "file": null,
+      "size": [
+        876,
+        103
+      ]
+    },
+    {
+      "type": 0,
+      "id": "n979h26c",
+      "name": "zd_jl_16",
+      "path": "/Images/New/",
+      "file": null,
+      "size": [
+        242,
+        33
+      ]
+    },
+    {
+      "type": 0,
+      "id": "n979h26d",
+      "name": "zd_jl_17",
+      "path": "/Images/New/",
+      "file": null,
+      "size": [
+        242,
+        33
+      ]
+    },
+    {
+      "type": 0,
+      "id": "n979h26e",
+      "name": "zd_jl_18",
+      "path": "/Images/New/",
+      "file": null,
+      "size": [
+        242,
+        33
+      ]
+    },
+    {
+      "type": 0,
+      "id": "n979h26x",
+      "name": "zd_jl_15",
+      "path": "/Images/New/",
+      "file": null,
+      "size": [
+        242,
+        33
+      ]
+    },
+    {
+      "type": 0,
+      "id": "n979h26z",
+      "name": "zd_jl_14",
+      "path": "/Images/New/",
+      "file": null,
+      "size": [
+        242,
+        33
+      ]
+    },
+    {
+      "type": 0,
+      "id": "n979h270",
+      "name": "zd_jl_12",
+      "path": "/Images/New/",
+      "file": null,
+      "size": [
+        242,
+        33
+      ]
+    },
+    {
+      "type": 0,
+      "id": "n979h27b",
+      "name": "zd_jl_1",
+      "path": "/Images/New/",
+      "file": null,
+      "size": [
+        242,
+        33
+      ]
+    },
+    {
+      "type": 0,
+      "id": "n979h27c",
+      "name": "zd_jl_2",
+      "path": "/Images/New/",
+      "file": null,
+      "size": [
+        242,
+        33
+      ]
+    },
+    {
+      "type": 0,
+      "id": "n979h27d",
+      "name": "zd_jl_3",
+      "path": "/Images/New/",
+      "file": null,
+      "size": [
+        242,
+        33
+      ]
+    },
+    {
+      "type": 0,
+      "id": "n979h27e",
+      "name": "zd_jl_4",
+      "path": "/Images/New/",
+      "file": null,
+      "size": [
+        242,
+        33
+      ]
+    },
+    {
+      "type": 0,
+      "id": "n979h27f",
+      "name": "zd_jl_5",
+      "path": "/Images/New/",
+      "file": null,
+      "size": [
+        242,
+        33
+      ]
+    },
+    {
+      "type": 0,
+      "id": "n979h27g",
+      "name": "zd_jl_6",
+      "path": "/Images/New/",
+      "file": null,
+      "size": [
+        242,
+        33
+      ]
+    },
+    {
+      "type": 0,
+      "id": "n979h27h",
+      "name": "zd_jl_7",
+      "path": "/Images/New/",
+      "file": null,
+      "size": [
+        242,
+        33
+      ]
+    },
+    {
+      "type": 0,
+      "id": "n979h27i",
+      "name": "zd_jl_8",
+      "path": "/Images/New/",
+      "file": null,
+      "size": [
+        242,
+        33
+      ]
+    },
+    {
+      "type": 0,
+      "id": "n979h27j",
+      "name": "zd_jl_9",
+      "path": "/Images/New/",
+      "file": null,
+      "size": [
+        242,
+        33
+      ]
+    },
+    {
+      "type": 0,
+      "id": "n979h27k",
+      "name": "zd_jl_10",
+      "path": "/Images/New/",
+      "file": null,
+      "size": [
+        242,
+        33
+      ]
+    },
+    {
+      "type": 0,
+      "id": "n979h27l",
+      "name": "zd_jl_11",
+      "path": "/Images/New/",
+      "file": null,
+      "size": [
+        242,
+        33
+      ]
+    },
+    {
+      "type": 0,
+      "id": "n979h27m",
+      "name": "zd_jl_13",
+      "path": "/Images/New/",
+      "file": null,
+      "size": [
+        242,
+        33
+      ]
+    },
+    {
+      "type": 0,
+      "id": "pfwr6h5l2",
+      "name": "maxV_idn",
+      "path": "/Images/Main/",
+      "file": null,
+      "size": [
+        876,
+        103
+      ]
+    },
+    {
+      "type": 0,
+      "id": "r6ot6h5lo",
+      "name": "maxV_ru",
+      "path": "/Images/Main/",
+      "file": null,
+      "size": [
+        876,
+        103
+      ]
+    },
+    {
+      "type": 0,
+      "id": "vlji6h5nr",
+      "name": "maxV_vi",
+      "path": "/Images/Main/",
+      "file": null,
+      "size": [
+        876,
+        103
+      ]
+    },
+    {
+      "type": 0,
+      "id": "vxug6h5kb",
+      "name": "maxV_cn",
+      "path": "/Images/Main/",
+      "file": null,
+      "size": [
+        876,
+        103
+      ]
+    },
+    {
+      "type": 0,
+      "id": "vxug6h5kc",
+      "name": "maxV_tw",
+      "path": "/Images/Main/",
+      "file": null,
+      "size": [
+        876,
+        103
+      ]
+    },
+    {
+      "type": 0,
+      "id": "vxug6h5kd",
+      "name": "maxV_en",
+      "path": "/Images/Main/",
+      "file": null,
+      "size": [
+        876,
+        103
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas0",
+      "name": null,
+      "path": null,
+      "file": "atlas0.png",
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas_r6ot6h5lo",
+      "name": null,
+      "path": null,
+      "file": "atlas_r6ot6h5lo.png",
+      "size": [
+        1024,
+        128
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas_vlji6h5nr",
+      "name": null,
+      "path": null,
+      "file": "atlas_vlji6h5nr.png",
+      "size": [
+        1024,
+        128
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas1",
+      "name": null,
+      "path": null,
+      "file": "atlas1.png",
+      "size": [
+        1024,
+        1024
+      ]
+    }
+  ],
+  "sprites": [
+    {
+      "id": "ph4w6h5m3",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        0,
+        995,
+        511
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "vxug6h5kb",
+      "atlas": "atlas0",
+      "rect": [
+        997,
+        0,
+        876,
+        95
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "pfwr6h5l2",
+      "atlas": "atlas0",
+      "rect": [
+        1875,
+        0,
+        93,
+        876
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "lmu56h5ky",
+      "atlas": "atlas0",
+      "rect": [
+        997,
+        97,
+        876,
+        97
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "lmu56h5kx",
+      "atlas": "atlas0",
+      "rect": [
+        997,
+        196,
+        876,
+        93
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "lmu56h5kw",
+      "atlas": "atlas0",
+      "rect": [
+        997,
+        291,
+        876,
+        97
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "vxug6h5kd",
+      "atlas": "atlas0",
+      "rect": [
+        997,
+        390,
+        876,
+        92
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "vxug6h5kc",
+      "atlas": "atlas0",
+      "rect": [
+        997,
+        484,
+        876,
+        96
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "aqqz6h5le",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        513,
+        817,
+        390
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "pifhh25j",
+      "atlas": "atlas0",
+      "rect": [
+        819,
+        513,
+        108,
+        652
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "im3e6h4pl",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        905,
+        522,
+        83
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "dka06h5lh",
+      "atlas": "atlas0",
+      "rect": [
+        524,
+        905,
+        121,
+        512
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "kfhq6h5jl",
+      "atlas": "atlas0",
+      "rect": [
+        929,
+        513,
+        53,
+        468
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "gxwd6h5k0",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        990,
+        465,
+        217
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "p9qu6h5kt",
+      "atlas": "atlas0",
+      "rect": [
+        647,
+        905,
+        159,
+        458
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "p9qu6h5kr",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        1209,
+        458,
+        159
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "p9qu6h5ks",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        1370,
+        458,
+        159
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "p9qu6h5kq",
+      "atlas": "atlas0",
+      "rect": [
+        647,
+        1365,
+        159,
+        458
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "m3ye6h5nq",
+      "atlas": "atlas0",
+      "rect": [
+        460,
+        1419,
+        146,
+        401
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "lha56h5l4",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        1822,
+        395,
+        135
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "qyssh243",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        1531,
+        330,
+        156
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "d38i6h5m7",
+      "atlas": "atlas0",
+      "rect": [
+        397,
+        1531,
+        58,
+        326
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "aqqz6h5lf",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        1689,
+        322,
+        72
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "pifhh25h",
+      "atlas": "atlas0",
+      "rect": [
+        397,
+        1859,
+        316,
+        148
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "81od6h5j4",
+      "atlas": "atlas0",
+      "rect": [
+        715,
+        1825,
+        316,
+        148
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "aqqz6h5lh",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        1959,
+        313,
+        58
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "hsoa6h5jf",
+      "atlas": "atlas0",
+      "rect": [
+        808,
+        1167,
+        167,
+        306
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "n979h26q",
+      "atlas": "atlas0",
+      "rect": [
+        929,
+        983,
+        282,
+        133
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "mqas6h5jp",
+      "atlas": "atlas0",
+      "rect": [
+        984,
+        582,
+        172,
+        272
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "pifhh25n",
+      "atlas": "atlas0",
+      "rect": [
+        332,
+        1531,
+        41,
+        259
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "n979h26m",
+      "atlas": "atlas0",
+      "rect": [
+        984,
+        878,
+        255,
+        92
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "n979h26c",
+      "atlas": "atlas0",
+      "rect": [
+        608,
+        1419,
+        33,
+        242
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "n979h27k",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        1763,
+        242,
+        33
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "n979h27i",
+      "atlas": "atlas0",
+      "rect": [
+        467,
+        990,
+        33,
+        242
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "n979h27h",
+      "atlas": "atlas0",
+      "rect": [
+        929,
+        1118,
+        242,
+        33
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "n979h27g",
+      "atlas": "atlas0",
+      "rect": [
+        315,
+        2009,
+        242,
+        33
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "n979h27m",
+      "atlas": "atlas0",
+      "rect": [
+        559,
+        2009,
+        242,
+        33
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "n979h27f",
+      "atlas": "atlas0",
+      "rect": [
+        803,
+        1975,
+        242,
+        33
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "n979h27e",
+      "atlas": "atlas0",
+      "rect": [
+        803,
+        2010,
+        242,
+        33
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "n979h27d",
+      "atlas": "atlas0",
+      "rect": [
+        1970,
+        0,
+        33,
+        242
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "n979h27l",
+      "atlas": "atlas0",
+      "rect": [
+        2005,
+        0,
+        33,
+        242
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "n979h27c",
+      "atlas": "atlas0",
+      "rect": [
+        1970,
+        244,
+        33,
+        242
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "n979h27b",
+      "atlas": "atlas0",
+      "rect": [
+        2005,
+        244,
+        33,
+        242
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "n979h270",
+      "atlas": "atlas0",
+      "rect": [
+        1970,
+        488,
+        33,
+        242
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "n979h26z",
+      "atlas": "atlas0",
+      "rect": [
+        2005,
+        488,
+        33,
+        242
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "n979h26x",
+      "atlas": "atlas0",
+      "rect": [
+        1970,
+        732,
+        33,
+        242
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "n979h26e",
+      "atlas": "atlas0",
+      "rect": [
+        2005,
+        732,
+        33,
+        242
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "n979h26d",
+      "atlas": "atlas0",
+      "rect": [
+        2005,
+        976,
+        33,
+        242
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "n979h27j",
+      "atlas": "atlas0",
+      "rect": [
+        1158,
+        582,
+        33,
+        242
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "g9moh28f",
+      "atlas": "atlas0",
+      "rect": [
+        1193,
+        582,
+        76,
+        231
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "i7i56h5la",
+      "atlas": "atlas0",
+      "rect": [
+        808,
+        1475,
+        69,
+        229
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "i7i56h5l9",
+      "atlas": "atlas0",
+      "rect": [
+        808,
+        1706,
+        229,
+        69
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "gj546h4oe",
+      "atlas": "atlas0",
+      "rect": [
+        1033,
+        1777,
+        219,
+        128
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "vxug6h5kh",
+      "atlas": "atlas0",
+      "rect": [
+        1193,
+        815,
+        214,
+        59
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "vxug6h5kg",
+      "atlas": "atlas0",
+      "rect": [
+        1033,
+        1907,
+        214,
+        59
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "vxug6h5kf",
+      "atlas": "atlas0",
+      "rect": [
+        1047,
+        1968,
+        214,
+        59
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "pifhh25e",
+      "atlas": "atlas0",
+      "rect": [
+        1263,
+        1907,
+        203,
+        63
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "n979h26v",
+      "atlas": "atlas0",
+      "rect": [
+        1271,
+        582,
+        135,
+        198
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "n979h26p",
+      "atlas": "atlas0",
+      "rect": [
+        1408,
+        582,
+        90,
+        187
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "n979h26l",
+      "atlas": "atlas0",
+      "rect": [
+        457,
+        1822,
+        184,
+        30
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "iahx6h5md",
+      "atlas": "atlas0",
+      "rect": [
+        460,
+        1234,
+        47,
+        177
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "pifhh25a",
+      "atlas": "atlas0",
+      "rect": [
+        1263,
+        1972,
+        167,
+        60
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "gxwd6h5jz",
+      "atlas": "atlas0",
+      "rect": [
+        879,
+        1475,
+        146,
+        164
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "yqtb6h5kn",
+      "atlas": "atlas0",
+      "rect": [
+        608,
+        1663,
+        21,
+        154
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "osz46h5j6",
+      "atlas": "atlas0",
+      "rect": [
+        1432,
+        1972,
+        137,
+        47
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "t8y96h4o6",
+      "atlas": "atlas0",
+      "rect": [
+        977,
+        1220,
+        121,
+        133
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "ph4w6h5m2",
+      "atlas": "atlas0",
+      "rect": [
+        1027,
+        1355,
+        132,
+        132
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "n979h26u",
+      "atlas": "atlas0",
+      "rect": [
+        1100,
+        1220,
+        98,
+        130
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "qd9k6h5iy",
+      "atlas": "atlas0",
+      "rect": [
+        1027,
+        1489,
+        124,
+        127
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "pifhh24d",
+      "atlas": "atlas0",
+      "rect": [
+        1039,
+        1618,
+        111,
+        124
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "n979h26n",
+      "atlas": "atlas0",
+      "rect": [
+        879,
+        1641,
+        117,
+        54
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "n979h26o",
+      "atlas": "atlas0",
+      "rect": [
+        977,
+        1153,
+        117,
+        54
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "oenl6h4oc",
+      "atlas": "atlas0",
+      "rect": [
+        977,
+        1355,
+        36,
+        110
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "n979h271",
+      "atlas": "atlas0",
+      "rect": [
+        1152,
+        1618,
+        105,
+        106
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "d7fe6h5jm",
+      "atlas": "atlas0",
+      "rect": [
+        1173,
+        1118,
+        105,
+        92
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "d7fe6h5jn",
+      "atlas": "atlas0",
+      "rect": [
+        1280,
+        1118,
+        105,
+        92
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "n979h26y",
+      "atlas": "atlas0",
+      "rect": [
+        1213,
+        972,
+        79,
+        105
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "cc576h5ix",
+      "atlas": "atlas0",
+      "rect": [
+        1294,
+        972,
+        98,
+        99
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "ibfr6h5kz",
+      "atlas": "atlas0",
+      "rect": [
+        1241,
+        876,
+        99,
+        66
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "lda96h5l1",
+      "atlas": "atlas0",
+      "rect": [
+        1342,
+        876,
+        97,
+        92
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "iahx6h5na",
+      "atlas": "atlas0",
+      "rect": [
+        808,
+        1777,
+        91,
+        42
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "iahx6h5mi",
+      "atlas": "atlas0",
+      "rect": [
+        1409,
+        771,
+        79,
+        91
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "iahx6h5mp",
+      "atlas": "atlas0",
+      "rect": [
+        1153,
+        1489,
+        79,
+        91
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "iahx6h5n1",
+      "atlas": "atlas0",
+      "rect": [
+        901,
+        1777,
+        91,
+        42
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "iahx6h5my",
+      "atlas": "atlas0",
+      "rect": [
+        1161,
+        1352,
+        79,
+        91
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "iahx6h5mr",
+      "atlas": "atlas0",
+      "rect": [
+        1234,
+        1220,
+        79,
+        91
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "iahx6h5mt",
+      "atlas": "atlas0",
+      "rect": [
+        1234,
+        1445,
+        79,
+        91
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "iahx6h5mj",
+      "atlas": "atlas0",
+      "rect": [
+        1242,
+        1313,
+        79,
+        91
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "iahx6h5mf",
+      "atlas": "atlas0",
+      "rect": [
+        1315,
+        1220,
+        79,
+        91
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "iahx6h5ms",
+      "atlas": "atlas0",
+      "rect": [
+        1387,
+        1073,
+        79,
+        91
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "iahx6h5mn",
+      "atlas": "atlas0",
+      "rect": [
+        1396,
+        976,
+        79,
+        91
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "iahx6h5n3",
+      "atlas": "atlas0",
+      "rect": [
+        1294,
+        1073,
+        91,
+        42
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "iahx6h5me",
+      "atlas": "atlas0",
+      "rect": [
+        1441,
+        864,
+        79,
+        91
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "iahx6h5mg",
+      "atlas": "atlas0",
+      "rect": [
+        1490,
+        771,
+        79,
+        91
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "iahx6h5mq",
+      "atlas": "atlas0",
+      "rect": [
+        1571,
+        771,
+        79,
+        91
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "iahx6h5mh",
+      "atlas": "atlas0",
+      "rect": [
+        1500,
+        582,
+        79,
+        91
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "iahx6h5nd",
+      "atlas": "atlas0",
+      "rect": [
+        1387,
+        1166,
+        91,
+        42
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "iahx6h5n7",
+      "atlas": "atlas0",
+      "rect": [
+        1500,
+        675,
+        42,
+        91
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "iahx6h5nb",
+      "atlas": "atlas0",
+      "rect": [
+        1544,
+        675,
+        42,
+        91
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "iahx6h5nc",
+      "atlas": "atlas0",
+      "rect": [
+        1581,
+        582,
+        42,
+        91
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "iahx6h5n9",
+      "atlas": "atlas0",
+      "rect": [
+        1588,
+        675,
+        42,
+        91
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "iahx6h5nf",
+      "atlas": "atlas0",
+      "rect": [
+        1625,
+        582,
+        42,
+        91
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "iahx6h5n6",
+      "atlas": "atlas0",
+      "rect": [
+        1632,
+        675,
+        42,
+        91
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "iahx6h5ng",
+      "atlas": "atlas0",
+      "rect": [
+        1669,
+        582,
+        42,
+        91
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "iahx6h5n2",
+      "atlas": "atlas0",
+      "rect": [
+        1152,
+        1726,
+        91,
+        42
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "iahx6h5ne",
+      "atlas": "atlas0",
+      "rect": [
+        1245,
+        1726,
+        91,
+        42
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "iahx6h5n8",
+      "atlas": "atlas0",
+      "rect": [
+        1468,
+        1069,
+        79,
+        91
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "iahx6h5ml",
+      "atlas": "atlas0",
+      "rect": [
+        1480,
+        976,
+        79,
+        91
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "iahx6h5mo",
+      "atlas": "atlas0",
+      "rect": [
+        1522,
+        864,
+        79,
+        91
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "iahx6h5mk",
+      "atlas": "atlas0",
+      "rect": [
+        1561,
+        976,
+        79,
+        91
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "iahx6h5mm",
+      "atlas": "atlas0",
+      "rect": [
+        1603,
+        864,
+        79,
+        91
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "iahx6h5nh",
+      "atlas": "atlas0",
+      "rect": [
+        1652,
+        768,
+        42,
+        91
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "iahx6h5mz",
+      "atlas": "atlas0",
+      "rect": [
+        1684,
+        675,
+        42,
+        91
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "iahx6h5n5",
+      "atlas": "atlas0",
+      "rect": [
+        1728,
+        675,
+        42,
+        91
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "iahx6h5ni",
+      "atlas": "atlas0",
+      "rect": [
+        1713,
+        582,
+        42,
+        91
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "iahx6h5mw",
+      "atlas": "atlas0",
+      "rect": [
+        1757,
+        582,
+        79,
+        91
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "iahx6h5n4",
+      "atlas": "atlas0",
+      "rect": [
+        1234,
+        1538,
+        91,
+        42
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "ph4w6h5m4",
+      "atlas": "atlas0",
+      "rect": [
+        1315,
+        1406,
+        88,
+        88
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "muzf6h4o8",
+      "atlas": "atlas0",
+      "rect": [
+        1323,
+        1313,
+        87,
+        87
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "osz46h5j5",
+      "atlas": "atlas0",
+      "rect": [
+        1039,
+        1744,
+        87,
+        30
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "iahx6h5nj",
+      "atlas": "atlas0",
+      "rect": [
+        1315,
+        1496,
+        87,
+        40
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "uubt6h5j9",
+      "atlas": "atlas0",
+      "rect": [
+        1396,
+        1220,
+        87,
+        87
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "uubt6h5jb",
+      "atlas": "atlas0",
+      "rect": [
+        1254,
+        1770,
+        87,
+        87
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "iahx6h5mv",
+      "atlas": "atlas0",
+      "rect": [
+        1480,
+        1162,
+        87,
+        40
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "iahx6h5mu",
+      "atlas": "atlas0",
+      "rect": [
+        1254,
+        1859,
+        87,
+        40
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "muzf6h4o9",
+      "atlas": "atlas0",
+      "rect": [
+        1549,
+        1069,
+        87,
+        87
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "iahx6h5mx",
+      "atlas": "atlas0",
+      "rect": [
+        1259,
+        1582,
+        40,
+        87
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "iahx6h5nn",
+      "atlas": "atlas0",
+      "rect": [
+        1301,
+        1582,
+        75,
+        85
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "hsoa6h5jh",
+      "atlas": "atlas0",
+      "rect": [
+        244,
+        1763,
+        85,
+        45
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "fltw6h5j1",
+      "atlas": "atlas0",
+      "rect": [
+        1338,
+        1669,
+        80,
+        82
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "lha56h5l3",
+      "atlas": "atlas0",
+      "rect": [
+        1378,
+        1538,
+        70,
+        79
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "owam6h5m9",
+      "atlas": "atlas0",
+      "rect": [
+        1405,
+        1402,
+        54,
+        78
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "gxwd6h5jx",
+      "atlas": "atlas0",
+      "rect": [
+        1450,
+        1309,
+        76,
+        76
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "pifhh25k",
+      "atlas": "atlas0",
+      "rect": [
+        315,
+        1959,
+        74,
+        43
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "vxug6h5ki",
+      "atlas": "atlas0",
+      "rect": [
+        1096,
+        1153,
+        71,
+        65
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "m7jx6h4pd",
+      "atlas": "atlas0",
+      "rect": [
+        1259,
+        1671,
+        68,
+        50
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "pifhh25l",
+      "atlas": "atlas0",
+      "rect": [
+        1405,
+        1482,
+        67,
+        52
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "gfbt6h5lg",
+      "atlas": "atlas0",
+      "rect": [
+        1485,
+        1220,
+        64,
+        64
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "fytm6h5lj",
+      "atlas": "atlas0",
+      "rect": [
+        1461,
+        1387,
+        62,
+        62
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "iwm66h5lb",
+      "atlas": "atlas0",
+      "rect": [
+        1343,
+        1753,
+        61,
+        61
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "n7wj6h5ko",
+      "atlas": "atlas0",
+      "rect": [
+        1343,
+        1816,
+        53,
+        59
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "iahx6h5n0",
+      "atlas": "atlas0",
+      "rect": [
+        1398,
+        1816,
+        50,
+        50
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "kb696h4pm",
+      "atlas": "atlas0",
+      "rect": [
+        998,
+        1641,
+        34,
+        50
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "kb696h4pn",
+      "atlas": "atlas0",
+      "rect": [
+        1158,
+        826,
+        33,
+        49
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "lha56h5l5",
+      "atlas": "atlas0",
+      "rect": [
+        1327,
+        1538,
+        49,
+        36
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "m7jx6h4p0",
+      "atlas": "atlas0",
+      "rect": [
+        1161,
+        1445,
+        48,
+        41
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "m7jx6h4p4",
+      "atlas": "atlas0",
+      "rect": [
+        1378,
+        1619,
+        41,
+        48
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "m7jx6h4pb",
+      "atlas": "atlas0",
+      "rect": [
+        1406,
+        1753,
+        40,
+        48
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "m7jx6h4p2",
+      "atlas": "atlas0",
+      "rect": [
+        1420,
+        1669,
+        40,
+        48
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "m7jx6h4p1",
+      "atlas": "atlas0",
+      "rect": [
+        1421,
+        1619,
+        41,
+        48
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "m7jx6h4oy",
+      "atlas": "atlas0",
+      "rect": [
+        1450,
+        1536,
+        41,
+        48
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "m7jx6h4oz",
+      "atlas": "atlas0",
+      "rect": [
+        1474,
+        1451,
+        41,
+        48
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "m7jx6h4of",
+      "atlas": "atlas0",
+      "rect": [
+        1448,
+        1719,
+        41,
+        48
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "m7jx6h4p5",
+      "atlas": "atlas0",
+      "rect": [
+        1448,
+        1769,
+        48,
+        41
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "t8y96h4dx",
+      "atlas": "atlas0",
+      "rect": [
+        1462,
+        1669,
+        48,
+        48
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "m7jx6h4ox",
+      "atlas": "atlas0",
+      "rect": [
+        331,
+        1792,
+        48,
+        22
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "aqqz6h5lj",
+      "atlas": "atlas0",
+      "rect": [
+        1491,
+        1719,
+        47,
+        47
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "aqqz6h5ld",
+      "atlas": "atlas0",
+      "rect": [
+        1464,
+        1586,
+        47,
+        47
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "vxug6h5ke",
+      "atlas": "atlas0",
+      "rect": [
+        1512,
+        1635,
+        40,
+        46
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "uubt6h5ja",
+      "atlas": "atlas0",
+      "rect": [
+        1493,
+        1501,
+        45,
+        45
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "ohrjh26a",
+      "atlas": "atlas0",
+      "rect": [
+        1517,
+        1451,
+        45,
+        45
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "pifhh25f",
+      "atlas": "atlas0",
+      "rect": [
+        994,
+        1777,
+        34,
+        44
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "n979h280",
+      "atlas": "atlas0",
+      "rect": [
+        1525,
+        1387,
+        39,
+        44
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "aqqz6h5li",
+      "atlas": "atlas0",
+      "rect": [
+        1513,
+        1548,
+        43,
+        43
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "n979h27z",
+      "atlas": "atlas0",
+      "rect": [
+        1242,
+        1406,
+        43,
+        37
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "hbqah236",
+      "atlas": "atlas0",
+      "rect": [
+        1540,
+        1498,
+        42,
+        43
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "hbqah230",
+      "atlas": "atlas0",
+      "rect": [
+        1564,
+        1433,
+        42,
+        42
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "vxug6h5kj",
+      "atlas": "atlas0",
+      "rect": [
+        1513,
+        1593,
+        40,
+        40
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "m7jx6h4om",
+      "atlas": "atlas0",
+      "rect": [
+        1464,
+        1635,
+        38,
+        32
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "m7jx6h4on",
+      "atlas": "atlas0",
+      "rect": [
+        1200,
+        1313,
+        38,
+        33
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "m7jx6h4oj",
+      "atlas": "atlas0",
+      "rect": [
+        1213,
+        1079,
+        38,
+        33
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "m7jx6h4oh",
+      "atlas": "atlas0",
+      "rect": [
+        1253,
+        1079,
+        38,
+        33
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "m7jx6h4oo",
+      "atlas": "atlas0",
+      "rect": [
+        1211,
+        1445,
+        18,
+        38
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "m7jx6h4pe",
+      "atlas": "atlas0",
+      "rect": [
+        1412,
+        1309,
+        33,
+        38
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "m7jx6h4ok",
+      "atlas": "atlas0",
+      "rect": [
+        1412,
+        1349,
+        33,
+        38
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "m7jx6h4ol",
+      "atlas": "atlas0",
+      "rect": [
+        643,
+        1825,
+        38,
+        32
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "m7jx6h4p7",
+      "atlas": "atlas0",
+      "rect": [
+        1241,
+        944,
+        38,
+        18
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "m7jx6h4p6",
+      "atlas": "atlas0",
+      "rect": [
+        1153,
+        1582,
+        38,
+        33
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "m7jx6h4p8",
+      "atlas": "atlas0",
+      "rect": [
+        1193,
+        1582,
+        38,
+        33
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "m7jx6h4os",
+      "atlas": "atlas0",
+      "rect": [
+        1512,
+        1683,
+        38,
+        33
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "m7jx6h4p9",
+      "atlas": "atlas0",
+      "rect": [
+        715,
+        1975,
+        38,
+        32
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "m7jx6h4pa",
+      "atlas": "atlas0",
+      "rect": [
+        755,
+        1975,
+        38,
+        32
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "m7jx6h4ow",
+      "atlas": "atlas0",
+      "rect": [
+        1398,
+        1868,
+        38,
+        33
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "m7jx6h4ou",
+      "atlas": "atlas0",
+      "rect": [
+        1438,
+        1868,
+        38,
+        33
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "m7jx6h4ov",
+      "atlas": "atlas0",
+      "rect": [
+        1450,
+        1812,
+        33,
+        38
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "n979h26k",
+      "atlas": "atlas0",
+      "rect": [
+        1343,
+        1877,
+        37,
+        28
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "m7jx6h4ot",
+      "atlas": "atlas0",
+      "rect": [
+        1468,
+        1903,
+        33,
+        37
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "m7jx6h4pf",
+      "atlas": "atlas0",
+      "rect": [
+        1200,
+        1212,
+        32,
+        37
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "hbqah231",
+      "atlas": "atlas0",
+      "rect": [
+        1478,
+        1852,
+        36,
+        37
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "m7jx6h4oi",
+      "atlas": "atlas0",
+      "rect": [
+        1485,
+        1812,
+        33,
+        37
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "m7jx6h4og",
+      "atlas": "atlas0",
+      "rect": [
+        1525,
+        1433,
+        34,
+        13
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "m7jx6h4p3",
+      "atlas": "atlas0",
+      "rect": [
+        1498,
+        1768,
+        34,
+        34
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "pifhh24t",
+      "atlas": "atlas0",
+      "rect": [
+        1200,
+        1251,
+        32,
+        32
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "pifhh24u",
+      "atlas": "atlas0",
+      "rect": [
+        1503,
+        1891,
+        32,
+        32
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "n979h275",
+      "atlas": "atlas0",
+      "rect": [
+        1128,
+        1744,
+        19,
+        31
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "fytm6h5ln",
+      "atlas": "atlas0",
+      "rect": [
+        683,
+        1825,
+        30,
+        30
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "pifhh25i",
+      "atlas": "atlas0",
+      "rect": [
+        1420,
+        1719,
+        26,
+        29
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "n979h277",
+      "atlas": "atlas0",
+      "rect": [
+        1200,
+        1285,
+        28,
+        25
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "pifhh25d",
+      "atlas": "atlas0",
+      "rect": [
+        1447,
+        1387,
+        10,
+        10
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "ph4w6h5m5",
+      "atlas": "atlas0",
+      "rect": [
+        1468,
+        1162,
+        5,
+        2
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "r6ot6h5lo",
+      "atlas": "atlas_r6ot6h5lo",
+      "rect": [
+        0,
+        0,
+        876,
+        91
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "vlji6h5nr",
+      "atlas": "atlas_vlji6h5nr",
+      "rect": [
+        0,
+        0,
+        876,
+        93
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "r60f6h5lu",
+      "atlas": "atlas1",
+      "rect": [
+        0,
+        0,
+        383,
+        610
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "r60f6h5lv",
+      "atlas": "atlas1",
+      "rect": [
+        0,
+        612,
+        610,
+        383
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "r60f6h5lw",
+      "atlas": "atlas1",
+      "rect": [
+        385,
+        0,
+        610,
+        383
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "r60f6h5lt",
+      "atlas": "atlas1",
+      "rect": [
+        612,
+        385,
+        383,
+        610
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "r60f6h5lz",
+      "atlas": "atlas1",
+      "rect": [
+        385,
+        385,
+        5,
+        2
+      ],
+      "rotated": 0
+    }
+  ],
+  "strings": [
+    "c1imbcrl",
+    "Base",
+    "ufgirfkm",
+    "Common",
+    "cyrayt3h",
+    "Item",
+    "c6iwlr2r",
+    "Main",
+    "81od6h5j4",
+    "jlth_bg_11",
+    "/Images/Swap/",
+    "aqqz6h5ld",
+    "sjzpvp_di_10",
+    "/Images/Main/",
+    "aqqz6h5le",
+    "sjzpvp_di_11",
+    "aqqz6h5lf",
+    "sjzpvp_di_12",
+    "aqqz6h5lh",
+    "sjzpvp_di_7",
+    "aqqz6h5li",
+    "sjzpvp_di_8",
+    "aqqz6h5lj",
+    "sjzpvp_di_9",
+    "d38i6h5m7",
+    "bwyh_bth_1",
+    "d7fe6h5jm",
+    "zd_bth_xjh0",
+    "/Images/New/",
+    "d7fe6h5jn",
+    "zd_bth_xjh1",
+    "dka06h5lh",
+    "wyhd_lll_langlailebg_01",
+    "fytm6h5lj",
+    "zd_bzck",
+    "g9moh28f",
+    "sl_bth_1",
+    "gfbt6h5lg",
+    "wjzt_di_7",
+    "/PveTrainerNew/",
+    "gj546h4oe",
+    "zd_jz",
+    "gxwd6h5jz",
+    "emoji_bg",
+    "gxwd6h5k0",
+    "emoji_list_bg",
+    "hbqah230",
+    "ic_pan",
+    "hbqah231",
+    "ic_yaopin",
+    "hbqah236",
+    "ic_fruit",
+    "hsoa6h5jf",
+    "zd_bg_tq1",
+    "hsoa6h5jh",
+    "zd_bth_tq1",
+    "i7i56h5l9",
+    "lt_bth_3",
+    "/UITipType/ChatAndEmoji/Images/",
+    "i7i56h5la",
+    "lt_bth_4",
+    "iahx6h5md",
+    "sxkz_di_1",
+    "/Images/AttrType/",
+    "iahx6h5me",
+    "sxkz_sxdi_4",
+    "iahx6h5mf",
+    "sxkz_sxdi_5",
+    "iahx6h5mg",
+    "sxkz_sxdi_6",
+    "iahx6h5mh",
+    "sxkz_sxdi_7",
+    "iahx6h5mi",
+    "sxkz_sxdi_8",
+    "iahx6h5mj",
+    "sxkz_sxdi_9",
+    "iahx6h5mk",
+    "sxkz_sxdi_10",
+    "iahx6h5ml",
+    "sxkz_sxdi_11",
+    "iahx6h5mm",
+    "sxkz_sxdi_3",
+    "iahx6h5mn",
+    "sxkz_sxdi_12",
+    "iahx6h5mo",
+    "sxkz_sxdi_14",
+    "iahx6h5mp",
+    "sxkz_sxdi_15",
+    "iahx6h5mq",
+    "sxkz_sxdi_16",
+    "iahx6h5mr",
+    "sxkz_sxdi_17",
+    "iahx6h5ms",
+    "sxkz_sxdi_18",
+    "iahx6h5mt",
+    "sxkz_sxdi_19",
+    "iahx6h5mu",
+    "sxkz_sxdi_20",
+    "iahx6h5mv",
+    "sxkz_sxdi_21",
+    "iahx6h5mw",
+    "sxkz_sxdi_13",
+    "iahx6h5mx",
+    "sxkz_sxdi_22",
+    "iahx6h5my",
+    "sxkz_sxdi_2",
+    "iahx6h5mz",
+    "sxkz_sx_18",
+    "iahx6h5n0",
+    "sxkz_di_2",
+    "iahx6h5n1",
+    "sxkz_sx_1",
+    "iahx6h5n2",
+    "sxkz_sx_2",
+    "iahx6h5n3",
+    "sxkz_sx_3",
+    "iahx6h5n4",
+    "sxkz_sx_4",
+    "iahx6h5n5",
+    "sxkz_sx_5",
+    "iahx6h5n6",
+    "sxkz_sx_6",
+    "iahx6h5n7",
+    "sxkz_sx_7",
+    "iahx6h5n8",
+    "sxkz_sxdi_1",
+    "iahx6h5n9",
+    "sxkz_sx_8",
+    "iahx6h5na",
+    "sxkz_sx_10",
+    "iahx6h5nb",
+    "sxkz_sx_11",
+    "iahx6h5nc",
+    "sxkz_sx_12",
+    "iahx6h5nd",
+    "sxkz_sx_13",
+    "iahx6h5ne",
+    "sxkz_sx_14",
+    "iahx6h5nf",
+    "sxkz_sx_15",
+    "iahx6h5ng",
+    "sxkz_sx_16",
+    "iahx6h5nh",
+    "sxkz_sx_17",
+    "iahx6h5ni",
+    "sxkz_sx_9",
+    "iahx6h5nj",
+    "sxkz_sxdi_23",
+    "iahx6h5nn",
+    "jz_di_7",
+    "im3e6h4pl",
+    "zd_bg_sjtc2",
+    "iwm66h5lb",
+    "xych_tg",
+    "lha56h5l3",
+    "jljx_bg6",
+    "lha56h5l4",
+    "jljx_bg7",
+    "lha56h5l5",
+    "jljx_bg8",
+    "m3ye6h5nq",
+    "jl_hh_17",
+    "m7jx6h4of",
+    "b0",
+    "/Images/Font/",
+    "m7jx6h4og",
+    "减号",
+    "m7jx6h4oh",
+    "s9",
+    "m7jx6h4oi",
+    "s8",
+    "m7jx6h4oj",
+    "s7",
+    "m7jx6h4ok",
+    "s6",
+    "m7jx6h4ol",
+    "s4",
+    "m7jx6h4om",
+    "s3",
+    "m7jx6h4on",
+    "s2",
+    "m7jx6h4oo",
+    "s1",
+    "m7jx6h4os",
+    "h9",
+    "m7jx6h4ot",
+    "h8",
+    "m7jx6h4ou",
+    "h7",
+    "m7jx6h4ov",
+    "h6",
+    "m7jx6h4ow",
+    "h5",
+    "m7jx6h4ox",
+    "b1",
+    "m7jx6h4oy",
+    "b2",
+    "m7jx6h4oz",
+    "b3",
+    "m7jx6h4p0",
+    "b4",
+    "m7jx6h4p1",
+    "b5",
+    "m7jx6h4p2",
+    "b6",
+    "m7jx6h4p3",
+    "加号",
+    "m7jx6h4p4",
+    "b7",
+    "m7jx6h4p5",
+    "b9",
+    "m7jx6h4p6",
+    "h0",
+    "m7jx6h4p7",
+    "h1",
+    "m7jx6h4p8",
+    "h2",
+    "m7jx6h4p9",
+    "h3",
+    "m7jx6h4pa",
+    "h4",
+    "m7jx6h4pb",
+    "b8",
+    "m7jx6h4pd",
+    "critical",
+    "m7jx6h4pe",
+    "s0",
+    "m7jx6h4pf",
+    "s5",
+    "mqas6h5jp",
+    "zd_tjxz",
+    "muzf6h4o8",
+    "zd_bth_mg0",
+    "muzf6h4o9",
+    "zd_bth_mg1",
+    "n7wj6h5ko",
+    "ghboss_bg_6",
+    "n979h26k",
+    "zd_jlq_bg",
+    "n979h26l",
+    "zd_jnxg_bg",
+    "n979h26m",
+    "zd_jsq",
+    "n979h26n",
+    "zd_n_1",
+    "n979h26o",
+    "zd_n_2",
+    "n979h26p",
+    "zd_tp",
+    "n979h26q",
+    "zd_txk_1",
+    "n979h26u",
+    "zd_bg_1",
+    "n979h26v",
+    "zd_bg_2",
+    "n979h26y",
+    "zd_bth_tjh0",
+    "n979h271",
+    "zd_bth_tjh3",
+    "n979h275",
+    "zd_hp_1",
+    "n979h277",
+    "zd_hp_bg",
+    "n979h27z",
+    "jl_nan",
+    "n979h280",
+    "jl_nv",
+    "oenl6h4oc",
+    "zd_txk_3",
+    "ohrjh26a",
+    "zd_bth_tjh",
+    "osz46h5j5",
+    "zjm_sj_bg",
+    "osz46h5j6",
+    "zjm_sj_bg0",
+    "owam6h5m9",
+    "zd_cjxg",
+    "p9qu6h5kq",
+    "zdxz_di_1",
+    "p9qu6h5kr",
+    "zdxz_di_2",
+    "p9qu6h5ks",
+    "zdxz_di_3",
+    "p9qu6h5kt",
+    "zdxz_di_4",
+    "ph4w6h5m2",
+    "hc2048_bth_1",
+    "/Images/SeasonPvp/",
+    "ph4w6h5m3",
+    "sjzpvp_di_18",
+    "ph4w6h5m4",
+    "mrqd_di_4",
+    "ph4w6h5m5",
+    "dy_xian_1",
+    "pifhh24d",
+    "zd_bth_mg",
+    "pifhh24t",
+    "zd_icon_b",
+    "pifhh24u",
+    "zd_icon_a",
+    "pifhh25a",
+    "jlth_bg_8",
+    "pifhh25d",
+    "jlth_bg_9",
+    "pifhh25e",
+    "jlth_bg_5",
+    "pifhh25f",
+    "jlth_bg_6",
+    "pifhh25h",
+    "jlth_bg_7",
+    "pifhh25i",
+    "jl_bg_xl12",
+    "pifhh25j",
+    "jlth_bg_1",
+    "pifhh25k",
+    "jlth_bg_3",
+    "pifhh25l",
+    "jlth_bg_2",
+    "pifhh25n",
+    "jlth_bg_10",
+    "qd9k6h5iy",
+    "ty_ic_Selected",
+    "qyssh243",
+    "skill_xz",
+    "r60f6h5lt",
+    "sxjn_di_1",
+    "/Images/ExtraSkill/",
+    "r60f6h5lu",
+    "sxjn_di_2",
+    "r60f6h5lv",
+    "sxjn_di_3",
+    "r60f6h5lw",
+    "sxjn_di_4",
+    "r60f6h5lz",
+    "t8y96h4dx",
+    "jlg_bg_14",
+    "t8y96h4o6",
+    "zd_bg_sjtc",
+    "uubt6h5j9",
+    "zd_bth_jjh1",
+    "uubt6h5ja",
+    "zd_bth_jjh2",
+    "uubt6h5jb",
+    "zd_bth_jjh0",
+    "vxug6h5ke",
+    "tjtz_bth_5",
+    "vxug6h5kf",
+    "tjtz_bth_6",
+    "vxug6h5kg",
+    "tjtz_bth_7",
+    "vxug6h5kh",
+    "tjtz_bth_8",
+    "vxug6h5ki",
+    "tjtz_zs_2",
+    "vxug6h5kj",
+    "tjtz_bth_9",
+    "yqtb6h5kn",
+    "tjtz_bg_6",
+    "9b136h5jr",
+    "BattleFloatFuncsUI_Tip",
+    "/UITipType/ChatAndEmoji/",
+    "EmojiShow",
+    "0",
+    "no",
+    "1",
+    "yes",
+    "PosType",
+    "pos1",
+    "pos2",
+    "2",
+    "posSeasonChannel",
+    "9b136h5jv",
+    "n0_fltw",
+    "comFloatFunBtns",
+    "n6_9b13",
+    "AdapterNodeLeft",
+    "n4_9b13",
+    "gra_close",
+    "gxwd6h5k1",
+    "n7_gxwd",
+    "com_emojiListPanel",
+    "9b136h5ju",
+    "BattleChatEmojiTips",
+    "IsFlip",
+    "n4_gxwd",
+    "img_bg",
+    "n3_sf70",
+    "ld_emoji",
+    "move",
+    "BattleFloatBtnCom",
+    "n5_gxwd",
+    "n5",
+    "fltw6h5j2",
+    "btn_Chat",
+    "ui://uohhcc0qfltw6h5j1",
+    "n3_gxwd",
+    "btn_emoji",
+    "表情",
+    "ui://uohhcc0qgxwd6h5jx",
+    "n6_vkn1",
+    "list_func",
+    "ui://uohhcc0qfltw6h5j2",
+    "aqqz6h5lp",
+    "BattleWinScoreCom",
+    "/",
+    "Faction",
+    "my",
+    "enemy",
+    "n194_aqqz",
+    "n194",
+    "n195_aqqz",
+    "lb_scoreTip",
+    "n205_aqqz",
+    "list_score",
+    "ui://uohhcc0qaqqz6h5lq",
+    "aqqz6h5lq",
+    "BattleWinScorePointCell",
+    "IsGot",
+    "n196_aqqz",
+    "n198_aqqz",
+    "img_green",
+    "n199_aqqz",
+    "img_red",
+    "aqqz6h5lr",
+    "BattleWinScore_MiniWindow",
+    "nm0oh265",
+    "n206_aqqz",
+    "mask",
+    "n198",
+    "icon_frame",
+    "ui://cyrayt3hmti7h249",
+    "n200_aqqz",
+    "icon_head",
+    "n201_aqqz",
+    "n201",
+    "n202_aqqz",
+    "n203_aqqz",
+    "lb_Tip1",
+    "lb_name",
+    "n207_aqqz",
+    "lb_close",
+    "d38i6h5m6",
+    "BattlePlayerInfoCom",
+    "ui://uohhcc0qd38i6h5m7",
+    "ui://uohhcc0qaqqz6h5lh",
+    "lb_myFactionPlayerName",
+    "n206_d38i",
+    "lb_enemyFactionPlayerName",
+    "BattleChatBtn",
+    "/UITipType/Chat/",
+    "button",
+    "up",
+    "down",
+    "over",
+    "3",
+    "selectedOver",
+    "n3_fltw",
+    "icon",
+    "n2_fltw",
+    "title",
+    "fltw6h5j3",
+    "BattleChat_Tip",
+    "posModel",
+    "pos3",
+    "n1_mirk",
+    "fytm6h5ll",
+    "BattleCatchRateBtn",
+    "n211_fytm",
+    "n211",
+    "n212_fytm",
+    "lb_catchRateTitle",
+    "fytm6h5lm",
+    "BattleCatchRateTipCom",
+    "IsShowTipDetail",
+    "btn_CatchRateTip",
+    "i3m66h2w1",
+    "n213_fytm",
+    "n213",
+    "n214_fytm",
+    "lb_catchRateDes",
+    "n205_fytm",
+    "catchRateMask",
+    "g9moh28h",
+    "safariItem",
+    "/Images/Component/",
+    "n3_g9mo",
+    "bg",
+    "n4_g9mo",
+    "泥巴球",
+    "n5_g9mo",
+    "ui://cyrayt3hmti7h24j",
+    "n6_g9mo",
+    "num",
+    "X30",
+    "gfbt6h5lc",
+    "BattlePveTrainerNewTaskCom",
+    "n7_gfbt",
+    "n7",
+    "n6_gfbt",
+    "list_task",
+    "ui://uohhcc0qgfbt6h5ld",
+    "gfbt6h5ld",
+    "BattlePveTrainerTaskItemCell",
+    "IsFinish",
+    "n2_gfbt",
+    "n2",
+    "ui://cyrayt3hv6xa6h549",
+    "n1_gfbt",
+    "lb_task",
+    "BattleEmojiListCom",
+    "n3_9b13",
+    "list_emoji",
+    "ui://uohhcc0qiq5n6h5l8",
+    "n8_iq5n",
+    "list_emojiSwitchTab",
+    "ui://uohhcc0qiq5n6h5l6",
+    "hsoa6h5ji",
+    "WeatherFieldTip",
+    "n155_hsoa",
+    "ld_weather_field",
+    "n158_hsoa",
+    "n159_hsoa",
+    "lb_remain_round",
+    "yqtb6h5km",
+    "n163_yqtb",
+    "com_Detailtip",
+    "hx2n5",
+    "BallItem",
+    "State",
+    "Normal",
+    "Die",
+    "None",
+    "n0_hx2n",
+    "n0",
+    "ui://uohhcc0qpifhh24u",
+    "ui://uohhcc0qpifhh24t",
+    "ui://cyrayt3h8yc46y",
+    "hx2n6",
+    "PokemonState",
+    "megaOrMax",
+    "none",
+    "mega",
+    "max",
+    "ShowRevive",
+    "BattleType",
+    "OtherBattleType",
+    "TeraRaid",
+    "IsLeader",
+    "IsSelectEud",
+    "ShowSkillEffect",
+    "IsWake",
+    "ChatBubblePosType",
+    "MyFactionNormal",
+    "MyFactionTeraRaid",
+    "Enemy",
+    "IsShowPlayerInfo",
+    "IsMyFaction",
+    "IsBossWang",
+    "n49_f7m5",
+    "n49",
+    "n1_hx2n",
+    "n1",
+    "ui://uohhcc0qlha56h5l4",
+    "ui://uohhcc0qn979h26q",
+    "n61_m3ye",
+    "n61",
+    "n979h28a",
+    "n19_hx2n",
+    "gender",
+    "model",
+    "5",
+    "m6bj1",
+    "n22_hx2n",
+    "expBar",
+    "m6bj2",
+    "n23_hx2n",
+    "hpBar",
+    "n13_hx2n",
+    "list_ball",
+    "ui://uohhcc0qhx2n5",
+    "n26_u4fo",
+    "AttrList",
+    "ui://ufgirfkmio1q6h2tq",
+    "n30_pifh",
+    "BuffList",
+    "ui://ufgirfkmpifhh254",
+    "n3_hx2n",
+    "n28_pifh",
+    "icon_eudemon",
+    "n38_oenl",
+    "n38",
+    "ui://uohhcc0qlha56h5l5",
+    "ui://uohhcc0qoenl6h4oc",
+    "n4_hx2n",
+    "lb_level",
+    "n12_hx2n",
+    "lb_exp",
+    "EXP",
+    "n979h286",
+    "n32_n979",
+    "qualityCom",
+    "quality",
+    "n33_n979",
+    "megaIcon",
+    "ui://ufgirfkmn979h26w",
+    "n41_glsl",
+    "dynamaxIcon",
+    "ui://ufgirfkmtkny1lyos41",
+    "n34_n979",
+    "equipIcon",
+    "n36_hbnz",
+    "lb_SafariAddRate",
+    "捕获率+{0}",
+    "n37_n0cv",
+    "buffListPos2",
+    "n39_hv06",
+    "lb_posEudDie",
+    "n54_eviu",
+    "n54",
+    "n55_eviu",
+    "lb_wakeLv",
+    "6",
+    "n56_eviu",
+    "wake",
+    "n45_vxug",
+    "n45",
+    "n47_vxug",
+    "n47",
+    "n43_jmeb",
+    "lb_ReviveRound",
+    "n46_vxug",
+    "teraRaidRevive",
+    "n48_yqtb",
+    "n48",
+    "n51_f7m5",
+    "n51",
+    "p9qu6h5kv",
+    "n53_p9qu",
+    "comSkillEffect",
+    "skillEffect",
+    "4",
+    "n58_reve",
+    "gra_EnemyBubblePos",
+    "n59_ijm9",
+    "gra_EmojiPos",
+    "n60_d38i",
+    "com_BelongToPlayer",
+    "iahx6h5mb",
+    "BattleAttrTypePreview_Tip",
+    "/AttrTypePreview/",
+    "n13_vxy1",
+    "btn_close",
+    "gauw6",
+    "n145_ckuk",
+    "pool",
+    "n106_ckuk",
+    "n106",
+    "n107_ckuk",
+    "n107",
+    "n144_ckuk",
+    "list_effects",
+    "ui://uohhcc0qiahx6h5nk",
+    "n108_ckuk",
+    "img_verType1",
+    "n109_ckuk",
+    "img_verType2",
+    "n110_ckuk",
+    "img_verType3",
+    "n111_ckuk",
+    "img_verType4",
+    "n112_ckuk",
+    "img_verType5",
+    "n113_ckuk",
+    "img_verType6",
+    "n114_ckuk",
+    "img_verType7",
+    "n115_ckuk",
+    "img_verType8",
+    "n116_ckuk",
+    "img_verType9",
+    "n117_ckuk",
+    "img_verType10",
+    "n118_ckuk",
+    "img_verType11",
+    "n119_ckuk",
+    "img_verType12",
+    "n120_ckuk",
+    "img_verType13",
+    "n121_ckuk",
+    "img_verType14",
+    "n122_ckuk",
+    "img_verType15",
+    "n123_ckuk",
+    "img_verType16",
+    "n124_ckuk",
+    "img_verType17",
+    "n125_ckuk",
+    "img_verType18",
+    "n126_ckuk",
+    "img_horType1",
+    "n127_ckuk",
+    "img_horType2",
+    "n128_ckuk",
+    "img_horType3",
+    "n129_ckuk",
+    "img_horType4",
+    "n130_ckuk",
+    "img_horType5",
+    "n131_ckuk",
+    "img_horType6",
+    "n132_ckuk",
+    "img_horType7",
+    "n133_ckuk",
+    "img_horType8",
+    "n134_ckuk",
+    "img_horType9",
+    "n135_ckuk",
+    "img_horType10",
+    "n136_ckuk",
+    "img_horType11",
+    "n137_ckuk",
+    "img_horType12",
+    "n138_ckuk",
+    "img_horType13",
+    "n139_ckuk",
+    "img_horType14",
+    "n140_ckuk",
+    "img_horType15",
+    "n141_ckuk",
+    "img_horType16",
+    "n142_ckuk",
+    "img_horType17",
+    "n143_ckuk",
+    "img_horType18",
+    "n168_ckuk",
+    "lb_horType_1",
+    "n169_ckuk",
+    "lb_horType_2",
+    "n170_ckuk",
+    "lb_horType_3",
+    "n171_ckuk",
+    "lb_horType_4",
+    "n172_ckuk",
+    "lb_horType_5",
+    "n173_ckuk",
+    "lb_horType_6",
+    "n174_ckuk",
+    "lb_horType_7",
+    "n176_ckuk",
+    "lb_horType_8",
+    "n175_ckuk",
+    "lb_horType_9",
+    "n177_ckuk",
+    "lb_horType_10",
+    "n178_ckuk",
+    "lb_horType_11",
+    "n179_ckuk",
+    "lb_horType_12",
+    "n180_ckuk",
+    "lb_horType_13",
+    "n181_ckuk",
+    "lb_horType_14",
+    "n182_ckuk",
+    "lb_horType_15",
+    "n183_ckuk",
+    "lb_horType_16",
+    "n184_ckuk",
+    "lb_horType_17",
+    "n185_ckuk",
+    "lb_horType_18",
+    "n147_ckuk",
+    "lb_verType_1",
+    "n150_ckuk",
+    "lb_verType_2",
+    "n151_ckuk",
+    "lb_verType_3",
+    "n152_ckuk",
+    "lb_verType_4",
+    "n153_ckuk",
+    "lb_verType_5",
+    "n154_ckuk",
+    "lb_verType_6",
+    "n155_ckuk",
+    "lb_verType_7",
+    "n156_ckuk",
+    "lb_verType_8",
+    "n157_ckuk",
+    "lb_verType_9",
+    "n158_ckuk",
+    "lb_verType_10",
+    "n159_ckuk",
+    "lb_verType_11",
+    "n160_ckuk",
+    "lb_verType_12",
+    "n161_ckuk",
+    "lb_verType_13",
+    "n162_ckuk",
+    "lb_verType_14",
+    "n163_ckuk",
+    "lb_verType_15",
+    "n164_ckuk",
+    "lb_verType_16",
+    "n165_ckuk",
+    "lb_verType_17",
+    "n166_ckuk",
+    "lb_verType_18",
+    "n146_ckuk",
+    "n146",
+    "n187_ywar",
+    "iahx6h5nk",
+    "BattleAttrTypePreviewCell",
+    "EffectType",
+    "Zero",
+    "One",
+    "Two",
+    "Half",
+    "n62_iahx",
+    "n62",
+    "ui://uohhcc0qiahx6h5mx",
+    "ui://uohhcc0qiahx6h5nj",
+    "ui://uohhcc0qiahx6h5mv",
+    "ui://uohhcc0qiahx6h5mu",
+    "n63_iahx",
+    "lb_value",
+    "1x",
+    "2x",
+    "1/2x",
+    "0x",
+    "iahx6h5nl",
+    "BattleAttrTypePreviewCom",
+    "n17_iahx",
+    "n17",
+    "n48_iahx",
+    "n18_iahx",
+    "n18",
+    "n25_iahx",
+    "n25",
+    "n20_iahx",
+    "n20",
+    "n23_iahx",
+    "n23",
+    "n21_iahx",
+    "n21",
+    "n26_iahx",
+    "n26",
+    "n22_iahx",
+    "n22",
+    "n27_iahx",
+    "n27",
+    "n28_iahx",
+    "n28",
+    "n29_iahx",
+    "n29",
+    "n24_iahx",
+    "n24",
+    "n31_iahx",
+    "n31",
+    "n32_iahx",
+    "n32",
+    "n35_iahx",
+    "n35",
+    "n36_iahx",
+    "n36",
+    "n34_iahx",
+    "n34",
+    "n33_iahx",
+    "n33",
+    "n37_iahx",
+    "n37",
+    "n38_iahx",
+    "n54_iahx",
+    "n39_iahx",
+    "n39",
+    "n43_iahx",
+    "n43",
+    "n40_iahx",
+    "n40",
+    "n58_iahx",
+    "n58",
+    "n42_iahx",
+    "n42",
+    "n57_iahx",
+    "n57",
+    "n41_iahx",
+    "n41",
+    "n59_iahx",
+    "n59",
+    "n44_iahx",
+    "n44",
+    "n45_iahx",
+    "n49_iahx",
+    "n46_iahx",
+    "n46",
+    "n55_iahx",
+    "n55",
+    "n60_iahx",
+    "n60",
+    "n56_iahx",
+    "n56",
+    "n47_iahx",
+    "n61_iahx",
+    "n82_iahx",
+    "iahx6h5no",
+    "BattleAttrTypePreviewSel1",
+    "img_Horizon1",
+    "iahx6h5np",
+    "BattleAttrTypePreviewSel2",
+    "n81_iahx",
+    "img_sel",
+    "iq5n6h5l6",
+    "BattleChatEmojiSwitchTabCell",
+    "n6_7v64",
+    "ui://uohhcc0qi7i56h5la",
+    "ui://uohhcc0qi7i56h5l9",
+    "n5_as4i",
+    "全部",
+    "iq5n6h5l8",
+    "BattleEmojiBtn",
+    "n3_rt3l",
+    "n4_iq5n",
+    "lb_emojiID",
+    "iqg06h5k3",
+    "BattleTRPlayerSkillBtn",
+    "/TeraRaid/",
+    "IsForbid",
+    "No",
+    "Yes",
+    "SelectState",
+    "BgType",
+    "type1",
+    "type2",
+    "type3",
+    "n26_qyss",
+    "ui://uohhcc0qvxug6h5kg",
+    "ui://uohhcc0qvxug6h5kh",
+    "ui://uohhcc0qvxug6h5kf",
+    "n27_qyss",
+    "i9zd6h2qg",
+    "n33_jfq8",
+    "category",
+    "n35_gj54",
+    "forbid",
+    "n36_qd9k",
+    "n38_vxug",
+    "n28_qyss",
+    "lab_pp",
+    "jfq8h28b",
+    "BagEudemonInfo",
+    "n0_jfq8",
+    "n1_jfq8",
+    "lb_bag_lv",
+    "Lv.999",
+    "n2_jfq8",
+    "bag_Gender",
+    "n3_jfq8",
+    "bag_Quality",
+    "n4_jfq8",
+    "lb_bag_Name",
+    "炎兔儿",
+    "n5_jfq8",
+    "lb_bag_hp",
+    "HP",
+    "n6_jfq8",
+    "bag_hpBar",
+    "n7_jfq8",
+    "bag_AttrList",
+    "n8_jfq8",
+    "lb_bag_property",
+    "属性",
+    "n9_jfq8",
+    "bag_skillList",
+    "ui://uohhcc0qn979h289",
+    "kb696h4po",
+    "SexBtn",
+    "c1",
+    "boy",
+    "girl",
+    "psobw",
+    "n27_xkkz",
+    "btn_sex",
+    "ui://uohhcc0qkb696h4pn",
+    "ui://uohhcc0qkb696h4pm",
+    "m6bj0",
+    "CommonBattleBtn",
+    "state",
+    "noraml",
+    "select",
+    "ui://uohhcc0qn979h26o",
+    "ui://uohhcc0qn979h26n",
+    "n3_olfd",
+    "精灵球",
+    "ExpBar",
+    "n0_olfd",
+    "n1_olfd",
+    "bar",
+    "HPBar",
+    "HPState",
+    "LowHp",
+    "WillDie",
+    "OmitTitleState",
+    "IsShowHpShield",
+    "n7_yqtb",
+    "img_shield",
+    "n2_olfd",
+    "262/262",
+    "n6_nedf",
+    "lb_omitTitle",
+    "m6bj3",
+    "NormalBattle_Bg",
+    "menuState",
+    "skill_menu",
+    "6",
+    "change_eudemon",
+    "14",
+    "bagItem",
+    "eudBall_menu",
+    "16",
+    "forceChangeEud_cmd",
+    "performAuto",
+    "perform",
+    "15",
+    "perform_safari",
+    "12",
+    "safari",
+    "Showinfo",
+    "hide",
+    "eudemon",
+    "item",
+    "7",
+    "skill",
+    "8",
+    "TRPlayerSkill",
+    "DebugModel",
+    "show",
+    "autoModel",
+    "Auto",
+    "AutoPlaying",
+    "CmdForbidTipStatus",
+    "hideTip",
+    "showTip",
+    "battleModel",
+    "pve",
+    "pvp",
+    "phaseWaitState",
+    "show_pvp",
+    "show_pve",
+    "waitSelectEudState",
+    "SignalState",
+    "Weak",
+    "Middle",
+    "Strong",
+    "allEudemonDie",
+    "IsShowWeatherFieldTip",
+    "BattleMode2",
+    "ObserveMode",
+    "RecordMode",
+    "ShowPveAutoBattleCD",
+    "TeraRaidCapture",
+    "showSafariMaxIndividual",
+    "IsShowPveTrainerTask",
+    "cShowEndless",
+    "cShowEndlessBegin",
+    "IsShowCatchRate",
+    "WinMode",
+    "normal",
+    "score",
+    "cShowSeason",
+    "cShowSeasonDic",
+    "n197_aqqz",
+    "com_myScore",
+    "n128_n1hb",
+    "list_myFactionPokemonInfo",
+    "17",
+    "ui://uohhcc0qhx2n6",
+    "n43_n979",
+    "n979h27y",
+    "n47_n979",
+    "n48_n979",
+    "uv5mh28d",
+    "n65_uv5m",
+    "bagItemInfo",
+    "uv5mh28c",
+    "n64_uv5m",
+    "bagSkillItem",
+    "n63_jfq8",
+    "bagEudemonInfo",
+    "n7wj6h5kp",
+    "n191_n7wj",
+    "teraRaidSkillInfo",
+    "mtnk6h4oa",
+    "n111_mtnk",
+    "debug",
+    "pifhh251",
+    "n19_qyss",
+    "btn_TJH",
+    "IsShowStellarUseNormalTera",
+    "qyssh23r",
+    "n20_qyss",
+    "btn_mega",
+    "MEGA",
+    "uubt6h5jc",
+    "n151_uubt",
+    "btn_Dynamax",
+    "n51_n979",
+    "BagEudemonList",
+    "ui://ufgirfkmn979h287",
+    "n38_pifh",
+    "menuList",
+    "ui://uohhcc0qm6bj0",
+    "战斗",
+    "精灵",
+    "背包",
+    "精灵球",
+    "n29_qyss",
+    "list_skill",
+    "ui://uohhcc0qqyssh23s",
+    "n42_pifh",
+    "list_Ball",
+    "ui://uohhcc0qpifhh256",
+    "n67_g9mo",
+    "safariList",
+    "ui://uohhcc0qg9moh28h",
+    "n62_jfq8",
+    "BagEudemonTip",
+    "长按查看技能",
+    "n94_muzf",
+    "list_item",
+    "ui://ufgirfkmewfrh22n",
+    "n138_e54j",
+    "img_signal",
+    "ui://c6iwlr2rlder6h4l2",
+    "ui://c6iwlr2rlder6h4lh",
+    "ui://c6iwlr2rlder6h4li",
+    "osz46h5j7",
+    "n149_osz4",
+    "mainTime",
+    "n180_jmeb",
+    "list_Playerskill",
+    "ui://uohhcc0qiqg06h5k3",
+    "eeo81lyorlw",
+    "n225_ckuk",
+    "btn_attrTypePreview",
+    "ui://uohhcc0qiahx6h5md",
+    "n226_ckuk",
+    "lb_attrTypePreview",
+    "n68_pqp2",
+    "AdapterNodeRight",
+    "com_enemyScore",
+    "n129_n1hb",
+    "list_enemyFactionPokemonInfo",
+    "n172_rz10",
+    "list_FieldBuff",
+    "ui://uohhcc0qrz106h5jp",
+    "n179_shch",
+    "list_WeatherBuff",
+    "pifhh253",
+    "n21_qyss",
+    "btn_auto",
+    "自动",
+    "ui://ufgirfkmpifhh249",
+    "n162_cpbj",
+    "btn_SwitchPlayer",
+    "切换对象",
+    "n22_qyss",
+    "btn_speedup",
+    "X1",
+    "n979h27s",
+    "n44_n979",
+    "btn_exit",
+    "n45_n979",
+    "n24_qyss",
+    "lb_round",
+    "n25_qyss",
+    "lb_round_val",
+    "n30_qyss",
+    "roundGroup",
+    "n128_lxym",
+    "msgBoxBtn",
+    "LabPos",
+    "一键变强",
+    "ui://uohhcc0qcc576h5ix",
+    "n139_cc57",
+    "Btn_battleWin",
+    "战斗胜利",
+    "n143_eptu",
+    "multiBattle_WeatherPos",
+    "n144_eptu",
+    "multiBattle_FieldPos",
+    "n145_eptu",
+    "multiBattle_RoundTimeDownPos",
+    "n186_n7wj",
+    "singleBattle_FieldPos",
+    "n185_n7wj",
+    "singleBattle_WeatherPos",
+    "n187_n7wj",
+    "singleBattle_RoundTimeDownPos",
+    "n194_gfbt",
+    "com_pveTrainerTask",
+    "n69_pqp2",
+    "n70_ql49",
+    "n70",
+    "ui://uohhcc0qt8y96h4o6",
+    "n118_im3e",
+    "bg_skill",
+    "n98_t8y9",
+    "iconeudemon",
+    "ui://cyrayt3hpifh6h2wq",
+    "t8y96h4o7",
+    "n105_t8y9",
+    "prop1",
+    "n106_t8y9",
+    "prop2",
+    "n108_t8y9",
+    "prop4",
+    "n107_t8y9",
+    "prop3",
+    "n109_t8y9",
+    "prop5",
+    "n110_t8y9",
+    "prop6",
+    "n77_ql49",
+    "lb_levelUp",
+    "宝可梦  Lv.10+3",
+    "n92_ql49",
+    "lb_skill",
+    "技能1、技能2",
+    "n99_t8y9",
+    "lb_addLev",
+    "+10",
+    "n119_im3e",
+    "lb_skillTitle",
+    "解锁新技能",
+    "kfhq6h5jl",
+    "n158_kfhq",
+    "n158",
+    "n152_ujgo",
+    "lb_time",
+    "3秒后自动关闭",
+    "n91_ql49",
+    "levelUpGroup",
+    "n192_100eq",
+    "lb_TeraRaidCapture_EscapeTip",
+    "n17_ywwo",
+    "lb_count_down_time",
+    "n46_n979",
+    "lb_count_down_time_val",
+    "n112_m8yz",
+    "RoundCountDown",
+    "pifhh249",
+    "n206_rwhx",
+    "n206",
+    "n207_rwhx",
+    "lb_observeTip",
+    "n208_rwhx",
+    "GroupObserveTip",
+    "n210_rwhx",
+    "n210",
+    "n211_rwhx",
+    "lb_recordTip",
+    "n212_rwhx",
+    "GroupRecordTip",
+    "n117_p04n",
+    "n117",
+    "n114_p04n",
+    "n114",
+    "n116_p04n",
+    "cmdForbidTip",
+    "n123_dc6v",
+    "n123",
+    "n124_dc6v",
+    "lb_phaseWaitTip",
+    "n127_usfe",
+    "n127",
+    "...",
+    "n125_dc6v",
+    "phaseWaitTip",
+    "n126_79sa",
+    "lb_phaseWaitTip_pve",
+    "...",
+    "n140_ox75",
+    "n140",
+    "n141_ox75",
+    "n141",
+    "n156_hsoa",
+    "graph_SpaceBuffDes_close",
+    "com_spaceBuff_detail",
+    "n157_hsoa",
+    "group_SpaceBuffDes",
+    "n159_cpbj",
+    "n159",
+    "n160_cpbj",
+    "n160",
+    "n161_cpbj",
+    "GroupPlayerObserveMode",
+    "n163_cpbj",
+    "n163",
+    "n164_cpbj",
+    "n164",
+    "n165_cpbj",
+    "GroupPlayerRecordMode",
+    "n169_wuf0",
+    "lb_PveAutoBattleCD",
+    "n170_wuf0",
+    "lb_PveAutoBattleCD_val",
+    "n171_wuf0",
+    "PveAutoBattleCD",
+    "vxug6h5ka",
+    "n183_vxug",
+    "com_safariMaxIndividual",
+    "n93_ql49",
+    "img_click",
+    "n195_dka0",
+    "n195",
+    "n196_dka0",
+    "lb_endless",
+    "第xx层",
+    "n197_dka0",
+    "n197",
+    "n198_dka0",
+    "n199_dka0",
+    "n199",
+    "n201_dka0",
+    "lb_endlessTime",
+    "2",
+    "n202_dka0",
+    "lb_endlessTip",
+    "游戏进入倒计时，请做好准备！",
+    "n203_dka0",
+    "lb_endlessClose",
+    "点击任意区域关闭",
+    "n200_dka0",
+    "n200",
+    "n204_g0gu",
+    "catchRateCom",
+    "n214_owam",
+    "btn_showSea",
+    "ui://uohhcc0qhsoa6h5jh",
+    "n215_owam",
+    "n215",
+    "n216_owam",
+    "lb_showSea",
+    "场景效果",
+    "n223_owam",
+    "list_seaSkill",
+    "ui://uohhcc0qowam6h5ma",
+    "n217_owam",
+    "n217",
+    "levelup",
+    "hidelevelup",
+    "showSafariMaxIndiviAni",
+    "EudemonDebug",
+    "aban1",
+    "n0_mtnk",
+    "mine",
+    "n1_mtnk",
+    "other",
+    "n2_mtnk",
+    "scene",
+    "BattleTRSkillInfo",
+    "n191",
+    "n195_pg5c",
+    "lb_TRSkillDesc",
+    "技能描述技能描述技能描述技能描述技能描述技能描述",
+    "ExitBtn",
+    "n0_n979",
+    "n1_n979",
+    "逃跑",
+    "n979h289",
+    "BattleSkillItem2",
+    "noeffective",
+    "ordinary",
+    "superexcellence",
+    "preeminence",
+    "ui://uohhcc0qn979h27b",
+    "n3_n979",
+    "n3",
+    "effect",
+    "效果绝佳",
+    "n2_n979",
+    "ui://ufgirfkmn979h273",
+    "ui://ufgirfkmn979h26s",
+    "n4_n979",
+    "点到为止",
+    "GenderBtn",
+    "nosex",
+    "ui://uohhcc0qn979h27z",
+    "ui://uohhcc0qn979h280",
+    "BattleMainTime",
+    "n149",
+    "n147_osz4",
+    "n147",
+    "n146_c5y0",
+    "lb_mainTime",
+    "ui://ufgirfkmrhl16h2qp",
+    "owam6h5ma",
+    "BattleSeasonSkill",
+    "n218_owam",
+    "n218",
+    "fytm6h5ln",
+    "n219_owam",
+    "n219",
+    "n221_owam",
+    "lb_showSeaDic",
+    "精灵持续在场三回合开始，每回合结束有30%概率冰冻",
+    "n222_owam",
+    "n222",
+    "ox756h5iz",
+    "BattleEudemonSkillEffect_Bg",
+    "n0_ox75",
+    "poolObj",
+    "ox756h5j0",
+    "n4_fltw",
+    "n4",
+    "BattleSkillEffectFoot",
+    "notGood",
+    "效果效果",
+    "n1_ox75",
+    "n2_ox75",
+    "n5_fltw",
+    "奥晒是",
+    "p04n6h4ob",
+    "RoundTip",
+    "n1_p04n",
+    "n0_p04n",
+    "statetip",
+    "BattleEudPanelSkillEffect",
+    "n55_p9qu",
+    "ui://uohhcc0qp9qu6h5ks",
+    "ui://uohhcc0qp9qu6h5kq",
+    "ui://uohhcc0qp9qu6h5kr",
+    "ui://uohhcc0qp9qu6h5kt",
+    "n54_p9qu",
+    "lb_effect",
+    "n56_ll0e",
+    "gra_click",
+    "ph4w6h5m0",
+    "BattleWinSeasonTJSel_MiniWindow",
+    "n208_ph4w",
+    "n208",
+    "n209_ph4w",
+    "lb_title",
+    "n211_ph4w",
+    "ui://ufgirfkmfs7s6h4o8",
+    "n214_ph4w",
+    "n214",
+    "n213_ph4w",
+    "btn_OK",
+    "OK",
+    "ui://ufgirfkmpsobh23t",
+    "n216_ph4w",
+    "typeList",
+    "ui://ufgirfkmg9mo6h4kn",
+    "n217_ph4w",
+    "BattleActionTJBtn",
+    "no_select",
+    "canNotUse",
+    "Stellar",
+    "ShowTeraBeadStatus",
+    "IsSelUseNormalTera",
+    "IsUseNoramlTeraGray",
+    "ui://uohhcc0qn979h271",
+    "ui://uohhcc0qn979h26y",
+    "n23_d7fe",
+    "stellaricon",
+    "ui://uohhcc0qd7fe6h5jn",
+    "ui://uohhcc0qd7fe6h5jm",
+    "n21_ohrj",
+    "太晶化",
+    "n22_i9hh",
+    "count",
+    "0/6",
+    "n25_jmeb",
+    "lb_TeraEnergy",
+    "蓄能0/6",
+    "n32_iwm6",
+    "gra_TJHClick",
+    "n26_iwm6",
+    "eqxp6h4fn",
+    "n27_iwm6",
+    "n28_iwm6",
+    "lb_useNormTeraTip",
+    "n29_iwm6",
+    "gra_IsUseNormalTera",
+    "n30_iwm6",
+    "n30",
+    "pifhh252",
+    "ReturnButton",
+    "pifh6h2ur",
+    "n0_pifh",
+    "n1_pifh",
+    "n2_pifh",
+    "n3_pifh",
+    "返回",
+    "BattleActionBtn",
+    "太晶化",
+    "siql6h2x9",
+    "n21_siql",
+    "btn_effect",
+    "pifhh256",
+    "BattleEudBallBtn",
+    "n31_n979",
+    "ui://cyrayt3hmti7h24m",
+    "精灵球",
+    "lab_num",
+    "119",
+    "n32_ox75",
+    "*",
+    "n33_hv06",
+    "lb_titleAndNum",
+    "精灵球",
+    "pifhh25m",
+    "FightBtn",
+    "aban6h2pp",
+    "n3_psob",
+    "n4_psob",
+    "出战",
+    "BattleActionMEGABtn",
+    "n22_muzf",
+    "bgicon",
+    "ui://uohhcc0qpifhh24d",
+    "n21_n979",
+    "ui://uohhcc0qmuzf6h4o9",
+    "ui://uohhcc0qmuzf6h4o8",
+    "太晶化",
+    "n23_i9hh",
+    "0/6",
+    "qyssh23s",
+    "BattleSkillBtn",
+    "stellarAble",
+    "ui://ufgirfkmn9796h4h7",
+    "恶之波动",
+    "n29_pifh",
+    "效果绝佳",
+    "20/20",
+    "n30_n979",
+    "property",
+    "恶",
+    " ",
+    "i9zd6h2qh",
+    "n34_g3qs",
+    "technical",
+    "ui://uohhcc0qgj546h4oe",
+    "n37_mqas",
+    "qyssh23t",
+    "BattleChangeEudemon_Window",
+    "DownTimeState",
+    "DownTime",
+    "mjc16h4bw",
+    "n46_ptwz",
+    "mjc16h4bx",
+    "n47_ptwz",
+    "8yc42",
+    "n1_qyss",
+    "top_title",
+    "n13_qyss",
+    "right_bg",
+    "n43_pifh",
+    "n44_pifh",
+    "n17_qyss",
+    "n45_pifh",
+    "n14_qyss",
+    "操作倒计时：120",
+    "n15_qyss",
+    "超级皮卡丘",
+    "n18_qyss",
+    "lb_type_title",
+    "属性：",
+    "n41_pifh",
+    "ArrtList",
+    "ui://ufgirfkmvxy168",
+    "n40_qyss",
+    "ui://uohhcc0qqyssh242",
+    "qyssh241",
+    "n31_qyss",
+    "prop_type",
+    "n34_qyss",
+    "speed",
+    "n33_qyss",
+    "hit",
+    "n32_qyss",
+    "power",
+    "n36_qyss",
+    "lb_des",
+    "分类：  特攻",
+    "n12_qyss",
+    "list_eudemon",
+    "ui://uohhcc0qqyssh23v",
+    "n48_e5rk",
+    "fight",
+    "出战",
+    "ui://ufgirfkmaban6h2pp",
+    "qyssh23v",
+    "BattleChangeEudemonItem",
+    "Effect",
+    "NotEffective",
+    "NotVeryEffective",
+    "Effective",
+    "SuperEffective",
+    "EudType",
+    "myEud",
+    "friendEud",
+    "n22_81od",
+    "ld_bg",
+    "ui://uohhcc0q81od6h5j4",
+    "ui://uohhcc0qpifhh25h",
+    "n5_qyss",
+    "ui://cyrayt3hkzec6h2w1",
+    "n2_qyss",
+    "n3_qyss",
+    "n4_qyss",
+    "n6_qyss",
+    "lab_name",
+    "超级比卡丘",
+    "n7_qyss",
+    "n8_qyss",
+    "hp",
+    "n9_qyss",
+    "lab_lv",
+    "LV.100",
+    "n19_pifh",
+    "n21_jowf",
+    "ld_effect",
+    "n17_pifh",
+    "n15",
+    "BattleTextProp",
+    "img",
+    "分类：  特攻",
+    "qyssh242",
+    "BattleSkillItem",
+    "mlp96h2tu",
+    "n46_pifh",
+    "eudemonSkillBg",
+    "n42_qyss",
+    "恶之波动",
+    "n44_qyss",
+    "lb_pp",
+    "PP 20/30",
+    "n43_qyss",
+    "效果拔群",
+    "n45_qyss",
+    "r60f6h5ls",
+    "BattleExtraSkill_MiniWindow",
+    "IsSelect",
+    "n208_r60f",
+    "list_extraSkill",
+    "ui://uohhcc0qr60f6h5ly",
+    "n211_r60f",
+    "btn_sure",
+    "sure",
+    "r60f6h5ly",
+    "BattleExtraSkillCell",
+    "rareLv1",
+    "rareLv2",
+    "rareLv3",
+    "rareLv4",
+    "n209_r60f",
+    "ui://uohhcc0qr60f6h5lu",
+    "ui://uohhcc0qr60f6h5lv",
+    "ui://uohhcc0qr60f6h5lw",
+    "ui://uohhcc0qr60f6h5lt",
+    "aban6h2pl",
+    "n210_r60f",
+    "lb_skillName",
+    "n214_r60f",
+    "lb_skillNameSuperRare",
+    "n212_r60f",
+    "lb_skillDesc",
+    "n213_r60f",
+    "r8x1h245",
+    "BattleLog_Bg",
+    "n9_r8x1",
+    "nextBtn",
+    "n3_row4",
+    "ui://ufgirfkmp0l3f",
+    "n6_row4",
+    "lb_content",
+    "妙蛙种子使用【空手劈】,<br>有效果<br>造成13点伤害。",
+    "rz106h5jp",
+    "BattleSpaceSkillBuff",
+    "n153_hsoa",
+    "n130_pcj5",
+    "lb_spaceBuffType",
+    "LevelResultCom",
+    "Hp",
+    "Atk",
+    "Def",
+    "Atk1",
+    "Def1",
+    "Speed",
+    "n10_t8y9",
+    "n10",
+    "n0_t8y9",
+    "ui://ufgirfkmi3m66h4j9",
+    "ui://ufgirfkmi3m66h4ja",
+    "ui://ufgirfkmi3m66h4jb",
+    "ui://ufgirfkmi3m66h4jc",
+    "ui://ufgirfkmi3m66h4jd",
+    "ui://ufgirfkmi3m66h4je",
+    "p0l36h2tw",
+    "n1_t8y9",
+    "barExp",
+    "n7_t8y9",
+    "lb_attribue",
+    "HP",
+    "n8_t8y9",
+    "lb_attribuevalue",
+    "255",
+    "n9_t8y9",
+    "lb_addvalue",
+    "+10",
+    "BattleActionDynamaxBtn",
+    "n23_uubt",
+    "ui://uohhcc0quubt6h5jb",
+    "ui://uohhcc0quubt6h5j9",
+    "0/6",
+    "BagSkillInfo",
+    "n20_uv5m",
+    "n21_uv5m",
+    "n10_uv5m",
+    "name",
+    "恶之波动",
+    "io1q6h2tq",
+    "n11_uv5m",
+    "type",
+    "n12_uv5m",
+    "pwerDes",
+    "威力：",
+    "n16_uv5m",
+    "powerNum",
+    "120",
+    "n15_uv5m",
+    "probabilityDes",
+    "命中：",
+    "n17_uv5m",
+    "probabilityNum",
+    "120",
+    "n14_uv5m",
+    "PPDes",
+    "PP：",
+    "n18_uv5m",
+    "PPNum",
+    "99/99",
+    "n19_uv5m",
+    "skillDes",
+    "技能描述技能描述技能描述技能描述",
+    "BagItemInfo",
+    "n16",
+    "树果",
+    "X78",
+    "n13_uv5m",
+    "itemIcon",
+    "des",
+    "回复少量HP（30HP）",
+    "b2f16h4au",
+    "sure",
+    "使用道具",
+    "BattleSafariMaxIndividualTips",
+    "n5_vxug",
+    "lb_tip",
+    "n7_vxug",
+    "ld_icon",
+    "BattleWeatherFieldTipContent",
+    "n0_yqtb",
+    "lb_detailtip",
+    "z4wah22x",
+    "BattleNumberTips",
+    "colorState",
+    "hurt",
+    "recover",
+    "n0_lxjg",
+    "hp_hurt",
+    "ui://uohhcc0qm7jx6h4ph",
+    "-123456",
+    "n1_m7jx",
+    "hp_recover",
+    "ui://uohhcc0qm7jx6h4pi",
+    "+123456",
+    "n2_m7jx",
+    "hp_critical",
+    "ui://uohhcc0qm7jx6h4pj",
+    "18956",
+    "n3_m7jx",
+    "ui://uohhcc0qm7jx6h4pd",
+    "z4wah22y",
+    "BattleNumberTips_MiniWindow",
+    "n1_lxjg",
+    "mPoolObject",
+    "tip",
+    "n2_9b13",
+    "emoji",
+    "m7jx6h4ph",
+    "HurtFont",
+    "m7jx6h4pi",
+    "RecoverFont",
+    "m7jx6h4pj",
+    "CriticalFont",
+    "cc576h5ix",
+    "fun_202",
+    "fltw6h5j1",
+    "zd_ic_lt",
+    "yxzs_bg_3",
+    "gxwd6h5jx",
+    "zdbq",
+    "ibfr6h5kz",
+    "fun_301",
+    "kb696h4pm",
+    "jl_sex_1",
+    "kb696h4pn",
+    "jl_sex_2",
+    "zd_bg_gbdjs",
+    "lda96h5l1",
+    "fun_133_1",
+    "lmu56h5kw",
+    "maxV_es",
+    "lmu56h5kx",
+    "maxV_ko",
+    "lmu56h5ky",
+    "maxV_pt",
+    "n979h26c",
+    "zd_jl_16",
+    "n979h26d",
+    "zd_jl_17",
+    "n979h26e",
+    "zd_jl_18",
+    "n979h26x",
+    "zd_jl_15",
+    "n979h26z",
+    "zd_jl_14",
+    "n979h270",
+    "zd_jl_12",
+    "n979h27b",
+    "zd_jl_1",
+    "n979h27c",
+    "zd_jl_2",
+    "n979h27d",
+    "zd_jl_3",
+    "n979h27e",
+    "zd_jl_4",
+    "n979h27f",
+    "zd_jl_5",
+    "n979h27g",
+    "zd_jl_6",
+    "n979h27h",
+    "zd_jl_7",
+    "n979h27i",
+    "zd_jl_8",
+    "n979h27j",
+    "zd_jl_9",
+    "n979h27k",
+    "zd_jl_10",
+    "n979h27l",
+    "zd_jl_11",
+    "n979h27m",
+    "zd_jl_13",
+    "pfwr6h5l2",
+    "maxV_idn",
+    "r6ot6h5lo",
+    "maxV_ru",
+    "vlji6h5nr",
+    "maxV_vi",
+    "vxug6h5kb",
+    "maxV_cn",
+    "vxug6h5kc",
+    "maxV_tw",
+    "vxug6h5kd",
+    "maxV_en",
+    "atlas0",
+    "atlas0.png",
+    "atlas_r6ot6h5lo",
+    "atlas_r6ot6h5lo.png",
+    "atlas_vlji6h5nr",
+    "atlas_vlji6h5nr.png",
+    "atlas1",
+    "atlas1.png"
+  ]
+}

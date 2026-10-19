@@ -1,0 +1,825 @@
+{
+  "items": [
+    {
+      "type": 3,
+      "id": "pqp26h2ej",
+      "name": "shopCloseBtn",
+      "path": "/",
+      "file": null,
+      "size": [
+        81,
+        44
+      ],
+      "extension": 12
+    },
+    {
+      "type": 0,
+      "id": "m2g66h2el",
+      "name": "sc_bg_4_2",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        151,
+        162
+      ]
+    },
+    {
+      "type": 0,
+      "id": "m2g66h2em",
+      "name": "sc_bg_0",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        520,
+        108
+      ]
+    },
+    {
+      "type": 0,
+      "id": "m2g66h2en",
+      "name": "sc_bg_4",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        150,
+        162
+      ]
+    },
+    {
+      "type": 0,
+      "id": "m2g66h2eo",
+      "name": "sc_bg_4_1",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        226,
+        162
+      ]
+    },
+    {
+      "type": 0,
+      "id": "o7ql6h2er",
+      "name": "sc_bg_6_new",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        71,
+        80
+      ]
+    },
+    {
+      "type": 0,
+      "id": "pqp26h2e5",
+      "name": "sc_bg_9",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        312,
+        352
+      ]
+    },
+    {
+      "type": 0,
+      "id": "pqp26h2e9",
+      "name": "sc_word_title",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        391,
+        110
+      ]
+    },
+    {
+      "type": 0,
+      "id": "pqp26h2ea",
+      "name": "sc_bg_1",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        750,
+        152
+      ]
+    },
+    {
+      "type": 0,
+      "id": "pqp26h2eb",
+      "name": "sc_bg_2",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        108,
+        109
+      ]
+    },
+    {
+      "type": 0,
+      "id": "pqp26h2ec",
+      "name": "sc_bg_3",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        8,
+        1080
+      ]
+    },
+    {
+      "type": 0,
+      "id": "pqp26h2ef",
+      "name": "sc_bg_6",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        162,
+        95
+      ]
+    },
+    {
+      "type": 0,
+      "id": "pqp26h2eh",
+      "name": "sc_bg_8",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        66,
+        47
+      ]
+    },
+    {
+      "type": 0,
+      "id": "pqp26h2ek",
+      "name": "sc_bth_arrow",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        30,
+        45
+      ]
+    },
+    {
+      "type": 0,
+      "id": "vxug6h2ew",
+      "name": "sc_bg_16",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        134,
+        135
+      ]
+    },
+    {
+      "type": 0,
+      "id": "vxug6h2ex",
+      "name": "sc_bg_17",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        139,
+        5
+      ]
+    },
+    {
+      "type": 3,
+      "id": "bg9d6h2ez",
+      "name": "LadderChannelShop_Window",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "k36z6h2dy",
+      "name": "NpcShop_Window",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "kdv06h2f0",
+      "name": "ShopGymLeader_Window",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "kdv06h2f1",
+      "name": "ShopGymLeaderItem",
+      "path": "/",
+      "file": null,
+      "size": [
+        271,
+        339
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "kldq2",
+      "name": "ShopRefreshItem",
+      "path": "/",
+      "file": null,
+      "size": [
+        303,
+        65
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "kldq6h267",
+      "name": "ShopBuy_MiniWindow",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "lebv0",
+      "name": "Shop_Window",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "p0l36h2e4",
+      "name": "ShopBuyItem",
+      "path": "/",
+      "file": null,
+      "size": [
+        292,
+        101
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "vxug6h2es",
+      "name": "ShopRefreshPreview_MiniWindow",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "vxug6h2ev",
+      "name": "ShopRefreshPreviewCell",
+      "path": "/",
+      "file": null,
+      "size": [
+        1387,
+        331
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "vxug6h2ey",
+      "name": "ShopRefreshPreviewCell2",
+      "path": "/",
+      "file": null,
+      "size": [
+        220,
+        272
+      ],
+      "extension": 0
+    },
+    {
+      "type": 0,
+      "id": "sos86h2eq",
+      "name": "sc_discount",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        94,
+        46
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas0",
+      "name": null,
+      "path": null,
+      "file": "atlas0.png",
+      "size": [
+        2048,
+        512
+      ]
+    }
+  ],
+  "sprites": [
+    {
+      "id": "pqp26h2ec",
+      "atlas": "atlas0",
+      "rect": [
+        1,
+        1,
+        1080,
+        8
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "pqp26h2ea",
+      "atlas": "atlas0",
+      "rect": [
+        1083,
+        1,
+        750,
+        152
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "m2g66h2em",
+      "atlas": "atlas0",
+      "rect": [
+        1,
+        11,
+        520,
+        108
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "pqp26h2e9",
+      "atlas": "atlas0",
+      "rect": [
+        1835,
+        1,
+        110,
+        391
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "pqp26h2e5",
+      "atlas": "atlas0",
+      "rect": [
+        523,
+        11,
+        312,
+        352
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "m2g66h2eo",
+      "atlas": "atlas0",
+      "rect": [
+        837,
+        11,
+        226,
+        162
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "m2g66h2en",
+      "atlas": "atlas0",
+      "rect": [
+        1,
+        121,
+        150,
+        162
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "m2g66h2el",
+      "atlas": "atlas0",
+      "rect": [
+        1,
+        285,
+        151,
+        162
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "pqp26h2ef",
+      "atlas": "atlas0",
+      "rect": [
+        1947,
+        1,
+        95,
+        162
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "vxug6h2ex",
+      "atlas": "atlas0",
+      "rect": [
+        1065,
+        11,
+        5,
+        139
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "vxug6h2ew",
+      "atlas": "atlas0",
+      "rect": [
+        153,
+        121,
+        134,
+        135
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "pqp26h2eb",
+      "atlas": "atlas0",
+      "rect": [
+        289,
+        121,
+        109,
+        108
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "sos86h2eq",
+      "atlas": "atlas0",
+      "rect": [
+        1947,
+        165,
+        94,
+        46
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "o7ql6h2er",
+      "atlas": "atlas0",
+      "rect": [
+        1947,
+        213,
+        80,
+        71
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "pqp26h2eh",
+      "atlas": "atlas0",
+      "rect": [
+        1947,
+        286,
+        66,
+        47
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "pqp26h2ek",
+      "atlas": "atlas0",
+      "rect": [
+        2015,
+        286,
+        30,
+        45
+      ],
+      "rotated": 0
+    }
+  ],
+  "strings": [
+    "c1imbcrl",
+    "Base",
+    "ufgirfkm",
+    "Common",
+    "cyrayt3h",
+    "Item",
+    "pqp26h2ej",
+    "shopCloseBtn",
+    "/",
+    "button",
+    "0",
+    "up",
+    "1",
+    "down",
+    "2",
+    "over",
+    "3",
+    "selectedOver",
+    "pqp26h2ek",
+    "n3_pqp2",
+    "n3",
+    "n4_pqp2",
+    "n4",
+    "n5_pqp2",
+    "n5",
+    "m2g66h2el",
+    "sc_bg_4_2",
+    "/Images/",
+    "m2g66h2em",
+    "sc_bg_0",
+    "m2g66h2en",
+    "sc_bg_4",
+    "m2g66h2eo",
+    "sc_bg_4_1",
+    "o7ql6h2er",
+    "sc_bg_6_new",
+    "pqp26h2e5",
+    "sc_bg_9",
+    "pqp26h2e9",
+    "sc_word_title",
+    "pqp26h2ea",
+    "sc_bg_1",
+    "pqp26h2eb",
+    "sc_bg_2",
+    "pqp26h2ec",
+    "sc_bg_3",
+    "pqp26h2ef",
+    "sc_bg_6",
+    "pqp26h2eh",
+    "sc_bg_8",
+    "sc_bth_arrow",
+    "vxug6h2ew",
+    "sc_bg_16",
+    "vxug6h2ex",
+    "sc_bg_17",
+    "bg9d6h2ez",
+    "LadderChannelShop_Window",
+    "mut56h4oj",
+    "n25_k08b",
+    "n25",
+    "mut56h4ol",
+    "n26_k08b",
+    "n26",
+    "mut56h4oi",
+    "n28_k08b",
+    "n28",
+    "mut56h4ok",
+    "n29_k08b",
+    "n29",
+    "k08b6h4oe",
+    "n27_k08b",
+    "n27",
+    "8yc42",
+    "n0_igz4",
+    "wnd",
+    "公会",
+    "n16_aban",
+    "list_shop",
+    "ui://ufgirfkmlebv1",
+    "p0l36h2e1",
+    "n23_p0l3",
+    "bg",
+    "n14_igz4",
+    "lb_refreshTime",
+    "下次刷新：{value=00:00:00}",
+    "psobw",
+    "n24_p0l3",
+    "btn_explain",
+    "ui://ufgirfkmt1156q",
+    "k36z6h2dy",
+    "NpcShop_Window",
+    "公会",
+    "下次刷新：{value=00:00:00}",
+    "kdv06h2f0",
+    "ShopGymLeader_Window",
+    "公会",
+    "ui://u8n1xx9lkdv06h2f1",
+    "下次刷新：{value=00:00:00}",
+    "kdv06h2f1",
+    "ShopGymLeaderItem",
+    "IsLock",
+    "yes",
+    "no",
+    "lebv1",
+    "n0_kdv0",
+    "comShopItem",
+    "n4_gfbt",
+    "ui://ufgirfkmw5i86h4kv",
+    "n2_kdv0",
+    "lb_lockTip",
+    "kldq2",
+    "ShopRefreshItem",
+    "State",
+    "Free",
+    "Normal",
+    "NoEnough",
+    "NormalBuy",
+    "n3_kldq",
+    "icon",
+    "ui://cyrayt3hw5i86h4la",
+    "n4_kldq",
+    "title",
+    "刷新",
+    "n5_kldq",
+    "lb_num",
+    "X1500",
+    "n6_kldq",
+    "icon_type",
+    "ui://cyrayt3hhj996h40q",
+    "n7_p0l3",
+    "title_free",
+    "免费免费免费费免费免费",
+    "kldq6h267",
+    "ShopBuy_MiniWindow",
+    "Enough",
+    "eqxp6h4fd",
+    "n45_p0l3",
+    "win",
+    "gauw6",
+    "n3_hk35",
+    "poolObj",
+    "q2rv6h3it",
+    "n47_p0l3",
+    "n47",
+    "e8ln6h4gi",
+    "n48_p0l3",
+    "n48",
+    "mti76h29y",
+    "n35_mti7",
+    "n35",
+    "p0l36h2e4",
+    "n8_h1ws",
+    "sure",
+    "800",
+    "ui://ufgirfkmaban6h2pp",
+    "ewfrh22n",
+    "n51_pqp2",
+    "item",
+    "n15_h1ws",
+    "lb_name",
+    "道具名称六个字",
+    "n16_h1ws",
+    "lb_havenum",
+    "拥有数量200万",
+    "n42_kldq",
+    "lb_limit",
+    "限购次数：1",
+    "p0l36h4h3",
+    "n49_p0l3",
+    "buyBar",
+    "aban1",
+    "n50_p0l3",
+    "paneltext",
+    "size",
+    "lebv0",
+    "Shop_Window",
+    "RefreshState",
+    "Refresh",
+    "PardRefresh",
+    "Pard",
+    "4",
+    "MaxPard",
+    "rechargeVipState",
+    "none",
+    "full",
+    "ListState",
+    "None",
+    "ShowPreview",
+    "nm0oh265",
+    "n49_m2g6",
+    "n49",
+    "n36_pqp2",
+    "n36",
+    "n44_m2g6",
+    "n44",
+    "n45_m2g6",
+    "n45",
+    "n46_m2g6",
+    "n46",
+    "n47_m2g6",
+    "n48_m2g6",
+    "n31_pqp2",
+    "n31",
+    "n32_pqp2",
+    "n32",
+    "n33_pqp2",
+    "n33",
+    "n42_pqp2",
+    "currencyList",
+    "ui://ufgirfkmpqp26h4ku",
+    "pqp26h2eg",
+    "n34_pqp2",
+    "n34",
+    "n30_pqp2",
+    "n30",
+    "n2_lebv",
+    "list_tab",
+    "ui://ufgirfkmkijk6h25s",
+    "金币商店",
+    "友好商店",
+    "特权商店",
+    "荣誉商店",
+    "放生商店",
+    "装备商店",
+    "记忆商店",
+    "积分商店",
+    "精灵兑换",
+    "n41_pqp2",
+    "n41",
+    "n40_pqp2",
+    "n40",
+    "n38_pqp2",
+    "n38",
+    "n39_pqp2",
+    "n39",
+    "n43_pqp2",
+    "close",
+    "n3_lebv",
+    "n7_kldq",
+    "lb_ttime",
+    "下次刷新事件还有：",
+    "n8_kldq",
+    "2天五小时",
+    "n12_kldq",
+    "lb_go",
+    "前往提升",
+    "n11_kldq",
+    "lb_tvip",
+    "提升Vip等级可额外增加每日刷新次数提升Vip等级可额外增加每日刷新次数增加每日刷新次数可额外增加每日刷新次数可额外增加每日刷新次数",
+    "n13_kldq",
+    "bg_levelVip",
+    "n9_kldq",
+    "lb_tlimit",
+    "剩余刷新次数:",
+    "n10_kldq",
+    "lb_tthavenum",
+    "5/10",
+    "n14_kldq",
+    "btn_refresh",
+    "n37_pqp2",
+    "ld_preview",
+    "ui://u8n1xx9lo7ql6h2er",
+    "n50_wuf0",
+    "lb_previewTip1",
+    "n55_wuf0",
+    "group_preview",
+    "n56_wuf0",
+    "n56",
+    "n16_re6z",
+    "showPanel",
+    "ShopBuyItem",
+    "800",
+    "ui://cyrayt3hpsobh244",
+    "vxug6h2es",
+    "ShopRefreshPreview_MiniWindow",
+    "NoRank",
+    "n16_qsto",
+    "n17_qsto",
+    "n17",
+    "n38_vxug",
+    "n39_vxug",
+    "list_preview",
+    "ui://u8n1xx9lvxug6h2ev",
+    "vxug6h2ev",
+    "ShopRefreshPreviewCell",
+    "n0_vxug",
+    "lb_pos",
+    "n2_vxug",
+    "n2",
+    "n3_vxug",
+    "list_groupItems",
+    "ui://u8n1xx9lvxug6h2ey",
+    "vxug6h2ey",
+    "ShopRefreshPreviewCell2",
+    "IsRefreshed",
+    "n0",
+    "n1_vxug",
+    "ld_costItem",
+    "lb_rate",
+    "n4_vxug",
+    "lb_price",
+    "9999",
+    "n7_vxug",
+    "n7",
+    "n5_vxug",
+    "lb_refreshed",
+    "sos86h2eq",
+    "sc_discount",
+    "atlas0",
+    "atlas0.png"
+  ]
+}

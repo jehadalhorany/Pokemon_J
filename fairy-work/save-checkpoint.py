@@ -8,5 +8,5 @@ with zipfile.ZipFile(out,'w',zipfile.ZIP_DEFLATED,compresslevel=3) as z:
   if '/assets/imported/' in str(p) or p.suffix in ['.sqlite','.db']:continue
   z.write(p,str(p))
  for p in pathlib.Path('fairy-work').glob('*'):
-  if p.is_file() and (p.suffix in ['.py','.cjs','.mjs'] or p.name in ['maps-index.json','config-schema.json','world-export-missing.json','all-config-results.json','original-navigation-results.json','language-en.json','inventory-fast.json','portrait-bundles.jsonl','ui-rotation-fixes.json','fui-EudemonIcon.json','fui-Main.json','fui-Map.json','fui-Common.json','fui-Base.json']):z.write(p,str(p))
+  if p.is_file() and (p.suffix in ['.py','.cjs','.mjs'] or p.name.endswith('_fui.bin') or p.name.startswith('fui-') and p.suffix in ['.json','.bin'] or p.name=='ui-bundle-provenance.json' or p.name in ['maps-index.json','config-schema.json','world-export-missing.json','all-config-results.json','original-navigation-results.json','language-en.json','inventory-fast.json','portrait-bundles.jsonl','ui-rotation-fixes.json','fui-EudemonIcon.json','fui-Main.json','fui-Map.json','fui-Common.json','fui-Base.json']):z.write(p,str(p))
 print(out.stat().st_size)

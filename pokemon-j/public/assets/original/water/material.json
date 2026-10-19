@@ -1,0 +1,72 @@
+{
+  "shader": "Pokemon/SampleWater",
+  "sourceBundle": "ae65c719f3f4998cbc93a9fa20bb54b7",
+  "floats": {
+    "_BumpScale": 1.0,
+    "_Cutoff": 0.5,
+    "_Deep": -0.14000000059604645,
+    "_DetailNormalMapScale": 1.0,
+    "_Distance": 1.2000000476837158,
+    "_DstBlend": 0.0,
+    "_GlossMapScale": 1.0,
+    "_Glossiness": 0.5,
+    "_GlossyReflections": 1.0,
+    "_LightWide": 0.0,
+    "_Metallic": 0.0,
+    "_Mode": 0.0,
+    "_NormalScale": 0.17000000178813934,
+    "_OcclusionStrength": 1.0,
+    "_Parallax": 0.019999999552965164,
+    "_Smoothness": 2.2899999618530273,
+    "_SmoothnessTextureChannel": 0.0,
+    "_Specular": 0.9900000095367432,
+    "_SpecularHighlights": 1.0,
+    "_SrcBlend": 1.0,
+    "_UVSec": 0.0,
+    "_WaterNoiseSpeedX": 0.0,
+    "_WaterNoiseSpeedY": -0.019999999552965164,
+    "_WaterSpeedX": 0.019999999552965164,
+    "_WaterSpeedY": 0.0,
+    "_ZWrite": 1.0,
+    "__dirty": 0.0
+  },
+  "textures": {
+    "_Normal2": {
+      "url": "/assets/original/water/_Normal2.png",
+      "scale": [
+        100.0,
+        100.0
+      ],
+      "offset": [
+        0.0,
+        0.0
+      ],
+      "sourceTexture": "8799206937525181602"
+    },
+    "_WaterNormal": {
+      "url": "/assets/original/water/_WaterNormal.png",
+      "scale": [
+        100.0,
+        100.0
+      ],
+      "offset": [
+        0.0,
+        0.0
+      ],
+      "sourceTexture": "-4243305797470066108"
+    }
+  },
+  "color": [
+    0.1411764770746231,
+    0.2549019753932953,
+    0.5647059082984924,
+    0.0
+  ],
+  "pass": {
+    "zWrite": 0.0,
+    "zTest": 4.0,
+    "cull": 2.0,
+    "srcBlend": 5.0,
+    "dstBlend": 10.0
+  }
+}

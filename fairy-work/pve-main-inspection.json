@@ -1,0 +1,3549 @@
+[
+  {
+    "pkg": "Pve",
+    "name": "PveMain_Window",
+    "controllers": [],
+    "children": [
+      {
+        "name": "n17",
+        "type": "GImage"
+      },
+      {
+        "name": "n21",
+        "type": "GImage"
+      },
+      {
+        "name": "n14",
+        "type": "GImage"
+      },
+      {
+        "name": "n20",
+        "type": "GImage"
+      },
+      {
+        "name": "list_pve",
+        "type": "GList",
+        "defaultItem": "ui://hwuf86p5ux1h1lyot2r",
+        "children": [],
+        "controllers": [],
+        "error": "child is null"
+      },
+      {
+        "name": "btn_back",
+        "type": "GButton",
+        "children": [
+          {
+            "name": "n3",
+            "type": "GImage"
+          },
+          {
+            "name": "title",
+            "type": "GRichTextField"
+          },
+          {
+            "name": "n5",
+            "type": "GImage"
+          }
+        ],
+        "controllers": [
+          {
+            "name": "button",
+            "pages": [
+              "up",
+              "down",
+              "over",
+              "selectedOver"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "list_currency",
+        "type": "GList",
+        "defaultItem": "ui://ufgirfkmgauw1c",
+        "children": [
+          {
+            "name": "",
+            "type": "GComponent"
+          },
+          {
+            "name": "",
+            "type": "GComponent"
+          }
+        ],
+        "controllers": [],
+        "template": {
+          "name": "",
+          "type": "GComponent",
+          "children": [
+            {
+              "name": "n9",
+              "type": "GImage"
+            },
+            {
+              "name": "itemicon",
+              "type": "GLoader"
+            },
+            {
+              "name": "itemNums",
+              "type": "GTextField"
+            },
+            {
+              "name": "btn_add",
+              "type": "GButton"
+            }
+          ],
+          "controllers": []
+        }
+      },
+      {
+        "name": "list_reward",
+        "type": "GList",
+        "defaultItem": "ui://ufgirfkmewfrh22n",
+        "children": [
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          }
+        ],
+        "controllers": [],
+        "template": {
+          "name": "",
+          "type": "GButton",
+          "children": [
+            {
+              "name": "n36",
+              "type": "GImage"
+            },
+            {
+              "name": "img_quality",
+              "type": "GLoader"
+            },
+            {
+              "name": "img_icon",
+              "type": "GLoader"
+            },
+            {
+              "name": "n28",
+              "type": "GImage"
+            },
+            {
+              "name": "img_flash",
+              "type": "GLoader"
+            },
+            {
+              "name": "n12",
+              "type": "GImage"
+            },
+            {
+              "name": "n20",
+              "type": "GImage"
+            },
+            {
+              "name": "n21",
+              "type": "GImage"
+            },
+            {
+              "name": "star",
+              "type": "GLabel"
+            },
+            {
+              "name": "lab_num",
+              "type": "GTextField"
+            },
+            {
+              "name": "lab_lv",
+              "type": "GTextField"
+            },
+            {
+              "name": "lab_name",
+              "type": "GTextField"
+            },
+            {
+              "name": "n24",
+              "type": "GImage"
+            },
+            {
+              "name": "RedDot",
+              "type": "GComponent"
+            },
+            {
+              "name": "flashItem",
+              "type": "GComponent"
+            },
+            {
+              "name": "lab_desc",
+              "type": "GTextField"
+            },
+            {
+              "name": "n33",
+              "type": "GImage"
+            },
+            {
+              "name": "lab_floor",
+              "type": "GTextField"
+            },
+            {
+              "name": "n37",
+              "type": "GImage"
+            },
+            {
+              "name": "lb_rare",
+              "type": "GTextField"
+            },
+            {
+              "name": "img_recive",
+              "type": "GLoader"
+            },
+            {
+              "name": "n41",
+              "type": "GImage"
+            },
+            {
+              "name": "lb_activity",
+              "type": "GTextField"
+            },
+            {
+              "name": "n45",
+              "type": "GImage"
+            },
+            {
+              "name": "effect",
+              "type": "GGraph"
+            },
+            {
+              "name": "n47",
+              "type": "GImage"
+            },
+            {
+              "name": "probability",
+              "type": "GTextField"
+            }
+          ],
+          "controllers": [
+            {
+              "name": "button",
+              "pages": [
+                "up",
+                "down",
+                "over",
+                "selectedOver"
+              ]
+            },
+            {
+              "name": "style",
+              "pages": [
+                "Normal",
+                "Light"
+              ]
+            },
+            {
+              "name": "State",
+              "pages": [
+                "NoSelect",
+                "Select"
+              ]
+            },
+            {
+              "name": "showState",
+              "pages": [
+                "Normal",
+                "NoNum"
+              ]
+            },
+            {
+              "name": "showName",
+              "pages": [
+                "None",
+                "Normal"
+              ]
+            },
+            {
+              "name": "SelectState",
+              "pages": [
+                "Normal",
+                "Selected"
+              ]
+            },
+            {
+              "name": "IsHeld",
+              "pages": [
+                "no",
+                "yes"
+              ]
+            },
+            {
+              "name": "IsSegment",
+              "pages": [
+                "None",
+                "Segment"
+              ]
+            },
+            {
+              "name": "textColor",
+              "pages": [
+                "blue",
+                "white",
+                "red",
+                "bule1"
+              ]
+            },
+            {
+              "name": "showConten",
+              "pages": [
+                "None",
+                "Normal"
+              ]
+            },
+            {
+              "name": "IsFloor",
+              "pages": [
+                "no",
+                "yes"
+              ]
+            },
+            {
+              "name": "Bgstate",
+              "pages": [
+                "None",
+                "Bg"
+              ]
+            },
+            {
+              "name": "rare",
+              "pages": [
+                "no",
+                "yes"
+              ]
+            },
+            {
+              "name": "isRecive",
+              "pages": [
+                "no",
+                "yes"
+              ]
+            },
+            {
+              "name": "isHIde",
+              "pages": [
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "name": "isProbability ",
+              "pages": [
+                "no",
+                "yes"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "name": "n18",
+        "type": "GImage"
+      },
+      {
+        "name": "n22",
+        "type": "GImage"
+      },
+      {
+        "name": "lb_dex",
+        "type": "GComponent",
+        "children": [
+          {
+            "name": "lb_desc",
+            "type": "GRichTextField"
+          }
+        ],
+        "controllers": [
+          {
+            "name": "color",
+            "pages": [
+              "write",
+              "black",
+              "blue",
+              "blue2",
+              "black2",
+              "blue3",
+              "black3"
+            ]
+          },
+          {
+            "name": "size",
+            "pages": [
+              "size24",
+              "size26",
+              "size28",
+              "size30",
+              "size32",
+              "size36",
+              "size46"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "lb_name",
+        "type": "GTextField"
+      },
+      {
+        "name": "lb_reward",
+        "type": "GTextField"
+      },
+      {
+        "name": "list_tab",
+        "type": "GList",
+        "defaultItem": "ui://445m3lkxux1h1lyot2q",
+        "children": [
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          }
+        ],
+        "controllers": [],
+        "template": {
+          "name": "",
+          "type": "GButton",
+          "children": [
+            {
+              "name": "label1",
+              "type": "GLoader"
+            },
+            {
+              "name": "label2",
+              "type": "GLoader"
+            },
+            {
+              "name": "title",
+              "type": "GTextField"
+            },
+            {
+              "name": "RedDot",
+              "type": "GComponent"
+            }
+          ],
+          "controllers": [
+            {
+              "name": "button",
+              "pages": [
+                "up",
+                "down",
+                "over",
+                "selectedOver"
+              ]
+            },
+            {
+              "name": "SelectState",
+              "pages": [
+                "noSelect",
+                "isSelected"
+              ]
+            },
+            {
+              "name": "LabelType",
+              "pages": [
+                "Label1",
+                "Label2"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "name": "btn_go",
+        "type": "GButton",
+        "children": [
+          {
+            "name": "icon",
+            "type": "GLoader"
+          },
+          {
+            "name": "title",
+            "type": "GRichTextField"
+          },
+          {
+            "name": "RedDot",
+            "type": "GComponent"
+          }
+        ],
+        "controllers": [
+          {
+            "name": "button",
+            "pages": [
+              "up",
+              "down",
+              "over",
+              "selectedOver"
+            ]
+          },
+          {
+            "name": "front",
+            "pages": [
+              "orange",
+              "blue",
+              "blue2",
+              "green",
+              "gold",
+              "orange2",
+              "greay",
+              "black",
+              "purple",
+              "red"
+            ]
+          },
+          {
+            "name": "LabPos",
+            "pages": [
+              "",
+              ""
+            ]
+          }
+        ]
+      },
+      {
+        "name": "RedDot",
+        "type": "GComponent",
+        "children": [
+          {
+            "name": "img_red",
+            "type": "GLoader"
+          },
+          {
+            "name": "lab_num",
+            "type": "GTextField"
+          }
+        ],
+        "controllers": [
+          {
+            "name": "mode",
+            "pages": [
+              "Dot",
+              "Num",
+              "More",
+              "Other",
+              "Big"
+            ]
+          },
+          {
+            "name": "RedDot",
+            "pages": [
+              "Hide",
+              "Show"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "pkg": "Main",
+    "name": "Main_Bg",
+    "controllers": [
+      {
+        "name": "BagState",
+        "pages": [
+          "Open",
+          "Close"
+        ]
+      },
+      {
+        "name": "StateTask",
+        "pages": [
+          "Show",
+          "Hide"
+        ]
+      },
+      {
+        "name": "AutoStatus",
+        "pages": [
+          "hide",
+          "show"
+        ]
+      },
+      {
+        "name": "BanClickStatus",
+        "pages": [
+          "hide",
+          "show"
+        ]
+      },
+      {
+        "name": "SignalState",
+        "pages": [
+          "Weak",
+          "Middle",
+          "Strong"
+        ]
+      },
+      {
+        "name": "GoFishing",
+        "pages": [
+          "hide",
+          "show"
+        ]
+      },
+      {
+        "name": "MainState",
+        "pages": [
+          "Show",
+          "Hide",
+          "SevenIslands"
+        ]
+      },
+      {
+        "name": "patrol",
+        "pages": [
+          "hide",
+          "show"
+        ]
+      },
+      {
+        "name": "RechargeState",
+        "pages": [
+          "ShowState",
+          "HideState"
+        ]
+      },
+      {
+        "name": "activiyhide",
+        "pages": [
+          "isShow",
+          "isHide"
+        ]
+      },
+      {
+        "name": "ComboStatus",
+        "pages": [
+          "hide",
+          "show"
+        ]
+      },
+      {
+        "name": "LevelState",
+        "pages": [
+          "Normal",
+          "Max"
+        ]
+      },
+      {
+        "name": "gameHelpCtrl",
+        "pages": [
+          "close",
+          "open"
+        ]
+      },
+      {
+        "name": "isBanner",
+        "pages": [
+          "no",
+          "yes"
+        ]
+      },
+      {
+        "name": "SnowTempleBanClick",
+        "pages": [
+          "no",
+          "yes"
+        ]
+      },
+      {
+        "name": "cShowZN",
+        "pages": [
+          "No",
+          "Yes"
+        ]
+      }
+    ],
+    "children": [
+      {
+        "name": "raceLampBtn",
+        "type": "GButton",
+        "children": [
+          {
+            "name": "icon",
+            "type": "GLoader"
+          },
+          {
+            "name": "title",
+            "type": "GTextField"
+          }
+        ],
+        "controllers": [
+          {
+            "name": "button",
+            "pages": [
+              "up",
+              "down",
+              "over",
+              "selectedOver"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Inform",
+        "type": "GComponent",
+        "children": [
+          {
+            "name": "list_menu",
+            "type": "GList"
+          }
+        ],
+        "controllers": []
+      },
+      {
+        "name": "mountItem",
+        "type": "GComponent",
+        "children": [
+          {
+            "name": "img_icon",
+            "type": "GLoader"
+          },
+          {
+            "name": "btn_mount",
+            "type": "GButton"
+          }
+        ],
+        "controllers": [
+          {
+            "name": "Select",
+            "pages": [
+              "NoSelect",
+              "Select"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "joy",
+        "type": "GButton",
+        "children": [
+          {
+            "name": "joybg",
+            "type": "GImage"
+          },
+          {
+            "name": "touchPoint",
+            "type": "GImage"
+          },
+          {
+            "name": "dire",
+            "type": "GImage"
+          },
+          {
+            "name": "joystick_touch",
+            "type": "GGraph"
+          }
+        ],
+        "controllers": [
+          {
+            "name": "button",
+            "pages": [
+              "up",
+              "down",
+              "over",
+              "selectedOver"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "list_event",
+        "type": "GList",
+        "defaultItem": "ui://c6iwlr2rkovu6h2qi",
+        "children": [],
+        "controllers": [],
+        "template": {
+          "name": "",
+          "type": "GButton",
+          "children": [
+            {
+              "name": "n4",
+              "type": "GImage"
+            },
+            {
+              "name": "title",
+              "type": "GTextField"
+            },
+            {
+              "name": "icon_type",
+              "type": "GLoader"
+            }
+          ],
+          "controllers": [
+            {
+              "name": "button",
+              "pages": [
+                "up",
+                "down",
+                "over",
+                "selectedOver"
+              ]
+            },
+            {
+              "name": "IconType",
+              "pages": [
+                "Normal",
+                "Dialog",
+                "Function",
+                "Battle",
+                "Collect",
+                "Transmit",
+                "Quest",
+                "Quest_Branch",
+                "Water",
+                "GoFishing",
+                "Terastal",
+                "Quest_Bounty",
+                "Vortex",
+                "MountTain",
+                "Waterfall",
+                "Machine",
+                "HP",
+                "Up",
+                "Down"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "name": "n45",
+        "type": "GImage"
+      },
+      {
+        "name": "n134",
+        "type": "GImage"
+      },
+      {
+        "name": "img_clickTask",
+        "type": "GLoader"
+      },
+      {
+        "name": "img_vip",
+        "type": "GButton",
+        "children": [
+          {
+            "name": "icon",
+            "type": "GLoader"
+          },
+          {
+            "name": "title",
+            "type": "GRichTextField"
+          },
+          {
+            "name": "RedDot",
+            "type": "GComponent"
+          }
+        ],
+        "controllers": [
+          {
+            "name": "button",
+            "pages": [
+              "up",
+              "down",
+              "over",
+              "selectedOver"
+            ]
+          },
+          {
+            "name": "front",
+            "pages": [
+              "orange",
+              "blue",
+              "blue2",
+              "green",
+              "gold",
+              "orange2",
+              "greay",
+              "black",
+              "purple",
+              "red",
+              "white"
+            ]
+          },
+          {
+            "name": "LabPos",
+            "pages": [
+              "Middle",
+              "Bottom"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "btn_battle",
+        "type": "GButton",
+        "children": [
+          {
+            "name": "icon",
+            "type": "GLoader"
+          },
+          {
+            "name": "sp",
+            "type": "GLoader3D"
+          },
+          {
+            "name": "RedDot",
+            "type": "GComponent"
+          },
+          {
+            "name": "n16",
+            "type": "GImage"
+          },
+          {
+            "name": "title",
+            "type": "GTextField"
+          },
+          {
+            "name": "lb_time",
+            "type": "GTextField"
+          },
+          {
+            "name": "lb_havetime",
+            "type": "GTextField"
+          },
+          {
+            "name": "lb_name",
+            "type": "GTextField"
+          },
+          {
+            "name": "n18",
+            "type": "GImage"
+          },
+          {
+            "name": "n20",
+            "type": "GImage"
+          },
+          {
+            "name": "n21",
+            "type": "GImage"
+          },
+          {
+            "name": "n22",
+            "type": "GImage"
+          },
+          {
+            "name": "flashPanel",
+            "type": "GGroup"
+          }
+        ],
+        "controllers": [
+          {
+            "name": "button",
+            "pages": [
+              "up",
+              "down",
+              "over",
+              "selectedOver"
+            ]
+          },
+          {
+            "name": "State",
+            "pages": [
+              "Normal",
+              "Time"
+            ]
+          },
+          {
+            "name": "Color",
+            "pages": [
+              "Normal",
+              "Bule"
+            ]
+          },
+          {
+            "name": "Bubble",
+            "pages": [
+              "None",
+              "Show"
+            ]
+          },
+          {
+            "name": "showFlash",
+            "pages": [
+              "no",
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "boxTest",
+        "type": "GButton",
+        "children": [
+          {
+            "name": "icon",
+            "type": "GLoader"
+          },
+          {
+            "name": "title",
+            "type": "GTextField"
+          }
+        ],
+        "controllers": [
+          {
+            "name": "button",
+            "pages": [
+              "up",
+              "down",
+              "over",
+              "selectedOver"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "boxSign",
+        "type": "GButton",
+        "children": [
+          {
+            "name": "icon",
+            "type": "GLoader"
+          },
+          {
+            "name": "title",
+            "type": "GTextField"
+          }
+        ],
+        "controllers": [
+          {
+            "name": "button",
+            "pages": [
+              "up",
+              "down",
+              "over",
+              "selectedOver"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "btn_home",
+        "type": "GButton",
+        "children": [
+          {
+            "name": "icon",
+            "type": "GLoader"
+          },
+          {
+            "name": "sp",
+            "type": "GLoader3D"
+          },
+          {
+            "name": "RedDot",
+            "type": "GComponent"
+          },
+          {
+            "name": "n16",
+            "type": "GImage"
+          },
+          {
+            "name": "title",
+            "type": "GTextField"
+          },
+          {
+            "name": "lb_time",
+            "type": "GTextField"
+          },
+          {
+            "name": "lb_havetime",
+            "type": "GTextField"
+          },
+          {
+            "name": "lb_name",
+            "type": "GTextField"
+          },
+          {
+            "name": "n18",
+            "type": "GImage"
+          },
+          {
+            "name": "n20",
+            "type": "GImage"
+          },
+          {
+            "name": "n21",
+            "type": "GImage"
+          },
+          {
+            "name": "n22",
+            "type": "GImage"
+          },
+          {
+            "name": "flashPanel",
+            "type": "GGroup"
+          }
+        ],
+        "controllers": [
+          {
+            "name": "button",
+            "pages": [
+              "up",
+              "down",
+              "over",
+              "selectedOver"
+            ]
+          },
+          {
+            "name": "State",
+            "pages": [
+              "Normal",
+              "Time"
+            ]
+          },
+          {
+            "name": "Color",
+            "pages": [
+              "Normal",
+              "Bule"
+            ]
+          },
+          {
+            "name": "Bubble",
+            "pages": [
+              "None",
+              "Show"
+            ]
+          },
+          {
+            "name": "showFlash",
+            "pages": [
+              "no",
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "btn_preview",
+        "type": "GButton",
+        "children": [
+          {
+            "name": "icon",
+            "type": "GLoader"
+          },
+          {
+            "name": "sp",
+            "type": "GLoader3D"
+          },
+          {
+            "name": "RedDot",
+            "type": "GComponent"
+          },
+          {
+            "name": "n16",
+            "type": "GImage"
+          },
+          {
+            "name": "title",
+            "type": "GTextField"
+          },
+          {
+            "name": "lb_time",
+            "type": "GTextField"
+          },
+          {
+            "name": "lb_havetime",
+            "type": "GTextField"
+          },
+          {
+            "name": "lb_name",
+            "type": "GTextField"
+          },
+          {
+            "name": "n18",
+            "type": "GImage"
+          },
+          {
+            "name": "n20",
+            "type": "GImage"
+          },
+          {
+            "name": "n21",
+            "type": "GImage"
+          },
+          {
+            "name": "n22",
+            "type": "GImage"
+          },
+          {
+            "name": "flashPanel",
+            "type": "GGroup"
+          }
+        ],
+        "controllers": [
+          {
+            "name": "button",
+            "pages": [
+              "up",
+              "down",
+              "over",
+              "selectedOver"
+            ]
+          },
+          {
+            "name": "State",
+            "pages": [
+              "Normal",
+              "Time"
+            ]
+          },
+          {
+            "name": "Color",
+            "pages": [
+              "Normal",
+              "Bule"
+            ]
+          },
+          {
+            "name": "Bubble",
+            "pages": [
+              "None",
+              "Show"
+            ]
+          },
+          {
+            "name": "showFlash",
+            "pages": [
+              "no",
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "btn_snowtemple",
+        "type": "GButton",
+        "children": [
+          {
+            "name": "icon",
+            "type": "GLoader"
+          },
+          {
+            "name": "sp",
+            "type": "GLoader3D"
+          },
+          {
+            "name": "RedDot",
+            "type": "GComponent"
+          },
+          {
+            "name": "n16",
+            "type": "GImage"
+          },
+          {
+            "name": "title",
+            "type": "GTextField"
+          },
+          {
+            "name": "lb_time",
+            "type": "GTextField"
+          },
+          {
+            "name": "lb_havetime",
+            "type": "GTextField"
+          },
+          {
+            "name": "lb_name",
+            "type": "GTextField"
+          },
+          {
+            "name": "n18",
+            "type": "GImage"
+          },
+          {
+            "name": "n20",
+            "type": "GImage"
+          },
+          {
+            "name": "n21",
+            "type": "GImage"
+          },
+          {
+            "name": "n22",
+            "type": "GImage"
+          },
+          {
+            "name": "flashPanel",
+            "type": "GGroup"
+          }
+        ],
+        "controllers": [
+          {
+            "name": "button",
+            "pages": [
+              "up",
+              "down",
+              "over",
+              "selectedOver"
+            ]
+          },
+          {
+            "name": "State",
+            "pages": [
+              "Normal",
+              "Time"
+            ]
+          },
+          {
+            "name": "Color",
+            "pages": [
+              "Normal",
+              "Bule"
+            ]
+          },
+          {
+            "name": "Bubble",
+            "pages": [
+              "None",
+              "Show"
+            ]
+          },
+          {
+            "name": "showFlash",
+            "pages": [
+              "no",
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "btn_subject",
+        "type": "GButton",
+        "children": [
+          {
+            "name": "icon",
+            "type": "GLoader"
+          },
+          {
+            "name": "sp",
+            "type": "GLoader3D"
+          },
+          {
+            "name": "RedDot",
+            "type": "GComponent"
+          },
+          {
+            "name": "n16",
+            "type": "GImage"
+          },
+          {
+            "name": "title",
+            "type": "GTextField"
+          },
+          {
+            "name": "lb_time",
+            "type": "GTextField"
+          },
+          {
+            "name": "lb_havetime",
+            "type": "GTextField"
+          },
+          {
+            "name": "lb_name",
+            "type": "GTextField"
+          },
+          {
+            "name": "n18",
+            "type": "GImage"
+          },
+          {
+            "name": "n20",
+            "type": "GImage"
+          },
+          {
+            "name": "n21",
+            "type": "GImage"
+          },
+          {
+            "name": "n22",
+            "type": "GImage"
+          },
+          {
+            "name": "flashPanel",
+            "type": "GGroup"
+          }
+        ],
+        "controllers": [
+          {
+            "name": "button",
+            "pages": [
+              "up",
+              "down",
+              "over",
+              "selectedOver"
+            ]
+          },
+          {
+            "name": "State",
+            "pages": [
+              "Normal",
+              "Time"
+            ]
+          },
+          {
+            "name": "Color",
+            "pages": [
+              "Normal",
+              "Bule"
+            ]
+          },
+          {
+            "name": "Bubble",
+            "pages": [
+              "None",
+              "Show"
+            ]
+          },
+          {
+            "name": "showFlash",
+            "pages": [
+              "no",
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "n196",
+        "type": "GGroup"
+      },
+      {
+        "name": "currencyList",
+        "type": "GList",
+        "defaultItem": "ui://c6iwlr2rrhl16h2qd",
+        "children": [
+          {
+            "name": "",
+            "type": "GComponent"
+          },
+          {
+            "name": "",
+            "type": "GComponent"
+          }
+        ],
+        "controllers": [],
+        "template": {
+          "name": "",
+          "type": "GComponent",
+          "children": [
+            {
+              "name": "n9",
+              "type": "GImage"
+            },
+            {
+              "name": "itemicon",
+              "type": "GLoader"
+            },
+            {
+              "name": "btn_add",
+              "type": "GButton"
+            },
+            {
+              "name": "itemNums",
+              "type": "GTextField"
+            }
+          ],
+          "controllers": []
+        }
+      },
+      {
+        "name": "msgBoxBtn",
+        "type": "GButton",
+        "children": [
+          {
+            "name": "icon",
+            "type": "GLoader"
+          },
+          {
+            "name": "sp",
+            "type": "GLoader3D"
+          },
+          {
+            "name": "RedDot",
+            "type": "GComponent"
+          },
+          {
+            "name": "n16",
+            "type": "GImage"
+          },
+          {
+            "name": "title",
+            "type": "GTextField"
+          },
+          {
+            "name": "lb_time",
+            "type": "GTextField"
+          },
+          {
+            "name": "lb_havetime",
+            "type": "GTextField"
+          },
+          {
+            "name": "lb_name",
+            "type": "GTextField"
+          },
+          {
+            "name": "n18",
+            "type": "GImage"
+          },
+          {
+            "name": "n20",
+            "type": "GImage"
+          },
+          {
+            "name": "n21",
+            "type": "GImage"
+          },
+          {
+            "name": "n22",
+            "type": "GImage"
+          },
+          {
+            "name": "flashPanel",
+            "type": "GGroup"
+          }
+        ],
+        "controllers": [
+          {
+            "name": "button",
+            "pages": [
+              "up",
+              "down",
+              "over",
+              "selectedOver"
+            ]
+          },
+          {
+            "name": "State",
+            "pages": [
+              "Normal",
+              "Time"
+            ]
+          },
+          {
+            "name": "Color",
+            "pages": [
+              "Normal",
+              "Bule"
+            ]
+          },
+          {
+            "name": "Bubble",
+            "pages": [
+              "None",
+              "Show"
+            ]
+          },
+          {
+            "name": "showFlash",
+            "pages": [
+              "no",
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "pro_lv",
+        "type": "GProgressBar",
+        "children": [
+          {
+            "name": "bg",
+            "type": "GImage"
+          },
+          {
+            "name": "bar",
+            "type": "GImage"
+          },
+          {
+            "name": "title",
+            "type": "GTextField"
+          }
+        ],
+        "controllers": []
+      },
+      {
+        "name": "head",
+        "type": "GComponent",
+        "children": [
+          {
+            "name": "icon_frame",
+            "type": "GLoader"
+          },
+          {
+            "name": "ani1",
+            "type": "GLoader"
+          },
+          {
+            "name": "icon_head",
+            "type": "GLoader"
+          },
+          {
+            "name": "icon_level",
+            "type": "GLoader"
+          },
+          {
+            "name": "lb_lv",
+            "type": "GTextField"
+          },
+          {
+            "name": "RedDot",
+            "type": "GComponent"
+          },
+          {
+            "name": "icon_season",
+            "type": "GLoader"
+          }
+        ],
+        "controllers": [
+          {
+            "name": "State",
+            "pages": [
+              "NoLevel",
+              "Level"
+            ]
+          },
+          {
+            "name": "Pos",
+            "pages": [
+              "Normal",
+              "Bottom"
+            ]
+          },
+          {
+            "name": "ShowType",
+            "pages": [
+              "Normal",
+              "Ani",
+              "All"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "lb_lvpro",
+        "type": "GTextField"
+      },
+      {
+        "name": "lb_vip",
+        "type": "GTextField"
+      },
+      {
+        "name": "lb_strong",
+        "type": "GTextField"
+      },
+      {
+        "name": "lb_playername",
+        "type": "GTextField"
+      },
+      {
+        "name": "n192",
+        "type": "GImage"
+      },
+      {
+        "name": "n67",
+        "type": "GImage"
+      },
+      {
+        "name": "lb_power",
+        "type": "GTextField"
+      },
+      {
+        "name": "lb_rank",
+        "type": "GTextField"
+      },
+      {
+        "name": "lb_max",
+        "type": "GTextField"
+      },
+      {
+        "name": "n193",
+        "type": "GImage"
+      },
+      {
+        "name": "bannerCom",
+        "type": "GComponent",
+        "children": [
+          {
+            "name": "list",
+            "type": "GList"
+          },
+          {
+            "name": "tabList",
+            "type": "GList"
+          }
+        ],
+        "controllers": []
+      },
+      {
+        "name": "n143",
+        "type": "GImage"
+      },
+      {
+        "name": "n135",
+        "type": "GImage"
+      },
+      {
+        "name": "img_task",
+        "type": "GLoader"
+      },
+      {
+        "name": "btn_changetask",
+        "type": "GButton",
+        "children": [
+          {
+            "name": "icon",
+            "type": "GLoader"
+          },
+          {
+            "name": "title",
+            "type": "GRichTextField"
+          },
+          {
+            "name": "RedDot",
+            "type": "GComponent"
+          }
+        ],
+        "controllers": [
+          {
+            "name": "button",
+            "pages": [
+              "up",
+              "down",
+              "over",
+              "selectedOver"
+            ]
+          },
+          {
+            "name": "front",
+            "pages": [
+              "orange",
+              "blue",
+              "blue2",
+              "green",
+              "gold",
+              "orange2",
+              "greay",
+              "black",
+              "purple",
+              "red",
+              "white"
+            ]
+          },
+          {
+            "name": "LabPos",
+            "pages": [
+              "Middle",
+              "Bottom"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "btn_task",
+        "type": "GButton",
+        "children": [
+          {
+            "name": "icon",
+            "type": "GLoader"
+          },
+          {
+            "name": "title",
+            "type": "GRichTextField"
+          },
+          {
+            "name": "RedDot",
+            "type": "GComponent"
+          }
+        ],
+        "controllers": [
+          {
+            "name": "button",
+            "pages": [
+              "up",
+              "down",
+              "over",
+              "selectedOver"
+            ]
+          },
+          {
+            "name": "front",
+            "pages": [
+              "orange",
+              "blue",
+              "blue2",
+              "green",
+              "gold",
+              "orange2",
+              "greay",
+              "black",
+              "purple",
+              "red",
+              "white"
+            ]
+          },
+          {
+            "name": "LabPos",
+            "pages": [
+              "Middle",
+              "Bottom"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "list_task",
+        "type": "GList",
+        "defaultItem": "ui://c6iwlr2rh1ws1l",
+        "children": [
+          {
+            "name": "",
+            "type": "GComponent"
+          },
+          {
+            "name": "",
+            "type": "GComponent"
+          },
+          {
+            "name": "",
+            "type": "GComponent"
+          },
+          {
+            "name": "",
+            "type": "GComponent"
+          },
+          {
+            "name": "",
+            "type": "GComponent"
+          },
+          {
+            "name": "",
+            "type": "GComponent"
+          }
+        ],
+        "controllers": [],
+        "template": {
+          "name": "",
+          "type": "GComponent",
+          "children": [
+            {
+              "name": "img_bg",
+              "type": "GLoader"
+            },
+            {
+              "name": "task_title",
+              "type": "GTextField"
+            },
+            {
+              "name": "task_info",
+              "type": "GTextField"
+            },
+            {
+              "name": "lb_type",
+              "type": "GTextField"
+            },
+            {
+              "name": "NumText",
+              "type": "GRichTextField"
+            },
+            {
+              "name": "task_desc",
+              "type": "GTextField"
+            },
+            {
+              "name": "LimitNumText",
+              "type": "GRichTextField"
+            },
+            {
+              "name": "n12",
+              "type": "GImage"
+            },
+            {
+              "name": "n13",
+              "type": "GImage"
+            }
+          ],
+          "controllers": [
+            {
+              "name": "Type",
+              "pages": [
+                "TaskMain",
+                "TaskBranch",
+                "TaskDaily",
+                "TaskOfficerReward",
+                "TaskSnowTemple"
+              ]
+            },
+            {
+              "name": "State",
+              "pages": [
+                "LevelLimit",
+                "Normal",
+                "Compelete"
+              ]
+            },
+            {
+              "name": "SelectState",
+              "pages": [
+                "NoSelect",
+                "Select"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "name": "task_title",
+        "type": "GTextField"
+      },
+      {
+        "name": "guideBtn",
+        "type": "GButton",
+        "children": [
+          {
+            "name": "n18",
+            "type": "GImage"
+          },
+          {
+            "name": "n19",
+            "type": "GImage"
+          },
+          {
+            "name": "n20",
+            "type": "GImage"
+          },
+          {
+            "name": "title",
+            "type": "GTextField"
+          }
+        ],
+        "controllers": [
+          {
+            "name": "button",
+            "pages": [
+              "up",
+              "down",
+              "over",
+              "selectedOver"
+            ]
+          },
+          {
+            "name": "FunctionState",
+            "pages": [
+              "NoOpen",
+              "Reward"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "n197",
+        "type": "GGroup"
+      },
+      {
+        "name": "group_task",
+        "type": "GGroup"
+      },
+      {
+        "name": "AdapterNodeLeft",
+        "type": "GGroup"
+      },
+      {
+        "name": "n86",
+        "type": "GImage"
+      },
+      {
+        "name": "list_mount",
+        "type": "GList",
+        "defaultItem": "ui://c6iwlr2rrhl145",
+        "children": [
+          {
+            "name": "",
+            "type": "GComponent"
+          },
+          {
+            "name": "",
+            "type": "GComponent"
+          },
+          {
+            "name": "",
+            "type": "GComponent"
+          },
+          {
+            "name": "",
+            "type": "GComponent"
+          },
+          {
+            "name": "",
+            "type": "GComponent"
+          }
+        ],
+        "controllers": [],
+        "template": {
+          "name": "",
+          "type": "GComponent",
+          "children": [
+            {
+              "name": "img_icon",
+              "type": "GLoader"
+            },
+            {
+              "name": "btn_mount",
+              "type": "GButton"
+            }
+          ],
+          "controllers": [
+            {
+              "name": "Select",
+              "pages": [
+                "NoSelect",
+                "Select"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "name": "btn_last",
+        "type": "GButton",
+        "children": [
+          {
+            "name": "icon",
+            "type": "GLoader"
+          },
+          {
+            "name": "title",
+            "type": "GRichTextField"
+          },
+          {
+            "name": "RedDot",
+            "type": "GComponent"
+          }
+        ],
+        "controllers": [
+          {
+            "name": "button",
+            "pages": [
+              "up",
+              "down",
+              "over",
+              "selectedOver"
+            ]
+          },
+          {
+            "name": "front",
+            "pages": [
+              "orange",
+              "blue",
+              "blue2",
+              "green",
+              "gold",
+              "orange2",
+              "greay",
+              "black",
+              "purple",
+              "red",
+              "white"
+            ]
+          },
+          {
+            "name": "LabPos",
+            "pages": [
+              "Middle",
+              "Bottom"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "btn_next",
+        "type": "GButton",
+        "children": [
+          {
+            "name": "icon",
+            "type": "GLoader"
+          },
+          {
+            "name": "title",
+            "type": "GRichTextField"
+          },
+          {
+            "name": "RedDot",
+            "type": "GComponent"
+          }
+        ],
+        "controllers": [
+          {
+            "name": "button",
+            "pages": [
+              "up",
+              "down",
+              "over",
+              "selectedOver"
+            ]
+          },
+          {
+            "name": "front",
+            "pages": [
+              "orange",
+              "blue",
+              "blue2",
+              "green",
+              "gold",
+              "orange2",
+              "greay",
+              "black",
+              "purple",
+              "red",
+              "white"
+            ]
+          },
+          {
+            "name": "LabPos",
+            "pages": [
+              "Middle",
+              "Bottom"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "g_mount",
+        "type": "GGroup"
+      },
+      {
+        "name": "btn_gameHelp",
+        "type": "GButton",
+        "children": [
+          {
+            "name": "icon",
+            "type": "GLoader"
+          },
+          {
+            "name": "sp",
+            "type": "GLoader3D"
+          },
+          {
+            "name": "RedDot",
+            "type": "GComponent"
+          },
+          {
+            "name": "n16",
+            "type": "GImage"
+          },
+          {
+            "name": "title",
+            "type": "GTextField"
+          },
+          {
+            "name": "lb_time",
+            "type": "GTextField"
+          },
+          {
+            "name": "lb_havetime",
+            "type": "GTextField"
+          },
+          {
+            "name": "lb_name",
+            "type": "GTextField"
+          },
+          {
+            "name": "n18",
+            "type": "GImage"
+          },
+          {
+            "name": "n20",
+            "type": "GImage"
+          },
+          {
+            "name": "n21",
+            "type": "GImage"
+          },
+          {
+            "name": "n22",
+            "type": "GImage"
+          },
+          {
+            "name": "flashPanel",
+            "type": "GGroup"
+          }
+        ],
+        "controllers": [
+          {
+            "name": "button",
+            "pages": [
+              "up",
+              "down",
+              "over",
+              "selectedOver"
+            ]
+          },
+          {
+            "name": "State",
+            "pages": [
+              "Normal",
+              "Time"
+            ]
+          },
+          {
+            "name": "Color",
+            "pages": [
+              "Normal",
+              "Bule"
+            ]
+          },
+          {
+            "name": "Bubble",
+            "pages": [
+              "None",
+              "Show"
+            ]
+          },
+          {
+            "name": "showFlash",
+            "pages": [
+              "no",
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "list_activity1",
+        "type": "GList",
+        "defaultItem": "ui://c6iwlr2r7v642g",
+        "children": [
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          }
+        ],
+        "controllers": [],
+        "template": {
+          "name": "",
+          "type": "GButton",
+          "children": [
+            {
+              "name": "icon",
+              "type": "GLoader"
+            },
+            {
+              "name": "sp",
+              "type": "GLoader3D"
+            },
+            {
+              "name": "RedDot",
+              "type": "GComponent"
+            },
+            {
+              "name": "n16",
+              "type": "GImage"
+            },
+            {
+              "name": "title",
+              "type": "GTextField"
+            },
+            {
+              "name": "lb_time",
+              "type": "GTextField"
+            },
+            {
+              "name": "lb_havetime",
+              "type": "GTextField"
+            },
+            {
+              "name": "lb_name",
+              "type": "GTextField"
+            },
+            {
+              "name": "n18",
+              "type": "GImage"
+            },
+            {
+              "name": "n20",
+              "type": "GImage"
+            },
+            {
+              "name": "n21",
+              "type": "GImage"
+            },
+            {
+              "name": "n22",
+              "type": "GImage"
+            },
+            {
+              "name": "flashPanel",
+              "type": "GGroup"
+            }
+          ],
+          "controllers": [
+            {
+              "name": "button",
+              "pages": [
+                "up",
+                "down",
+                "over",
+                "selectedOver"
+              ]
+            },
+            {
+              "name": "State",
+              "pages": [
+                "Normal",
+                "Time"
+              ]
+            },
+            {
+              "name": "Color",
+              "pages": [
+                "Normal",
+                "Bule"
+              ]
+            },
+            {
+              "name": "Bubble",
+              "pages": [
+                "None",
+                "Show"
+              ]
+            },
+            {
+              "name": "showFlash",
+              "pages": [
+                "no",
+                "yes"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "name": "list_activity2",
+        "type": "GList",
+        "defaultItem": "ui://c6iwlr2r7v642g",
+        "children": [],
+        "controllers": [],
+        "template": {
+          "name": "",
+          "type": "GButton",
+          "children": [
+            {
+              "name": "icon",
+              "type": "GLoader"
+            },
+            {
+              "name": "sp",
+              "type": "GLoader3D"
+            },
+            {
+              "name": "RedDot",
+              "type": "GComponent"
+            },
+            {
+              "name": "n16",
+              "type": "GImage"
+            },
+            {
+              "name": "title",
+              "type": "GTextField"
+            },
+            {
+              "name": "lb_time",
+              "type": "GTextField"
+            },
+            {
+              "name": "lb_havetime",
+              "type": "GTextField"
+            },
+            {
+              "name": "lb_name",
+              "type": "GTextField"
+            },
+            {
+              "name": "n18",
+              "type": "GImage"
+            },
+            {
+              "name": "n20",
+              "type": "GImage"
+            },
+            {
+              "name": "n21",
+              "type": "GImage"
+            },
+            {
+              "name": "n22",
+              "type": "GImage"
+            },
+            {
+              "name": "flashPanel",
+              "type": "GGroup"
+            }
+          ],
+          "controllers": [
+            {
+              "name": "button",
+              "pages": [
+                "up",
+                "down",
+                "over",
+                "selectedOver"
+              ]
+            },
+            {
+              "name": "State",
+              "pages": [
+                "Normal",
+                "Time"
+              ]
+            },
+            {
+              "name": "Color",
+              "pages": [
+                "Normal",
+                "Bule"
+              ]
+            },
+            {
+              "name": "Bubble",
+              "pages": [
+                "None",
+                "Show"
+              ]
+            },
+            {
+              "name": "showFlash",
+              "pages": [
+                "no",
+                "yes"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "name": "list_activity3",
+        "type": "GList",
+        "defaultItem": "ui://c6iwlr2r7v642g",
+        "children": [],
+        "controllers": [],
+        "template": {
+          "name": "",
+          "type": "GButton",
+          "children": [
+            {
+              "name": "icon",
+              "type": "GLoader"
+            },
+            {
+              "name": "sp",
+              "type": "GLoader3D"
+            },
+            {
+              "name": "RedDot",
+              "type": "GComponent"
+            },
+            {
+              "name": "n16",
+              "type": "GImage"
+            },
+            {
+              "name": "title",
+              "type": "GTextField"
+            },
+            {
+              "name": "lb_time",
+              "type": "GTextField"
+            },
+            {
+              "name": "lb_havetime",
+              "type": "GTextField"
+            },
+            {
+              "name": "lb_name",
+              "type": "GTextField"
+            },
+            {
+              "name": "n18",
+              "type": "GImage"
+            },
+            {
+              "name": "n20",
+              "type": "GImage"
+            },
+            {
+              "name": "n21",
+              "type": "GImage"
+            },
+            {
+              "name": "n22",
+              "type": "GImage"
+            },
+            {
+              "name": "flashPanel",
+              "type": "GGroup"
+            }
+          ],
+          "controllers": [
+            {
+              "name": "button",
+              "pages": [
+                "up",
+                "down",
+                "over",
+                "selectedOver"
+              ]
+            },
+            {
+              "name": "State",
+              "pages": [
+                "Normal",
+                "Time"
+              ]
+            },
+            {
+              "name": "Color",
+              "pages": [
+                "Normal",
+                "Bule"
+              ]
+            },
+            {
+              "name": "Bubble",
+              "pages": [
+                "None",
+                "Show"
+              ]
+            },
+            {
+              "name": "showFlash",
+              "pages": [
+                "no",
+                "yes"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "name": "btn_push",
+        "type": "GButton",
+        "children": [
+          {
+            "name": "bg",
+            "type": "GLoader"
+          },
+          {
+            "name": "n15",
+            "type": "GImage"
+          },
+          {
+            "name": "RedDot",
+            "type": "GComponent"
+          },
+          {
+            "name": "icon_name",
+            "type": "GLoader"
+          },
+          {
+            "name": "lb_time",
+            "type": "GTextField"
+          }
+        ],
+        "controllers": [
+          {
+            "name": "button",
+            "pages": [
+              "up",
+              "down",
+              "over",
+              "selectedOver"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "btn_info",
+        "type": "GButton",
+        "children": [
+          {
+            "name": "n12",
+            "type": "GImage"
+          },
+          {
+            "name": "n11",
+            "type": "GImage"
+          },
+          {
+            "name": "icon",
+            "type": "GLoader"
+          },
+          {
+            "name": "lb_desc",
+            "type": "GTextField"
+          },
+          {
+            "name": "title",
+            "type": "GTextField"
+          },
+          {
+            "name": "RedDot",
+            "type": "GComponent"
+          }
+        ],
+        "controllers": [
+          {
+            "name": "button",
+            "pages": [
+              "up",
+              "down",
+              "over",
+              "selectedOver"
+            ]
+          },
+          {
+            "name": "FunctionState",
+            "pages": [
+              "NoOpen",
+              "Reward"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "n78",
+        "type": "GImage"
+      },
+      {
+        "name": "img_signal",
+        "type": "GLoader"
+      },
+      {
+        "name": "TimeLabel",
+        "type": "GLabel",
+        "children": [
+          {
+            "name": "n3",
+            "type": "GImage"
+          },
+          {
+            "name": "n5",
+            "type": "GImage"
+          },
+          {
+            "name": "img_icon",
+            "type": "GLoader"
+          },
+          {
+            "name": "title",
+            "type": "GTextField"
+          }
+        ],
+        "controllers": [
+          {
+            "name": "State",
+            "pages": [
+              "Dawn",
+              "Noon",
+              "Evening",
+              "Nght"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "miniMap",
+        "type": "GButton",
+        "children": [
+          {
+            "name": "n0",
+            "type": "GImage"
+          },
+          {
+            "name": "bg",
+            "type": "GComponent"
+          },
+          {
+            "name": "RedDot",
+            "type": "GComponent"
+          }
+        ],
+        "controllers": []
+      },
+      {
+        "name": "btn_mail",
+        "type": "GButton",
+        "children": [
+          {
+            "name": "icon",
+            "type": "GLoader"
+          },
+          {
+            "name": "RedDot",
+            "type": "GComponent"
+          }
+        ],
+        "controllers": [
+          {
+            "name": "button",
+            "pages": [
+              "up",
+              "down",
+              "over",
+              "selectedOver"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "n84",
+        "type": "GImage"
+      },
+      {
+        "name": "mapWeather",
+        "type": "GLoader"
+      },
+      {
+        "name": "lb_mapName",
+        "type": "GTextField"
+      },
+      {
+        "name": "btn_daily",
+        "type": "GButton",
+        "children": [
+          {
+            "name": "icon",
+            "type": "GLoader"
+          },
+          {
+            "name": "title",
+            "type": "GRichTextField"
+          },
+          {
+            "name": "RedDot",
+            "type": "GComponent"
+          }
+        ],
+        "controllers": [
+          {
+            "name": "button",
+            "pages": [
+              "up",
+              "down",
+              "over",
+              "selectedOver"
+            ]
+          },
+          {
+            "name": "front",
+            "pages": [
+              "orange",
+              "blue",
+              "blue2",
+              "green",
+              "gold",
+              "orange2",
+              "greay",
+              "black",
+              "purple",
+              "red",
+              "white"
+            ]
+          },
+          {
+            "name": "LabPos",
+            "pages": [
+              "Middle",
+              "Bottom"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "bg",
+        "type": "GLoader"
+      },
+      {
+        "name": "btn_menu",
+        "type": "GButton",
+        "children": [
+          {
+            "name": "icon",
+            "type": "GLoader"
+          },
+          {
+            "name": "title",
+            "type": "GRichTextField"
+          },
+          {
+            "name": "RedDot",
+            "type": "GComponent"
+          }
+        ],
+        "controllers": [
+          {
+            "name": "button",
+            "pages": [
+              "up",
+              "down",
+              "over",
+              "selectedOver"
+            ]
+          },
+          {
+            "name": "front",
+            "pages": [
+              "orange",
+              "blue",
+              "blue2",
+              "green",
+              "gold",
+              "orange2",
+              "greay",
+              "black",
+              "purple",
+              "red",
+              "white"
+            ]
+          },
+          {
+            "name": "LabPos",
+            "pages": [
+              "Middle",
+              "Bottom"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "btn_come",
+        "type": "GButton",
+        "children": [
+          {
+            "name": "icon",
+            "type": "GLoader"
+          },
+          {
+            "name": "sp",
+            "type": "GLoader3D"
+          },
+          {
+            "name": "RedDot",
+            "type": "GComponent"
+          },
+          {
+            "name": "n16",
+            "type": "GImage"
+          },
+          {
+            "name": "title",
+            "type": "GTextField"
+          },
+          {
+            "name": "lb_time",
+            "type": "GTextField"
+          },
+          {
+            "name": "lb_havetime",
+            "type": "GTextField"
+          },
+          {
+            "name": "lb_name",
+            "type": "GTextField"
+          },
+          {
+            "name": "n18",
+            "type": "GImage"
+          },
+          {
+            "name": "n20",
+            "type": "GImage"
+          },
+          {
+            "name": "n21",
+            "type": "GImage"
+          },
+          {
+            "name": "n22",
+            "type": "GImage"
+          },
+          {
+            "name": "flashPanel",
+            "type": "GGroup"
+          }
+        ],
+        "controllers": [
+          {
+            "name": "button",
+            "pages": [
+              "up",
+              "down",
+              "over",
+              "selectedOver"
+            ]
+          },
+          {
+            "name": "State",
+            "pages": [
+              "Normal",
+              "Time"
+            ]
+          },
+          {
+            "name": "Color",
+            "pages": [
+              "Normal",
+              "Bule"
+            ]
+          },
+          {
+            "name": "Bubble",
+            "pages": [
+              "None",
+              "Show"
+            ]
+          },
+          {
+            "name": "showFlash",
+            "pages": [
+              "no",
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "effect",
+        "type": "GGraph"
+      },
+      {
+        "name": "icon_activityHide",
+        "type": "GLoader"
+      },
+      {
+        "name": "lb_activityHide",
+        "type": "GTextField"
+      },
+      {
+        "name": "activityHideRedDot",
+        "type": "GComponent",
+        "children": [
+          {
+            "name": "img_red",
+            "type": "GLoader"
+          },
+          {
+            "name": "lab_num",
+            "type": "GTextField"
+          }
+        ],
+        "controllers": [
+          {
+            "name": "mode",
+            "pages": [
+              "Dot",
+              "Num",
+              "More",
+              "Other",
+              "Big"
+            ]
+          },
+          {
+            "name": "RedDot",
+            "pages": [
+              "Hide",
+              "Show"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "activityHidePanel",
+        "type": "GGroup"
+      },
+      {
+        "name": "lb_signer",
+        "type": "GTextField"
+      },
+      {
+        "name": "AdapterNodeRight",
+        "type": "GGroup"
+      },
+      {
+        "name": "comboCom",
+        "type": "GComponent",
+        "children": [
+          {
+            "name": "n15",
+            "type": "GImage"
+          },
+          {
+            "name": "icon_eudemon",
+            "type": "GLoader"
+          },
+          {
+            "name": "lb_combo",
+            "type": "GTextField"
+          }
+        ],
+        "controllers": []
+      },
+      {
+        "name": "autoComponent",
+        "type": "GComponent",
+        "children": [
+          {
+            "name": "n1",
+            "type": "GImage"
+          },
+          {
+            "name": "n3",
+            "type": "GImage"
+          },
+          {
+            "name": "title",
+            "type": "GTextField"
+          },
+          {
+            "name": "btn_auto",
+            "type": "GButton"
+          },
+          {
+            "name": "btn_autoSearch",
+            "type": "GButton"
+          },
+          {
+            "name": "btn_up",
+            "type": "GButton"
+          },
+          {
+            "name": "btn_flash",
+            "type": "GButton"
+          },
+          {
+            "name": "pShowItem",
+            "type": "GButton"
+          },
+          {
+            "name": "fShowItem",
+            "type": "GButton"
+          },
+          {
+            "name": "btn_effect",
+            "type": "GMovieClip"
+          },
+          {
+            "name": "eudemonList",
+            "type": "GList"
+          }
+        ],
+        "controllers": [
+          {
+            "name": "State",
+            "pages": [
+              "ShowSearch",
+              "NoSearch"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "goFishingComponent",
+        "type": "GComponent",
+        "children": [
+          {
+            "name": "n1",
+            "type": "GImage"
+          },
+          {
+            "name": "n3",
+            "type": "GImage"
+          },
+          {
+            "name": "title",
+            "type": "GTextField"
+          },
+          {
+            "name": "eudemonList",
+            "type": "GList"
+          },
+          {
+            "name": "n11",
+            "type": "GImage"
+          },
+          {
+            "name": "rodList",
+            "type": "GList"
+          },
+          {
+            "name": "fishingBar",
+            "type": "GProgressBar"
+          },
+          {
+            "name": "n10",
+            "type": "GImage"
+          },
+          {
+            "name": "btn_up",
+            "type": "GButton"
+          },
+          {
+            "name": "btn_flash",
+            "type": "GButton"
+          },
+          {
+            "name": "close",
+            "type": "GButton"
+          },
+          {
+            "name": "btn_goFishing",
+            "type": "GButton"
+          },
+          {
+            "name": "btn_up1",
+            "type": "GButton"
+          },
+          {
+            "name": "btn_flash1",
+            "type": "GButton"
+          },
+          {
+            "name": "btn_autoSearch",
+            "type": "GButton"
+          }
+        ],
+        "controllers": [
+          {
+            "name": "status",
+            "pages": [
+              "hide",
+              "show"
+            ]
+          },
+          {
+            "name": "fishing",
+            "pages": [
+              "hide",
+              "show"
+            ]
+          },
+          {
+            "name": "catchFish",
+            "pages": [
+              "miss",
+              "hit"
+            ]
+          },
+          {
+            "name": "FishState",
+            "pages": [
+              "Show",
+              "Hide"
+            ]
+          },
+          {
+            "name": "UpState",
+            "pages": [
+              "None",
+              "Up"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Top",
+        "type": "GGroup"
+      },
+      {
+        "name": "bg_bag",
+        "type": "GLoader"
+      },
+      {
+        "name": "n85",
+        "type": "GImage"
+      },
+      {
+        "name": "list_menu",
+        "type": "GList",
+        "defaultItem": "ui://c6iwlr2r7v642g",
+        "children": [],
+        "controllers": [],
+        "template": {
+          "name": "",
+          "type": "GButton",
+          "children": [
+            {
+              "name": "icon",
+              "type": "GLoader"
+            },
+            {
+              "name": "sp",
+              "type": "GLoader3D"
+            },
+            {
+              "name": "RedDot",
+              "type": "GComponent"
+            },
+            {
+              "name": "n16",
+              "type": "GImage"
+            },
+            {
+              "name": "title",
+              "type": "GTextField"
+            },
+            {
+              "name": "lb_time",
+              "type": "GTextField"
+            },
+            {
+              "name": "lb_havetime",
+              "type": "GTextField"
+            },
+            {
+              "name": "lb_name",
+              "type": "GTextField"
+            },
+            {
+              "name": "n18",
+              "type": "GImage"
+            },
+            {
+              "name": "n20",
+              "type": "GImage"
+            },
+            {
+              "name": "n21",
+              "type": "GImage"
+            },
+            {
+              "name": "n22",
+              "type": "GImage"
+            },
+            {
+              "name": "flashPanel",
+              "type": "GGroup"
+            }
+          ],
+          "controllers": [
+            {
+              "name": "button",
+              "pages": [
+                "up",
+                "down",
+                "over",
+                "selectedOver"
+              ]
+            },
+            {
+              "name": "State",
+              "pages": [
+                "Normal",
+                "Time"
+              ]
+            },
+            {
+              "name": "Color",
+              "pages": [
+                "Normal",
+                "Bule"
+              ]
+            },
+            {
+              "name": "Bubble",
+              "pages": [
+                "None",
+                "Show"
+              ]
+            },
+            {
+              "name": "showFlash",
+              "pages": [
+                "no",
+                "yes"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "name": "img_menu",
+        "type": "GButton",
+        "children": [
+          {
+            "name": "icon",
+            "type": "GLoader"
+          },
+          {
+            "name": "title",
+            "type": "GRichTextField"
+          },
+          {
+            "name": "RedDot",
+            "type": "GComponent"
+          }
+        ],
+        "controllers": [
+          {
+            "name": "button",
+            "pages": [
+              "up",
+              "down",
+              "over",
+              "selectedOver"
+            ]
+          },
+          {
+            "name": "front",
+            "pages": [
+              "orange",
+              "blue",
+              "blue2",
+              "green",
+              "gold",
+              "orange2",
+              "greay",
+              "black",
+              "purple",
+              "red",
+              "white"
+            ]
+          },
+          {
+            "name": "LabPos",
+            "pages": [
+              "Middle",
+              "Bottom"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "g_box",
+        "type": "GGroup"
+      },
+      {
+        "name": "n10",
+        "type": "GImage"
+      },
+      {
+        "name": "n182",
+        "type": "GImage"
+      },
+      {
+        "name": "n181",
+        "type": "GImage"
+      },
+      {
+        "name": "lb_daily",
+        "type": "GRichTextField"
+      },
+      {
+        "name": "bg_chat",
+        "type": "GLoader"
+      },
+      {
+        "name": "chatView",
+        "type": "GComponent",
+        "children": [
+          {
+            "name": "chatmsg",
+            "type": "GComponent"
+          },
+          {
+            "name": "bg_chat",
+            "type": "GLoader"
+          },
+          {
+            "name": "list_lastMsg",
+            "type": "GList"
+          },
+          {
+            "name": "btn_msg",
+            "type": "GButton"
+          },
+          {
+            "name": "btn_chatRed",
+            "type": "GButton"
+          },
+          {
+            "name": "btn_friend",
+            "type": "GButton"
+          },
+          {
+            "name": "btn_fashionShow",
+            "type": "GButton"
+          },
+          {
+            "name": "btn_gestureShow",
+            "type": "GButton"
+          },
+          {
+            "name": "btn_Guild",
+            "type": "GButton"
+          },
+          {
+            "name": "btn_Chat",
+            "type": "GButton"
+          },
+          {
+            "name": "list_info",
+            "type": "GList"
+          },
+          {
+            "name": "n80",
+            "type": "GGroup"
+          },
+          {
+            "name": "n20",
+            "type": "GGroup"
+          }
+        ],
+        "controllers": [
+          {
+            "name": "ChatState",
+            "pages": [
+              "ShowChat",
+              "HideChat"
+            ]
+          },
+          {
+            "name": "ShowState",
+            "pages": [
+              "None",
+              "Gesture",
+              "Fashion",
+              "All"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "btn_friend",
+        "type": "GButton",
+        "children": [
+          {
+            "name": "icon",
+            "type": "GLoader"
+          },
+          {
+            "name": "title",
+            "type": "GRichTextField"
+          },
+          {
+            "name": "RedDot",
+            "type": "GComponent"
+          }
+        ],
+        "controllers": [
+          {
+            "name": "button",
+            "pages": [
+              "up",
+              "down",
+              "over",
+              "selectedOver"
+            ]
+          },
+          {
+            "name": "front",
+            "pages": [
+              "orange",
+              "blue",
+              "blue2",
+              "green",
+              "gold",
+              "orange2",
+              "greay",
+              "black",
+              "purple",
+              "red",
+              "white"
+            ]
+          },
+          {
+            "name": "LabPos",
+            "pages": [
+              "Middle",
+              "Bottom"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "g_chat",
+        "type": "GGroup"
+      },
+      {
+        "name": "AdapterNodeDown",
+        "type": "GGroup"
+      },
+      {
+        "name": "gra_STBanClick",
+        "type": "GGraph"
+      },
+      {
+        "name": "n203",
+        "type": "GImage"
+      },
+      {
+        "name": "lb_ShowZn",
+        "type": "GTextField"
+      }
+    ]
+  }
+]

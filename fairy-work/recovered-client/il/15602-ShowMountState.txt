@@ -1,0 +1,64 @@
+MainWindow::ShowMountState
+000c ldarg.0 
+000d ldfld ListMount
+0012 brfalse.s 48
+0014 ldarg.0 
+0015 ldfld ListMount
+001a callvirt get_Count
+001f brfalse.s 48
+0021 ldarg.0 
+0022 call DomainScene
+0027 ldc.i4.s 107
+0029 call FunctionHelper::FunctionIsOpen
+002e brtrue.s 49
+0030 ret 
+0031 ldarg.0 
+0032 call DomainScene
+0037 call CurrentScenesComponentSystem::CurrentScene
+003c call MapHelper::IsInSafari
+0041 brfalse.s 79
+0043 ldarg.0 
+0044 ldfld m_g_mount
+0049 ldc.i4.1 
+004a callvirt set_visible
+004f ldarg.0 
+0050 call DomainScene
+0055 call CurrentScenesComponentSystem::CurrentScene
+005a call MapHelper::IsInTrial
+005f brfalse.s 109
+0061 ldarg.0 
+0062 ldfld m_g_mount
+0067 ldc.i4.0 
+0068 callvirt set_visible
+006d ldarg.0 
+006e call DomainScene
+0073 call CurrentScenesComponentSystem::CurrentScene
+0078 call MapHelper::IsInDynamax
+007d brfalse.s 139
+007f ldarg.0 
+0080 ldfld m_g_mount
+0085 ldc.i4.0 
+0086 callvirt set_visible
+008b ldarg.0 
+008c call DomainScene
+0091 call CurrentScenesComponentSystem::CurrentScene
+0096 call MapHelper::IsInSevenIslands
+009b brfalse.s 169
+009d ldarg.0 
+009e ldfld m_g_mount
+00a3 ldc.i4.1 
+00a4 callvirt set_visible
+00a9 ldarg.0 
+00aa call DomainScene
+00af call CurrentScenesComponentSystem::CurrentScene
+00b4 call MapHelper::IsInGuildFight
+00b9 brfalse.s 211
+00bb ldarg.0 
+00bc ldfld m_g_mount
+00c1 ldc.i4.1 
+00c2 callvirt set_visible
+00c7 ldarg.0 
+00c8 ldfld m_g_chat
+00cd ldc.i4.0 
+00ce callvirt set_visible
+00d3 ret 

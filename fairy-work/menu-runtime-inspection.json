@@ -1,0 +1,4021 @@
+[
+  {
+    "pkg": "Bag",
+    "name": "BagCenter_Window",
+    "controllers": [
+      {
+        "name": "ShowState",
+        "pages": [
+          "Show",
+          "Hide"
+        ]
+      },
+      {
+        "name": "SortState",
+        "pages": [
+          "Show",
+          "Hide"
+        ]
+      }
+    ],
+    "children": [
+      {
+        "name": "n58",
+        "type": "GImage"
+      },
+      {
+        "name": "n59",
+        "type": "GImage"
+      },
+      {
+        "name": "wnd",
+        "type": "GLabel",
+        "children": [
+          {
+            "name": "n18",
+            "type": "GImage"
+          },
+          {
+            "name": "currencyList",
+            "type": "GList"
+          },
+          {
+            "name": "Close",
+            "type": "GButton"
+          },
+          {
+            "name": "n15",
+            "type": "GImage"
+          }
+        ],
+        "controllers": [
+          {
+            "name": "TopState",
+            "pages": [
+              "ShowCurrency",
+              "HideCurrency"
+            ]
+          },
+          {
+            "name": "stytle",
+            "pages": [
+              "normal",
+              "gashon"
+            ]
+          },
+          {
+            "name": "downBg",
+            "pages": [
+              "hide",
+              "show"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "n56",
+        "type": "GImage"
+      },
+      {
+        "name": "n57",
+        "type": "GImage"
+      },
+      {
+        "name": "btn_sort",
+        "type": "GComboBox",
+        "children": [
+          {
+            "name": "n0",
+            "type": "GImage"
+          },
+          {
+            "name": "title",
+            "type": "GTextField"
+          },
+          {
+            "name": "foldPic",
+            "type": "GImage"
+          },
+          {
+            "name": "bg",
+            "type": "GGraph"
+          }
+        ],
+        "controllers": [
+          {
+            "name": "button",
+            "pages": [
+              "up",
+              "down",
+              "over",
+              "selectedOver"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "list_tab",
+        "type": "GList",
+        "defaultItem": "ui://ufgirfkmlebv6h2ak",
+        "children": [
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          }
+        ],
+        "controllers": [],
+        "template": {
+          "name": "",
+          "type": "GButton",
+          "children": [
+            {
+              "name": "n4",
+              "type": "GLoader"
+            },
+            {
+              "name": "n6",
+              "type": "GLoader"
+            },
+            {
+              "name": "lb_title",
+              "type": "GTextField"
+            },
+            {
+              "name": "RedDot",
+              "type": "GComponent"
+            }
+          ],
+          "controllers": [
+            {
+              "name": "SelectState",
+              "pages": [
+                "Select",
+                "NoSelect"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "name": "list_goods",
+        "type": "GList",
+        "defaultItem": "ui://ufgirfkmewfrh22n",
+        "children": [
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          }
+        ],
+        "controllers": [],
+        "template": {
+          "name": "",
+          "type": "GButton",
+          "children": [
+            {
+              "name": "n36",
+              "type": "GImage"
+            },
+            {
+              "name": "img_quality",
+              "type": "GLoader"
+            },
+            {
+              "name": "img_icon",
+              "type": "GLoader"
+            },
+            {
+              "name": "n28",
+              "type": "GImage"
+            },
+            {
+              "name": "img_flash",
+              "type": "GLoader"
+            },
+            {
+              "name": "n12",
+              "type": "GImage"
+            },
+            {
+              "name": "n20",
+              "type": "GImage"
+            },
+            {
+              "name": "n21",
+              "type": "GImage"
+            },
+            {
+              "name": "star",
+              "type": "GLabel"
+            },
+            {
+              "name": "lab_num",
+              "type": "GTextField"
+            },
+            {
+              "name": "lab_lv",
+              "type": "GTextField"
+            },
+            {
+              "name": "lab_name",
+              "type": "GTextField"
+            },
+            {
+              "name": "n24",
+              "type": "GImage"
+            },
+            {
+              "name": "RedDot",
+              "type": "GComponent"
+            },
+            {
+              "name": "flashItem",
+              "type": "GComponent"
+            },
+            {
+              "name": "lab_desc",
+              "type": "GTextField"
+            },
+            {
+              "name": "n33",
+              "type": "GImage"
+            },
+            {
+              "name": "lab_floor",
+              "type": "GTextField"
+            },
+            {
+              "name": "n37",
+              "type": "GImage"
+            },
+            {
+              "name": "lb_rare",
+              "type": "GTextField"
+            },
+            {
+              "name": "img_recive",
+              "type": "GLoader"
+            },
+            {
+              "name": "n41",
+              "type": "GImage"
+            },
+            {
+              "name": "lb_activity",
+              "type": "GTextField"
+            },
+            {
+              "name": "n45",
+              "type": "GImage"
+            },
+            {
+              "name": "effect",
+              "type": "GGraph"
+            },
+            {
+              "name": "n47",
+              "type": "GImage"
+            },
+            {
+              "name": "probability",
+              "type": "GTextField"
+            }
+          ],
+          "controllers": [
+            {
+              "name": "button",
+              "pages": [
+                "up",
+                "down",
+                "over",
+                "selectedOver"
+              ]
+            },
+            {
+              "name": "style",
+              "pages": [
+                "Normal",
+                "Light"
+              ]
+            },
+            {
+              "name": "State",
+              "pages": [
+                "NoSelect",
+                "Select"
+              ]
+            },
+            {
+              "name": "showState",
+              "pages": [
+                "Normal",
+                "NoNum"
+              ]
+            },
+            {
+              "name": "showName",
+              "pages": [
+                "None",
+                "Normal"
+              ]
+            },
+            {
+              "name": "SelectState",
+              "pages": [
+                "Normal",
+                "Selected"
+              ]
+            },
+            {
+              "name": "IsHeld",
+              "pages": [
+                "no",
+                "yes"
+              ]
+            },
+            {
+              "name": "IsSegment",
+              "pages": [
+                "None",
+                "Segment"
+              ]
+            },
+            {
+              "name": "textColor",
+              "pages": [
+                "blue",
+                "white",
+                "red",
+                "bule1"
+              ]
+            },
+            {
+              "name": "showConten",
+              "pages": [
+                "None",
+                "Normal"
+              ]
+            },
+            {
+              "name": "IsFloor",
+              "pages": [
+                "no",
+                "yes"
+              ]
+            },
+            {
+              "name": "Bgstate",
+              "pages": [
+                "None",
+                "Bg"
+              ]
+            },
+            {
+              "name": "rare",
+              "pages": [
+                "no",
+                "yes"
+              ]
+            },
+            {
+              "name": "isRecive",
+              "pages": [
+                "no",
+                "yes"
+              ]
+            },
+            {
+              "name": "isHIde",
+              "pages": [
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "name": "isProbability ",
+              "pages": [
+                "no",
+                "yes"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "name": "list_btn",
+        "type": "GList",
+        "defaultItem": "ui://c1imbcrl8yc4a",
+        "children": [
+          {
+            "name": "",
+            "type": "GButton"
+          }
+        ],
+        "controllers": [],
+        "template": {
+          "name": "",
+          "type": "GButton",
+          "children": [
+            {
+              "name": "icon_bg",
+              "type": "GLoader"
+            },
+            {
+              "name": "title",
+              "type": "GTextField"
+            }
+          ],
+          "controllers": [
+            {
+              "name": "button",
+              "pages": [
+                "up",
+                "down",
+                "over",
+                "selectedOver"
+              ]
+            },
+            {
+              "name": "front",
+              "pages": [
+                "orange",
+                "bule"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "name": "lb_none",
+        "type": "GTextField"
+      },
+      {
+        "name": "commonItemInfo",
+        "type": "GComponent",
+        "children": [
+          {
+            "name": "bg",
+            "type": "GLoader"
+          },
+          {
+            "name": "n23",
+            "type": "GImage"
+          },
+          {
+            "name": "n24",
+            "type": "GImage"
+          },
+          {
+            "name": "n25",
+            "type": "GImage"
+          },
+          {
+            "name": "bg_item",
+            "type": "GLoader"
+          },
+          {
+            "name": "n32",
+            "type": "GLoader"
+          },
+          {
+            "name": "n2",
+            "type": "GImage"
+          },
+          {
+            "name": "n3",
+            "type": "GImage"
+          },
+          {
+            "name": "icon_goods",
+            "type": "GLoader"
+          },
+          {
+            "name": "btn_share",
+            "type": "GButton"
+          },
+          {
+            "name": "lb_name",
+            "type": "GTextField"
+          },
+          {
+            "name": "lb_typename",
+            "type": "GTextField"
+          },
+          {
+            "name": "lb_limit",
+            "type": "GTextField"
+          },
+          {
+            "name": "lb_level",
+            "type": "GTextField"
+          },
+          {
+            "name": "list_price",
+            "type": "GList"
+          },
+          {
+            "name": "shareItem",
+            "type": "GComponent"
+          },
+          {
+            "name": "n28",
+            "type": "GImage"
+          },
+          {
+            "name": "bagPanel",
+            "type": "GComponent"
+          },
+          {
+            "name": "list_reward",
+            "type": "GList"
+          },
+          {
+            "name": "lb_gift",
+            "type": "GTextField"
+          },
+          {
+            "name": "btn_complex",
+            "type": "GButton"
+          }
+        ],
+        "controllers": [
+          {
+            "name": "LevelLimit",
+            "pages": [
+              "Nolevel",
+              "LevelLimit"
+            ]
+          },
+          {
+            "name": "PriceState",
+            "pages": [
+              "Free",
+              "Price"
+            ]
+          },
+          {
+            "name": "LevelState",
+            "pages": [
+              "Normal",
+              "Limit"
+            ]
+          },
+          {
+            "name": "ShareState",
+            "pages": [
+              "NoShare",
+              "Share"
+            ]
+          },
+          {
+            "name": "State",
+            "pages": [
+              "Normal",
+              "Gift"
+            ]
+          },
+          {
+            "name": "complexVisible",
+            "pages": [
+              "Yes",
+              "No"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "pkg": "Shop",
+    "name": "Shop_Window",
+    "controllers": [
+      {
+        "name": "RefreshState",
+        "pages": [
+          "Refresh",
+          "Normal"
+        ]
+      },
+      {
+        "name": "PardRefresh",
+        "pages": [
+          "Pard",
+          "Normal",
+          "MaxPard"
+        ]
+      },
+      {
+        "name": "rechargeVipState",
+        "pages": [
+          "none",
+          "full"
+        ]
+      },
+      {
+        "name": "ListState",
+        "pages": [
+          "None",
+          "Normal"
+        ]
+      },
+      {
+        "name": "ShowPreview",
+        "pages": [
+          "no",
+          "yes"
+        ]
+      }
+    ],
+    "children": [
+      {
+        "name": "n49",
+        "type": "GButton",
+        "children": [
+          {
+            "name": "n0",
+            "type": "GGraph"
+          }
+        ],
+        "controllers": [
+          {
+            "name": "c1",
+            "pages": [
+              "a60",
+              "a80",
+              "a90",
+              "a100"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "n36",
+        "type": "GImage"
+      },
+      {
+        "name": "n44",
+        "type": "GImage"
+      },
+      {
+        "name": "n45",
+        "type": "GImage"
+      },
+      {
+        "name": "n46",
+        "type": "GImage"
+      },
+      {
+        "name": "n47",
+        "type": "GImage"
+      },
+      {
+        "name": "n48",
+        "type": "GImage"
+      },
+      {
+        "name": "n31",
+        "type": "GImage"
+      },
+      {
+        "name": "n32",
+        "type": "GImage"
+      },
+      {
+        "name": "n33",
+        "type": "GImage"
+      },
+      {
+        "name": "currencyList",
+        "type": "GList",
+        "defaultItem": "ui://ufgirfkmpqp26h4ku",
+        "children": [
+          {
+            "name": "",
+            "type": "GComponent"
+          },
+          {
+            "name": "",
+            "type": "GComponent"
+          },
+          {
+            "name": "",
+            "type": "GComponent"
+          }
+        ],
+        "controllers": [],
+        "template": {
+          "name": "",
+          "type": "GComponent",
+          "children": [
+            {
+              "name": "n10",
+              "type": "GImage"
+            },
+            {
+              "name": "itemicon",
+              "type": "GLoader"
+            },
+            {
+              "name": "itemNums",
+              "type": "GTextField"
+            },
+            {
+              "name": "btn_add",
+              "type": "GButton"
+            }
+          ],
+          "controllers": []
+        }
+      },
+      {
+        "name": "n34",
+        "type": "GImage"
+      },
+      {
+        "name": "n30",
+        "type": "GImage"
+      },
+      {
+        "name": "list_tab",
+        "type": "GList",
+        "defaultItem": "ui://ufgirfkmkijk6h25s",
+        "children": [
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          }
+        ],
+        "controllers": [],
+        "template": {
+          "name": "",
+          "type": "GButton",
+          "children": [
+            {
+              "name": "n4",
+              "type": "GLoader"
+            },
+            {
+              "name": "n11",
+              "type": "GLoader"
+            },
+            {
+              "name": "title",
+              "type": "GTextField"
+            },
+            {
+              "name": "RedDot",
+              "type": "GComponent"
+            }
+          ],
+          "controllers": [
+            {
+              "name": "State",
+              "pages": [
+                "NoSetect",
+                "Select"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "name": "n41",
+        "type": "GImage"
+      },
+      {
+        "name": "n40",
+        "type": "GImage"
+      },
+      {
+        "name": "n38",
+        "type": "GImage"
+      },
+      {
+        "name": "n39",
+        "type": "GImage"
+      },
+      {
+        "name": "close",
+        "type": "GButton",
+        "children": [
+          {
+            "name": "n3",
+            "type": "GImage"
+          },
+          {
+            "name": "n4",
+            "type": "GImage"
+          },
+          {
+            "name": "n5",
+            "type": "GImage"
+          }
+        ],
+        "controllers": [
+          {
+            "name": "button",
+            "pages": [
+              "up",
+              "down",
+              "over",
+              "selectedOver"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "list_shop",
+        "type": "GList",
+        "defaultItem": "ui://ufgirfkmlebv1",
+        "children": [
+          {
+            "name": "",
+            "type": "GComponent"
+          },
+          {
+            "name": "",
+            "type": "GComponent"
+          },
+          {
+            "name": "",
+            "type": "GComponent"
+          },
+          {
+            "name": "",
+            "type": "GComponent"
+          },
+          {
+            "name": "",
+            "type": "GComponent"
+          },
+          {
+            "name": "",
+            "type": "GComponent"
+          },
+          {
+            "name": "",
+            "type": "GComponent"
+          },
+          {
+            "name": "",
+            "type": "GComponent"
+          },
+          {
+            "name": "",
+            "type": "GComponent"
+          },
+          {
+            "name": "",
+            "type": "GComponent"
+          },
+          {
+            "name": "",
+            "type": "GComponent"
+          },
+          {
+            "name": "",
+            "type": "GComponent"
+          },
+          {
+            "name": "",
+            "type": "GComponent"
+          },
+          {
+            "name": "",
+            "type": "GComponent"
+          }
+        ],
+        "controllers": [],
+        "template": {
+          "name": "",
+          "type": "GComponent",
+          "children": [
+            {
+              "name": "n20",
+              "type": "GLoader"
+            },
+            {
+              "name": "icon_type",
+              "type": "GLoader"
+            },
+            {
+              "name": "itemBtn",
+              "type": "GButton"
+            },
+            {
+              "name": "n23",
+              "type": "GImage"
+            },
+            {
+              "name": "n27",
+              "type": "GImage"
+            },
+            {
+              "name": "lb_name",
+              "type": "GTextField"
+            },
+            {
+              "name": "lb_tlimit",
+              "type": "GTextField"
+            },
+            {
+              "name": "lb_limit",
+              "type": "GTextField"
+            },
+            {
+              "name": "lb_tvip",
+              "type": "GTextField"
+            },
+            {
+              "name": "lb_vip",
+              "type": "GTextField"
+            },
+            {
+              "name": "lb_time",
+              "type": "GTextField"
+            },
+            {
+              "name": "lb_shellNum",
+              "type": "GTextField"
+            },
+            {
+              "name": "lb_discount",
+              "type": "GTextField"
+            },
+            {
+              "name": "lb_discount1",
+              "type": "GTextField"
+            },
+            {
+              "name": "lb_soleOut",
+              "type": "GTextField"
+            },
+            {
+              "name": "img_click",
+              "type": "GLoader"
+            },
+            {
+              "name": "lb_des",
+              "type": "GTextField"
+            },
+            {
+              "name": "n28",
+              "type": "GGraph"
+            },
+            {
+              "name": "lb_lock",
+              "type": "GTextField"
+            }
+          ],
+          "controllers": [
+            {
+              "name": "LimitBuy",
+              "pages": [
+                "Limit",
+                "NoLimit"
+              ]
+            },
+            {
+              "name": "VipLimit",
+              "pages": [
+                "NoLimit",
+                "Limit"
+              ]
+            },
+            {
+              "name": "TimeLimit",
+              "pages": [
+                "Limit",
+                "Nolimit"
+              ]
+            },
+            {
+              "name": "State",
+              "pages": [
+                "Enough",
+                "NoEnough"
+              ]
+            },
+            {
+              "name": "BuyState",
+              "pages": [
+                "SoldOut",
+                "Shell",
+                "Des"
+              ]
+            },
+            {
+              "name": "DiscountState",
+              "pages": [
+                "Discount",
+                "NoDiscount"
+              ]
+            },
+            {
+              "name": "select",
+              "pages": [
+                "normal",
+                "selected"
+              ]
+            },
+            {
+              "name": "IsLock",
+              "pages": [
+                "no",
+                "yes"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "name": "lb_ttime",
+        "type": "GTextField"
+      },
+      {
+        "name": "lb_name",
+        "type": "GTextField"
+      },
+      {
+        "name": "lb_go",
+        "type": "GTextField"
+      },
+      {
+        "name": "lb_tvip",
+        "type": "GTextField"
+      },
+      {
+        "name": "bg_levelVip",
+        "type": "GLoader"
+      },
+      {
+        "name": "lb_tlimit",
+        "type": "GTextField"
+      },
+      {
+        "name": "lb_tthavenum",
+        "type": "GTextField"
+      },
+      {
+        "name": "btn_refresh",
+        "type": "GButton",
+        "children": [
+          {
+            "name": "icon",
+            "type": "GLoader"
+          },
+          {
+            "name": "title",
+            "type": "GTextField"
+          },
+          {
+            "name": "lb_num",
+            "type": "GTextField"
+          },
+          {
+            "name": "icon_type",
+            "type": "GLoader"
+          },
+          {
+            "name": "title_free",
+            "type": "GTextField"
+          }
+        ],
+        "controllers": [
+          {
+            "name": "button",
+            "pages": [
+              "up",
+              "down",
+              "over",
+              "selectedOver"
+            ]
+          },
+          {
+            "name": "State",
+            "pages": [
+              "Free",
+              "Normal",
+              "NoEnough",
+              "NormalBuy"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "ld_preview",
+        "type": "GLoader"
+      },
+      {
+        "name": "lb_previewTip1",
+        "type": "GTextField"
+      },
+      {
+        "name": "group_preview",
+        "type": "GGroup"
+      },
+      {
+        "name": "n56",
+        "type": "GImage"
+      },
+      {
+        "name": "showPanel",
+        "type": "GGroup"
+      }
+    ]
+  },
+  {
+    "pkg": "Gather",
+    "name": "Gather_Window",
+    "controllers": [
+      {
+        "name": "Status",
+        "pages": [
+          "Gather",
+          "Eudemon",
+          "Flash",
+          "Skill",
+          "Equip",
+          "Mega",
+          "Area",
+          "All",
+          "Fashion",
+          "Dark"
+        ]
+      },
+      {
+        "name": "color",
+        "pages": [
+          "gen0",
+          "gen1",
+          "gen2",
+          "gen3",
+          "gen4",
+          "gen5",
+          "gen6",
+          "gen7",
+          "gen8",
+          "gen9"
+        ]
+      },
+      {
+        "name": "allSearch",
+        "pages": [
+          "hide",
+          "show"
+        ]
+      },
+      {
+        "name": "FashionState",
+        "pages": [
+          "Look",
+          "Active",
+          "Dress",
+          "DressUp",
+          "None"
+        ]
+      },
+      {
+        "name": "ActiveState",
+        "pages": [
+          "Normal",
+          "None"
+        ]
+      },
+      {
+        "name": "cHaveMega",
+        "pages": [
+          "No",
+          "Yes"
+        ]
+      },
+      {
+        "name": "cShowMega",
+        "pages": [
+          "No",
+          "Yes"
+        ]
+      }
+    ],
+    "children": [
+      {
+        "name": "n87",
+        "type": "GImage"
+      },
+      {
+        "name": "n80",
+        "type": "GLoader"
+      },
+      {
+        "name": "skillMsg",
+        "type": "GComponent",
+        "children": [
+          {
+            "name": "n0",
+            "type": "GImage"
+          },
+          {
+            "name": "text_name",
+            "type": "GTextField"
+          },
+          {
+            "name": "n2",
+            "type": "GImage"
+          },
+          {
+            "name": "n3",
+            "type": "GImage"
+          },
+          {
+            "name": "text_power",
+            "type": "GTextField"
+          },
+          {
+            "name": "text_attr",
+            "type": "GRichTextField"
+          },
+          {
+            "name": "text_pp",
+            "type": "GTextField"
+          },
+          {
+            "name": "text_type",
+            "type": "GTextField"
+          },
+          {
+            "name": "text_hit",
+            "type": "GTextField"
+          },
+          {
+            "name": "lab_desc_val",
+            "type": "GComponent"
+          },
+          {
+            "name": "lb_typeName",
+            "type": "GTextField"
+          },
+          {
+            "name": "img_bg",
+            "type": "GLoader"
+          },
+          {
+            "name": "text_icon",
+            "type": "GTextField"
+          },
+          {
+            "name": "text_power_val",
+            "type": "GTextField"
+          },
+          {
+            "name": "text_hit_val",
+            "type": "GTextField"
+          },
+          {
+            "name": "text_pp_val",
+            "type": "GTextField"
+          },
+          {
+            "name": "type",
+            "type": "GLabel"
+          }
+        ],
+        "controllers": []
+      },
+      {
+        "name": "equipMsg",
+        "type": "GComponent",
+        "children": [
+          {
+            "name": "n0",
+            "type": "GImage"
+          },
+          {
+            "name": "lb_equipName",
+            "type": "GTextField"
+          },
+          {
+            "name": "equit_icon",
+            "type": "GLoader"
+          },
+          {
+            "name": "n4",
+            "type": "GImage"
+          },
+          {
+            "name": "n5",
+            "type": "GImage"
+          },
+          {
+            "name": "list_arrribbute",
+            "type": "GList"
+          },
+          {
+            "name": "lb_desc",
+            "type": "GRichTextField"
+          },
+          {
+            "name": "iteminfo",
+            "type": "GComponent"
+          },
+          {
+            "name": "lb_life",
+            "type": "GTextField"
+          },
+          {
+            "name": "lb_attack",
+            "type": "GTextField"
+          },
+          {
+            "name": "lb_Defense",
+            "type": "GTextField"
+          },
+          {
+            "name": "lb_SpecialAttack",
+            "type": "GTextField"
+          },
+          {
+            "name": "lb_SpecialDefence",
+            "type": "GTextField"
+          },
+          {
+            "name": "lb_speed",
+            "type": "GTextField"
+          },
+          {
+            "name": "lb_life_val",
+            "type": "GTextField"
+          },
+          {
+            "name": "lb_attack_val",
+            "type": "GTextField"
+          },
+          {
+            "name": "lb_Defense_val",
+            "type": "GTextField"
+          },
+          {
+            "name": "lb_SpecialAttack_val",
+            "type": "GTextField"
+          },
+          {
+            "name": "lb_SpecialDefence_val",
+            "type": "GTextField"
+          },
+          {
+            "name": "lb_speed_val",
+            "type": "GTextField"
+          }
+        ],
+        "controllers": []
+      },
+      {
+        "name": "eudemonMessage",
+        "type": "GComponent",
+        "children": [
+          {
+            "name": "n1",
+            "type": "GImage"
+          },
+          {
+            "name": "n0",
+            "type": "GImage"
+          },
+          {
+            "name": "text_name",
+            "type": "GTextField"
+          },
+          {
+            "name": "type1",
+            "type": "GComponent"
+          },
+          {
+            "name": "type2",
+            "type": "GComponent"
+          },
+          {
+            "name": "sp_eudemonIcon",
+            "type": "GLoader"
+          },
+          {
+            "name": "n7",
+            "type": "GImage"
+          },
+          {
+            "name": "n8",
+            "type": "GImage"
+          },
+          {
+            "name": "lab_num",
+            "type": "GTextField"
+          },
+          {
+            "name": "lab_capture_pro",
+            "type": "GTextField"
+          },
+          {
+            "name": "lab_height",
+            "type": "GTextField"
+          },
+          {
+            "name": "lab_weight",
+            "type": "GTextField"
+          },
+          {
+            "name": "lab_ability",
+            "type": "GTextField"
+          },
+          {
+            "name": "lab_num_val",
+            "type": "GTextField"
+          },
+          {
+            "name": "lab_height_val",
+            "type": "GTextField"
+          },
+          {
+            "name": "lab_weight_val",
+            "type": "GTextField"
+          },
+          {
+            "name": "lab_capture_pro_val",
+            "type": "GTextField"
+          },
+          {
+            "name": "list_abillity",
+            "type": "GList"
+          },
+          {
+            "name": "list_type",
+            "type": "GList"
+          },
+          {
+            "name": "n22",
+            "type": "GImage"
+          },
+          {
+            "name": "modelBtn",
+            "type": "GButton"
+          },
+          {
+            "name": "flash",
+            "type": "GComponent"
+          },
+          {
+            "name": "eudemonMsg",
+            "type": "GButton"
+          }
+        ],
+        "controllers": [
+          {
+            "name": "isFlash",
+            "pages": [
+              "no",
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "list_type",
+        "type": "GList",
+        "defaultItem": "ui://s5derk3tlewj6h2dz",
+        "children": [
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          }
+        ],
+        "controllers": [],
+        "template": {
+          "name": "",
+          "type": "GButton",
+          "children": [
+            {
+              "name": "icon",
+              "type": "GLoader"
+            },
+            {
+              "name": "RedDot",
+              "type": "GImage"
+            },
+            {
+              "name": "title",
+              "type": "GTextField"
+            },
+            {
+              "name": "n15",
+              "type": "GImage"
+            },
+            {
+              "name": "bar_collect",
+              "type": "GImage"
+            },
+            {
+              "name": "text_collectValue",
+              "type": "GTextField"
+            }
+          ],
+          "controllers": [
+            {
+              "name": "button",
+              "pages": [
+                "up",
+                "down",
+                "over",
+                "selectedOver"
+              ]
+            },
+            {
+              "name": "type",
+              "pages": [
+                "eudemon",
+                "flash",
+                "skill",
+                "equip",
+                "mega",
+                "area",
+                "fashion",
+                "dark"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "name": "list_eudemon",
+        "type": "GList",
+        "defaultItem": "ui://s5derk3ttr0w6h4h3",
+        "children": [],
+        "controllers": [],
+        "template": {
+          "name": "",
+          "type": "GButton",
+          "children": [
+            {
+              "name": "sp_exist",
+              "type": "GLoader"
+            },
+            {
+              "name": "bg_icon",
+              "type": "GLoader"
+            },
+            {
+              "name": "item_quality",
+              "type": "GComponent"
+            },
+            {
+              "name": "n6",
+              "type": "GImage"
+            },
+            {
+              "name": "text_value",
+              "type": "GTextField"
+            },
+            {
+              "name": "text_name",
+              "type": "GTextField"
+            },
+            {
+              "name": "iconCom",
+              "type": "GComponent"
+            },
+            {
+              "name": "type1",
+              "type": "GComponent"
+            },
+            {
+              "name": "type2",
+              "type": "GComponent"
+            },
+            {
+              "name": "select",
+              "type": "GImage"
+            },
+            {
+              "name": "select2",
+              "type": "GImage"
+            },
+            {
+              "name": "RedDot",
+              "type": "GImage"
+            },
+            {
+              "name": "list_fashion",
+              "type": "GList"
+            },
+            {
+              "name": "ic_qualityName",
+              "type": "GLoader"
+            },
+            {
+              "name": "ic_eudFashon",
+              "type": "GLoader"
+            }
+          ],
+          "controllers": [
+            {
+              "name": "button",
+              "pages": [
+                "up",
+                "down",
+                "over",
+                "selectedOver"
+              ]
+            },
+            {
+              "name": "bgStatus",
+              "pages": [
+                "pz0",
+                "pz1",
+                "pz2",
+                "pz3",
+                "pz4",
+                "pz5",
+                "pz6"
+              ]
+            },
+            {
+              "name": "flash",
+              "pages": [
+                "no",
+                "yes"
+              ]
+            },
+            {
+              "name": "isSelect",
+              "pages": [
+                "no",
+                "yes"
+              ]
+            },
+            {
+              "name": "isSelectFlash",
+              "pages": [
+                "no",
+                "yes"
+              ]
+            },
+            {
+              "name": "IsShowFashion",
+              "pages": [
+                "no",
+                "yes"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "name": "list_dark",
+        "type": "GList",
+        "defaultItem": "ui://s5derk3ttr0w6h4h3",
+        "children": [],
+        "controllers": [],
+        "template": {
+          "name": "",
+          "type": "GButton",
+          "children": [
+            {
+              "name": "sp_exist",
+              "type": "GLoader"
+            },
+            {
+              "name": "bg_icon",
+              "type": "GLoader"
+            },
+            {
+              "name": "item_quality",
+              "type": "GComponent"
+            },
+            {
+              "name": "n6",
+              "type": "GImage"
+            },
+            {
+              "name": "text_value",
+              "type": "GTextField"
+            },
+            {
+              "name": "text_name",
+              "type": "GTextField"
+            },
+            {
+              "name": "iconCom",
+              "type": "GComponent"
+            },
+            {
+              "name": "type1",
+              "type": "GComponent"
+            },
+            {
+              "name": "type2",
+              "type": "GComponent"
+            },
+            {
+              "name": "select",
+              "type": "GImage"
+            },
+            {
+              "name": "select2",
+              "type": "GImage"
+            },
+            {
+              "name": "RedDot",
+              "type": "GImage"
+            },
+            {
+              "name": "list_fashion",
+              "type": "GList"
+            },
+            {
+              "name": "ic_qualityName",
+              "type": "GLoader"
+            },
+            {
+              "name": "ic_eudFashon",
+              "type": "GLoader"
+            }
+          ],
+          "controllers": [
+            {
+              "name": "button",
+              "pages": [
+                "up",
+                "down",
+                "over",
+                "selectedOver"
+              ]
+            },
+            {
+              "name": "bgStatus",
+              "pages": [
+                "pz0",
+                "pz1",
+                "pz2",
+                "pz3",
+                "pz4",
+                "pz5",
+                "pz6"
+              ]
+            },
+            {
+              "name": "flash",
+              "pages": [
+                "no",
+                "yes"
+              ]
+            },
+            {
+              "name": "isSelect",
+              "pages": [
+                "no",
+                "yes"
+              ]
+            },
+            {
+              "name": "isSelectFlash",
+              "pages": [
+                "no",
+                "yes"
+              ]
+            },
+            {
+              "name": "IsShowFashion",
+              "pages": [
+                "no",
+                "yes"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "name": "list_flash",
+        "type": "GList",
+        "defaultItem": "ui://s5derk3ttr0w6h4h3",
+        "children": [],
+        "controllers": [],
+        "template": {
+          "name": "",
+          "type": "GButton",
+          "children": [
+            {
+              "name": "sp_exist",
+              "type": "GLoader"
+            },
+            {
+              "name": "bg_icon",
+              "type": "GLoader"
+            },
+            {
+              "name": "item_quality",
+              "type": "GComponent"
+            },
+            {
+              "name": "n6",
+              "type": "GImage"
+            },
+            {
+              "name": "text_value",
+              "type": "GTextField"
+            },
+            {
+              "name": "text_name",
+              "type": "GTextField"
+            },
+            {
+              "name": "iconCom",
+              "type": "GComponent"
+            },
+            {
+              "name": "type1",
+              "type": "GComponent"
+            },
+            {
+              "name": "type2",
+              "type": "GComponent"
+            },
+            {
+              "name": "select",
+              "type": "GImage"
+            },
+            {
+              "name": "select2",
+              "type": "GImage"
+            },
+            {
+              "name": "RedDot",
+              "type": "GImage"
+            },
+            {
+              "name": "list_fashion",
+              "type": "GList"
+            },
+            {
+              "name": "ic_qualityName",
+              "type": "GLoader"
+            },
+            {
+              "name": "ic_eudFashon",
+              "type": "GLoader"
+            }
+          ],
+          "controllers": [
+            {
+              "name": "button",
+              "pages": [
+                "up",
+                "down",
+                "over",
+                "selectedOver"
+              ]
+            },
+            {
+              "name": "bgStatus",
+              "pages": [
+                "pz0",
+                "pz1",
+                "pz2",
+                "pz3",
+                "pz4",
+                "pz5",
+                "pz6"
+              ]
+            },
+            {
+              "name": "flash",
+              "pages": [
+                "no",
+                "yes"
+              ]
+            },
+            {
+              "name": "isSelect",
+              "pages": [
+                "no",
+                "yes"
+              ]
+            },
+            {
+              "name": "isSelectFlash",
+              "pages": [
+                "no",
+                "yes"
+              ]
+            },
+            {
+              "name": "IsShowFashion",
+              "pages": [
+                "no",
+                "yes"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "name": "list_mega",
+        "type": "GList",
+        "defaultItem": "ui://s5derk3ttr0w6h4h3",
+        "children": [],
+        "controllers": [],
+        "template": {
+          "name": "",
+          "type": "GButton",
+          "children": [
+            {
+              "name": "sp_exist",
+              "type": "GLoader"
+            },
+            {
+              "name": "bg_icon",
+              "type": "GLoader"
+            },
+            {
+              "name": "item_quality",
+              "type": "GComponent"
+            },
+            {
+              "name": "n6",
+              "type": "GImage"
+            },
+            {
+              "name": "text_value",
+              "type": "GTextField"
+            },
+            {
+              "name": "text_name",
+              "type": "GTextField"
+            },
+            {
+              "name": "iconCom",
+              "type": "GComponent"
+            },
+            {
+              "name": "type1",
+              "type": "GComponent"
+            },
+            {
+              "name": "type2",
+              "type": "GComponent"
+            },
+            {
+              "name": "select",
+              "type": "GImage"
+            },
+            {
+              "name": "select2",
+              "type": "GImage"
+            },
+            {
+              "name": "RedDot",
+              "type": "GImage"
+            },
+            {
+              "name": "list_fashion",
+              "type": "GList"
+            },
+            {
+              "name": "ic_qualityName",
+              "type": "GLoader"
+            },
+            {
+              "name": "ic_eudFashon",
+              "type": "GLoader"
+            }
+          ],
+          "controllers": [
+            {
+              "name": "button",
+              "pages": [
+                "up",
+                "down",
+                "over",
+                "selectedOver"
+              ]
+            },
+            {
+              "name": "bgStatus",
+              "pages": [
+                "pz0",
+                "pz1",
+                "pz2",
+                "pz3",
+                "pz4",
+                "pz5",
+                "pz6"
+              ]
+            },
+            {
+              "name": "flash",
+              "pages": [
+                "no",
+                "yes"
+              ]
+            },
+            {
+              "name": "isSelect",
+              "pages": [
+                "no",
+                "yes"
+              ]
+            },
+            {
+              "name": "isSelectFlash",
+              "pages": [
+                "no",
+                "yes"
+              ]
+            },
+            {
+              "name": "IsShowFashion",
+              "pages": [
+                "no",
+                "yes"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "name": "list_area",
+        "type": "GList",
+        "defaultItem": "ui://s5derk3ttr0w6h4h3",
+        "children": [],
+        "controllers": [],
+        "template": {
+          "name": "",
+          "type": "GButton",
+          "children": [
+            {
+              "name": "sp_exist",
+              "type": "GLoader"
+            },
+            {
+              "name": "bg_icon",
+              "type": "GLoader"
+            },
+            {
+              "name": "item_quality",
+              "type": "GComponent"
+            },
+            {
+              "name": "n6",
+              "type": "GImage"
+            },
+            {
+              "name": "text_value",
+              "type": "GTextField"
+            },
+            {
+              "name": "text_name",
+              "type": "GTextField"
+            },
+            {
+              "name": "iconCom",
+              "type": "GComponent"
+            },
+            {
+              "name": "type1",
+              "type": "GComponent"
+            },
+            {
+              "name": "type2",
+              "type": "GComponent"
+            },
+            {
+              "name": "select",
+              "type": "GImage"
+            },
+            {
+              "name": "select2",
+              "type": "GImage"
+            },
+            {
+              "name": "RedDot",
+              "type": "GImage"
+            },
+            {
+              "name": "list_fashion",
+              "type": "GList"
+            },
+            {
+              "name": "ic_qualityName",
+              "type": "GLoader"
+            },
+            {
+              "name": "ic_eudFashon",
+              "type": "GLoader"
+            }
+          ],
+          "controllers": [
+            {
+              "name": "button",
+              "pages": [
+                "up",
+                "down",
+                "over",
+                "selectedOver"
+              ]
+            },
+            {
+              "name": "bgStatus",
+              "pages": [
+                "pz0",
+                "pz1",
+                "pz2",
+                "pz3",
+                "pz4",
+                "pz5",
+                "pz6"
+              ]
+            },
+            {
+              "name": "flash",
+              "pages": [
+                "no",
+                "yes"
+              ]
+            },
+            {
+              "name": "isSelect",
+              "pages": [
+                "no",
+                "yes"
+              ]
+            },
+            {
+              "name": "isSelectFlash",
+              "pages": [
+                "no",
+                "yes"
+              ]
+            },
+            {
+              "name": "IsShowFashion",
+              "pages": [
+                "no",
+                "yes"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "name": "list_skill",
+        "type": "GList",
+        "defaultItem": "ui://s5derk3tep0h6h4h9",
+        "children": [
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          }
+        ],
+        "controllers": [],
+        "template": {
+          "name": "",
+          "type": "GButton",
+          "children": [
+            {
+              "name": "bg_icon",
+              "type": "GLoader"
+            },
+            {
+              "name": "n3",
+              "type": "GImage"
+            },
+            {
+              "name": "text_name",
+              "type": "GTextField"
+            },
+            {
+              "name": "skill_icon",
+              "type": "GLoader"
+            },
+            {
+              "name": "RedDot",
+              "type": "GImage"
+            }
+          ],
+          "controllers": [
+            {
+              "name": "button",
+              "pages": [
+                "up",
+                "down",
+                "over",
+                "selectedOver"
+              ]
+            },
+            {
+              "name": "bgStatus",
+              "pages": [
+                "pz0",
+                "pz1",
+                "pz2",
+                "pz3",
+                "pz4",
+                "pz5"
+              ]
+            },
+            {
+              "name": "isSelect",
+              "pages": [
+                "no",
+                "yes"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "name": "list_equip",
+        "type": "GList",
+        "defaultItem": "ui://s5derk3tep0h6h4hb",
+        "children": [],
+        "controllers": [],
+        "template": {
+          "name": "",
+          "type": "GButton",
+          "children": [
+            {
+              "name": "bg_icon",
+              "type": "GLoader"
+            },
+            {
+              "name": "n3",
+              "type": "GImage"
+            },
+            {
+              "name": "text_name",
+              "type": "GTextField"
+            },
+            {
+              "name": "equit_icon",
+              "type": "GLoader"
+            },
+            {
+              "name": "RedDot",
+              "type": "GImage"
+            }
+          ],
+          "controllers": [
+            {
+              "name": "button",
+              "pages": [
+                "up",
+                "down",
+                "over",
+                "selectedOver"
+              ]
+            },
+            {
+              "name": "bgStatus",
+              "pages": [
+                "pz0",
+                "pz1",
+                "pz2",
+                "pz3",
+                "pz4",
+                "pz5",
+                "pz6"
+              ]
+            },
+            {
+              "name": "isSelect",
+              "pages": [
+                "no",
+                "yes"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "name": "list_all",
+        "type": "GList",
+        "defaultItem": "ui://s5derk3ttr0w6h4h3",
+        "children": [
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          },
+          {
+            "name": "",
+            "type": "GButton"
+          }
+        ],
+        "controllers": [],
+        "template": {
+          "name": "",
+          "type": "GButton",
+          "children": [
+            {
+              "name": "sp_exist",
+              "type": "GLoader"
+            },
+            {
+              "name": "bg_icon",
+              "type": "GLoader"
+            },
+            {
+              "name": "item_quality",
+              "type": "GComponent"
+            },
+            {
+              "name": "n6",
+              "type": "GImage"
+            },
+            {
+              "name": "text_value",
+              "type": "GTextField"
+            },
+            {
+              "name": "text_name",
+              "type": "GTextField"
+            },
+            {
+              "name": "iconCom",
+              "type": "GComponent"
+            },
+            {
+              "name": "type1",
+              "type": "GComponent"
+            },
+            {
+              "name": "type2",
+              "type": "GComponent"
+            },
+            {
+              "name": "select",
+              "type": "GImage"
+            },
+            {
+              "name": "select2",
+              "type": "GImage"
+            },
+            {
+              "name": "RedDot",
+              "type": "GImage"
+            },
+            {
+              "name": "list_fashion",
+              "type": "GList"
+            },
+            {
+              "name": "ic_qualityName",
+              "type": "GLoader"
+            },
+            {
+              "name": "ic_eudFashon",
+              "type": "GLoader"
+            }
+          ],
+          "controllers": [
+            {
+              "name": "button",
+              "pages": [
+                "up",
+                "down",
+                "over",
+                "selectedOver"
+              ]
+            },
+            {
+              "name": "bgStatus",
+              "pages": [
+                "pz0",
+                "pz1",
+                "pz2",
+                "pz3",
+                "pz4",
+                "pz5",
+                "pz6"
+              ]
+            },
+            {
+              "name": "flash",
+              "pages": [
+                "no",
+                "yes"
+              ]
+            },
+            {
+              "name": "isSelect",
+              "pages": [
+                "no",
+                "yes"
+              ]
+            },
+            {
+              "name": "isSelectFlash",
+              "pages": [
+                "no",
+                "yes"
+              ]
+            },
+            {
+              "name": "IsShowFashion",
+              "pages": [
+                "no",
+                "yes"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "name": "lb_gen",
+        "type": "GTextField"
+      },
+      {
+        "name": "Close",
+        "type": "GButton",
+        "children": [
+          {
+            "name": "icon",
+            "type": "GLoader"
+          },
+          {
+            "name": "title",
+            "type": "GTextField"
+          },
+          {
+            "name": "n3",
+            "type": "GImage"
+          }
+        ],
+        "controllers": [
+          {
+            "name": "button",
+            "pages": [
+              "up",
+              "down",
+              "over",
+              "selectedOver"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "btn_explain",
+        "type": "GButton",
+        "children": [
+          {
+            "name": "icon",
+            "type": "GLoader"
+          },
+          {
+            "name": "title",
+            "type": "GRichTextField"
+          },
+          {
+            "name": "RedDot",
+            "type": "GComponent"
+          }
+        ],
+        "controllers": [
+          {
+            "name": "button",
+            "pages": [
+              "up",
+              "down",
+              "over",
+              "selectedOver"
+            ]
+          },
+          {
+            "name": "front",
+            "pages": [
+              "orange",
+              "blue",
+              "blue2",
+              "green",
+              "gold",
+              "orange2",
+              "greay",
+              "black",
+              "purple",
+              "red",
+              "white"
+            ]
+          },
+          {
+            "name": "LabPos",
+            "pages": [
+              "Middle",
+              "Bottom"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "lb_gatherdesc",
+        "type": "GTextField"
+      },
+      {
+        "name": "list_allSearch",
+        "type": "GList",
+        "defaultItem": "ui://s5derk3ttr0w6h4h3",
+        "children": [],
+        "controllers": [],
+        "template": {
+          "name": "",
+          "type": "GButton",
+          "children": [
+            {
+              "name": "sp_exist",
+              "type": "GLoader"
+            },
+            {
+              "name": "bg_icon",
+              "type": "GLoader"
+            },
+            {
+              "name": "item_quality",
+              "type": "GComponent"
+            },
+            {
+              "name": "n6",
+              "type": "GImage"
+            },
+            {
+              "name": "text_value",
+              "type": "GTextField"
+            },
+            {
+              "name": "text_name",
+              "type": "GTextField"
+            },
+            {
+              "name": "iconCom",
+              "type": "GComponent"
+            },
+            {
+              "name": "type1",
+              "type": "GComponent"
+            },
+            {
+              "name": "type2",
+              "type": "GComponent"
+            },
+            {
+              "name": "select",
+              "type": "GImage"
+            },
+            {
+              "name": "select2",
+              "type": "GImage"
+            },
+            {
+              "name": "RedDot",
+              "type": "GImage"
+            },
+            {
+              "name": "list_fashion",
+              "type": "GList"
+            },
+            {
+              "name": "ic_qualityName",
+              "type": "GLoader"
+            },
+            {
+              "name": "ic_eudFashon",
+              "type": "GLoader"
+            }
+          ],
+          "controllers": [
+            {
+              "name": "button",
+              "pages": [
+                "up",
+                "down",
+                "over",
+                "selectedOver"
+              ]
+            },
+            {
+              "name": "bgStatus",
+              "pages": [
+                "pz0",
+                "pz1",
+                "pz2",
+                "pz3",
+                "pz4",
+                "pz5",
+                "pz6"
+              ]
+            },
+            {
+              "name": "flash",
+              "pages": [
+                "no",
+                "yes"
+              ]
+            },
+            {
+              "name": "isSelect",
+              "pages": [
+                "no",
+                "yes"
+              ]
+            },
+            {
+              "name": "isSelectFlash",
+              "pages": [
+                "no",
+                "yes"
+              ]
+            },
+            {
+              "name": "IsShowFashion",
+              "pages": [
+                "no",
+                "yes"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "name": "btn_backSearch",
+        "type": "GButton",
+        "children": [
+          {
+            "name": "icon",
+            "type": "GImage"
+          },
+          {
+            "name": "sp_title",
+            "type": "GTextField"
+          }
+        ],
+        "controllers": [
+          {
+            "name": "button",
+            "pages": [
+              "up",
+              "down",
+              "over",
+              "selectedOver"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "allSearchCom",
+        "type": "GGroup"
+      },
+      {
+        "name": "n95",
+        "type": "GImage"
+      },
+      {
+        "name": "list_fashion",
+        "type": "GList",
+        "defaultItem": "ui://s5derk3ttr0w6h4h3",
+        "children": [],
+        "controllers": [],
+        "template": {
+          "name": "",
+          "type": "GButton",
+          "children": [
+            {
+              "name": "sp_exist",
+              "type": "GLoader"
+            },
+            {
+              "name": "bg_icon",
+              "type": "GLoader"
+            },
+            {
+              "name": "item_quality",
+              "type": "GComponent"
+            },
+            {
+              "name": "n6",
+              "type": "GImage"
+            },
+            {
+              "name": "text_value",
+              "type": "GTextField"
+            },
+            {
+              "name": "text_name",
+              "type": "GTextField"
+            },
+            {
+              "name": "iconCom",
+              "type": "GComponent"
+            },
+            {
+              "name": "type1",
+              "type": "GComponent"
+            },
+            {
+              "name": "type2",
+              "type": "GComponent"
+            },
+            {
+              "name": "select",
+              "type": "GImage"
+            },
+            {
+              "name": "select2",
+              "type": "GImage"
+            },
+            {
+              "name": "RedDot",
+              "type": "GImage"
+            },
+            {
+              "name": "list_fashion",
+              "type": "GList"
+            },
+            {
+              "name": "ic_qualityName",
+              "type": "GLoader"
+            },
+            {
+              "name": "ic_eudFashon",
+              "type": "GLoader"
+            }
+          ],
+          "controllers": [
+            {
+              "name": "button",
+              "pages": [
+                "up",
+                "down",
+                "over",
+                "selectedOver"
+              ]
+            },
+            {
+              "name": "bgStatus",
+              "pages": [
+                "pz0",
+                "pz1",
+                "pz2",
+                "pz3",
+                "pz4",
+                "pz5",
+                "pz6"
+              ]
+            },
+            {
+              "name": "flash",
+              "pages": [
+                "no",
+                "yes"
+              ]
+            },
+            {
+              "name": "isSelect",
+              "pages": [
+                "no",
+                "yes"
+              ]
+            },
+            {
+              "name": "isSelectFlash",
+              "pages": [
+                "no",
+                "yes"
+              ]
+            },
+            {
+              "name": "IsShowFashion",
+              "pages": [
+                "no",
+                "yes"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "name": "bar_collect",
+        "type": "GProgressBar",
+        "children": [
+          {
+            "name": "bg",
+            "type": "GImage"
+          },
+          {
+            "name": "bar",
+            "type": "GImage"
+          },
+          {
+            "name": "title",
+            "type": "GTextField"
+          }
+        ],
+        "controllers": [
+          {
+            "name": "HPState",
+            "pages": [
+              "Normal",
+              "LowHp",
+              "WillDie"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "text_collectBar",
+        "type": "GTextField"
+      },
+      {
+        "name": "list_box",
+        "type": "GList",
+        "defaultItem": "ui://s5derk3tlewjb",
+        "children": [],
+        "controllers": [],
+        "template": {
+          "name": "",
+          "type": "GButton",
+          "children": [
+            {
+              "name": "icon_box",
+              "type": "GLoader"
+            },
+            {
+              "name": "lb_num",
+              "type": "GTextField"
+            },
+            {
+              "name": "effect",
+              "type": "GGraph"
+            }
+          ],
+          "controllers": [
+            {
+              "name": "State",
+              "pages": [
+                "Normal",
+                "Receive",
+                "Received"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "name": "text_collectBarNum",
+        "type": "GTextField"
+      },
+      {
+        "name": "group_collect",
+        "type": "GGroup"
+      },
+      {
+        "name": "bar_collect_fashion",
+        "type": "GProgressBar",
+        "children": [
+          {
+            "name": "bg",
+            "type": "GImage"
+          },
+          {
+            "name": "bar",
+            "type": "GImage"
+          },
+          {
+            "name": "title",
+            "type": "GTextField"
+          }
+        ],
+        "controllers": [
+          {
+            "name": "HPState",
+            "pages": [
+              "Normal",
+              "LowHp",
+              "WillDie"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "text_collectBar_fashion",
+        "type": "GTextField"
+      },
+      {
+        "name": "list_box_fashion",
+        "type": "GList",
+        "defaultItem": "ui://s5derk3tlewjb",
+        "children": [],
+        "controllers": [],
+        "template": {
+          "name": "",
+          "type": "GButton",
+          "children": [
+            {
+              "name": "icon_box",
+              "type": "GLoader"
+            },
+            {
+              "name": "lb_num",
+              "type": "GTextField"
+            },
+            {
+              "name": "effect",
+              "type": "GGraph"
+            }
+          ],
+          "controllers": [
+            {
+              "name": "State",
+              "pages": [
+                "Normal",
+                "Receive",
+                "Received"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "name": "text_collectBarNum_fashion",
+        "type": "GTextField"
+      },
+      {
+        "name": "group_collect_fashion",
+        "type": "GGroup"
+      },
+      {
+        "name": "n86",
+        "type": "GImage"
+      },
+      {
+        "name": "icon_gather",
+        "type": "GImage"
+      },
+      {
+        "name": "lb_gather",
+        "type": "GTextField"
+      },
+      {
+        "name": "icon_pro",
+        "type": "GLoader"
+      },
+      {
+        "name": "bar_total",
+        "type": "GProgressBar",
+        "children": [
+          {
+            "name": "bg",
+            "type": "GImage"
+          },
+          {
+            "name": "bar",
+            "type": "GImage"
+          },
+          {
+            "name": "title",
+            "type": "GTextField"
+          }
+        ],
+        "controllers": [
+          {
+            "name": "HPState",
+            "pages": [
+              "Normal",
+              "LowHp",
+              "WillDie"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "total_collectBar",
+        "type": "GTextField"
+      },
+      {
+        "name": "btn_explainCollect",
+        "type": "GButton",
+        "children": [
+          {
+            "name": "icon",
+            "type": "GLoader"
+          },
+          {
+            "name": "RedDot",
+            "type": "GComponent"
+          }
+        ],
+        "controllers": [
+          {
+            "name": "button",
+            "pages": [
+              "up",
+              "down",
+              "over",
+              "selectedOver"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "target_collect",
+        "type": "GTextField"
+      },
+      {
+        "name": "n85",
+        "type": "GGroup"
+      },
+      {
+        "name": "list_gather",
+        "type": "GList",
+        "defaultItem": "ui://s5derk3ttr0w6h4h4",
+        "children": [],
+        "controllers": [],
+        "template": {
+          "name": "",
+          "type": "GButton",
+          "children": [
+            {
+              "name": "bg",
+              "type": "GLoader"
+            },
+            {
+              "name": "lb_title",
+              "type": "GTextField"
+            },
+            {
+              "name": "RedDot",
+              "type": "GImage"
+            }
+          ],
+          "controllers": [
+            {
+              "name": "button",
+              "pages": [
+                "up",
+                "down",
+                "over",
+                "selectedOver"
+              ]
+            },
+            {
+              "name": "isSelcected",
+              "pages": [
+                "no",
+                "yes"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "name": "n89",
+        "type": "GImage"
+      },
+      {
+        "name": "btn_exist",
+        "type": "GButton",
+        "children": [
+          {
+            "name": "loader",
+            "type": "GLoader"
+          },
+          {
+            "name": "title",
+            "type": "GTextField"
+          },
+          {
+            "name": "n2",
+            "type": "GImage"
+          }
+        ],
+        "controllers": [
+          {
+            "name": "Status",
+            "pages": [
+              "no",
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "search",
+        "type": "GComponent",
+        "children": [
+          {
+            "name": "n3",
+            "type": "GImage"
+          },
+          {
+            "name": "input_search",
+            "type": "GTextInput"
+          },
+          {
+            "name": "btn_find",
+            "type": "GButton"
+          }
+        ],
+        "controllers": []
+      },
+      {
+        "name": "n88",
+        "type": "GGroup"
+      },
+      {
+        "name": "btn_back",
+        "type": "GButton",
+        "children": [
+          {
+            "name": "bg",
+            "type": "GLoader"
+          },
+          {
+            "name": "title",
+            "type": "GTextField"
+          }
+        ],
+        "controllers": [
+          {
+            "name": "button",
+            "pages": [
+              "up",
+              "down",
+              "over",
+              "selectedOver"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "model_fashion",
+        "type": "GButton",
+        "children": [
+          {
+            "name": "img_mask",
+            "type": "GGraph"
+          },
+          {
+            "name": "model",
+            "type": "GGraph"
+          },
+          {
+            "name": "render_texure",
+            "type": "GLoader"
+          },
+          {
+            "name": "wwwwww",
+            "type": "GTextField"
+          }
+        ],
+        "controllers": []
+      },
+      {
+        "name": "lb_faName",
+        "type": "GTextField"
+      },
+      {
+        "name": "ic_qualityName",
+        "type": "GLoader"
+      },
+      {
+        "name": "n120",
+        "type": "GImage"
+      },
+      {
+        "name": "list_fashion2",
+        "type": "GList",
+        "defaultItem": "ui://s5derk3tm9oy6h4hw",
+        "children": [
+          {
+            "name": "",
+            "type": "GComponent"
+          },
+          {
+            "name": "",
+            "type": "GComponent"
+          },
+          {
+            "name": "",
+            "type": "GComponent"
+          },
+          {
+            "name": "",
+            "type": "GComponent"
+          },
+          {
+            "name": "",
+            "type": "GComponent"
+          }
+        ],
+        "controllers": [],
+        "template": {
+          "name": "",
+          "type": "GComponent",
+          "children": [
+            {
+              "name": "icon_frame",
+              "type": "GLoader"
+            },
+            {
+              "name": "icon_fashion",
+              "type": "GLoader"
+            },
+            {
+              "name": "lb_name",
+              "type": "GTextField"
+            },
+            {
+              "name": "n2",
+              "type": "GImage"
+            },
+            {
+              "name": "n5",
+              "type": "GImage"
+            },
+            {
+              "name": "n6",
+              "type": "GImage"
+            },
+            {
+              "name": "n7",
+              "type": "GImage"
+            },
+            {
+              "name": "RedDot",
+              "type": "GImage"
+            }
+          ],
+          "controllers": [
+            {
+              "name": "State",
+              "pages": [
+                "Normal",
+                "Select"
+              ]
+            },
+            {
+              "name": "HaveState",
+              "pages": [
+                "None",
+                "Have"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "name": "lb_get",
+        "type": "GRichTextField"
+      },
+      {
+        "name": "btn_active",
+        "type": "GButton",
+        "children": [
+          {
+            "name": "icon",
+            "type": "GLoader"
+          },
+          {
+            "name": "title",
+            "type": "GRichTextField"
+          },
+          {
+            "name": "RedDot",
+            "type": "GComponent"
+          }
+        ],
+        "controllers": [
+          {
+            "name": "button",
+            "pages": [
+              "up",
+              "down",
+              "over",
+              "selectedOver"
+            ]
+          },
+          {
+            "name": "front",
+            "pages": [
+              "orange",
+              "blue",
+              "blue2",
+              "green",
+              "gold",
+              "orange2",
+              "greay",
+              "black",
+              "purple",
+              "red",
+              "white"
+            ]
+          },
+          {
+            "name": "LabPos",
+            "pages": [
+              "Middle",
+              "Bottom"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "icon_active",
+        "type": "GLoader"
+      },
+      {
+        "name": "icon_click",
+        "type": "GLoader"
+      },
+      {
+        "name": "lb_mega",
+        "type": "GTextField"
+      },
+      {
+        "name": "btn_mega",
+        "type": "GButton",
+        "children": [
+          {
+            "name": "n36",
+            "type": "GImage"
+          },
+          {
+            "name": "img_quality",
+            "type": "GLoader"
+          },
+          {
+            "name": "img_icon",
+            "type": "GLoader"
+          },
+          {
+            "name": "n28",
+            "type": "GImage"
+          },
+          {
+            "name": "img_flash",
+            "type": "GLoader"
+          },
+          {
+            "name": "n12",
+            "type": "GImage"
+          },
+          {
+            "name": "n20",
+            "type": "GImage"
+          },
+          {
+            "name": "n21",
+            "type": "GImage"
+          },
+          {
+            "name": "star",
+            "type": "GLabel"
+          },
+          {
+            "name": "lab_num",
+            "type": "GTextField"
+          },
+          {
+            "name": "lab_lv",
+            "type": "GTextField"
+          },
+          {
+            "name": "lab_name",
+            "type": "GTextField"
+          },
+          {
+            "name": "n24",
+            "type": "GImage"
+          },
+          {
+            "name": "RedDot",
+            "type": "GComponent"
+          },
+          {
+            "name": "flashItem",
+            "type": "GComponent"
+          },
+          {
+            "name": "lab_desc",
+            "type": "GTextField"
+          },
+          {
+            "name": "n33",
+            "type": "GImage"
+          },
+          {
+            "name": "lab_floor",
+            "type": "GTextField"
+          },
+          {
+            "name": "n37",
+            "type": "GImage"
+          },
+          {
+            "name": "lb_rare",
+            "type": "GTextField"
+          },
+          {
+            "name": "img_recive",
+            "type": "GLoader"
+          },
+          {
+            "name": "n41",
+            "type": "GImage"
+          },
+          {
+            "name": "lb_activity",
+            "type": "GTextField"
+          },
+          {
+            "name": "n45",
+            "type": "GImage"
+          },
+          {
+            "name": "effect",
+            "type": "GGraph"
+          },
+          {
+            "name": "n47",
+            "type": "GImage"
+          },
+          {
+            "name": "probability",
+            "type": "GTextField"
+          }
+        ],
+        "controllers": [
+          {
+            "name": "button",
+            "pages": [
+              "up",
+              "down",
+              "over",
+              "selectedOver"
+            ]
+          },
+          {
+            "name": "style",
+            "pages": [
+              "Normal",
+              "Light"
+            ]
+          },
+          {
+            "name": "State",
+            "pages": [
+              "NoSelect",
+              "Select"
+            ]
+          },
+          {
+            "name": "showState",
+            "pages": [
+              "Normal",
+              "NoNum"
+            ]
+          },
+          {
+            "name": "showName",
+            "pages": [
+              "None",
+              "Normal"
+            ]
+          },
+          {
+            "name": "SelectState",
+            "pages": [
+              "Normal",
+              "Selected"
+            ]
+          },
+          {
+            "name": "IsHeld",
+            "pages": [
+              "no",
+              "yes"
+            ]
+          },
+          {
+            "name": "IsSegment",
+            "pages": [
+              "None",
+              "Segment"
+            ]
+          },
+          {
+            "name": "textColor",
+            "pages": [
+              "blue",
+              "white",
+              "red",
+              "bule1"
+            ]
+          },
+          {
+            "name": "showConten",
+            "pages": [
+              "None",
+              "Normal"
+            ]
+          },
+          {
+            "name": "IsFloor",
+            "pages": [
+              "no",
+              "yes"
+            ]
+          },
+          {
+            "name": "Bgstate",
+            "pages": [
+              "None",
+              "Bg"
+            ]
+          },
+          {
+            "name": "rare",
+            "pages": [
+              "no",
+              "yes"
+            ]
+          },
+          {
+            "name": "isRecive",
+            "pages": [
+              "no",
+              "yes"
+            ]
+          },
+          {
+            "name": "isHIde",
+            "pages": [
+              "",
+              "",
+              ""
+            ]
+          },
+          {
+            "name": "isProbability ",
+            "pages": [
+              "no",
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "n124",
+        "type": "GImage"
+      },
+      {
+        "name": "n121",
+        "type": "GGroup"
+      }
+    ]
+  },
+  {
+    "pkg": "Common",
+    "name": "BuyPoweOrFatigue_MiniWindow",
+    "controllers": [],
+    "children": [
+      {
+        "name": "win",
+        "type": "GComponent",
+        "children": [
+          {
+            "name": "close_mask",
+            "type": "GButton"
+          },
+          {
+            "name": "bg",
+            "type": "GLoader"
+          },
+          {
+            "name": "n51",
+            "type": "GImage"
+          },
+          {
+            "name": "n52",
+            "type": "GImage"
+          },
+          {
+            "name": "n46",
+            "type": "GImage"
+          },
+          {
+            "name": "n47",
+            "type": "GImage"
+          },
+          {
+            "name": "n48",
+            "type": "GImage"
+          },
+          {
+            "name": "close",
+            "type": "GButton"
+          },
+          {
+            "name": "title",
+            "type": "GTextField"
+          },
+          {
+            "name": "close2",
+            "type": "GButton"
+          },
+          {
+            "name": "title2",
+            "type": "GTextField"
+          }
+        ],
+        "controllers": [
+          {
+            "name": "BigSize",
+            "pages": [
+              "M",
+              "L",
+              "B",
+              "GashaponRecord",
+              "Guild",
+              "GuildM",
+              "payTask",
+              "PP",
+              "Equip"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "n13",
+        "type": "GImage"
+      },
+      {
+        "name": "buyItem",
+        "type": "GComponent",
+        "children": [
+          {
+            "name": "n8",
+            "type": "GImage"
+          },
+          {
+            "name": "lb_name",
+            "type": "GTextField"
+          },
+          {
+            "name": "lb_desc",
+            "type": "GTextField"
+          },
+          {
+            "name": "lb_num",
+            "type": "GTextField"
+          },
+          {
+            "name": "sure",
+            "type": "GButton"
+          },
+          {
+            "name": "btn_cost",
+            "type": "GButton"
+          },
+          {
+            "name": "goodItem",
+            "type": "GButton"
+          }
+        ],
+        "controllers": [
+          {
+            "name": "State",
+            "pages": [
+              "Buy",
+              "Have"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "list_goods",
+        "type": "GList",
+        "defaultItem": "ui://ufgirfkmaban6h2q2",
+        "children": [
+          {
+            "name": "",
+            "type": "GComponent"
+          },
+          {
+            "name": "",
+            "type": "GComponent"
+          }
+        ],
+        "controllers": [],
+        "template": {
+          "name": "",
+          "type": "GComponent",
+          "children": [
+            {
+              "name": "n8",
+              "type": "GImage"
+            },
+            {
+              "name": "lb_name",
+              "type": "GTextField"
+            },
+            {
+              "name": "lb_desc",
+              "type": "GTextField"
+            },
+            {
+              "name": "lb_num",
+              "type": "GTextField"
+            },
+            {
+              "name": "sure",
+              "type": "GButton"
+            },
+            {
+              "name": "btn_cost",
+              "type": "GButton"
+            },
+            {
+              "name": "goodItem",
+              "type": "GButton"
+            }
+          ],
+          "controllers": [
+            {
+              "name": "State",
+              "pages": [
+                "Buy",
+                "Have"
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "name": "lb_tip",
+        "type": "GTextField"
+      },
+      {
+        "name": "lb_go",
+        "type": "GTextField"
+      },
+      {
+        "name": "Click_levelUp",
+        "type": "GLoader"
+      },
+      {
+        "name": "lb_time",
+        "type": "GTextField"
+      },
+      {
+        "name": "lb_power",
+        "type": "GTextField"
+      },
+      {
+        "name": "lb_fatigue",
+        "type": "GTextField"
+      }
+    ]
+  }
+]

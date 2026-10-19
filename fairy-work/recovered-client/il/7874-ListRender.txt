@@ -1,0 +1,62 @@
+ShopWindow::ListRender
+000c ldarg.2 
+000d isinst CommonTabItem
+0012 stloc.0 
+0013 ldloc.0 
+0014 ldarg.0 
+0015 callvirt CommonTabItem::Init
+001a call get_Instance
+001f ldarg.0 
+0020 ldfld _shopTypeConfigs
+0025 ldarg.1 
+0026 callvirt get_Item
+002b callvirt get_Function
+0030 callvirt Get
+0035 stloc.1 
+0036 ldloc.0 
+0037 ldloc.1 
+0038 callvirt get_Name
+003d call Empty<0x1c>
+0042 call LanguageHelper::GetText
+0047 callvirt set_text
+004c ldloc.0 
+004d ldfld m_State
+0052 ldc.i4.0 
+0053 callvirt set_selectedIndex
+0058 ldarg.0 
+0059 ldfld _functionType
+005e ldarg.0 
+005f ldfld _shopTypeConfigs
+0064 ldarg.1 
+0065 callvirt get_Item
+006a callvirt get_Function
+006f bne.un.s 125
+0071 ldloc.0 
+0072 ldfld m_State
+0077 ldc.i4.1 
+0078 callvirt set_selectedIndex
+007d ldloc.0 
+007e callvirt get_onClick
+0083 ldarg.0 
+0084 ldfld uiForm
+0089 ldarg.0 
+008a ldftn ShopWindow::onClickTab
+0090 newobj .ctor
+0095 ldc.i4 300
+009a call AddAsync
+009f ldarg.0 
+00a0 call DomainScene
+00a5 callvirt GetComponent<ET.Client.RedComponent>
+00aa ldarg.0 
+00ab ldfld _shopTypeConfigs
+00b0 ldarg.1 
+00b1 callvirt get_Item
+00b6 callvirt get_Function
+00bb conv.i8 
+00bc ldc.i4 40000
+00c1 conv.i8 
+00c2 ldloc.0 
+00c3 ldfld m_RedDot
+00c8 call RedComponentSystem::AddListener
+00cd pop 
+00ce ret 

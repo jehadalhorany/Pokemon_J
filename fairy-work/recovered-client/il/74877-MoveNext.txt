@@ -1,0 +1,1656 @@
+<Jump>d__0::MoveNext
+000c ldarg.0 
+000d ldfld <>1__state
+0012 stloc.0 
+0013 ldloc.0 
+0014 switch [534, 3585, 4022, 6887]
+0029 ldarg.0 
+002a ldfld scene
+002f call ClientSceneManagerComponentSystem::ClientScene
+0034 callvirt GetComponent<ET.Pokemon.Activity.Component.ActivityComponent>
+0039 stloc.1 
+003a ldloc.1 
+003b brtrue.s 66
+003d leave 7106
+0042 ldarg.0 
+0043 ldnull 
+0044 stfld <uiForm>5__2
+0049 ldarg.0 
+004a ldfld ActivityBaseType
+004f stloc.s local(0x0005)
+0051 ldloc.s local(0x0005)
+0053 ldc.i4 406
+0058 bgt.s 141
+005a ldloc.s local(0x0005)
+005c ldc.i4 317
+0061 beq 302
+0066 ldloc.s local(0x0005)
+0068 ldc.i4 326
+006d sub 
+006e switch [318, 372, 345]
+007f ldloc.s local(0x0005)
+0081 ldc.i4 406
+0086 beq.s 223
+0088 br 399
+008d ldloc.s local(0x0005)
+008f ldc.i4 501
+0094 bgt.s 173
+0096 ldloc.s local(0x0005)
+0098 ldc.i4 411
+009d beq.s 250
+009f ldloc.s local(0x0005)
+00a1 ldc.i4 501
+00a6 beq.s 223
+00a8 br 399
+00ad ldloc.s local(0x0005)
+00af ldc.i4 502
+00b4 beq.s 196
+00b6 ldloc.s local(0x0005)
+00b8 ldc.i4 520
+00bd beq.s 286
+00bf br 399
+00c4 ldsfld Instance
+00c9 ldarg.0 
+00ca ldfld ActivityBaseType
+00cf box ActivityBaseType
+00d4 call UIComponentSystem::OpenWindow<ET.Client.Activity.ActivityDailyUIWindow>
+00d9 pop 
+00da leave 7106
+00df ldsfld Instance
+00e4 ldarg.0 
+00e5 ldfld ActivityBaseType
+00ea box ActivityBaseType
+00ef call UIComponentSystem::OpenWindow<ET.Client.Activity.ActivityUIWindow>
+00f4 pop 
+00f5 leave 7106
+00fa ldloc.1 
+00fb ldc.i4 611
+0100 call ActivityComponentSystem::GetFirstActivityIdByBaseType
+0105 stloc.s local(0x0004)
+0107 ldsfld Instance
+010c ldloc.s local(0x0004)
+010e box Int64
+0113 call UIComponentSystem::OpenWindow<ET.Client.Activity.ActivityUIWindow>
+0118 pop 
+0119 leave 7106
+011e ldsfld Instance
+0123 call UIComponentSystem::OpenWindow<ET.Client.Gift.GiftPushWindow>
+0128 pop 
+0129 leave 7106
+012e ldsfld Instance
+0133 call UIComponentSystem::OpenWindow<ET.Client.RechargeShop.RechargeShopAllWindow>
+0138 pop 
+0139 leave 7106
+013e ldsfld Instance
+0143 ldarg.0 
+0144 ldfld ActivityBaseType
+0149 box ActivityBaseType
+014e call UIComponentSystem::OpenWindow<ET.Client.Activity10.ActivityFoundationWindow>
+0153 pop 
+0154 leave 7106
+0159 ldsfld Instance
+015e ldarg.0 
+015f ldfld ActivityBaseType
+0164 box ActivityBaseType
+0169 call UIComponentSystem::OpenWindow<ET.Client.Activity.ActivityTimeLimitUIWindow>
+016e pop 
+016f leave 7106
+0174 ldsfld Instance
+0179 ldarg.0 
+017a ldfld ActivityBaseType
+017f box ActivityBaseType
+0184 call UIComponentSystem::OpenWindow<ET.Client.Activity.ActivityGiftPackEntranceWindow>
+0189 pop 
+018a leave 7106
+018f ldloc.1 
+0190 ldarg.0 
+0191 ldfld ActivityBaseType
+0196 call ActivityComponentSystem::CheckOpenActivity
+019b brtrue.s 433
+019d ldstr 'NotOpenActivityTip'
+01a2 call Empty<0x1c>
+01a7 call TipHelper::ShowTips
+01ac leave 7106
+01b1 ldarg.0 
+01b2 ldfld activityId
+01b7 brtrue.s 459
+01b9 ldarg.0 
+01ba ldloc.1 
+01bb ldarg.0 
+01bc ldfld ActivityBaseType
+01c1 call ActivityComponentSystem::GetFirstActivityIdByBaseType
+01c6 stfld activityId
+01cb ldarg.0 
+01cc ldfld scene
+01d1 ldarg.0 
+01d2 ldfld activityId
+01d7 ldarg.0 
+01d8 ldfld ActivityBaseType
+01dd call ActivityHelper::GetIndependentctivityConfig
+01e2 callvirt GetAwaiter
+01e7 stloc.s local(0x0006)
+01e9 ldloc.s local(0x0006)
+01eb callvirt get_IsCompleted
+01f0 brtrue.s 563
+01f2 ldarg.0 
+01f3 ldc.i4.0 
+01f4 dup 
+01f5 stloc.0 
+01f6 stfld <>1__state
+01fb ldarg.0 
+01fc ldloc.s local(0x0006)
+01fe stfld <>u__1
+0203 ldarg.0 
+0204 ldflda <>t__builder
+0209 ldloca.s local(0x0006)
+020b ldarg.0 
+020c call AwaitUnsafeOnCompleted<ET.ETTask,.<Jump>d__0>
+0211 leave 7139
+0216 ldarg.0 
+0217 ldfld <>u__1
+021c castclass ETTask
+0221 stloc.s local(0x0006)
+0223 ldarg.0 
+0224 ldnull 
+0225 stfld <>u__1
+022a ldarg.0 
+022b ldc.i4.m1 
+022c dup 
+022d stloc.0 
+022e stfld <>1__state
+0233 ldloc.s local(0x0006)
+0235 callvirt GetResult
+023a ldarg.0 
+023b ldarg.0 
+023c ldfld scene
+0241 ldarg.0 
+0242 ldfld activityId
+0247 call ActivityUnitFactory::GetActivityUnit
+024c stfld <unit>5__3
+0251 ldarg.0 
+0252 ldfld <unit>5__3
+0257 brtrue.s 606
+0259 leave 7106
+025e ldnull 
+025f stloc.2 
+0260 ldarg.0 
+0261 ldfld <unit>5__3
+0266 callvirt get_Info
+026b brfalse.s 666
+026d ldarg.0 
+026e ldfld <unit>5__3
+0273 callvirt get_Info
+0278 callvirt get_Template
+027d brfalse.s 666
+027f call get_Instance
+0284 ldarg.0 
+0285 ldfld <unit>5__3
+028a callvirt get_Info
+028f callvirt get_Template
+0294 callvirt GetConfig
+0299 stloc.2 
+029a ldarg.0 
+029b ldfld scene
+02a0 ldarg.0 
+02a1 ldfld activityId
+02a6 call ActivityViewJumpHelper::IsJumpActivityEntrance
+02ab brfalse.s 690
+02ad leave 7106
+02b2 ldarg.0 
+02b3 ldfld ActivityBaseType
+02b8 stloc.s local(0x0005)
+02ba ldloc.s local(0x0005)
+02bc ldc.i4 410
+02c1 bgt.s 814
+02c3 ldloc.s local(0x0005)
+02c5 ldc.i4 315
+02ca sub 
+02cb switch [2227, 2263, 6953, 6953, 6953, 6953, 2299, 2335, 2407]
+02f4 ldloc.s local(0x0005)
+02f6 ldc.i4 401
+02fb sub 
+02fc switch [2834, 6953, 2450, 2482, 1743, 6953, 6953, 3107, 2127, 3171]
+0329 br 6953
+032e ldloc.s local(0x0005)
+0330 ldc.i4 420
+0335 sub 
+0336 switch [2514, 1903, 1935]
+0347 ldloc.s local(0x0005)
+0349 ldc.i4 504
+034e sub 
+034f switch [1839, 6953, 6953, 6953, 6953, 6953, 6953, 6953, 6953, 6953, 6953, 6953, 6953, 6953, 6953, 6953, 6953, 2546, 3516, 1967, 1871, 3654, 6953, 6953, 2902, 3686, 2191, 6953, 3718, 3750, 3814, 4091, 4784, 4752, 3846, 6953, 6953, 6953, 6953, 6953, 6953, 6953, 6953, 6953, 6953, 6953, 6953, 4688, 4720, 3910, 4656, 3878, 2578, 2610, 3942, 2706, 2642, 4848, 4880, 4816, 4912, 2738, 2674, 4944, 4976, 2770, 1999, 5008, 3484, 5072, 5040, 5104, 6953, 5167, 6953, 2802, 5231, 5348, 1775, 5380, 5412, 5444, 2031, 5199, 5815, 6953, 5508, 5540, 5622, 5476, 6953, 5719, 5654, 5946, 5914, 5783, 2970, 3033, 3033, 6953, 3033, 3033, 6953, 6953, 3033, 6953, 6953, 3033, 3033, 6953, 6953, 2063, 3203, 6953, 6953, 6953, 6953, 6953, 6953, 6953, 6953, 6953, 6953, 6953, 6953, 6953, 6953, 6953, 6953, 6953, 6953, 6953, 6953, 6953, 6953, 6953, 6953, 6953, 6953, 6953, 6953, 6953, 6953, 6953, 6953, 6953, 6953, 5751, 5686, 6263, 6391, 6199, 6231, 6359, 6295, 6953, 6327, 2371, 6423, 6583, 6953, 6968, 6968, 6953, 6968, 6953, 6953, 6455, 6953, 6968, 6953, 6953, 6953, 3782, 6487, 6519, 6953, 6953, 6551, 6953, 6953, 6953, 6953, 6953, 6711, 6615, 6743, 6679, 6775, 6807, 3139, 6953, 5848, 6953, 6953, 6953, 6953, 3033, 3033, 3033, 3033, 2159, 3033, 6953, 6953, 6953, 3075, 3075, 3075, 2095, 6953, 3420, 3388, 3452, 1807, 6953, 6647, 5881]
+06bc ldloc.s local(0x0005)
+06be ldc.i4 901
+06c3 sub 
+06c4 ldc.i4.3 
+06c5 ble.un 3033
+06ca br 6953
+06cf ldarg.0 
+06d0 ldsfld Instance
+06d5 ldarg.0 
+06d6 ldfld <unit>5__3
+06db call UIComponentSystem::OpenWindow<ET.Client.Activity.NewServiceCarnivalWindow>
+06e0 callvirt GetParent<ET.Client.UIForm>
+06e5 stfld <uiForm>5__2
+06ea br 6968
+06ef ldarg.0 
+06f0 ldsfld Instance
+06f5 ldarg.0 
+06f6 ldfld <unit>5__3
+06fb call UIComponentSystem::OpenWindow<ET.Client.Activity.NewServiceCarnivalNewWindow>
+0700 callvirt GetParent<ET.Client.UIForm>
+0705 stfld <uiForm>5__2
+070a br 6968
+070f ldarg.0 
+0710 ldsfld Instance
+0715 ldarg.0 
+0716 ldfld <unit>5__3
+071b call UIComponentSystem::OpenWindow<ET.Client.Activity3.AthleticParkWindow>
+0720 callvirt GetParent<ET.Client.UIForm>
+0725 stfld <uiForm>5__2
+072a br 6968
+072f ldarg.0 
+0730 ldsfld Instance
+0735 ldarg.0 
+0736 ldfld <unit>5__3
+073b call UIComponentSystem::OpenWindow<ET.Client.Activity2.MonthlyGiftWindow>
+0740 callvirt GetParent<ET.Client.UIForm>
+0745 stfld <uiForm>5__2
+074a br 6968
+074f ldarg.0 
+0750 ldsfld Instance
+0755 ldarg.0 
+0756 ldfld <unit>5__3
+075b call UIComponentSystem::OpenWindow<ET.Client.Activity4.LuckyEggWindow>
+0760 callvirt GetParent<ET.Client.UIForm>
+0765 stfld <uiForm>5__2
+076a br 6968
+076f ldarg.0 
+0770 ldsfld Instance
+0775 ldarg.0 
+0776 ldfld <unit>5__3
+077b call UIComponentSystem::OpenWindow<ET.Client.Activity4.SuperStarFlashComeWindow>
+0780 callvirt GetParent<ET.Client.UIForm>
+0785 stfld <uiForm>5__2
+078a br 6968
+078f ldarg.0 
+0790 ldsfld Instance
+0795 ldarg.0 
+0796 ldfld <unit>5__3
+079b call UIComponentSystem::OpenWindow<ET.Client.Activity4.UserDiscountGiftWindow>
+07a0 callvirt GetParent<ET.Client.UIForm>
+07a5 stfld <uiForm>5__2
+07aa br 6968
+07af ldarg.0 
+07b0 ldsfld Instance
+07b5 ldarg.0 
+07b6 ldfld <unit>5__3
+07bb call UIComponentSystem::OpenWindow<ET.Client.Activity4.LimitedFashionWindow>
+07c0 callvirt GetParent<ET.Client.UIForm>
+07c5 stfld <uiForm>5__2
+07ca br 6968
+07cf ldarg.0 
+07d0 ldsfld Instance
+07d5 ldarg.0 
+07d6 ldfld <unit>5__3
+07db call UIComponentSystem::OpenWindow<ET.Client.Activity6.SmashEggWindow>
+07e0 callvirt GetParent<ET.Client.UIForm>
+07e5 stfld <uiForm>5__2
+07ea br 6968
+07ef ldarg.0 
+07f0 ldsfld Instance
+07f5 ldarg.0 
+07f6 ldfld <unit>5__3
+07fb call UIComponentSystem::OpenWindow<ET.Client.Assignment.LineUpRecommendedWindow>
+0800 callvirt GetParent<ET.Client.UIForm>
+0805 stfld <uiForm>5__2
+080a br 6968
+080f ldarg.0 
+0810 ldsfld Instance
+0815 ldarg.0 
+0816 ldfld <unit>5__3
+081b call UIComponentSystem::OpenWindow<ET.Client.Activity2.LimitQuestWindow>
+0820 callvirt GetParent<ET.Client.UIForm>
+0825 stfld <uiForm>5__2
+082a br 6968
+082f ldarg.0 
+0830 ldsfld Instance
+0835 ldarg.0 
+0836 ldfld <unit>5__3
+083b call UIComponentSystem::OpenWindow<ET.Client.Activity2.PassportActivityWindow>
+0840 callvirt GetParent<ET.Client.UIForm>
+0845 stfld <uiForm>5__2
+084a br 6968
+084f ldarg.0 
+0850 ldsfld Instance
+0855 ldarg.0 
+0856 ldfld <unit>5__3
+085b call UIComponentSystem::OpenWindow<ET.Client.Activity2.DivineBeastComeWindow>
+0860 callvirt GetParent<ET.Client.UIForm>
+0865 stfld <uiForm>5__2
+086a br 6968
+086f ldarg.0 
+0870 ldsfld Instance
+0875 ldarg.0 
+0876 ldfld <unit>5__3
+087b call UIComponentSystem::OpenWindow<ET.Client.Activity.SignInFourteenDayWindow>
+0880 callvirt GetParent<ET.Client.UIForm>
+0885 stfld <uiForm>5__2
+088a br 6968
+088f ldarg.0 
+0890 ldsfld Instance
+0895 ldc.i4 530
+089a box ActivityBaseType
+089f call UIComponentSystem::OpenWindow<ET.Client.RechargeShop.RechargeShopAllWindow>
+08a4 callvirt GetParent<ET.Client.UIForm>
+08a9 stfld <uiForm>5__2
+08ae br 6968
+08b3 ldarg.0 
+08b4 ldsfld Instance
+08b9 ldc.i4 315
+08be box ActivityBaseType
+08c3 call UIComponentSystem::OpenWindow<ET.Client.RechargeShop.RechargeShopAllWindow>
+08c8 callvirt GetParent<ET.Client.UIForm>
+08cd stfld <uiForm>5__2
+08d2 br 6968
+08d7 ldarg.0 
+08d8 ldsfld Instance
+08dd ldc.i4 316
+08e2 box ActivityBaseType
+08e7 call UIComponentSystem::OpenWindow<ET.Client.RechargeShop.RechargeShopAllWindow>
+08ec callvirt GetParent<ET.Client.UIForm>
+08f1 stfld <uiForm>5__2
+08f6 br 6968
+08fb ldarg.0 
+08fc ldsfld Instance
+0901 ldc.i4 321
+0906 box ActivityBaseType
+090b call UIComponentSystem::OpenWindow<ET.Client.RechargeShop.RechargeShopAllWindow>
+0910 callvirt GetParent<ET.Client.UIForm>
+0915 stfld <uiForm>5__2
+091a br 6968
+091f ldarg.0 
+0920 ldsfld Instance
+0925 ldc.i4 322
+092a box ActivityBaseType
+092f call UIComponentSystem::OpenWindow<ET.Client.RechargeShop.RechargeShopAllWindow>
+0934 callvirt GetParent<ET.Client.UIForm>
+0939 stfld <uiForm>5__2
+093e br 6968
+0943 ldarg.0 
+0944 ldsfld Instance
+0949 ldc.i4 661
+094e box ActivityBaseType
+0953 call UIComponentSystem::OpenWindow<ET.Client.RechargeShop.RechargeShopAllWindow>
+0958 callvirt GetParent<ET.Client.UIForm>
+095d stfld <uiForm>5__2
+0962 br 6968
+0967 ldsfld Instance
+096c call UIComponentSystem::OpenWindow<ET.Client.RechargeShop.RechargeShopAllWindow>
+0971 stloc.s local(0x0007)
+0973 ldarg.0 
+0974 ldloc.s local(0x0007)
+0976 callvirt GetParent<ET.Client.UIForm>
+097b stfld <uiForm>5__2
+0980 ldloc.s local(0x0007)
+0982 ldnull 
+0983 callvirt RechargeShopAllWindow::OnClickBtn_GotoMall
+0988 callvirt Coroutine
+098d br 6968
+0992 ldarg.0 
+0993 ldsfld Instance
+0998 ldarg.0 
+0999 ldfld <unit>5__3
+099e call UIComponentSystem::OpenWindow<ET.Client.Activity.FlashComeWindow>
+09a3 callvirt GetParent<ET.Client.UIForm>
+09a8 stfld <uiForm>5__2
+09ad br 6968
+09b2 ldarg.0 
+09b3 ldsfld Instance
+09b8 ldarg.0 
+09b9 ldfld <unit>5__3
+09be call UIComponentSystem::OpenWindow<ET.Client.Activity.HolidayComeWindow>
+09c3 callvirt GetParent<ET.Client.UIForm>
+09c8 stfld <uiForm>5__2
+09cd br 6968
+09d2 ldarg.0 
+09d3 ldsfld Instance
+09d8 ldarg.0 
+09d9 ldfld <unit>5__3
+09de call UIComponentSystem::OpenWindow<ET.Client.Activity.PreGodComeWindow>
+09e3 callvirt GetParent<ET.Client.UIForm>
+09e8 stfld <uiForm>5__2
+09ed br 6968
+09f2 ldarg.0 
+09f3 ldsfld Instance
+09f8 ldarg.0 
+09f9 ldfld <unit>5__3
+09fe call UIComponentSystem::OpenWindow<ET.Client.Activity2.InfiniteGashaponWindow>
+0a03 callvirt GetParent<ET.Client.UIForm>
+0a08 stfld <uiForm>5__2
+0a0d br 6968
+0a12 ldarg.0 
+0a13 ldsfld Instance
+0a18 ldarg.0 
+0a19 ldfld <unit>5__3
+0a1e call UIComponentSystem::OpenWindow<ET.Client.Activity100.ActivityFstvShopWindow>
+0a23 callvirt GetParent<ET.Client.UIForm>
+0a28 stfld <uiForm>5__2
+0a2d br 6968
+0a32 ldarg.0 
+0a33 ldsfld Instance
+0a38 ldarg.0 
+0a39 ldfld <unit>5__3
+0a3e call UIComponentSystem::OpenWindow<ET.Client.Activity100.ActivityFstvExchangeWindow>
+0a43 callvirt GetParent<ET.Client.UIForm>
+0a48 stfld <uiForm>5__2
+0a4d br 6968
+0a52 ldarg.0 
+0a53 ldsfld Instance
+0a58 ldarg.0 
+0a59 ldfld <unit>5__3
+0a5e call UIComponentSystem::OpenWindow<ET.Client.Activity100.ActivityMdGiftWindow>
+0a63 callvirt GetParent<ET.Client.UIForm>
+0a68 stfld <uiForm>5__2
+0a6d br 6968
+0a72 ldarg.0 
+0a73 ldsfld Instance
+0a78 ldarg.0 
+0a79 ldfld <unit>5__3
+0a7e call UIComponentSystem::OpenWindow<ET.Client.Activity6.LatticeWindow>
+0a83 callvirt GetParent<ET.Client.UIForm>
+0a88 stfld <uiForm>5__2
+0a8d br 6968
+0a92 ldarg.0 
+0a93 ldsfld Instance
+0a98 ldarg.0 
+0a99 ldfld <unit>5__3
+0a9e call UIComponentSystem::OpenWindow<ET.Client.Activity100.ThemeCaptureWindow>
+0aa3 callvirt GetParent<ET.Client.UIForm>
+0aa8 stfld <uiForm>5__2
+0aad br 6968
+0ab2 ldarg.0 
+0ab3 ldsfld Instance
+0ab8 ldarg.0 
+0ab9 ldfld <unit>5__3
+0abe call UIComponentSystem::OpenWindow<ET.Client.Activity6.QuestionnaireWindow>
+0ac3 callvirt GetParent<ET.Client.UIForm>
+0ac8 stfld <uiForm>5__2
+0acd br 6968
+0ad2 ldarg.0 
+0ad3 ldsfld Instance
+0ad8 ldarg.0 
+0ad9 ldfld <unit>5__3
+0ade call UIComponentSystem::OpenWindow<ET.Client.Activity6.LuckyLayerBoxWindow>
+0ae3 callvirt GetParent<ET.Client.UIForm>
+0ae8 stfld <uiForm>5__2
+0aed br 6968
+0af2 ldarg.0 
+0af3 ldsfld Instance
+0af8 ldarg.0 
+0af9 ldfld <unit>5__3
+0afe call UIComponentSystem::OpenWindow<ET.Client.Activity7.FriendInvitationWindow>
+0b03 callvirt GetParent<ET.Client.UIForm>
+0b08 stfld <uiForm>5__2
+0b0d br 6968
+0b12 ldarg.0 
+0b13 ldfld isOrder
+0b18 brfalse.s 2865
+0b1a ldsfld Instance
+0b1f ldc.i4.0 
+0b20 ldarg.0 
+0b21 ldfld <unit>5__3
+0b26 call UIComponentSystem::OpenOrderWindow<ET.Client.Activity.FirstRechargeWindow>
+0b2b pop 
+0b2c leave 7106
+0b31 ldsfld Instance
+0b36 ldc.i4.1 
+0b37 ldarg.0 
+0b38 ldfld <unit>5__3
+0b3d call UIComponentSystem::OpenOrderWindow<ET.Client.Activity.FirstRechargeWindow>
+0b42 stloc.s local(0x0008)
+0b44 ldarg.0 
+0b45 ldloc.s local(0x0008)
+0b47 callvirt GetParent<ET.Client.UIForm>
+0b4c stfld <uiForm>5__2
+0b51 br 6968
+0b56 ldarg.0 
+0b57 ldfld isOrder
+0b5c brfalse.s 2933
+0b5e ldsfld Instance
+0b63 ldc.i4.0 
+0b64 ldarg.0 
+0b65 ldfld <unit>5__3
+0b6a call UIComponentSystem::OpenOrderWindow<ET.Client.Activity.NewFirstRechargeWindow>
+0b6f pop 
+0b70 leave 7106
+0b75 ldsfld Instance
+0b7a ldc.i4.1 
+0b7b ldarg.0 
+0b7c ldfld <unit>5__3
+0b81 call UIComponentSystem::OpenOrderWindow<ET.Client.Activity.NewFirstRechargeWindow>
+0b86 stloc.s local(0x0009)
+0b88 ldarg.0 
+0b89 ldloc.s local(0x0009)
+0b8b callvirt GetParent<ET.Client.UIForm>
+0b90 stfld <uiForm>5__2
+0b95 br 6968
+0b9a ldarg.0 
+0b9b ldfld isOrder
+0ba0 brfalse.s 3001
+0ba2 ldsfld Instance
+0ba7 ldc.i4.0 
+0ba8 ldarg.0 
+0ba9 ldfld <unit>5__3
+0bae call UIComponentSystem::OpenOrderWindow<ET.Client.Activity.NewServerActivityWindow>
+0bb3 pop 
+0bb4 leave 7106
+0bb9 ldarg.0 
+0bba ldsfld Instance
+0bbf ldarg.0 
+0bc0 ldfld <unit>5__3
+0bc5 call UIComponentSystem::OpenWindow<ET.Client.Activity.NewServerActivityWindow>
+0bca callvirt GetParent<ET.Client.UIForm>
+0bcf stfld <uiForm>5__2
+0bd4 br 6968
+0bd9 ldarg.0 
+0bda ldsfld Instance
+0bdf ldarg.0 
+0be0 ldfld <unit>5__3
+0be5 ldfld activityId
+0bea box Int64
+0bef call UIComponentSystem::OpenWindow<ET.Client.Activity.ActivityUIWindow>
+0bf4 callvirt GetParent<ET.Client.UIForm>
+0bf9 stfld <uiForm>5__2
+0bfe br 6968
+0c03 ldarg.0 
+0c04 ldsfld Instance
+0c09 ldarg.0 
+0c0a ldfld <unit>5__3
+0c0f call UIComponentSystem::OpenWindow<ET.Client.FestivaIActivity.FestivaIActivityWindow>
+0c14 callvirt GetParent<ET.Client.UIForm>
+0c19 stfld <uiForm>5__2
+0c1e br 6968
+0c23 ldarg.0 
+0c24 ldsfld Instance
+0c29 ldarg.0 
+0c2a ldfld <unit>5__3
+0c2f call UIComponentSystem::OpenWindow<ET.Client.Activity2.LimitGashaponWindow>
+0c34 callvirt GetParent<ET.Client.UIForm>
+0c39 stfld <uiForm>5__2
+0c3e br 6968
+0c43 ldarg.0 
+0c44 ldsfld Instance
+0c49 ldarg.0 
+0c4a ldfld <unit>5__3
+0c4f call UIComponentSystem::OpenWindow<ET.Client.Activity2.SeasonGashaponWindow>
+0c54 callvirt GetParent<ET.Client.UIForm>
+0c59 stfld <uiForm>5__2
+0c5e br 6968
+0c63 ldarg.0 
+0c64 ldsfld Instance
+0c69 ldarg.0 
+0c6a ldfld <unit>5__3
+0c6f call UIComponentSystem::OpenWindow<ET.Client.Activity2.ActivityTimedSaleWindow>
+0c74 callvirt GetParent<ET.Client.UIForm>
+0c79 stfld <uiForm>5__2
+0c7e br 6968
+0c83 ldloc.2 
+0c84 brtrue.s 3238
+0c86 ldarg.0 
+0c87 ldsfld Instance
+0c8c ldarg.0 
+0c8d ldfld <unit>5__3
+0c92 call UIComponentSystem::OpenWindow<ET.Client.Wish.WishTurntableWindow>
+0c97 callvirt GetParent<ET.Client.UIForm>
+0c9c stfld <uiForm>5__2
+0ca1 br 6968
+0ca6 ldloc.2 
+0ca7 callvirt get_Template
+0cac stloc.s local(0x000B)
+0cae ldloc.s local(0x000B)
+0cb0 ldc.i4 61601
+0cb5 beq.s 3296
+0cb7 ldloc.s local(0x000B)
+0cb9 ldc.i4 61602
+0cbe bne.un.s 3328
+0cc0 ldarg.0 
+0cc1 ldsfld Instance
+0cc6 ldarg.0 
+0cc7 ldfld <unit>5__3
+0ccc call UIComponentSystem::OpenWindow<ET.Client.Wish.WishTurntableSwordShieldWindow>
+0cd1 callvirt GetParent<ET.Client.UIForm>
+0cd6 stfld <uiForm>5__2
+0cdb br 6968
+0ce0 ldarg.0 
+0ce1 ldsfld Instance
+0ce6 ldarg.0 
+0ce7 ldfld <unit>5__3
+0cec call UIComponentSystem::OpenWindow<ET.Client.Wish.WishTurntableWindow>
+0cf1 callvirt GetParent<ET.Client.UIForm>
+0cf6 stfld <uiForm>5__2
+0cfb br 6968
+0d00 ldsfld Instance
+0d05 ldarg.0 
+0d06 ldfld <unit>5__3
+0d0b call UIComponentSystem::OpenWindow<ET.Client.Wish.WishTurntableMewtwoWindow>
+0d10 stloc.s local(0x000A)
+0d12 ldloc.s local(0x000A)
+0d14 brfalse.s 3363
+0d16 ldloc.s local(0x000A)
+0d18 ldloc.2 
+0d19 callvirt get_Template
+0d1e call WishTurntableMewtwoWindow::OnShow
+0d23 ldarg.0 
+0d24 ldloc.s local(0x000A)
+0d26 brtrue.s 3371
+0d28 ldnull 
+0d29 br.s 3378
+0d2b ldloc.s local(0x000A)
+0d2d call GetParent<ET.Client.UIForm>
+0d32 stfld <uiForm>5__2
+0d37 br 6968
+0d3c ldarg.0 
+0d3d ldsfld Instance
+0d42 ldarg.0 
+0d43 ldfld <unit>5__3
+0d48 call UIComponentSystem::OpenWindow<ET.Client.Activity3.NewYearGardenPartyWindow>
+0d4d callvirt GetParent<ET.Client.UIForm>
+0d52 stfld <uiForm>5__2
+0d57 br 6968
+0d5c ldarg.0 
+0d5d ldsfld Instance
+0d62 ldarg.0 
+0d63 ldfld <unit>5__3
+0d68 call UIComponentSystem::OpenWindow<ET.Client.Activity3.MeowTreasureWindow>
+0d6d callvirt GetParent<ET.Client.UIForm>
+0d72 stfld <uiForm>5__2
+0d77 br 6968
+0d7c ldarg.0 
+0d7d ldsfld Instance
+0d82 ldarg.0 
+0d83 ldfld <unit>5__3
+0d88 call UIComponentSystem::OpenWindow<ET.Client.Activity3.SpringNightFireworksWindow>
+0d8d callvirt GetParent<ET.Client.UIForm>
+0d92 stfld <uiForm>5__2
+0d97 br 6968
+0d9c ldarg.0 
+0d9d ldsfld Instance
+0da2 ldarg.0 
+0da3 ldfld <unit>5__3
+0da8 call UIComponentSystem::OpenWindow<ET.Client.Activity101.ThemeSpringNightFireworksWindow>
+0dad callvirt GetParent<ET.Client.UIForm>
+0db2 stfld <uiForm>5__2
+0db7 br 6968
+0dbc ldarg.0 
+0dbd ldfld scene
+0dc2 ldarg.0 
+0dc3 ldfld activityId
+0dc8 call ActivityServerSystem::GetPlayerLimitShopGearInfo
+0dcd callvirt GetAwaiter
+0dd2 stloc.s local(0x000C)
+0dd4 ldloc.s local(0x000C)
+0dd6 callvirt get_IsCompleted
+0ddb brtrue.s 3614
+0ddd ldarg.0 
+0dde ldc.i4.1 
+0ddf dup 
+0de0 stloc.0 
+0de1 stfld <>1__state
+0de6 ldarg.0 
+0de7 ldloc.s local(0x000C)
+0de9 stfld <>u__1
+0dee ldarg.0 
+0def ldflda <>t__builder
+0df4 ldloca.s local(0x000C)
+0df6 ldarg.0 
+0df7 call AwaitUnsafeOnCompleted<0x15,ET.ETTask`1,0x1,ET.Game2Client_GetPlayerLimitShopGearInfo,.<Jump>d__0>
+0dfc leave 7139
+0e01 ldarg.0 
+0e02 ldfld <>u__1
+0e07 castclass 0x1b00116c
+0e0c stloc.s local(0x000C)
+0e0e ldarg.0 
+0e0f ldnull 
+0e10 stfld <>u__1
+0e15 ldarg.0 
+0e16 ldc.i4.m1 
+0e17 dup 
+0e18 stloc.0 
+0e19 stfld <>1__state
+0e1e ldloc.s local(0x000C)
+0e20 callvirt GetResult
+0e25 pop 
+0e26 ldarg.0 
+0e27 ldsfld Instance
+0e2c ldarg.0 
+0e2d ldfld <unit>5__3
+0e32 call UIComponentSystem::OpenWindow<ET.Client.Activity4.ActivityLimitShopWindow>
+0e37 callvirt GetParent<ET.Client.UIForm>
+0e3c stfld <uiForm>5__2
+0e41 br 6968
+0e46 ldarg.0 
+0e47 ldsfld Instance
+0e4c ldarg.0 
+0e4d ldfld <unit>5__3
+0e52 call UIComponentSystem::OpenWindow<ET.Client.Activity4.ActivityMayDayWindow>
+0e57 callvirt GetParent<ET.Client.UIForm>
+0e5c stfld <uiForm>5__2
+0e61 br 6968
+0e66 ldarg.0 
+0e67 ldsfld Instance
+0e6c ldarg.0 
+0e6d ldfld <unit>5__3
+0e72 call UIComponentSystem::OpenWindow<ET.Client.Activity5.ChildrensDayWindow>
+0e77 callvirt GetParent<ET.Client.UIForm>
+0e7c stfld <uiForm>5__2
+0e81 br 6968
+0e86 ldarg.0 
+0e87 ldsfld Instance
+0e8c ldarg.0 
+0e8d ldfld <unit>5__3
+0e92 call UIComponentSystem::OpenWindow<ET.Client.Activity5.ActivityGiftShopWindow>
+0e97 callvirt GetParent<ET.Client.UIForm>
+0e9c stfld <uiForm>5__2
+0ea1 br 6968
+0ea6 ldarg.0 
+0ea7 ldsfld Instance
+0eac ldarg.0 
+0ead ldfld <unit>5__3
+0eb2 call UIComponentSystem::OpenWindow<ET.Client.Activity5.SummerVacationWindow>
+0eb7 callvirt GetParent<ET.Client.UIForm>
+0ebc stfld <uiForm>5__2
+0ec1 br 6968
+0ec6 ldarg.0 
+0ec7 ldsfld Instance
+0ecc ldarg.0 
+0ecd ldfld <unit>5__3
+0ed2 call UIComponentSystem::OpenWindow<ET.Client.Activity104.ActivitySummerVacationCopyWindow>
+0ed7 callvirt GetParent<ET.Client.UIForm>
+0edc stfld <uiForm>5__2
+0ee1 br 6968
+0ee6 ldarg.0 
+0ee7 ldsfld Instance
+0eec ldarg.0 
+0eed ldfld <unit>5__3
+0ef2 call UIComponentSystem::OpenWindow<ET.Client.Activity5.ActivityEvolveWindow>
+0ef7 callvirt GetParent<ET.Client.UIForm>
+0efc stfld <uiForm>5__2
+0f01 br 6968
+0f06 ldarg.0 
+0f07 ldsfld Instance
+0f0c ldarg.0 
+0f0d ldfld <unit>5__3
+0f12 call UIComponentSystem::OpenWindow<ET.Client.Activity.NewFlashComeWindow>
+0f17 callvirt GetParent<ET.Client.UIForm>
+0f1c stfld <uiForm>5__2
+0f21 br 6968
+0f26 ldarg.0 
+0f27 ldsfld Instance
+0f2c ldarg.0 
+0f2d ldfld <unit>5__3
+0f32 call UIComponentSystem::OpenWindow<ET.Client.Activity100.ActivityChallengeTaskWindow>
+0f37 callvirt GetParent<ET.Client.UIForm>
+0f3c stfld <uiForm>5__2
+0f41 br 6968
+0f46 ldarg.0 
+0f47 ldsfld Instance
+0f4c ldarg.0 
+0f4d ldfld <unit>5__3
+0f52 call UIComponentSystem::OpenWindow<ET.Client.Activity100.ActivityFoodFeastWindow>
+0f57 callvirt GetParent<ET.Client.UIForm>
+0f5c stfld <uiForm>5__2
+0f61 br 6968
+0f66 ldarg.0 
+0f67 ldfld scene
+0f6c call DomainScene
+0f71 ldarg.0 
+0f72 ldfld <unit>5__3
+0f77 ldfld activityId
+0f7c ldc.i4.1 
+0f7d call ActivityServerSystem::ActivityThemeCryWolfOpenInterface
+0f82 callvirt GetAwaiter
+0f87 stloc.s local(0x000D)
+0f89 ldloc.s local(0x000D)
+0f8b callvirt get_IsCompleted
+0f90 brtrue.s 4051
+0f92 ldarg.0 
+0f93 ldc.i4.2 
+0f94 dup 
+0f95 stloc.0 
+0f96 stfld <>1__state
+0f9b ldarg.0 
+0f9c ldloc.s local(0x000D)
+0f9e stfld <>u__1
+0fa3 ldarg.0 
+0fa4 ldflda <>t__builder
+0fa9 ldloca.s local(0x000D)
+0fab ldarg.0 
+0fac call AwaitUnsafeOnCompleted<0x15,ET.ETTask`1,0x1,ET.Game2Client_ActivityThemeCryWolfOpenInterface,.<Jump>d__0>
+0fb1 leave 7139
+0fb6 ldarg.0 
+0fb7 ldfld <>u__1
+0fbc castclass 0x1b0019de
+0fc1 stloc.s local(0x000D)
+0fc3 ldarg.0 
+0fc4 ldnull 
+0fc5 stfld <>u__1
+0fca ldarg.0 
+0fcb ldc.i4.m1 
+0fcc dup 
+0fcd stloc.0 
+0fce stfld <>1__state
+0fd3 ldloc.s local(0x000D)
+0fd5 callvirt GetResult
+0fda pop 
+0fdb ldarg.0 
+0fdc ldsfld Instance
+0fe1 ldarg.0 
+0fe2 ldfld <unit>5__3
+0fe7 call UIComponentSystem::OpenWindow<ET.Client.Activity100.WolfComingWindow>
+0fec callvirt GetParent<ET.Client.UIForm>
+0ff1 stfld <uiForm>5__2
+0ff6 br 6968
+0ffb ldarg.0 
+0ffc ldfld <unit>5__3
+1001 callvirt get_Info
+1006 brfalse 4625
+100b ldloc.2 
+100c brfalse 6968
+1011 ldloc.2 
+1012 callvirt get_Template
+1017 ldc.i4.s 100
+1019 rem 
+101a stloc.s local(0x000E)
+101c ldloc.s local(0x000E)
+101e call ActivityViewJumpHelper::IsActivityThemeModelJumpToQingming
+1023 brfalse.s 4165
+1025 ldarg.0 
+1026 ldsfld Instance
+102b ldarg.0 
+102c ldfld <unit>5__3
+1031 call UIComponentSystem::OpenWindow<ET.Client.Activity101.ThemeActivityQingmingWindow>
+1036 callvirt GetParent<ET.Client.UIForm>
+103b stfld <uiForm>5__2
+1040 br 6968
+1045 ldloc.s local(0x000E)
+1047 switch [4221, 4253, 4285, 4317, 4349, 4381, 4413, 4445, 4477, 4509, 4541]
+1078 br 4573
+107d ldarg.0 
+107e ldsfld Instance
+1083 ldarg.0 
+1084 ldfld <unit>5__3
+1089 call UIComponentSystem::OpenWindow<ET.Client.Activity6.ActivityThemeWindow>
+108e callvirt GetParent<ET.Client.UIForm>
+1093 stfld <uiForm>5__2
+1098 br 6968
+109d ldarg.0 
+109e ldsfld Instance
+10a3 ldarg.0 
+10a4 ldfld <unit>5__3
+10a9 call UIComponentSystem::OpenWindow<ET.Client.Activity101.ThemeZhongQiuWindow>
+10ae callvirt GetParent<ET.Client.UIForm>
+10b3 stfld <uiForm>5__2
+10b8 br 6968
+10bd ldarg.0 
+10be ldsfld Instance
+10c3 ldarg.0 
+10c4 ldfld <unit>5__3
+10c9 call UIComponentSystem::OpenWindow<ET.Client.Activity101.ThemeGuoQingWindow>
+10ce callvirt GetParent<ET.Client.UIForm>
+10d3 stfld <uiForm>5__2
+10d8 br 6968
+10dd ldarg.0 
+10de ldsfld Instance
+10e3 ldarg.0 
+10e4 ldfld <unit>5__3
+10e9 call UIComponentSystem::OpenWindow<ET.Client.Activity101.ThemeHalloweenWindow>
+10ee callvirt GetParent<ET.Client.UIForm>
+10f3 stfld <uiForm>5__2
+10f8 br 6968
+10fd ldarg.0 
+10fe ldsfld Instance
+1103 ldarg.0 
+1104 ldfld <unit>5__3
+1109 call UIComponentSystem::OpenWindow<ET.Client.Activity101.ThemeUniversalWindow>
+110e callvirt GetParent<ET.Client.UIForm>
+1113 stfld <uiForm>5__2
+1118 br 6968
+111d ldarg.0 
+111e ldsfld Instance
+1123 ldarg.0 
+1124 ldfld <unit>5__3
+1129 call UIComponentSystem::OpenWindow<ET.Client.Activity101.ThemeChristmasWindow>
+112e callvirt GetParent<ET.Client.UIForm>
+1133 stfld <uiForm>5__2
+1138 br 6968
+113d ldarg.0 
+113e ldsfld Instance
+1143 ldarg.0 
+1144 ldfld <unit>5__3
+1149 call UIComponentSystem::OpenWindow<ET.Client.Activity101.ThemeYuandanWindow>
+114e callvirt GetParent<ET.Client.UIForm>
+1153 stfld <uiForm>5__2
+1158 br 6968
+115d ldarg.0 
+115e ldsfld Instance
+1163 ldarg.0 
+1164 ldfld <unit>5__3
+1169 call UIComponentSystem::OpenWindow<ET.Client.Activity101.ThemeZhouNianQianWindow>
+116e callvirt GetParent<ET.Client.UIForm>
+1173 stfld <uiForm>5__2
+1178 br 6968
+117d ldarg.0 
+117e ldsfld Instance
+1183 ldarg.0 
+1184 ldfld <unit>5__3
+1189 call UIComponentSystem::OpenWindow<ET.Client.Activity102.ThemeChunJieWindow>
+118e callvirt GetParent<ET.Client.UIForm>
+1193 stfld <uiForm>5__2
+1198 br 6968
+119d ldarg.0 
+119e ldsfld Instance
+11a3 ldarg.0 
+11a4 ldfld <unit>5__3
+11a9 call UIComponentSystem::OpenWindow<ET.Client.Activity102.ThemeYuanXiaoWindow>
+11ae callvirt GetParent<ET.Client.UIForm>
+11b3 stfld <uiForm>5__2
+11b8 br 6968
+11bd ldarg.0 
+11be ldsfld Instance
+11c3 ldarg.0 
+11c4 ldfld <unit>5__3
+11c9 call UIComponentSystem::OpenWindow<ET.Client.Activity101.ThemeSpringWindow>
+11ce callvirt GetParent<ET.Client.UIForm>
+11d3 stfld <uiForm>5__2
+11d8 br 6968
+11dd ldstr '主题活动没有对应得配置模板 活动id = {0}  Template = {1}  '
+11e2 ldarg.0 
+11e3 ldfld activityId
+11e8 box Int64
+11ed ldarg.0 
+11ee ldfld <unit>5__3
+11f3 callvirt get_Info
+11f8 callvirt get_Template
+11fd box Int32
+1202 call Format
+1207 call Error
+120c br 6968
+1211 ldstr '主题活动 unit.Info == null 活动id = {0}'
+1216 ldarg.0 
+1217 ldfld activityId
+121c box Int64
+1221 call Format
+1226 call Error
+122b br 6968
+1230 ldarg.0 
+1231 ldsfld Instance
+1236 ldarg.0 
+1237 ldfld <unit>5__3
+123c call UIComponentSystem::OpenWindow<ET.Client.Activity100.ThemeActivitySignWindow>
+1241 callvirt GetParent<ET.Client.UIForm>
+1246 stfld <uiForm>5__2
+124b br 6968
+1250 ldarg.0 
+1251 ldsfld Instance
+1256 ldarg.0 
+1257 ldfld <unit>5__3
+125c call UIComponentSystem::OpenWindow<ET.Client.Activity100.ThemeTurnplateWindow>
+1261 callvirt GetParent<ET.Client.UIForm>
+1266 stfld <uiForm>5__2
+126b br 6968
+1270 ldarg.0 
+1271 ldsfld Instance
+1276 ldarg.0 
+1277 ldfld <unit>5__3
+127c call UIComponentSystem::OpenWindow<ET.Client.Activity100.ThemeMineClearanceWindow>
+1281 callvirt GetParent<ET.Client.UIForm>
+1286 stfld <uiForm>5__2
+128b br 6968
+1290 ldarg.0 
+1291 ldsfld Instance
+1296 ldarg.0 
+1297 ldfld <unit>5__3
+129c call UIComponentSystem::OpenWindow<ET.Client.Activity6.AmusementShopWindow>
+12a1 callvirt GetParent<ET.Client.UIForm>
+12a6 stfld <uiForm>5__2
+12ab br 6968
+12b0 ldarg.0 
+12b1 ldsfld Instance
+12b6 ldarg.0 
+12b7 ldfld <unit>5__3
+12bc call UIComponentSystem::OpenWindow<ET.Client.Activity6.CelebrationGiftWindow>
+12c1 callvirt GetParent<ET.Client.UIForm>
+12c6 stfld <uiForm>5__2
+12cb br 6968
+12d0 ldarg.0 
+12d1 ldsfld Instance
+12d6 ldarg.0 
+12d7 ldfld <unit>5__3
+12dc call UIComponentSystem::OpenWindow<ET.Client.Activity100.ThemeSnacksWindow>
+12e1 callvirt GetParent<ET.Client.UIForm>
+12e6 stfld <uiForm>5__2
+12eb br 6968
+12f0 ldarg.0 
+12f1 ldsfld Instance
+12f6 ldarg.0 
+12f7 ldfld <unit>5__3
+12fc call UIComponentSystem::OpenWindow<ET.Client.Activity100.ThemeFlyWindow>
+1301 callvirt GetParent<ET.Client.UIForm>
+1306 stfld <uiForm>5__2
+130b br 6968
+1310 ldarg.0 
+1311 ldsfld Instance
+1316 ldarg.0 
+1317 ldfld <unit>5__3
+131c call UIComponentSystem::OpenWindow<ET.Client.Activity100.NewAthleticParkBattleWindow>
+1321 callvirt GetParent<ET.Client.UIForm>
+1326 stfld <uiForm>5__2
+132b br 6968
+1330 ldarg.0 
+1331 ldsfld Instance
+1336 ldarg.0 
+1337 ldfld <unit>5__3
+133c call UIComponentSystem::OpenWindow<ET.Client.Activity100.ThemeZeroShoppingWindow>
+1341 callvirt GetParent<ET.Client.UIForm>
+1346 stfld <uiForm>5__2
+134b br 6968
+1350 ldarg.0 
+1351 ldsfld Instance
+1356 ldarg.0 
+1357 ldfld <unit>5__3
+135c call UIComponentSystem::OpenWindow<ET.Client.Activity6.SecretKeyTreasureWindow>
+1361 callvirt GetParent<ET.Client.UIForm>
+1366 stfld <uiForm>5__2
+136b br 6968
+1370 ldarg.0 
+1371 ldsfld Instance
+1376 ldarg.0 
+1377 ldfld <unit>5__3
+137c call UIComponentSystem::OpenWindow<ET.Client.Activity6.MysteryBoxWindow>
+1381 callvirt GetParent<ET.Client.UIForm>
+1386 stfld <uiForm>5__2
+138b br 6968
+1390 ldarg.0 
+1391 ldsfld Instance
+1396 ldarg.0 
+1397 ldfld <unit>5__3
+139c call UIComponentSystem::OpenWindow<ET.Client.Activity6.DoubleRewardPoolWindow>
+13a1 callvirt GetParent<ET.Client.UIForm>
+13a6 stfld <uiForm>5__2
+13ab br 6968
+13b0 ldarg.0 
+13b1 ldsfld Instance
+13b6 ldarg.0 
+13b7 ldfld <unit>5__3
+13bc call UIComponentSystem::OpenWindow<ET.Client.Activity101.ThemePurchaseWindow>
+13c1 callvirt GetParent<ET.Client.UIForm>
+13c6 stfld <uiForm>5__2
+13cb br 6968
+13d0 ldarg.0 
+13d1 ldsfld Instance
+13d6 ldarg.0 
+13d7 ldfld <unit>5__3
+13dc call UIComponentSystem::OpenWindow<ET.Client.Activity101.ThemeAlbumCardWindow>
+13e1 callvirt GetParent<ET.Client.UIForm>
+13e6 stfld <uiForm>5__2
+13eb br 6968
+13f0 ldarg.0 
+13f1 ldfld isOrder
+13f6 brfalse.s 5135
+13f8 ldsfld Instance
+13fd ldc.i4.0 
+13fe ldarg.0 
+13ff ldfld <unit>5__3
+1404 call UIComponentSystem::OpenOrderWindow<ET.Client.Activity6.ActivityPlayerReturnWindow>
+1409 pop 
+140a leave 7106
+140f ldarg.0 
+1410 ldsfld Instance
+1415 ldarg.0 
+1416 ldfld <unit>5__3
+141b call UIComponentSystem::OpenWindow<ET.Client.Activity6.ActivityPlayerReturnWindow>
+1420 callvirt GetParent<ET.Client.UIForm>
+1425 stfld <uiForm>5__2
+142a br 6968
+142f ldarg.0 
+1430 ldsfld Instance
+1435 ldarg.0 
+1436 ldfld <unit>5__3
+143b call UIComponentSystem::OpenWindow<ET.Client.Activity7.BindMailWindow>
+1440 callvirt GetParent<ET.Client.UIForm>
+1445 stfld <uiForm>5__2
+144a br 6968
+144f ldarg.0 
+1450 ldsfld Instance
+1455 ldarg.0 
+1456 ldfld <unit>5__3
+145b call UIComponentSystem::OpenWindow<ET.Client.Activity101.ThemeMayDayExchangeWindow>
+1460 callvirt GetParent<ET.Client.UIForm>
+1465 stfld <uiForm>5__2
+146a br 6968
+146f ldloc.2 
+1470 brfalse.s 5316
+1472 ldloc.2 
+1473 callvirt get_Template
+1478 ldc.i4.s 100
+147a rem 
+147b stloc.s local(0x000F)
+147d ldloc.s local(0x000F)
+147f ldc.i4.5 
+1480 sub 
+1481 ldc.i4.2 
+1482 bgt.un.s 5284
+1484 ldarg.0 
+1485 ldsfld Instance
+148a ldarg.0 
+148b ldfld <unit>5__3
+1490 call UIComponentSystem::OpenWindow<ET.Client.Activity101.ThemeSgin2Window>
+1495 callvirt GetParent<ET.Client.UIForm>
+149a stfld <uiForm>5__2
+149f br 6968
+14a4 ldarg.0 
+14a5 ldsfld Instance
+14aa ldarg.0 
+14ab ldfld <unit>5__3
+14b0 call UIComponentSystem::OpenWindow<ET.Client.Activity7.FreeLoginWindow>
+14b5 callvirt GetParent<ET.Client.UIForm>
+14ba stfld <uiForm>5__2
+14bf br 6968
+14c4 ldarg.0 
+14c5 ldsfld Instance
+14ca ldarg.0 
+14cb ldfld <unit>5__3
+14d0 call UIComponentSystem::OpenWindow<ET.Client.Activity7.FreeLoginWindow>
+14d5 callvirt GetParent<ET.Client.UIForm>
+14da stfld <uiForm>5__2
+14df br 6968
+14e4 ldarg.0 
+14e5 ldsfld Instance
+14ea ldarg.0 
+14eb ldfld <unit>5__3
+14f0 call UIComponentSystem::OpenWindow<ET.Client.Activity7.AllDisCountsWindow>
+14f5 callvirt GetParent<ET.Client.UIForm>
+14fa stfld <uiForm>5__2
+14ff br 6968
+1504 ldarg.0 
+1505 ldsfld Instance
+150a ldarg.0 
+150b ldfld <unit>5__3
+1510 call UIComponentSystem::OpenWindow<ET.Client.Activity7.ActivityScratchCardWindow>
+1515 callvirt GetParent<ET.Client.UIForm>
+151a stfld <uiForm>5__2
+151f br 6968
+1524 ldarg.0 
+1525 ldsfld Instance
+152a ldarg.0 
+152b ldfld <unit>5__3
+1530 call UIComponentSystem::OpenWindow<ET.Client.Activity7.FlashEudemonWindow>
+1535 callvirt GetParent<ET.Client.UIForm>
+153a stfld <uiForm>5__2
+153f br 6968
+1544 ldarg.0 
+1545 ldsfld Instance
+154a ldarg.0 
+154b ldfld <unit>5__3
+1550 call UIComponentSystem::OpenWindow<ET.Client.Activity7.ActivityEudemonCultivationWindow>
+1555 callvirt GetParent<ET.Client.UIForm>
+155a stfld <uiForm>5__2
+155f br 6968
+1564 ldarg.0 
+1565 ldsfld Instance
+156a ldarg.0 
+156b ldfld <unit>5__3
+1570 call UIComponentSystem::OpenWindow<ET.Client.Activity7.ActivityWishStarWindow>
+1575 callvirt GetParent<ET.Client.UIForm>
+157a stfld <uiForm>5__2
+157f br 6968
+1584 ldarg.0 
+1585 ldsfld Instance
+158a ldarg.0 
+158b ldfld <unit>5__3
+1590 call UIComponentSystem::OpenWindow<ET.Client.Activity7.ActivityFieldEudemonWindow>
+1595 callvirt GetParent<ET.Client.UIForm>
+159a stfld <uiForm>5__2
+159f br 6968
+15a4 ldloc.2 
+15a5 brfalse 6968
+15aa ldloc.2 
+15ab callvirt get_Template
+15b0 ldc.i4.s 100
+15b2 rem 
+15b3 ldc.i4.1 
+15b4 bne.un.s 5590
+15b6 ldarg.0 
+15b7 ldsfld Instance
+15bc ldarg.0 
+15bd ldfld <unit>5__3
+15c2 call UIComponentSystem::OpenWindow<ET.Client.Activity8.MakeSnowmanWindow>
+15c7 callvirt GetParent<ET.Client.UIForm>
+15cc stfld <uiForm>5__2
+15d1 br 6968
+15d6 ldarg.0 
+15d7 ldsfld Instance
+15dc ldarg.0 
+15dd ldfld <unit>5__3
+15e2 call UIComponentSystem::OpenWindow<ET.Client.Activity10.DriveBeastsWindow>
+15e7 callvirt GetParent<ET.Client.UIForm>
+15ec stfld <uiForm>5__2
+15f1 br 6968
+15f6 ldarg.0 
+15f7 ldsfld Instance
+15fc ldarg.0 
+15fd ldfld <unit>5__3
+1602 call UIComponentSystem::OpenWindow<ET.Client.Activity8.DodgeSnowBallWindow>
+1607 callvirt GetParent<ET.Client.UIForm>
+160c stfld <uiForm>5__2
+1611 br 6968
+1616 ldarg.0 
+1617 ldsfld Instance
+161c ldarg.0 
+161d ldfld <unit>5__3
+1622 call UIComponentSystem::OpenWindow<ET.Client.Activity8.ActivityBaLaLaWindow>
+1627 callvirt GetParent<ET.Client.UIForm>
+162c stfld <uiForm>5__2
+1631 br 6968
+1636 ldarg.0 
+1637 ldsfld Instance
+163c ldc.i4.2 
+163d ldarg.0 
+163e ldfld <unit>5__3
+1643 call UIComponentSystem::OpenOrderWindow<ET.Client.Activity8.ActivityServerChangeWindow>
+1648 callvirt GetParent<ET.Client.UIForm>
+164d stfld <uiForm>5__2
+1652 br 6968
+1657 ldarg.0 
+1658 ldsfld Instance
+165d ldarg.0 
+165e ldfld <unit>5__3
+1663 call UIComponentSystem::OpenWindow<ET.Client.Activity8.ActivityTreasureWindow>
+1668 callvirt GetParent<ET.Client.UIForm>
+166d stfld <uiForm>5__2
+1672 br 6968
+1677 ldarg.0 
+1678 ldsfld Instance
+167d ldarg.0 
+167e ldfld <unit>5__3
+1683 call UIComponentSystem::OpenWindow<ET.Client.Activity8.ActivityAnniversaryDropWindow>
+1688 callvirt GetParent<ET.Client.UIForm>
+168d stfld <uiForm>5__2
+1692 br 6968
+1697 ldarg.0 
+1698 ldsfld Instance
+169d ldarg.0 
+169e ldfld <unit>5__3
+16a3 call UIComponentSystem::OpenWindow<ET.Client.Activity8.ActivityAnniversaryQuestWindow>
+16a8 callvirt GetParent<ET.Client.UIForm>
+16ad stfld <uiForm>5__2
+16b2 br 6968
+16b7 ldarg.0 
+16b8 ldsfld Instance
+16bd ldc.i4.2 
+16be ldarg.0 
+16bf ldfld <unit>5__3
+16c4 call UIComponentSystem::OpenOrderWindow<ET.Client.RechargeShop.ActivityEnjoyWindow>
+16c9 callvirt GetParent<ET.Client.UIForm>
+16ce stfld <uiForm>5__2
+16d3 br 6968
+16d8 ldarg.0 
+16d9 ldsfld Instance
+16de ldc.i4.2 
+16df ldarg.0 
+16e0 ldfld <unit>5__3
+16e5 call UIComponentSystem::OpenOrderWindow<ET.Client.Activity104.ActivityH5FIFAJumpWindow>
+16ea callvirt GetParent<ET.Client.UIForm>
+16ef stfld <uiForm>5__2
+16f4 br 6968
+16f9 ldarg.0 
+16fa ldsfld Instance
+16ff ldc.i4.2 
+1700 ldarg.0 
+1701 ldfld <unit>5__3
+1706 call UIComponentSystem::OpenOrderWindow<ET.Client.Activity104.ActivityH5VipJumpWindow>
+170b callvirt GetParent<ET.Client.UIForm>
+1710 stfld <uiForm>5__2
+1715 br 6968
+171a ldarg.0 
+171b ldsfld Instance
+1720 ldarg.0 
+1721 ldfld <unit>5__3
+1726 call UIComponentSystem::OpenWindow<ET.Client.Activity8.ActivityAnniversaryWindow>
+172b callvirt GetParent<ET.Client.UIForm>
+1730 stfld <uiForm>5__2
+1735 br 6968
+173a ldloc.2 
+173b brfalse 6968
+1740 ldloc.2 
+1741 callvirt get_Template
+1746 ldc.i4.s 100
+1748 rem 
+1749 stloc.s local(0x0010)
+174b ldloc.s local(0x0010)
+174d ldc.i4.1 
+174e sub 
+174f switch [6001, 6034, 6067, 6100, 6133, 6166]
+176c br 6968
+1771 ldarg.0 
+1772 ldsfld Instance
+1777 ldc.i4.2 
+1778 ldarg.0 
+1779 ldfld <unit>5__3
+177e call UIComponentSystem::OpenOrderWindow<ET.Client.Activity8.ActivityPushModel1Window>
+1783 callvirt GetParent<ET.Client.UIForm>
+1788 stfld <uiForm>5__2
+178d br 6968
+1792 ldarg.0 
+1793 ldsfld Instance
+1798 ldc.i4.2 
+1799 ldarg.0 
+179a ldfld <unit>5__3
+179f call UIComponentSystem::OpenOrderWindow<ET.Client.Activity8.ActivityPushModel2Window>
+17a4 callvirt GetParent<ET.Client.UIForm>
+17a9 stfld <uiForm>5__2
+17ae br 6968
+17b3 ldarg.0 
+17b4 ldsfld Instance
+17b9 ldc.i4.2 
+17ba ldarg.0 
+17bb ldfld <unit>5__3
+17c0 call UIComponentSystem::OpenOrderWindow<ET.Client.Activity8.ActivityPushModel3Window>
+17c5 callvirt GetParent<ET.Client.UIForm>
+17ca stfld <uiForm>5__2
+17cf br 6968
+17d4 ldarg.0 
+17d5 ldsfld Instance
+17da ldc.i4.2 
+17db ldarg.0 
+17dc ldfld <unit>5__3
+17e1 call UIComponentSystem::OpenOrderWindow<ET.Client.Activity8.ActivityPushModel4Window>
+17e6 callvirt GetParent<ET.Client.UIForm>
+17eb stfld <uiForm>5__2
+17f0 br 6968
+17f5 ldarg.0 
+17f6 ldsfld Instance
+17fb ldc.i4.2 
+17fc ldarg.0 
+17fd ldfld <unit>5__3
+1802 call UIComponentSystem::OpenOrderWindow<ET.Client.Activity8.ActivityPushModel5Window>
+1807 callvirt GetParent<ET.Client.UIForm>
+180c stfld <uiForm>5__2
+1811 br 6968
+1816 ldarg.0 
+1817 ldsfld Instance
+181c ldc.i4.2 
+181d ldarg.0 
+181e ldfld <unit>5__3
+1823 call UIComponentSystem::OpenOrderWindow<ET.Client.Activity8.ActivityPushModel6Window>
+1828 callvirt GetParent<ET.Client.UIForm>
+182d stfld <uiForm>5__2
+1832 br 6968
+1837 ldarg.0 
+1838 ldsfld Instance
+183d ldarg.0 
+183e ldfld <unit>5__3
+1843 call UIComponentSystem::OpenWindow<ET.Client.Activity9.ActivityFlipBrandWindow>
+1848 callvirt GetParent<ET.Client.UIForm>
+184d stfld <uiForm>5__2
+1852 br 6968
+1857 ldarg.0 
+1858 ldsfld Instance
+185d ldarg.0 
+185e ldfld <unit>5__3
+1863 call UIComponentSystem::OpenWindow<ET.Client.Activity102.DailyMissionsWindow>
+1868 callvirt GetParent<ET.Client.UIForm>
+186d stfld <uiForm>5__2
+1872 br 6968
+1877 ldarg.0 
+1878 ldsfld Instance
+187d ldarg.0 
+187e ldfld <unit>5__3
+1883 call UIComponentSystem::OpenWindow<ET.Client.Activity9.ActivityPaldeaWindow>
+1888 callvirt GetParent<ET.Client.UIForm>
+188d stfld <uiForm>5__2
+1892 br 6968
+1897 ldarg.0 
+1898 ldsfld Instance
+189d ldarg.0 
+189e ldfld <unit>5__3
+18a3 call UIComponentSystem::OpenWindow<ET.Client.Activity9.ActivityPrayersWindow>
+18a8 callvirt GetParent<ET.Client.UIForm>
+18ad stfld <uiForm>5__2
+18b2 br 6968
+18b7 ldarg.0 
+18b8 ldsfld Instance
+18bd ldarg.0 
+18be ldfld <unit>5__3
+18c3 call UIComponentSystem::OpenWindow<ET.Client.Activity9.ActivityTimedCodeWindow>
+18c8 callvirt GetParent<ET.Client.UIForm>
+18cd stfld <uiForm>5__2
+18d2 br 6968
+18d7 ldarg.0 
+18d8 ldsfld Instance
+18dd ldarg.0 
+18de ldfld <unit>5__3
+18e3 call UIComponentSystem::OpenWindow<ET.Client.Activity7.FlashNewEudemonWindow>
+18e8 callvirt GetParent<ET.Client.UIForm>
+18ed stfld <uiForm>5__2
+18f2 br 6968
+18f7 ldarg.0 
+18f8 ldsfld Instance
+18fd ldarg.0 
+18fe ldfld <unit>5__3
+1903 call UIComponentSystem::OpenWindow<ET.Client.Activity10.ActivityTurtleCollisionWindow>
+1908 callvirt GetParent<ET.Client.UIForm>
+190d stfld <uiForm>5__2
+1912 br 6968
+1917 ldarg.0 
+1918 ldsfld Instance
+191d ldarg.0 
+191e ldfld <unit>5__3
+1923 call UIComponentSystem::OpenWindow<ET.Client.Activity9.ActivityFishingWindow>
+1928 callvirt GetParent<ET.Client.UIForm>
+192d stfld <uiForm>5__2
+1932 br 6968
+1937 ldarg.0 
+1938 ldsfld Instance
+193d ldarg.0 
+193e ldfld <unit>5__3
+1943 call UIComponentSystem::OpenWindow<ET.Client.ActivitySevenIslands.SevenIslandsWindow>
+1948 callvirt GetParent<ET.Client.UIForm>
+194d stfld <uiForm>5__2
+1952 br 6968
+1957 ldarg.0 
+1958 ldsfld Instance
+195d ldarg.0 
+195e ldfld <unit>5__3
+1963 call UIComponentSystem::OpenWindow<ET.Client.Activity106.ActivityWealthGodGiftWindow>
+1968 callvirt GetParent<ET.Client.UIForm>
+196d stfld <uiForm>5__2
+1972 br 6968
+1977 ldarg.0 
+1978 ldsfld Instance
+197d ldarg.0 
+197e ldfld <unit>5__3
+1983 call UIComponentSystem::OpenWindow<ET.Client.Activity10.ActivityGroupBuyWindow>
+1988 callvirt GetParent<ET.Client.UIForm>
+198d stfld <uiForm>5__2
+1992 br 6968
+1997 ldarg.0 
+1998 ldsfld Instance
+199d ldarg.0 
+199e ldfld <unit>5__3
+19a3 call UIComponentSystem::OpenWindow<ET.Client.Activity106.ActivityGuideWindow>
+19a8 callvirt GetParent<ET.Client.UIForm>
+19ad stfld <uiForm>5__2
+19b2 br 6968
+19b7 ldarg.0 
+19b8 ldsfld Instance
+19bd ldarg.0 
+19be ldfld <unit>5__3
+19c3 call UIComponentSystem::OpenWindow<ET.Client.Activity9.ActivityLudoWindow>
+19c8 callvirt GetParent<ET.Client.UIForm>
+19cd stfld <uiForm>5__2
+19d2 br 6968
+19d7 ldarg.0 
+19d8 ldsfld Instance
+19dd ldarg.0 
+19de ldfld <unit>5__3
+19e3 call UIComponentSystem::OpenWindow<ET.Client.Activity105.ActivityInfinityWindow>
+19e8 callvirt GetParent<ET.Client.UIForm>
+19ed stfld <uiForm>5__2
+19f2 br 6968
+19f7 ldarg.0 
+19f8 ldsfld Instance
+19fd ldarg.0 
+19fe ldfld <unit>5__3
+1a03 call UIComponentSystem::OpenWindow<ET.Client.Activity105.ActivityLanternFestivalWindow>
+1a08 callvirt GetParent<ET.Client.UIForm>
+1a0d stfld <uiForm>5__2
+1a12 br 6968
+1a17 ldarg.0 
+1a18 ldsfld Instance
+1a1d ldarg.0 
+1a1e ldfld <unit>5__3
+1a23 call UIComponentSystem::OpenWindow<ET.Client.Activity10.ActivityGroupBuyingWindow>
+1a28 callvirt GetParent<ET.Client.UIForm>
+1a2d stfld <uiForm>5__2
+1a32 br 6968
+1a37 ldarg.0 
+1a38 ldsfld Instance
+1a3d ldarg.0 
+1a3e ldfld <unit>5__3
+1a43 call UIComponentSystem::OpenWindow<ET.Client.Activity106.ActivityAnniversaryCakeThemeWindow>
+1a48 callvirt GetParent<ET.Client.UIForm>
+1a4d stfld <uiForm>5__2
+1a52 br 6968
+1a57 ldarg.0 
+1a58 ldsfld Instance
+1a5d ldarg.0 
+1a5e ldfld <unit>5__3
+1a63 call UIComponentSystem::OpenWindow<ET.Client.Activity104.ActivityMarbleWindow>
+1a68 callvirt GetParent<ET.Client.UIForm>
+1a6d stfld <uiForm>5__2
+1a72 br 6968
+1a77 ldarg.0 
+1a78 ldsfld Instance
+1a7d ldarg.0 
+1a7e ldfld <unit>5__3
+1a83 call UIComponentSystem::OpenWindow<ET.Client.Activity106.ActivityTurntableWindow>
+1a88 callvirt GetParent<ET.Client.UIForm>
+1a8d stfld <uiForm>5__2
+1a92 br 6968
+1a97 ldarg.0 
+1a98 ldfld scene
+1a9d call DomainScene
+1aa2 ldarg.0 
+1aa3 ldfld <unit>5__3
+1aa8 ldfld activityId
+1aad ldc.i4.1 
+1aae call ActivityServerSystem::NewCryWolfOpenInterface
+1ab3 callvirt GetAwaiter
+1ab8 stloc.s local(0x0011)
+1aba ldloc.s local(0x0011)
+1abc callvirt get_IsCompleted
+1ac1 brtrue.s 6916
+1ac3 ldarg.0 
+1ac4 ldc.i4.3 
+1ac5 dup 
+1ac6 stloc.0 
+1ac7 stfld <>1__state
+1acc ldarg.0 
+1acd ldloc.s local(0x0011)
+1acf stfld <>u__1
+1ad4 ldarg.0 
+1ad5 ldflda <>t__builder
+1ada ldloca.s local(0x0011)
+1adc ldarg.0 
+1add call AwaitUnsafeOnCompleted<0x15,ET.ETTask`1,0x1,ET.Game2Client_ActivityCryWolfNewOpenInterface,.<Jump>d__0>
+1ae2 leave 7139
+1ae7 ldarg.0 
+1ae8 ldfld <>u__1
+1aed castclass 0x1b0019d1
+1af2 stloc.s local(0x0011)
+1af4 ldarg.0 
+1af5 ldnull 
+1af6 stfld <>u__1
+1afb ldarg.0 
+1afc ldc.i4.m1 
+1afd dup 
+1afe stloc.0 
+1aff stfld <>1__state
+1b04 ldloc.s local(0x0011)
+1b06 callvirt GetResult
+1b0b pop 
+1b0c ldarg.0 
+1b0d ldsfld Instance
+1b12 ldarg.0 
+1b13 ldfld <unit>5__3
+1b18 call UIComponentSystem::OpenWindow<ET.Client.Activity100.NewWolfComingWindow>
+1b1d callvirt GetParent<ET.Client.UIForm>
+1b22 stfld <uiForm>5__2
+1b27 br.s 6968
+1b29 ldstr 'ComingSoon'
+1b2e call Empty<0x1c>
+1b33 call TipHelper::ShowTips
+1b38 ldarg.0 
+1b39 ldfld <uiForm>5__2
+1b3e ldnull 
+1b3f cgt.un 
+1b41 ldarg.0 
+1b42 ldfld isOrder
+1b47 and 
+1b48 brfalse.s 7021
+1b4a ldarg.0 
+1b4b ldfld <uiForm>5__2
+1b50 callvirt RemoveComponent<ET.Client.UIShowOrderComponent>
+1b55 ldarg.0 
+1b56 ldfld <uiForm>5__2
+1b5b ldc.i4.1 
+1b5c ldc.i4.0 
+1b5d callvirt AddComponent<ET.Client.UIShowOrderComponent,0x8>
+1b62 pop 
+1b63 ldsfld Instance
+1b68 call UIComponentSystem::ResetWindowsState
+1b6d ldarg.0 
+1b6e ldfld scene
+1b73 call DomainScene
+1b78 call MirrorSceneComponentSystem::MirrorScene
+1b7d stloc.3 
+1b7e ldarg.0 
+1b7f ldfld <uiForm>5__2
+1b84 brfalse.s 7065
+1b86 ldloc.3 
+1b87 brfalse.s 7065
+1b89 ldsfld Instance
+1b8e ldarg.0 
+1b8f ldfld <uiForm>5__2
+1b94 call UIComponentSystem::PauseWindow
+1b99 leave.s 7106
+1b9b stloc.s local(0x0012)
+1b9d ldarg.0 
+1b9e ldc.i4.s -2
+1ba0 stfld <>1__state
+1ba5 ldarg.0 
+1ba6 ldnull 
+1ba7 stfld <uiForm>5__2
+1bac ldarg.0 
+1bad ldnull 
+1bae stfld <unit>5__3
+1bb3 ldarg.0 
+1bb4 ldflda <>t__builder
+1bb9 ldloc.s local(0x0012)
+1bbb call SetException
+1bc0 leave.s 7139
+1bc2 ldarg.0 
+1bc3 ldc.i4.s -2
+1bc5 stfld <>1__state
+1bca ldarg.0 
+1bcb ldnull 
+1bcc stfld <uiForm>5__2
+1bd1 ldarg.0 
+1bd2 ldnull 
+1bd3 stfld <unit>5__3
+1bd8 ldarg.0 
+1bd9 ldflda <>t__builder
+1bde call SetResult
+1be3 ret 

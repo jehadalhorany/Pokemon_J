@@ -1,0 +1,742 @@
+{
+  "items": [
+    {
+      "type": 0,
+      "id": "lder6h4o7",
+      "name": "zjm_cp",
+      "path": "/Images/new/",
+      "file": null,
+      "size": [
+        39,
+        30
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mfdn10",
+      "name": "wjxx_bg1",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        66,
+        66
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mfdn11",
+      "name": "wjxx_bg2",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        46,
+        512
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mfdn12",
+      "name": "wjxx_bg3",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        190,
+        124
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mfdn15",
+      "name": "wjxx_hmd",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        134,
+        45
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mfdn16",
+      "name": "wjxx_bg5",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        48,
+        58
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mfdnz",
+      "name": "wjxx_bg",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        114,
+        114
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mti76h28d",
+      "name": "tj",
+      "path": "/Images/new/",
+      "file": null,
+      "size": [
+        60,
+        60
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mti76h28e",
+      "name": "xx",
+      "path": "/Images/new/",
+      "file": null,
+      "size": [
+        60,
+        60
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mut56h4o8",
+      "name": "hy_bg_1",
+      "path": "/Images/new/",
+      "file": null,
+      "size": [
+        1882,
+        1010
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mut56h4o9",
+      "name": "hy_bg2",
+      "path": "/Images/new/",
+      "file": null,
+      "size": [
+        20,
+        20
+      ]
+    },
+    {
+      "type": 0,
+      "id": "o1au1b",
+      "name": "hy_bg_4",
+      "path": "/Images/new/",
+      "file": null,
+      "size": [
+        163,
+        173
+      ]
+    },
+    {
+      "type": 0,
+      "id": "o1au1c",
+      "name": "hy_bg_5",
+      "path": "/Images/new/",
+      "file": null,
+      "size": [
+        40,
+        40
+      ]
+    },
+    {
+      "type": 0,
+      "id": "o1au1d",
+      "name": "hy_bth_qt",
+      "path": "/Images/new/",
+      "file": null,
+      "size": [
+        64,
+        63
+      ]
+    },
+    {
+      "type": 3,
+      "id": "7v640",
+      "name": "Friend_Window",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "mfdn14",
+      "name": "FriendEudemonItem",
+      "path": "/",
+      "file": null,
+      "size": [
+        190,
+        125
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "mfdn17",
+      "name": "BlackBtn",
+      "path": "/",
+      "file": null,
+      "size": [
+        139,
+        46
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "mti71",
+      "name": "FriendItem",
+      "path": "/",
+      "file": null,
+      "size": [
+        1389,
+        178
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "mti72",
+      "name": "FriendInfo_MiniWindow",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "mti7m",
+      "name": "FriendBtn",
+      "path": "/",
+      "file": null,
+      "size": [
+        207,
+        100
+      ],
+      "extension": 12
+    },
+    {
+      "type": 4,
+      "id": "atlas0",
+      "name": null,
+      "path": null,
+      "file": "atlas0.png",
+      "size": [
+        512,
+        256
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas_mfdn11",
+      "name": null,
+      "path": null,
+      "file": "atlas_mfdn11.png",
+      "size": [
+        64,
+        512
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas1",
+      "name": null,
+      "path": null,
+      "file": "atlas1.png",
+      "size": [
+        2048,
+        1024
+      ]
+    }
+  ],
+  "sprites": [
+    {
+      "id": "mfdn12",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        0,
+        124,
+        190
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "o1au1b",
+      "atlas": "atlas0",
+      "rect": [
+        126,
+        0,
+        163,
+        173
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "mfdn15",
+      "atlas": "atlas0",
+      "rect": [
+        126,
+        175,
+        134,
+        45
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "mfdnz",
+      "atlas": "atlas0",
+      "rect": [
+        291,
+        0,
+        114,
+        114
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "mfdn10",
+      "atlas": "atlas0",
+      "rect": [
+        262,
+        175,
+        66,
+        66
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "o1au1d",
+      "atlas": "atlas0",
+      "rect": [
+        330,
+        175,
+        63,
+        64
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "mfdn16",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        192,
+        48,
+        58
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "mti76h28d",
+      "atlas": "atlas0",
+      "rect": [
+        50,
+        192,
+        51,
+        58
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "mti76h28e",
+      "atlas": "atlas0",
+      "rect": [
+        291,
+        116,
+        46,
+        53
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "o1au1c",
+      "atlas": "atlas0",
+      "rect": [
+        339,
+        116,
+        40,
+        40
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "lder6h4o7",
+      "atlas": "atlas0",
+      "rect": [
+        103,
+        222,
+        39,
+        30
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "mut56h4o9",
+      "atlas": "atlas0",
+      "rect": [
+        103,
+        192,
+        20,
+        20
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "mfdn11",
+      "atlas": "atlas_mfdn11",
+      "rect": [
+        0,
+        0,
+        46,
+        512
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "mut56h4o8",
+      "atlas": "atlas1",
+      "rect": [
+        0,
+        0,
+        1882,
+        1010
+      ],
+      "rotated": 0
+    }
+  ],
+  "strings": [
+    "c1imbcrl",
+    "Base",
+    "ufgirfkm",
+    "Common",
+    "cyrayt3h",
+    "Item",
+    "lder6h4o7",
+    "zjm_cp",
+    "/Images/new/",
+    "mfdn10",
+    "wjxx_bg1",
+    "/Images/",
+    "mfdn11",
+    "wjxx_bg2",
+    "mfdn12",
+    "wjxx_bg3",
+    "mfdn15",
+    "wjxx_hmd",
+    "mfdn16",
+    "wjxx_bg5",
+    "mfdnz",
+    "wjxx_bg",
+    "mti76h28d",
+    "tj",
+    "mti76h28e",
+    "xx",
+    "mut56h4o8",
+    "hy_bg_1",
+    "mut56h4o9",
+    "hy_bg2",
+    "o1au1b",
+    "hy_bg_4",
+    "o1au1c",
+    "hy_bg_5",
+    "o1au1d",
+    "hy_bth_qt",
+    "7v640",
+    "Friend_Window",
+    "/",
+    "ShowType",
+    "4",
+    "None",
+    "0",
+    "Friend",
+    "1",
+    "Add",
+    "2",
+    "Apply",
+    "3",
+    "Blacklist",
+    "State",
+    "Normal",
+    "ChatState",
+    "showchat",
+    "hidechat",
+    "n32_mut5",
+    "n32",
+    "n13_mti7",
+    "bg",
+    "ui://uwevbao2mut56h4o8",
+    "8yc42",
+    "n3_mti7",
+    "wnd",
+    "好友",
+    "n4_mti7",
+    "list_friend",
+    "ui://uwevbao2mti71",
+    "n5_mti7",
+    "lb_friendNum",
+    "好友人数：10/50",
+    "eeo81lyorlw",
+    "n6_mti7",
+    "btn_send",
+    "一键赠送",
+    "ui://ufgirfkmaban6h2pp",
+    "pqp26h2eg",
+    "n25_mti7",
+    "n25",
+    "n7_mti7",
+    "btn_search",
+    "查找",
+    "n11_mti7",
+    "btn_allrefuse",
+    "front",
+    "一键拒绝",
+    "ui://ufgirfkmaban6h2po",
+    "n12_mti7",
+    "btn_allagree",
+    "一键同意",
+    "n16_mti7",
+    "list_title",
+    "ui://ufgirfkmmti76h26e",
+    "好  友",
+    "好友添加",
+    "好友申请",
+    "黑名单",
+    "n31_o1au",
+    "n31",
+    "n19_mti7",
+    "btn_chatfriend",
+    "私聊",
+    "ui://cyrayt3hw5i86h4la",
+    "n20_mti7",
+    "btn_delete",
+    "删除",
+    "n21_mti7",
+    "btn_blacklist",
+    "加入黑名单",
+    "n22_mti7",
+    "g_chat",
+    "n23_mti7",
+    "lb_tip",
+    "提示VIP等级可增加上限",
+    "n24_mti7",
+    "lb_gotip",
+    "前往提升",
+    "n27_aban",
+    "img_tipgo",
+    "g9mo6h4gz",
+    "n30_o1au",
+    "n30",
+    "n10_mti7",
+    "lb_input",
+    "输入玩家名称",
+    "n15_mti7",
+    "lb_none",
+    "暂无好友",
+    "mfdn14",
+    "FriendEudemonItem",
+    "model",
+    "normal",
+    "isNull",
+    "n5_mfdn",
+    "n5",
+    "n979h287",
+    "n4_mfdn",
+    "eudemon",
+    "mfdn17",
+    "BlackBtn",
+    "button",
+    "up",
+    "down",
+    "over",
+    "selectedOver",
+    "n7_mfdn",
+    "n7",
+    "title",
+    "加好友",
+    "mti71",
+    "FriendItem",
+    "OnLine",
+    "OffLine",
+    "PowerStatus",
+    "Receive",
+    "Received",
+    "GivePowerStatus",
+    "StateVip",
+    "Vip",
+    "NoVip",
+    "FriendState",
+    "NoFriend",
+    "BattleType",
+    "DoubleBattle",
+    "ui://uwevbao2o1au1b",
+    "j0o0h24u",
+    "n0_mti7",
+    "playerHead",
+    "btn_getLength",
+    "领体力",
+    "btn_sendLength",
+    "6",
+    "赠送体力",
+    "ui://cyrayt3huv5m6h2vz",
+    "ultg6h2tz",
+    "btn_pk",
+    "ui://ufgirfkmqs1726",
+    "psobw",
+    "n8_mti7",
+    "btn_chat",
+    "ui://uwevbao2o1au1d",
+    "n9_mti7",
+    "btn_add",
+    "添加",
+    "ui://ufgirfkmpsobh23t",
+    "btn_refuse",
+    "拒绝",
+    "btn_agree",
+    "同意",
+    "btn_remove",
+    "移除",
+    "n2_mti7",
+    "lb_name",
+    "ID玩家名字七个字",
+    "lb_power",
+    "1,579,300",
+    "nlv06h4ot",
+    "n18_mti7",
+    "n18",
+    "lb_vip",
+    "99",
+    "power",
+    "lb_online",
+    "· 在线",
+    "n24_caxk",
+    "lb_friend",
+    "已经是你好友",
+    "n25_o1au",
+    "lb_pk",
+    "切磋",
+    "n26_ivs7",
+    "btn_doublebattle",
+    "双打邀请",
+    "ui://cyrayt3hivs7g6h5ut",
+    "mti72",
+    "FriendInfo_MiniWindow",
+    "NoServer",
+    "GuildState",
+    "eqxp6h4fd",
+    "n46_mfdn",
+    "BigSize",
+    "7",
+    "n48_mfdn",
+    "n48",
+    "n49_mfdn",
+    "n49",
+    "n50_mfdn",
+    "n50",
+    "n51_mfdn",
+    "n51",
+    "n54_mfdn",
+    "n54",
+    "n61_pqp2",
+    "n61",
+    "n60_mfdn",
+    "n60",
+    "k2306h2w8",
+    "n53_mfdn",
+    "n53",
+    "mfdn13",
+    "n58_mfdn",
+    "n58",
+    "n56_mfdn",
+    "n56",
+    "ui://Item/fun_161",
+    "n57_mfdn",
+    "guildIcon",
+    "ui://Item/flag_5",
+    "lb_thouse",
+    "房产",
+    "lb_tujian",
+    "图鉴收集图鉴收集图鉴收集图鉴收集图鉴收集",
+    "lb_house",
+    "房产",
+    "cms46h4hr",
+    "n59_mfdn",
+    "pro_tujian",
+    "se4ph26g",
+    "n43_mti7",
+    "Model",
+    "n28_mti7",
+    "eudemon_list",
+    "ui://uwevbao2mfdn14",
+    "n55_mfdn",
+    "eudemon_list2",
+    "黑名单",
+    "ui://ufgirfkmmti76h28b",
+    "mti7m",
+    "私聊",
+    "ui://uwevbao2mti76h28e",
+    "btn_friend",
+    "加好友",
+    "ui://uwevbao2mti76h28d",
+    "切磋",
+    "ui://ufgirfkmmti76h28c",
+    "玩家名字七个字",
+    "lb_level",
+    "LV 100",
+    "lb_tflats",
+    "公寓",
+    "lb_flats",
+    "公寓",
+    "n14_mti7",
+    "lb_tujianpro",
+    "100/500",
+    "lb_tguild",
+    "公会",
+    "lb_guild",
+    "公会",
+    "lb_trank",
+    "排名",
+    "lb_rank",
+    "第250名",
+    "NewFont",
+    "1579",
+    "n30_mti7",
+    "lb_eudemo",
+    "ui://ufgirfkmqz27h255",
+    "玩家精灵玩家精灵玩家精灵",
+    "n32_mti7",
+    "90",
+    "n44_caxk",
+    "list_playerTitle",
+    "ui://ufgirfkmmti7h22y",
+    "ku3u1lyosq8",
+    "n45_n979",
+    "icon_title",
+    "n62_ux09",
+    "close",
+    "n63_ivs7",
+    "双打邀请",
+    "ui://ufgirfkmivs71lyos3t",
+    "FriendBtn",
+    "p0l36h31e",
+    "icon",
+    "加好友",
+    "atlas0",
+    "atlas0.png",
+    "atlas_mfdn11",
+    "atlas_mfdn11.png",
+    "atlas1",
+    "atlas1.png"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "validatedAt": "2026-10-17T11:42:46.725Z",
+  "stairs": true,
+  "momNativeDialogue": true,
+  "houseExitAndLabDoor": true,
+  "professorNativeDialogue": true,
+  "walkToStarterBalls": true,
+  "previewDoesNotGrantPartner": true,
+  "pageErrors": []
+}

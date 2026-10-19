@@ -1,0 +1,112 @@
+{
+  "items": [
+    {
+      "type": 0,
+      "id": "dkv0a",
+      "name": "mrcj_jizi(1)",
+      "path": "/",
+      "file": null,
+      "size": [
+        622,
+        512
+      ]
+    },
+    {
+      "type": 0,
+      "id": "dkv0b",
+      "name": "mrcj_di_2",
+      "path": "/",
+      "file": null,
+      "size": [
+        56,
+        56
+      ]
+    },
+    {
+      "type": 9,
+      "id": "gf820",
+      "name": "guoranweng",
+      "path": "/",
+      "file": "guoranweng.json",
+      "size": [
+        268,
+        312
+      ]
+    },
+    {
+      "type": 9,
+      "id": "gf823",
+      "name": "miaomiao",
+      "path": "/",
+      "file": "miaomiao.json",
+      "size": [
+        380,
+        351
+      ]
+    },
+    {
+      "type": 9,
+      "id": "gf826",
+      "name": "qiu",
+      "path": "/",
+      "file": "qiu.json",
+      "size": [
+        460,
+        224
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas0",
+      "name": null,
+      "path": null,
+      "file": "atlas0.png",
+      "size": [
+        1024,
+        1024
+      ]
+    }
+  ],
+  "sprites": [
+    {
+      "id": "dkv0a",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        0,
+        622,
+        512
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "dkv0b",
+      "atlas": "atlas0",
+      "rect": [
+        624,
+        0,
+        56,
+        56
+      ],
+      "rotated": 0
+    }
+  ],
+  "strings": [
+    "dkv0a",
+    "mrcj_jizi(1)",
+    "/",
+    "dkv0b",
+    "mrcj_di_2",
+    "gf820",
+    "guoranweng",
+    "guoranweng.json",
+    "gf823",
+    "miaomiao",
+    "miaomiao.json",
+    "gf826",
+    "qiu",
+    "qiu.json",
+    "atlas0",
+    "atlas0.png"
+  ]
+}

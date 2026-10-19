@@ -1,0 +1,3153 @@
+{
+  "items": [
+    {
+      "type": 0,
+      "id": "h29u0",
+      "name": "qzd_ic_5",
+      "path": "/SevenIslandsMain/Images/",
+      "file": null,
+      "size": [
+        98,
+        69
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h29u1",
+      "name": "qzd_ic_2",
+      "path": "/SevenIslandsMain/Images/",
+      "file": null,
+      "size": [
+        58,
+        63
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h29u1d",
+      "name": "znqts_bth_1",
+      "path": "/SevenIslandsMain/Images/",
+      "file": null,
+      "size": [
+        61,
+        60
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h29u1j",
+      "name": "zndl_di_7",
+      "path": "/SevenIslandsDrop/image/",
+      "file": null,
+      "size": [
+        284,
+        143
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h29u1k",
+      "name": "zndl_di_8",
+      "path": "/SevenIslandsDrop/image/",
+      "file": null,
+      "size": [
+        260,
+        712
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h29u1l",
+      "name": "ydxyx_bth_1",
+      "path": "/SevenIslandsDrop/image/",
+      "file": null,
+      "size": [
+        60,
+        60
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h29u1m",
+      "name": "mrcj_di_4",
+      "path": "/SevenIslandsDrop/image/",
+      "file": null,
+      "size": [
+        45,
+        46
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h29u1n",
+      "name": "zndl_di_1",
+      "path": "/SevenIslandsDrop/image/",
+      "file": null,
+      "size": [
+        494,
+        801
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h29u1o",
+      "name": "zndl_di_4",
+      "path": "/SevenIslandsDrop/image/",
+      "file": null,
+      "size": [
+        330,
+        78
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h29u1p",
+      "name": "zndl_di_2",
+      "path": "/SevenIslandsDrop/image/",
+      "file": null,
+      "size": [
+        494,
+        801
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h29u1q",
+      "name": "zndl_di_5",
+      "path": "/SevenIslandsDrop/image/",
+      "file": null,
+      "size": [
+        330,
+        78
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h29u1r",
+      "name": "zndl_di_3",
+      "path": "/SevenIslandsDrop/image/",
+      "file": null,
+      "size": [
+        494,
+        801
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h29u1s",
+      "name": "zndl_di_6",
+      "path": "/SevenIslandsDrop/image/",
+      "file": null,
+      "size": [
+        330,
+        78
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h29u1v",
+      "name": "zndl_di_9",
+      "path": "/SevenIslandsDrop/image/",
+      "file": null,
+      "size": [
+        247,
+        163
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h29u1w",
+      "name": "zndl_di_10",
+      "path": "/SevenIslandsDrop/image/",
+      "file": null,
+      "size": [
+        247,
+        163
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h29u2",
+      "name": "qzd_ic_1",
+      "path": "/SevenIslandsMain/Images/",
+      "file": null,
+      "size": [
+        117,
+        99
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h29u29",
+      "name": "hc2048_bth_1",
+      "path": "/SevenIslandsDrop/image/",
+      "file": null,
+      "size": [
+        50,
+        50
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h29u2a",
+      "name": "wsj_bth_8",
+      "path": "/SevenIslandsDrop/image/",
+      "file": null,
+      "size": [
+        80,
+        81
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h29u2r",
+      "name": "zbxt_bg_1",
+      "path": "/SevenIslandsMain/Images/",
+      "file": null,
+      "size": [
+        1024,
+        511
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h29u2s",
+      "name": "zbxt_di_4",
+      "path": "/SevenIslandsDrop/image/",
+      "file": null,
+      "size": [
+        37,
+        752
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h29u2t",
+      "name": "zbxt_di_6",
+      "path": "/SevenIslandsMain/Images/",
+      "file": null,
+      "size": [
+        199,
+        76
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h29u2u",
+      "name": "zbxt_di_3",
+      "path": "/SevenIslandsMain/Images/",
+      "file": null,
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h29u2v",
+      "name": "zbxt_di_8",
+      "path": "/SevenIslandsMain/Images/",
+      "file": null,
+      "size": [
+        40,
+        40
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h29u2x",
+      "name": "tjtz_zs_2",
+      "path": "/SevenIslandsMain/Images/",
+      "file": null,
+      "size": [
+        74,
+        68
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h29u3",
+      "name": "qzd_di_11",
+      "path": "/SevenIslandsMain/Images/",
+      "file": null,
+      "size": [
+        539,
+        269
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h29u30",
+      "name": "znqts_bth_2",
+      "path": "/SevenIslandsMain/Images/",
+      "file": null,
+      "size": [
+        284,
+        78
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h29u31",
+      "name": "zbxt_di_5",
+      "path": "/SevenIslandsMain/Images/",
+      "file": null,
+      "size": [
+        219,
+        204
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h29u33",
+      "name": "yzzl_di_3",
+      "path": "/SevenIslandsMain/Images/",
+      "file": null,
+      "size": [
+        42,
+        42
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h29u37",
+      "name": "bllhd_di_3",
+      "path": "/SevenIslandsMain/Images/",
+      "file": null,
+      "size": [
+        100,
+        33
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h29u38",
+      "name": "bllhd_di_4",
+      "path": "/SevenIslandsMain/Images/",
+      "file": null,
+      "size": [
+        100,
+        25
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h29u3a",
+      "name": "bllhd_di_7",
+      "path": "/SevenIslandsMain/Images/",
+      "file": null,
+      "size": [
+        56,
+        41
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h29u3c",
+      "name": "flhd_di_1",
+      "path": "/SevenIslandsMain/Images/",
+      "file": null,
+      "size": [
+        76,
+        64
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h29u3d",
+      "name": "yxzs_bg_3",
+      "path": "/SevenIslandsMain/Images/",
+      "file": null,
+      "size": [
+        30,
+        30
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h29u3e",
+      "name": "znqts_bth_4",
+      "path": "/SevenIslandsMain/Images/",
+      "file": null,
+      "size": [
+        284,
+        78
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h29u3i",
+      "name": "qzd_di_12",
+      "path": "/SevenIslandsMain/Images/",
+      "file": null,
+      "size": [
+        343,
+        98
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h29u3j",
+      "name": "云",
+      "path": "/SevenIslandsMain/Images/",
+      "file": null,
+      "size": [
+        392,
+        71
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h29u4",
+      "name": "qzd_di_10",
+      "path": "/SevenIslandsMain/Images/",
+      "file": null,
+      "size": [
+        539,
+        251
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h29u5",
+      "name": "qzd_di_9",
+      "path": "/SevenIslandsMain/Images/",
+      "file": null,
+      "size": [
+        347,
+        238
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h29u6",
+      "name": "qzd_di_8",
+      "path": "/SevenIslandsMain/Images/",
+      "file": null,
+      "size": [
+        74,
+        58
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h29u7",
+      "name": "qzd_di_7",
+      "path": "/SevenIslandsMain/Images/",
+      "file": null,
+      "size": [
+        74,
+        58
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h29u8",
+      "name": "qzd_di_6",
+      "path": "/SevenIslandsMain/Images/",
+      "file": null,
+      "size": [
+        547,
+        143
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h29u9",
+      "name": "qzd_di_5",
+      "path": "/SevenIslandsMain/Images/",
+      "file": null,
+      "size": [
+        116,
+        40
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h29ua",
+      "name": "qzd_di_4",
+      "path": "/SevenIslandsMain/Images/",
+      "file": null,
+      "size": [
+        69,
+        54
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h29ub",
+      "name": "qzd_di_3",
+      "path": "/SevenIslandsMain/Images/",
+      "file": null,
+      "size": [
+        46,
+        47
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h29uc",
+      "name": "qzd_di_2",
+      "path": "/SevenIslandsMain/Images/",
+      "file": null,
+      "size": [
+        46,
+        47
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h29ud",
+      "name": "qzd_di_1",
+      "path": "/SevenIslandsMain/Images/",
+      "file": null,
+      "size": [
+        46,
+        47
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h29ue",
+      "name": "qzd_bth_2",
+      "path": "/SevenIslandsMain/Images/",
+      "file": null,
+      "size": [
+        74,
+        61
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h29uf",
+      "name": "qzd_bth_1",
+      "path": "/SevenIslandsMain/Images/",
+      "file": null,
+      "size": [
+        44,
+        44
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h29ug",
+      "name": "qzd_bg_4",
+      "path": "/SevenIslandsMain/Images/",
+      "file": null,
+      "size": [
+        1010,
+        321
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h29uh",
+      "name": "qzd_bg_3",
+      "path": "/SevenIslandsMain/Images/",
+      "file": null,
+      "size": [
+        1010,
+        443
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h29ui",
+      "name": "qzd_bg_2",
+      "path": "/SevenIslandsMain/Images/",
+      "file": null,
+      "size": [
+        1024,
+        480
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h29uj",
+      "name": "qzd_bg_1",
+      "path": "/SevenIslandsMain/Images/",
+      "file": null,
+      "size": [
+        1024,
+        545
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h29uk",
+      "name": "qzd_lxzy_3",
+      "path": "/SevenIslandsMain/Images/",
+      "file": null,
+      "size": [
+        560,
+        694
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h29ul",
+      "name": "qzd_lxzy_2",
+      "path": "/SevenIslandsMain/Images/",
+      "file": null,
+      "size": [
+        576,
+        689
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h29um",
+      "name": "qzd_lxzy_1",
+      "path": "/SevenIslandsMain/Images/",
+      "file": null,
+      "size": [
+        564,
+        694
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h29un",
+      "name": "qzd_ic_6",
+      "path": "/SevenIslandsMain/Images/",
+      "file": null,
+      "size": [
+        98,
+        69
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h29uo",
+      "name": "qzd_ic_3",
+      "path": "/SevenIslandsMain/Images/",
+      "file": null,
+      "size": [
+        62,
+        61
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h29up",
+      "name": "qzd_ic_4",
+      "path": "/SevenIslandsMain/Images/",
+      "file": null,
+      "size": [
+        98,
+        69
+      ]
+    },
+    {
+      "type": 0,
+      "id": "hyfr3u",
+      "name": "input",
+      "path": "/SevenIslandsMain/Images/",
+      "file": null,
+      "size": [
+        120,
+        75
+      ]
+    },
+    {
+      "type": 0,
+      "id": "hyfr3x",
+      "name": "ty_ic_inforcopy",
+      "path": "/SevenIslandsMain/Images/",
+      "file": null,
+      "size": [
+        50,
+        52
+      ]
+    },
+    {
+      "type": 0,
+      "id": "r0tz40",
+      "name": "bao_3",
+      "path": "/SevenIslandsDrop/image/",
+      "file": null,
+      "size": [
+        218,
+        229
+      ]
+    },
+    {
+      "type": 0,
+      "id": "r0tz41",
+      "name": "bao_2",
+      "path": "/SevenIslandsDrop/image/",
+      "file": null,
+      "size": [
+        218,
+        229
+      ]
+    },
+    {
+      "type": 0,
+      "id": "r0tz42",
+      "name": "bao_1",
+      "path": "/SevenIslandsDrop/image/",
+      "file": null,
+      "size": [
+        218,
+        229
+      ]
+    },
+    {
+      "type": 3,
+      "id": "h29u1b",
+      "name": "SIslandCom",
+      "path": "/SevenIslandsMain/Component/",
+      "file": null,
+      "size": [
+        528,
+        263
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "h29u2m",
+      "name": "SevenIslandsDropReward_MiniWindow",
+      "path": "/SevenIslandsDrop/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "h29u2o",
+      "name": "SevenIslandsDropItem",
+      "path": "/SevenIslandsDrop/",
+      "file": null,
+      "size": [
+        245,
+        160
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "h29u2p",
+      "name": "SevenIslandsDrop_MiniWindow",
+      "path": "/SevenIslandsDrop/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "h29u2q",
+      "name": "SevenIslandsDropRewardItem",
+      "path": "/SevenIslandsDrop/",
+      "file": null,
+      "size": [
+        1342,
+        159
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "h29u2w",
+      "name": "SevenIslandsTeamList_MiniWindow",
+      "path": "/SevenIslandsMain/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "h29u2y",
+      "name": "SevenIsTeamListItem",
+      "path": "/SevenIslandsMain/Component/",
+      "file": null,
+      "size": [
+        1564,
+        182
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "h29u2z",
+      "name": "SevenIslandsTeam_MiniWindow",
+      "path": "/SevenIslandsMain/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "h29u32",
+      "name": "SevenIslandsHotSpring_MiniWindow",
+      "path": "/SevenIslandsMain/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "h29u34",
+      "name": "SevenIslandsInvite_MiniWindow",
+      "path": "/SevenIslandsMain/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "h29u35",
+      "name": "SevenIslandsInviteItem",
+      "path": "/SevenIslandsMain/Component/",
+      "file": null,
+      "size": [
+        547,
+        173
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "h29u36",
+      "name": "SevenIslandsRule_MiniWindow",
+      "path": "/SevenIslandsMain/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "h29u39",
+      "name": "SevenIslandsTeamPro",
+      "path": "/SevenIslandsMain/Component/",
+      "file": null,
+      "size": [
+        100,
+        33
+      ],
+      "extension": 14
+    },
+    {
+      "type": 3,
+      "id": "h29u3b",
+      "name": "SevenIslandsTeamItem",
+      "path": "/SevenIslandsMain/Component/",
+      "file": null,
+      "size": [
+        215,
+        192
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "h29u3f",
+      "name": "SevenIslandsTeamBtn",
+      "path": "/SevenIslandsMain/Component/",
+      "file": null,
+      "size": [
+        539,
+        251
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "h29u3g",
+      "name": "SevenIslandsTeamPlayer",
+      "path": "/SevenIslandsMain/Component/",
+      "file": null,
+      "size": [
+        547,
+        173
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "h29uq",
+      "name": "SevenIslands_MiniWindow",
+      "path": "/SevenIslandsMain/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "hyfr3k",
+      "name": "SevenIslandsScene_Bg",
+      "path": "/SevenIslandsMain/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "hyfr3l",
+      "name": "SIslandBtnTeam",
+      "path": "/SevenIslandsMain/Component/",
+      "file": null,
+      "size": [
+        122,
+        132
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "hyfr3m",
+      "name": "MiniMap",
+      "path": "/SevenIslandsMain/Component/",
+      "file": null,
+      "size": [
+        242,
+        200
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "hyfr3p",
+      "name": "SevenIslandsBeInvite_MiniWindow",
+      "path": "/SevenIslandsMain/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "hyfr3q",
+      "name": "SevenIslandsApplyIn_MiniWindow",
+      "path": "/SevenIslandsMain/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "hyfr3r",
+      "name": "SevenIslandsApplyInItem",
+      "path": "/SevenIslandsMain/Component/",
+      "file": null,
+      "size": [
+        1113,
+        173
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "hyfr3s",
+      "name": "SevenIslandsBeInviteItem",
+      "path": "/SevenIslandsMain/Component/",
+      "file": null,
+      "size": [
+        1113,
+        173
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "hyfr3t",
+      "name": "SevenIsTeamListItemPlayer",
+      "path": "/SevenIslandsMain/Component/",
+      "file": null,
+      "size": [
+        173,
+        173
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "hyfr3w",
+      "name": "RoleInfoCoypBtn",
+      "path": "/SevenIslandsMain/Component/",
+      "file": null,
+      "size": [
+        50,
+        68
+      ],
+      "extension": 12
+    },
+    {
+      "type": 0,
+      "id": "h29u19",
+      "name": "qzd_zi_1_cn",
+      "path": "/SevenIslandsMain/Language/",
+      "file": null,
+      "size": [
+        583,
+        187
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h29u1a",
+      "name": "cjzjm_di_3",
+      "path": "/SevenIslandsMain/Images/",
+      "file": null,
+      "size": [
+        54,
+        44
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h29ur",
+      "name": "1",
+      "path": "/SevenIslandsMain/Images/Islands/",
+      "file": null,
+      "size": [
+        310,
+        370
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h29us",
+      "name": "2",
+      "path": "/SevenIslandsMain/Images/Islands/",
+      "file": null,
+      "size": [
+        328,
+        281
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h29ut",
+      "name": "3",
+      "path": "/SevenIslandsMain/Images/Islands/",
+      "file": null,
+      "size": [
+        441,
+        228
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h29uu",
+      "name": "4",
+      "path": "/SevenIslandsMain/Images/Islands/",
+      "file": null,
+      "size": [
+        476,
+        276
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h29uv",
+      "name": "5",
+      "path": "/SevenIslandsMain/Images/Islands/",
+      "file": null,
+      "size": [
+        287,
+        252
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h29uw",
+      "name": "6",
+      "path": "/SevenIslandsMain/Images/Islands/",
+      "file": null,
+      "size": [
+        290,
+        294
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h29ux",
+      "name": "7",
+      "path": "/SevenIslandsMain/Images/Islands/",
+      "file": null,
+      "size": [
+        437,
+        422
+      ]
+    },
+    {
+      "type": 0,
+      "id": "r0tz43",
+      "name": "qzd_zi_1_en",
+      "path": "/SevenIslandsMain/Language/",
+      "file": null,
+      "size": [
+        583,
+        187
+      ]
+    },
+    {
+      "type": 0,
+      "id": "r0tz44",
+      "name": "qzd_zi_1_es",
+      "path": "/SevenIslandsMain/Language/",
+      "file": null,
+      "size": [
+        583,
+        187
+      ]
+    },
+    {
+      "type": 0,
+      "id": "r0tz45",
+      "name": "qzd_zi_1_idn",
+      "path": "/SevenIslandsMain/Language/",
+      "file": null,
+      "size": [
+        583,
+        187
+      ]
+    },
+    {
+      "type": 0,
+      "id": "r0tz46",
+      "name": "qzd_zi_1_ko",
+      "path": "/SevenIslandsMain/Language/",
+      "file": null,
+      "size": [
+        583,
+        187
+      ]
+    },
+    {
+      "type": 0,
+      "id": "r0tz47",
+      "name": "qzd_zi_1_pt",
+      "path": "/SevenIslandsMain/Language/",
+      "file": null,
+      "size": [
+        583,
+        187
+      ]
+    },
+    {
+      "type": 0,
+      "id": "r0tz48",
+      "name": "qzd_zi_1_tw",
+      "path": "/SevenIslandsMain/Language/",
+      "file": null,
+      "size": [
+        583,
+        187
+      ]
+    },
+    {
+      "type": 0,
+      "id": "vlji4a",
+      "name": "qzd_zi_1_vi",
+      "path": "/SevenIslandsMain/Language/",
+      "file": null,
+      "size": [
+        583,
+        187
+      ]
+    },
+    {
+      "type": 0,
+      "id": "wywu49",
+      "name": "qzd_zi_1_ru",
+      "path": "/SevenIslandsMain/Language/",
+      "file": null,
+      "size": [
+        583,
+        187
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas1",
+      "name": null,
+      "path": null,
+      "file": "atlas1.png",
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas_h29u19",
+      "name": null,
+      "path": null,
+      "file": "atlas_h29u19.png",
+      "size": [
+        512,
+        256
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas_r0tz43",
+      "name": null,
+      "path": null,
+      "file": "atlas_r0tz43.png",
+      "size": [
+        512,
+        256
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas_r0tz44",
+      "name": null,
+      "path": null,
+      "file": "atlas_r0tz44.png",
+      "size": [
+        512,
+        256
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas_r0tz45",
+      "name": null,
+      "path": null,
+      "file": "atlas_r0tz45.png",
+      "size": [
+        512,
+        256
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas_r0tz46",
+      "name": null,
+      "path": null,
+      "file": "atlas_r0tz46.png",
+      "size": [
+        512,
+        256
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas_r0tz47",
+      "name": null,
+      "path": null,
+      "file": "atlas_r0tz47.png",
+      "size": [
+        512,
+        256
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas_r0tz48",
+      "name": null,
+      "path": null,
+      "file": "atlas_r0tz48.png",
+      "size": [
+        512,
+        256
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas_wywu49",
+      "name": null,
+      "path": null,
+      "file": "atlas_wywu49.png",
+      "size": [
+        512,
+        256
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas_vlji4a",
+      "name": null,
+      "path": null,
+      "file": "atlas_vlji4a.png",
+      "size": [
+        512,
+        256
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas_h29u2r",
+      "name": null,
+      "path": null,
+      "file": "atlas_h29u2r.png",
+      "size": [
+        1024,
+        512
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas2",
+      "name": null,
+      "path": null,
+      "file": "atlas2.png",
+      "size": [
+        1024,
+        512
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas_h29ui",
+      "name": null,
+      "path": null,
+      "file": "atlas_h29ui.png",
+      "size": [
+        1024,
+        512
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas_h29u1k",
+      "name": null,
+      "path": null,
+      "file": "atlas_h29u1k.png",
+      "size": [
+        512,
+        1024
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas_h29u1n",
+      "name": null,
+      "path": null,
+      "file": "atlas_h29u1n.png",
+      "size": [
+        512,
+        1024
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas_h29u1p",
+      "name": null,
+      "path": null,
+      "file": "atlas_h29u1p.png",
+      "size": [
+        512,
+        1024
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas_h29u1r",
+      "name": null,
+      "path": null,
+      "file": "atlas_h29u1r.png",
+      "size": [
+        512,
+        1024
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas_h29uj",
+      "name": null,
+      "path": null,
+      "file": "atlas_h29uj.png",
+      "size": [
+        1024,
+        1024
+      ]
+    }
+  ],
+  "sprites": [
+    {
+      "id": "h29ug",
+      "atlas": "atlas1",
+      "rect": [
+        0,
+        0,
+        1010,
+        321
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "h29uh",
+      "atlas": "atlas1",
+      "rect": [
+        1012,
+        0,
+        1010,
+        443
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "h29uk",
+      "atlas": "atlas1",
+      "rect": [
+        0,
+        323,
+        694,
+        560
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "h29um",
+      "atlas": "atlas1",
+      "rect": [
+        696,
+        445,
+        694,
+        564
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "h29ul",
+      "atlas": "atlas1",
+      "rect": [
+        0,
+        885,
+        689,
+        576
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "h29u8",
+      "atlas": "atlas1",
+      "rect": [
+        1392,
+        445,
+        547,
+        143
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "h29u3",
+      "atlas": "atlas1",
+      "rect": [
+        1392,
+        590,
+        539,
+        269
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "h29u4",
+      "atlas": "atlas1",
+      "rect": [
+        1392,
+        861,
+        539,
+        251
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "h29uu",
+      "atlas": "atlas1",
+      "rect": [
+        691,
+        1011,
+        476,
+        276
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "h29ut",
+      "atlas": "atlas1",
+      "rect": [
+        691,
+        1289,
+        441,
+        228
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "h29ux",
+      "atlas": "atlas1",
+      "rect": [
+        0,
+        1463,
+        422,
+        437
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "h29u3j",
+      "atlas": "atlas1",
+      "rect": [
+        424,
+        1463,
+        71,
+        392
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "h29ur",
+      "atlas": "atlas1",
+      "rect": [
+        1134,
+        1289,
+        310,
+        370
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "h29u5",
+      "atlas": "atlas1",
+      "rect": [
+        1446,
+        1519,
+        238,
+        347
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "h29u3i",
+      "atlas": "atlas1",
+      "rect": [
+        497,
+        1463,
+        98,
+        343
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "h29us",
+      "atlas": "atlas1",
+      "rect": [
+        1446,
+        1114,
+        281,
+        328
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "h29uw",
+      "atlas": "atlas1",
+      "rect": [
+        1686,
+        1444,
+        294,
+        290
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "h29uv",
+      "atlas": "atlas1",
+      "rect": [
+        1729,
+        1736,
+        252,
+        287
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "h29u3e",
+      "atlas": "atlas1",
+      "rect": [
+        696,
+        323,
+        284,
+        78
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "h29u30",
+      "atlas": "atlas1",
+      "rect": [
+        597,
+        1463,
+        78,
+        284
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "h29u31",
+      "atlas": "atlas1",
+      "rect": [
+        1169,
+        1011,
+        219,
+        204
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "h29u2t",
+      "atlas": "atlas1",
+      "rect": [
+        1933,
+        590,
+        76,
+        199
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "hyfr3u",
+      "atlas": "atlas1",
+      "rect": [
+        1941,
+        445,
+        75,
+        120
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "h29u2",
+      "atlas": "atlas1",
+      "rect": [
+        1933,
+        791,
+        99,
+        117
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "h29u9",
+      "atlas": "atlas1",
+      "rect": [
+        1390,
+        1114,
+        36,
+        112
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "h29u38",
+      "atlas": "atlas1",
+      "rect": [
+        982,
+        323,
+        25,
+        100
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "h29u37",
+      "atlas": "atlas1",
+      "rect": [
+        2011,
+        567,
+        33,
+        100
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "h29u0",
+      "atlas": "atlas1",
+      "rect": [
+        1169,
+        1217,
+        98,
+        69
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "h29up",
+      "atlas": "atlas1",
+      "rect": [
+        1269,
+        1217,
+        98,
+        69
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "h29un",
+      "atlas": "atlas1",
+      "rect": [
+        1446,
+        1444,
+        98,
+        69
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "h29u3c",
+      "atlas": "atlas1",
+      "rect": [
+        1546,
+        1444,
+        76,
+        64
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "h29u6",
+      "atlas": "atlas1",
+      "rect": [
+        1369,
+        1228,
+        74,
+        58
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "h29u7",
+      "atlas": "atlas1",
+      "rect": [
+        1982,
+        910,
+        58,
+        74
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "h29ue",
+      "atlas": "atlas1",
+      "rect": [
+        1982,
+        986,
+        61,
+        74
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "h29u2x",
+      "atlas": "atlas1",
+      "rect": [
+        1933,
+        1062,
+        71,
+        65
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "h29ua",
+      "atlas": "atlas1",
+      "rect": [
+        1624,
+        1444,
+        54,
+        69
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "h29u2u",
+      "atlas": "atlas1",
+      "rect": [
+        1982,
+        1129,
+        64,
+        64
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "h29u1d",
+      "atlas": "atlas1",
+      "rect": [
+        1982,
+        1195,
+        61,
+        60
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "h29u1",
+      "atlas": "atlas1",
+      "rect": [
+        1982,
+        1257,
+        59,
+        54
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "h29uo",
+      "atlas": "atlas1",
+      "rect": [
+        1982,
+        1313,
+        58,
+        57
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "h29u3a",
+      "atlas": "atlas1",
+      "rect": [
+        1933,
+        910,
+        41,
+        56
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "h29u1a",
+      "atlas": "atlas1",
+      "rect": [
+        1933,
+        968,
+        44,
+        54
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "hyfr3x",
+      "atlas": "atlas1",
+      "rect": [
+        1729,
+        1372,
+        50,
+        52
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "h29uc",
+      "atlas": "atlas1",
+      "rect": [
+        1781,
+        1372,
+        46,
+        47
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "h29ud",
+      "atlas": "atlas1",
+      "rect": [
+        1829,
+        1372,
+        46,
+        47
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "h29ub",
+      "atlas": "atlas1",
+      "rect": [
+        1877,
+        1372,
+        46,
+        47
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "h29uf",
+      "atlas": "atlas1",
+      "rect": [
+        1925,
+        1372,
+        44,
+        44
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "h29u33",
+      "atlas": "atlas1",
+      "rect": [
+        1971,
+        1372,
+        42,
+        42
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "h29u2v",
+      "atlas": "atlas1",
+      "rect": [
+        2006,
+        1062,
+        40,
+        40
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "h29u3d",
+      "atlas": "atlas1",
+      "rect": [
+        1933,
+        1024,
+        30,
+        30
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "h29u19",
+      "atlas": "atlas_h29u19",
+      "rect": [
+        0,
+        0,
+        423,
+        187
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "r0tz43",
+      "atlas": "atlas_r0tz43",
+      "rect": [
+        0,
+        0,
+        423,
+        187
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "r0tz44",
+      "atlas": "atlas_r0tz44",
+      "rect": [
+        0,
+        0,
+        423,
+        187
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "r0tz45",
+      "atlas": "atlas_r0tz45",
+      "rect": [
+        0,
+        0,
+        423,
+        187
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "r0tz46",
+      "atlas": "atlas_r0tz46",
+      "rect": [
+        0,
+        0,
+        424,
+        187
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "r0tz47",
+      "atlas": "atlas_r0tz47",
+      "rect": [
+        0,
+        0,
+        423,
+        187
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "r0tz48",
+      "atlas": "atlas_r0tz48",
+      "rect": [
+        0,
+        0,
+        423,
+        187
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "wywu49",
+      "atlas": "atlas_wywu49",
+      "rect": [
+        0,
+        0,
+        435,
+        187
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "vlji4a",
+      "atlas": "atlas_vlji4a",
+      "rect": [
+        0,
+        0,
+        447,
+        187
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "h29u2r",
+      "atlas": "atlas_h29u2r",
+      "rect": [
+        0,
+        0,
+        1024,
+        511
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "h29u2s",
+      "atlas": "atlas2",
+      "rect": [
+        0,
+        0,
+        752,
+        37
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "h29u1q",
+      "atlas": "atlas2",
+      "rect": [
+        754,
+        0,
+        78,
+        330
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "h29u1s",
+      "atlas": "atlas2",
+      "rect": [
+        834,
+        0,
+        78,
+        330
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "h29u1o",
+      "atlas": "atlas2",
+      "rect": [
+        914,
+        0,
+        78,
+        330
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "h29u1j",
+      "atlas": "atlas2",
+      "rect": [
+        0,
+        332,
+        284,
+        143
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "h29u1v",
+      "atlas": "atlas2",
+      "rect": [
+        286,
+        332,
+        247,
+        163
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "h29u1w",
+      "atlas": "atlas2",
+      "rect": [
+        535,
+        332,
+        237,
+        153
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "r0tz40",
+      "atlas": "atlas2",
+      "rect": [
+        0,
+        39,
+        191,
+        208
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "r0tz41",
+      "atlas": "atlas2",
+      "rect": [
+        774,
+        332,
+        193,
+        170
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "r0tz42",
+      "atlas": "atlas2",
+      "rect": [
+        193,
+        39,
+        172,
+        187
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "h29u2a",
+      "atlas": "atlas2",
+      "rect": [
+        193,
+        228,
+        80,
+        80
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "h29u1l",
+      "atlas": "atlas2",
+      "rect": [
+        0,
+        249,
+        56,
+        56
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "h29u29",
+      "atlas": "atlas2",
+      "rect": [
+        969,
+        332,
+        50,
+        50
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "h29u1m",
+      "atlas": "atlas2",
+      "rect": [
+        969,
+        384,
+        42,
+        41
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "h29ui",
+      "atlas": "atlas_h29ui",
+      "rect": [
+        0,
+        0,
+        1024,
+        480
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "h29u1k",
+      "atlas": "atlas_h29u1k",
+      "rect": [
+        0,
+        0,
+        260,
+        712
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "h29u1n",
+      "atlas": "atlas_h29u1n",
+      "rect": [
+        0,
+        0,
+        494,
+        801
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "h29u1p",
+      "atlas": "atlas_h29u1p",
+      "rect": [
+        0,
+        0,
+        494,
+        801
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "h29u1r",
+      "atlas": "atlas_h29u1r",
+      "rect": [
+        0,
+        0,
+        494,
+        801
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "h29uj",
+      "atlas": "atlas_h29uj",
+      "rect": [
+        0,
+        0,
+        1024,
+        545
+      ],
+      "rotated": 0
+    }
+  ],
+  "strings": [
+    "c1imbcrl",
+    "Base",
+    "ufgirfkm",
+    "Common",
+    "c6iwlr2r",
+    "Main",
+    "h29u0",
+    "qzd_ic_5",
+    "/SevenIslandsMain/Images/",
+    "h29u1",
+    "qzd_ic_2",
+    "h29u1d",
+    "znqts_bth_1",
+    "h29u1j",
+    "zndl_di_7",
+    "/SevenIslandsDrop/image/",
+    "h29u1k",
+    "zndl_di_8",
+    "h29u1l",
+    "ydxyx_bth_1",
+    "h29u1m",
+    "mrcj_di_4",
+    "h29u1n",
+    "zndl_di_1",
+    "h29u1o",
+    "zndl_di_4",
+    "h29u1p",
+    "zndl_di_2",
+    "h29u1q",
+    "zndl_di_5",
+    "h29u1r",
+    "zndl_di_3",
+    "h29u1s",
+    "zndl_di_6",
+    "h29u1v",
+    "zndl_di_9",
+    "h29u1w",
+    "zndl_di_10",
+    "h29u2",
+    "qzd_ic_1",
+    "h29u29",
+    "hc2048_bth_1",
+    "h29u2a",
+    "wsj_bth_8",
+    "h29u2r",
+    "zbxt_bg_1",
+    "h29u2s",
+    "zbxt_di_4",
+    "h29u2t",
+    "zbxt_di_6",
+    "h29u2u",
+    "zbxt_di_3",
+    "h29u2v",
+    "zbxt_di_8",
+    "h29u2x",
+    "tjtz_zs_2",
+    "h29u3",
+    "qzd_di_11",
+    "h29u30",
+    "znqts_bth_2",
+    "h29u31",
+    "zbxt_di_5",
+    "h29u33",
+    "yzzl_di_3",
+    "h29u37",
+    "bllhd_di_3",
+    "h29u38",
+    "bllhd_di_4",
+    "h29u3a",
+    "bllhd_di_7",
+    "h29u3c",
+    "flhd_di_1",
+    "h29u3d",
+    "yxzs_bg_3",
+    "h29u3e",
+    "znqts_bth_4",
+    "h29u3i",
+    "qzd_di_12",
+    "h29u3j",
+    "云",
+    "h29u4",
+    "qzd_di_10",
+    "h29u5",
+    "qzd_di_9",
+    "h29u6",
+    "qzd_di_8",
+    "h29u7",
+    "qzd_di_7",
+    "h29u8",
+    "qzd_di_6",
+    "h29u9",
+    "qzd_di_5",
+    "h29ua",
+    "qzd_di_4",
+    "h29ub",
+    "qzd_di_3",
+    "h29uc",
+    "qzd_di_2",
+    "h29ud",
+    "qzd_di_1",
+    "h29ue",
+    "qzd_bth_2",
+    "h29uf",
+    "qzd_bth_1",
+    "h29ug",
+    "qzd_bg_4",
+    "h29uh",
+    "qzd_bg_3",
+    "h29ui",
+    "qzd_bg_2",
+    "h29uj",
+    "qzd_bg_1",
+    "h29uk",
+    "qzd_lxzy_3",
+    "h29ul",
+    "qzd_lxzy_2",
+    "h29um",
+    "qzd_lxzy_1",
+    "h29un",
+    "qzd_ic_6",
+    "h29uo",
+    "qzd_ic_3",
+    "h29up",
+    "qzd_ic_4",
+    "hyfr3u",
+    "input",
+    "hyfr3x",
+    "ty_ic_inforcopy",
+    "r0tz40",
+    "bao_3",
+    "r0tz41",
+    "bao_2",
+    "r0tz42",
+    "bao_1",
+    "h29u1b",
+    "SIslandCom",
+    "/SevenIslandsMain/Component/",
+    "cOType",
+    "0",
+    "No",
+    "1",
+    "Wait",
+    "2",
+    "Open",
+    "3",
+    "Close",
+    "cIsLands",
+    "IS_1",
+    "IS_2",
+    "IS_3",
+    "IS_4",
+    "4",
+    "IS_5",
+    "5",
+    "IS_6",
+    "6",
+    "IS_7",
+    "n2_h29u",
+    "n2",
+    "ui://srswjzl0h29us",
+    "ui://srswjzl0h29ut",
+    "ui://srswjzl0h29uu",
+    "ui://srswjzl0h29uv",
+    "ui://srswjzl0h29uw",
+    "ui://srswjzl0h29ux",
+    "ui://srswjzl0h29ur",
+    "n5_h29u",
+    "n5",
+    "n6_h29u",
+    "lb_name",
+    "第1岛",
+    "n8_h29u",
+    "lb_waitTime",
+    "开启倒计时：04天21时23分",
+    "psobw",
+    "n15_h29u",
+    "btn_isLand",
+    "h29u2m",
+    "SevenIslandsDropReward_MiniWindow",
+    "/SevenIslandsDrop/",
+    "model",
+    "totle",
+    "box",
+    "nm0oh265",
+    "n0_owum",
+    "mask",
+    "n44_q3y6",
+    "n44",
+    "ui://srswjzl0h29u2r",
+    "n45_q3y6",
+    "n45",
+    "n46_q3y6",
+    "n46",
+    "n19_t5qk",
+    "btn_close",
+    "ui://ufgirfkmfs7s6h4o8",
+    "n47_q3y6",
+    "lb_title",
+    "奖励预览",
+    "n21_t5qk",
+    "btn_totle",
+    "ui://srswjzl0h29u2t",
+    "front",
+    "宝箱奖励",
+    "n22_t5qk",
+    "btn_box",
+    "ui://srswjzl0h29u2u",
+    "次数奖励",
+    "n40_q3y6",
+    "n40",
+    "n23_t5qk",
+    "list_reward1",
+    "ui://ufgirfkmewfrh22n",
+    "n69_h29u",
+    "n69",
+    "n26_t5qk",
+    "lb_reward1",
+    "青铜宝箱",
+    "n42_q3y6",
+    "n42",
+    "n24_t5qk",
+    "list_reward2",
+    "n43_q3y6",
+    "n43",
+    "n25_t5qk",
+    "list_reward3",
+    "n30_t5qk",
+    "tip",
+    "每次所有道具都有几率掉落",
+    "n70_h29u",
+    "lb_reward2",
+    "青铜宝箱",
+    "n71_h29u",
+    "lb_reward3",
+    "青铜宝箱",
+    "n72_h29u",
+    "n72",
+    "n73_h29u",
+    "n73",
+    "n67_h29u",
+    "n67",
+    "n74_h29u",
+    "n74",
+    "n37_t5qk",
+    "list_totle",
+    "ui://srswjzl0h29u2q",
+    "n38_t5qk",
+    "lb_totle",
+    "已经累计采集的次数:10",
+    "n48_q3y6",
+    "lb_des1",
+    "次数",
+    "n49_q3y6",
+    "lb_des2",
+    "奖励",
+    "n50_q3y6",
+    "lb_des3",
+    "状态",
+    "n68_h29u",
+    "n68",
+    "n75_h29u",
+    "n75",
+    "h29u2o",
+    "SevenIslandsDropItem",
+    "none",
+    "can",
+    "noreach",
+    "claimed",
+    "n14_owum",
+    "n14",
+    "ui://srswjzl0h29u1v",
+    "ui://srswjzl0h29u1w",
+    "n13_owum",
+    "des",
+    "累计采集10次",
+    "n15_owum",
+    "list",
+    "n16_t5qk",
+    "n16",
+    "eqxp6h4fn",
+    "n17_t5qk",
+    "n17",
+    "n18_t5qk",
+    "get",
+    "h29u2p",
+    "SevenIslandsDrop_MiniWindow",
+    "n36_9ltv",
+    "n36",
+    "n50_h29u",
+    "n50",
+    "n37_9ltv",
+    "n37",
+    "n34_9ltv",
+    "n34",
+    "n20_9ltv",
+    "n20",
+    "n21_9ltv",
+    "n21",
+    "n22_9ltv",
+    "n22",
+    "n1_owum",
+    "icon_reward1",
+    "n2_owum",
+    "icon_reward2",
+    "n3_owum",
+    "icon_reward3",
+    "n25_9ltv",
+    "n25",
+    "n26_9ltv",
+    "n26",
+    "n24_9ltv",
+    "n24",
+    "n27_9ltv",
+    "lb_name1",
+    "青铜宝箱奖励",
+    "n28_9ltv",
+    "lb_name2",
+    "青铜宝箱奖励",
+    "n29_9ltv",
+    "lb_name3",
+    "青铜宝箱奖励",
+    "n4_owum",
+    "n7_owum",
+    "n8_owum",
+    "n9_owum",
+    "lb_tip1",
+    "周年庆来袭，每天登录即可采集散落在宝可梦世界各地的宝箱",
+    "n10_owum",
+    "lb_tip2",
+    "周年庆来袭，每天登录即可采集散落在宝可梦世界各地的宝箱",
+    "n11_owum",
+    "lb_totleTitle",
+    "累计次数",
+    "n12_owum",
+    "999999",
+    "ui://srswjzl0h29u2o",
+    "btn_jump",
+    "查看所有奖励",
+    "lb_less",
+    "今日剩余采集次数：10",
+    "n39_q3y6",
+    "lb_totleTitle2",
+    "累计奖励",
+    "n35_9ltv",
+    "btn_jump2",
+    "ui://srswjzl0h29u1l",
+    "n44_gfeg",
+    "n45_gfeg",
+    "n51_h29u",
+    "n52_h29u",
+    "宝箱采集",
+    "n53_h29u",
+    "n53",
+    "n54_h29u",
+    "n54",
+    "h29u2q",
+    "SevenIslandsDropRewardItem",
+    "n32_t5qk",
+    "n32",
+    "n33_t5qk",
+    "采集10次奖励",
+    "n34_t5qk",
+    "n35_t5qk",
+    "lb_state",
+    "未达成",
+    "n36_t5qk",
+    "btn_get",
+    "领取",
+    "ui://ufgirfkmaban6h2pp",
+    "n37_q3y6",
+    "n38_q3y6",
+    "n38",
+    "h29u2w",
+    "SevenIslandsTeamList_MiniWindow",
+    "/SevenIslandsMain/",
+    "cShowList",
+    "Yes",
+    "队伍列表",
+    "n62_h29u",
+    "list_team",
+    "ui://srswjzl0h29u2y",
+    "b2f16h4au",
+    "n63_h29u",
+    "btn_refresh",
+    "刷新",
+    "n65_hyfr",
+    "n65",
+    "n66_hyfr",
+    "input_msg",
+    "[color=#466896] 输入文本[/color]",
+    "NewFont",
+    "n67_hyfr",
+    "btn_search",
+    "搜索",
+    "n70_hyfr",
+    "lb_noList",
+    "无队伍",
+    "n69_hyfr",
+    "h29u2y",
+    "SevenIsTeamListItem",
+    "n55_h29u",
+    "加入队伍",
+    "n59_h29u",
+    "list_head",
+    "ui://srswjzl0hyfr3t",
+    "n60_h29u",
+    "队长：玩家名字七个字",
+    "n61_h29u",
+    "lb_cp",
+    "队长CP：99999",
+    "h29u2z",
+    "SevenIslandsTeam_MiniWindow",
+    "cTask",
+    "cTeam",
+    "cShowdic",
+    "cDicType",
+    "Master",
+    "None",
+    "cIsActiveTask",
+    "n70",
+    "n76_h29u",
+    "n76",
+    "组队任务",
+    "12",
+    "开启任务",
+    "ui://srswjzl0h29u30",
+    "list_task",
+    "ui://srswjzl0h29u3b",
+    "n77_h29u",
+    "n77",
+    "n78_h29u",
+    "n78",
+    "n79_h29u",
+    "lb_times",
+    "累计完成次数：999",
+    "n81_h29u",
+    "n81",
+    "n80_h29u",
+    "n80",
+    "n82_h29u",
+    "n82",
+    "n84_h29u",
+    "lb_reward",
+    "可能获得奖励：",
+    "n85_h29u",
+    "n85",
+    "n86_h29u",
+    "lb_task",
+    "当前进行中任务：",
+    "n87_h29u",
+    "list_reward",
+    "n89_h29u",
+    "n89",
+    "n88_h29u",
+    "lb_notask",
+    "暂无任务",
+    "n94_h29u",
+    "n94",
+    "n91_h29u",
+    "lb_taskName",
+    "任务名称多字（1/999）",
+    "n92_h29u",
+    "list_taskReward",
+    "n93_h29u",
+    "btn_go",
+    "前往完成",
+    "ui://srswjzl0h29u3e",
+    "n95_h29u",
+    "n95",
+    "h29u3f",
+    "n96_h29u",
+    "btn_creat",
+    "cType",
+    "创建队伍",
+    "n97_h29u",
+    "btn_find",
+    "寻找队伍",
+    "n105_h29u",
+    "list_player",
+    "ui://srswjzl0h29u3g",
+    "n106_h29u",
+    "btn_invit",
+    "邀请组队",
+    "n107_h29u",
+    "btn_out",
+    "10",
+    "离开队伍",
+    "ui://ufgirfkmaban6h2po",
+    "n117_hyfr",
+    "btn_out2",
+    "离开队伍",
+    "n114_h29u",
+    "btn_closeDic",
+    "n108_h29u",
+    "Img_dic",
+    "n109_h29u",
+    "btn_talk",
+    "私聊",
+    "ui://srswjzl0h29u6",
+    "n110_h29u",
+    "btn_upLead",
+    "提为队长",
+    "n111_h29u",
+    "btn_TOut",
+    "16",
+    "踢出队伍",
+    "ui://srswjzl0h29u7",
+    "n112_h29u",
+    "group_dic",
+    "n115_hyfr",
+    "lb_taskNum",
+    "今日跑环次数：1/10",
+    "n118_hyfr",
+    "lb_tcode",
+    "队伍编号：",
+    "n119_hyfr",
+    "lb_code",
+    "132456",
+    "hyfr3w",
+    "n120_hyfr",
+    "btn_copyCode",
+    "复制",
+    "n116_hyfr",
+    "n116",
+    "h29u32",
+    "SevenIslandsHotSpring_MiniWindow",
+    "天地温泉",
+    "前往",
+    "n71",
+    "lb_task_1",
+    "任务描述xxxxxxxxxxxxxxxxxxxxx（1/10）",
+    "lb_task_2",
+    "任务描述xxxxxxxxxxxxxxxxxxxxx（1/10）",
+    "lb_task_3",
+    "任务描述xxxxxxxxxxxxxxxxxxxxx（1/10）",
+    "lb_tip",
+    "活动期间每日重置获取次数！",
+    "n79",
+    "list_item",
+    "n81_hyfr",
+    "h29u34",
+    "SevenIslandsInvite_MiniWindow",
+    "邀请成员",
+    "ui://srswjzl0h29u35",
+    "n87_hyfr",
+    "n87",
+    "h29u35",
+    "SevenIslandsInviteItem",
+    "S100.玩家名字七个字",
+    "n83_h29u",
+    "CP：99999",
+    "邀请",
+    "j0o0h24u",
+    "player",
+    "State",
+    "h29u36",
+    "SevenIslandsRule_MiniWindow",
+    "规则说明",
+    "n65_h29u",
+    "n66_h29u",
+    "n66",
+    "前往",
+    "处于温泉场景，可持续获得奖励",
+    "n71_hyfr",
+    "处于温泉场景，可持续获得奖励",
+    "n72_hyfr",
+    "处于温泉场景，可持续获得奖励",
+    "n64_h29u",
+    "n64",
+    "h29u39",
+    "SevenIslandsTeamPro",
+    "n0_h29u",
+    "n0",
+    "n1_h29u",
+    "bar",
+    "h29u3b",
+    "SevenIslandsTeamItem",
+    "cShowType",
+    "Normal",
+    "Receive",
+    "Received",
+    "pro",
+    "ewfrh22n",
+    "btn_item",
+    "n76_hyfr",
+    "effect",
+    "lb_value",
+    "30",
+    "n77_hyfr",
+    "h1wsh268",
+    "n78_hyfr",
+    "RedDot",
+    "n79_hyfr",
+    "SevenIslandsTeamBtn",
+    "button",
+    "up",
+    "down",
+    "over",
+    "selectedOver",
+    "ui://srswjzl0h29u3",
+    "ui://srswjzl0h29u4",
+    "title",
+    "创建队伍",
+    "n3_h29u",
+    "n3",
+    "h29u3g",
+    "SevenIslandsTeamPlayer",
+    "cMaster",
+    "n98_h29u",
+    "n98",
+    "n99_h29u",
+    "S100.玩家名字七个字",
+    "n100_h29u",
+    "CP：99999",
+    "n102_h29u",
+    "head",
+    "n105_hyfr",
+    "btn_player",
+    "n101_h29u",
+    "btn_dic",
+    "ui://srswjzl0h29ue",
+    "n103_h29u",
+    "跑环次数：1/10",
+    "n104_h29u",
+    "n104",
+    "n106_dgmw",
+    "lb_tasking",
+    "任务中",
+    "h29uq",
+    "SevenIslands_MiniWindow",
+    "bg",
+    "ui://srswjzl0h29uj",
+    "n4_h29u",
+    "img_name",
+    "ui://srswjzl0h29u19",
+    "SIslandCom_1",
+    "n9_h29u",
+    "SIslandCom_2",
+    "n11_h29u",
+    "SIslandCom_4",
+    "n10_h29u",
+    "SIslandCom_3",
+    "n12_h29u",
+    "SIslandCom_5",
+    "n13_h29u",
+    "SIslandCom_6",
+    "n14_h29u",
+    "SIslandCom_7",
+    "ui://srswjzl0h29u1d",
+    "n16_h29u",
+    "lb_time",
+    "活动时间：2024/12/3-2024/12/6",
+    "n18_h29u",
+    "n18",
+    "n19_h29u",
+    "n19",
+    "n20_h29u",
+    "n21_h29u",
+    "n17_h29u",
+    "hyfr3k",
+    "SevenIslandsScene_Bg",
+    "cShowMenu",
+    "SignalState",
+    "Weak",
+    "Middle",
+    "Strong",
+    "hyfr3l",
+    "n1_hyfr",
+    "btn_team",
+    "组队",
+    "n7_hyfr",
+    "退出岛屿",
+    "ui://srswjzl0h29ua",
+    "rtef1lyorn0",
+    "n8_hyfr",
+    "n8",
+    "n42_dgmw",
+    "ui://c6iwlr2rrtef1lyorn0",
+    "n10_hyfr",
+    "lb_allTime",
+    "活动结束倒计时：01天23时3分30秒",
+    "n11_hyfr",
+    "lb_thisTime",
+    "当前岛屿开放倒计时：7天12时",
+    "n35_hyfr",
+    "暂无任务",
+    "n13_hyfr",
+    "前往",
+    "rtef1lyorn1",
+    "n14_hyfr",
+    "n15_hyfr",
+    "lb_taskPro",
+    "组队跑环（1/10）",
+    "n16_hyfr",
+    "任务名称多字（99/999）",
+    "n41_r0tz",
+    "lb_taskGroupName",
+    "任务名称多字（99/999）",
+    "n17_hyfr",
+    "n34_hyfr",
+    "n36_hyfr",
+    "n12_hyfr",
+    "AdapterNodeLeft",
+    "n24_hyfr",
+    "btn_menu",
+    "ui://c6iwlr2ri3m66h2w0",
+    "n19_hyfr",
+    "bg_bag",
+    "ui://c6iwlr2rrhl142",
+    "rhl143",
+    "n20_hyfr",
+    "n21_hyfr",
+    "list_menu",
+    "ui://c6iwlr2r7v642g",
+    "n22_hyfr",
+    "img_menu",
+    "n23_hyfr",
+    "g_box",
+    "i3m66h2w5",
+    "n25_hyfr",
+    "n26_hyfr",
+    "img_signal",
+    "ui://c6iwlr2rlder6h4l2",
+    "ui://c6iwlr2rlder6h4lh",
+    "ui://c6iwlr2rlder6h4li",
+    "cqef6h4go",
+    "n27_hyfr",
+    "TimeLabel",
+    "hyfr3m",
+    "n28_hyfr",
+    "miniMap",
+    "ultg6h2tz",
+    "n29_hyfr",
+    "btn_mail",
+    "ui://c6iwlr2rrhl13t",
+    "rhl13w",
+    "n30_hyfr",
+    "n30",
+    "n31_hyfr",
+    "mapWeather",
+    "ui://c6iwlr2rlder6h4lb",
+    "n32_hyfr",
+    "lb_mapName",
+    "真新镇11111111111",
+    "n38_r0tz",
+    "n39_r0tz",
+    "n39",
+    "n37_r0tz",
+    "lb_mapTip",
+    "切换岛屿",
+    "n40_r0tz",
+    "7v642g",
+    "n4_hyfr",
+    "btn_hotSpring",
+    "天地温泉",
+    "n5_hyfr",
+    "btn_drop",
+    "宝箱采集",
+    "n6_hyfr",
+    "btn_teamTask",
+    "组队任务",
+    "n18_hyfr",
+    "AdapterNodeRight",
+    "MailAni",
+    "SIslandBtnTeam",
+    "cgt71lyoro3",
+    "n1",
+    "n0_hyfr",
+    "n2_hyfr",
+    "组队",
+    "n3_hyfr",
+    "MiniMap",
+    "rhl13v",
+    "n0_uyjc",
+    "obdr1tcvsen",
+    "n6",
+    "hyfr3p",
+    "SevenIslandsBeInvite_MiniWindow",
+    "邀请列表",
+    "ui://srswjzl0hyfr3s",
+    "hyfr3q",
+    "SevenIslandsApplyIn_MiniWindow",
+    "申请列表",
+    "ui://srswjzl0hyfr3r",
+    "hyfr3r",
+    "SevenIslandsApplyInItem",
+    "S100.玩家名字七个字",
+    "CP：99999",
+    "btn_Ok",
+    "同意",
+    "n86_hyfr",
+    "btn_No",
+    "拒绝",
+    "hyfr3s",
+    "SevenIslandsBeInviteItem",
+    "S100.玩家名字七个字",
+    "CP：99999",
+    "同意",
+    "拒绝",
+    "hyfr3t",
+    "SevenIsTeamListItemPlayer",
+    "n62_hyfr",
+    "n56_h29u",
+    "n56",
+    "RoleInfoCoypBtn",
+    "n110_h5nw",
+    "icon",
+    "n111_h5nw",
+    "复制信息",
+    "h29u19",
+    "qzd_zi_1_cn",
+    "/SevenIslandsMain/Language/",
+    "h29u1a",
+    "cjzjm_di_3",
+    "h29ur",
+    "/SevenIslandsMain/Images/Islands/",
+    "h29us",
+    "h29ut",
+    "h29uu",
+    "h29uv",
+    "h29uw",
+    "h29ux",
+    "7",
+    "r0tz43",
+    "qzd_zi_1_en",
+    "r0tz44",
+    "qzd_zi_1_es",
+    "r0tz45",
+    "qzd_zi_1_idn",
+    "r0tz46",
+    "qzd_zi_1_ko",
+    "r0tz47",
+    "qzd_zi_1_pt",
+    "r0tz48",
+    "qzd_zi_1_tw",
+    "vlji4a",
+    "qzd_zi_1_vi",
+    "wywu49",
+    "qzd_zi_1_ru",
+    "atlas1",
+    "atlas1.png",
+    "atlas_h29u19",
+    "atlas_h29u19.png",
+    "atlas_r0tz43",
+    "atlas_r0tz43.png",
+    "atlas_r0tz44",
+    "atlas_r0tz44.png",
+    "atlas_r0tz45",
+    "atlas_r0tz45.png",
+    "atlas_r0tz46",
+    "atlas_r0tz46.png",
+    "atlas_r0tz47",
+    "atlas_r0tz47.png",
+    "atlas_r0tz48",
+    "atlas_r0tz48.png",
+    "atlas_wywu49",
+    "atlas_wywu49.png",
+    "atlas_vlji4a",
+    "atlas_vlji4a.png",
+    "atlas_h29u2r",
+    "atlas_h29u2r.png",
+    "atlas2",
+    "atlas2.png",
+    "atlas_h29ui",
+    "atlas_h29ui.png",
+    "atlas_h29u1k",
+    "atlas_h29u1k.png",
+    "atlas_h29u1n",
+    "atlas_h29u1n.png",
+    "atlas_h29u1p",
+    "atlas_h29u1p.png",
+    "atlas_h29u1r",
+    "atlas_h29u1r.png",
+    "atlas_h29uj",
+    "atlas_h29uj.png"
+  ]
+}

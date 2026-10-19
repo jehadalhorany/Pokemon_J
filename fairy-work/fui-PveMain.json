@@ -1,0 +1,719 @@
+{
+  "items": [
+    {
+      "type": 0,
+      "id": "pyyl1lyot2x",
+      "name": "fb_bg_6",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        45,
+        37
+      ]
+    },
+    {
+      "type": 3,
+      "id": "oexw1lyot2s",
+      "name": "PveItem",
+      "path": "/",
+      "file": null,
+      "size": [
+        305,
+        403
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "ux1h1lyot2r",
+      "name": "PveMainListItem",
+      "path": "/",
+      "file": null,
+      "size": [
+        303,
+        403
+      ],
+      "extension": 0
+    },
+    {
+      "type": 0,
+      "id": "gnlp1lyot31",
+      "name": "fbyh_banner_18",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        277,
+        302
+      ]
+    },
+    {
+      "type": 0,
+      "id": "hj9p1lyot30",
+      "name": "fbyh_di_12",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        287,
+        387
+      ]
+    },
+    {
+      "type": 0,
+      "id": "pyyl1lyot2t",
+      "name": "fb_bg_10",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        96,
+        56
+      ]
+    },
+    {
+      "type": 0,
+      "id": "pyyl1lyot2u",
+      "name": "fb_bg_9(1)",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        182,
+        64
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ux1h1lyot1r",
+      "name": "fbyh_banner_6",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        277,
+        302
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ux1h1lyot25",
+      "name": "fbyh_di_3",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        86,
+        37
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ux1h1lyot26",
+      "name": "fbyh_di_2",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        86,
+        37
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ux1h1lyot29",
+      "name": "fbyh_banner_16",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        277,
+        302
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ux1h1lyot2a",
+      "name": "fbyh_banner_15",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        277,
+        302
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ux1h1lyot2b",
+      "name": "fbyh_banner_14",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        277,
+        302
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ux1h1lyot2c",
+      "name": "fbyh_banner_13",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        277,
+        302
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ux1h1lyot2d",
+      "name": "fbyh_banner_12",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        277,
+        302
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ux1h1lyot2e",
+      "name": "fbyh_banner_11",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        277,
+        302
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ux1h1lyot2f",
+      "name": "fbyh_banner_10",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        277,
+        302
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ux1h1lyot2g",
+      "name": "fbyh_banner_9",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        277,
+        302
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ux1h1lyot2h",
+      "name": "fbyh_banner_8",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        277,
+        302
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ux1h1lyot2i",
+      "name": "fbyh_banner_7",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        277,
+        302
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ux1h1lyot2l",
+      "name": "fbyh_banner_1",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        277,
+        302
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ux1h1lyot2m",
+      "name": "fbyh_banner_2",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        277,
+        302
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ux1h1lyot2n",
+      "name": "fbyh_banner_3",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        277,
+        302
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ux1h1lyot2o",
+      "name": "fbyh_banner_4",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        277,
+        302
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ux1h1lyot2p",
+      "name": "fbyh_banner_5",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        277,
+        302
+      ]
+    },
+    {
+      "type": 0,
+      "id": "wf9c1lyot32",
+      "name": "fbyh_banner_19",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        277,
+        302
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas0",
+      "name": null,
+      "path": null,
+      "file": "atlas0.png",
+      "size": [
+        2048,
+        1024
+      ]
+    }
+  ],
+  "sprites": [
+    {
+      "id": "hj9p1lyot30",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        0,
+        287,
+        387
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "ux1h1lyot2l",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        389,
+        275,
+        302
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "gnlp1lyot31",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        693,
+        275,
+        302
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "ux1h1lyot2g",
+      "atlas": "atlas0",
+      "rect": [
+        277,
+        389,
+        275,
+        302
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "ux1h1lyot2h",
+      "atlas": "atlas0",
+      "rect": [
+        277,
+        693,
+        275,
+        302
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "ux1h1lyot2i",
+      "atlas": "atlas0",
+      "rect": [
+        554,
+        693,
+        275,
+        302
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "ux1h1lyot1r",
+      "atlas": "atlas0",
+      "rect": [
+        289,
+        0,
+        275,
+        302
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "wf9c1lyot32",
+      "atlas": "atlas0",
+      "rect": [
+        554,
+        304,
+        275,
+        302
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "ux1h1lyot2o",
+      "atlas": "atlas0",
+      "rect": [
+        566,
+        0,
+        275,
+        302
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "ux1h1lyot2p",
+      "atlas": "atlas0",
+      "rect": [
+        831,
+        304,
+        275,
+        302
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "ux1h1lyot2m",
+      "atlas": "atlas0",
+      "rect": [
+        843,
+        0,
+        275,
+        302
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "ux1h1lyot29",
+      "atlas": "atlas0",
+      "rect": [
+        831,
+        608,
+        275,
+        302
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "ux1h1lyot2a",
+      "atlas": "atlas0",
+      "rect": [
+        1108,
+        304,
+        275,
+        302
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "ux1h1lyot2b",
+      "atlas": "atlas0",
+      "rect": [
+        1120,
+        0,
+        275,
+        302
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "ux1h1lyot2c",
+      "atlas": "atlas0",
+      "rect": [
+        1108,
+        608,
+        275,
+        302
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "ux1h1lyot2d",
+      "atlas": "atlas0",
+      "rect": [
+        1385,
+        304,
+        302,
+        275
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "ux1h1lyot2e",
+      "atlas": "atlas0",
+      "rect": [
+        1397,
+        0,
+        275,
+        302
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "ux1h1lyot2f",
+      "atlas": "atlas0",
+      "rect": [
+        1674,
+        0,
+        275,
+        302
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "ux1h1lyot2n",
+      "atlas": "atlas0",
+      "rect": [
+        1689,
+        304,
+        302,
+        275
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "pyyl1lyot2u",
+      "atlas": "atlas0",
+      "rect": [
+        289,
+        304,
+        182,
+        64
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "pyyl1lyot2t",
+      "atlas": "atlas0",
+      "rect": [
+        554,
+        608,
+        96,
+        56
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "ux1h1lyot26",
+      "atlas": "atlas0",
+      "rect": [
+        652,
+        608,
+        86,
+        37
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "ux1h1lyot25",
+      "atlas": "atlas0",
+      "rect": [
+        740,
+        608,
+        86,
+        37
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "pyyl1lyot2x",
+      "atlas": "atlas0",
+      "rect": [
+        473,
+        304,
+        45,
+        37
+      ],
+      "rotated": 0
+    }
+  ],
+  "strings": [
+    "ufgirfkm",
+    "Common",
+    "cyrayt3h",
+    "Item",
+    "445m3lkx",
+    "Pve",
+    "pyyl1lyot2x",
+    "fb_bg_6",
+    "/Images/",
+    "oexw1lyot2s",
+    "PveItem",
+    "/",
+    "State",
+    "0",
+    "Normal",
+    "1",
+    "Locked",
+    "2",
+    "NoTime",
+    "OpenState",
+    "Hide",
+    "Show",
+    "5",
+    "End",
+    "select",
+    "no",
+    "yes",
+    "DoubleDrop",
+    "NoDrop",
+    "Drop",
+    "ItemDrop",
+    "hj9p1lyot30",
+    "n37_hj9p",
+    "n37",
+    "n14_pqp2",
+    "pveIcon",
+    "ui://hwuf86p5ux1h1lyot2l",
+    "h1wsh268",
+    "n13_k36z",
+    "RedDot",
+    "n38_hj9p",
+    "n38",
+    "n32_pyyl",
+    "n32",
+    "n6_rhl1",
+    "lb_title",
+    "挑战训练师",
+    "n7_rhl1",
+    "lb_pvename",
+    "n12_e0us",
+    "lb_open",
+    "已开启",
+    "pyyl1lyot2u",
+    "n26_pyyl",
+    "n26",
+    "n27_pyyl",
+    "n27",
+    "pyyl1lyot2t",
+    "n25_pyyl",
+    "n25",
+    "n24_ox7l",
+    "img_icon",
+    "ui://cyrayt3hhj996h40d",
+    "n22_ox7l",
+    "lb_drop",
+    "掉落200%",
+    "n23_ox7l",
+    "lb_dropItem",
+    "道具掉落",
+    "c32n6h4kq",
+    "n11_rhl1",
+    "n11",
+    "aban6h2pl",
+    "n28_pyyl",
+    "n28",
+    "ux1h1lyot2r",
+    "PveMainListItem",
+    "ks021lyot2x",
+    "n3_ux1h",
+    "n3",
+    "n0_ux1h",
+    "ks021lyot30",
+    "n2_ux1h",
+    "n2",
+    "n5_ux1h",
+    "n5",
+    "ui://hwuf86p5ux1h1lyot26",
+    "ui://hwuf86p5ux1h1lyot25",
+    "n6_ux1h",
+    "已开启",
+    "n8_ux1h",
+    "副本名称多字",
+    "ux1h1lyot26",
+    "n9_ux1h",
+    "n9",
+    "n11_ux1h",
+    "掉落x200%",
+    "n7_ux1h",
+    "n12_o7kd",
+    "n12",
+    "n13_o7kd",
+    "n13",
+    "n1_ux1h",
+    "n1",
+    "gnlp1lyot31",
+    "fbyh_banner_18",
+    "fbyh_di_12",
+    "fb_bg_10",
+    "fb_bg_9(1)",
+    "ux1h1lyot1r",
+    "fbyh_banner_6",
+    "ux1h1lyot25",
+    "fbyh_di_3",
+    "fbyh_di_2",
+    "ux1h1lyot29",
+    "fbyh_banner_16",
+    "ux1h1lyot2a",
+    "fbyh_banner_15",
+    "ux1h1lyot2b",
+    "fbyh_banner_14",
+    "ux1h1lyot2c",
+    "fbyh_banner_13",
+    "ux1h1lyot2d",
+    "fbyh_banner_12",
+    "ux1h1lyot2e",
+    "fbyh_banner_11",
+    "ux1h1lyot2f",
+    "fbyh_banner_10",
+    "ux1h1lyot2g",
+    "fbyh_banner_9",
+    "ux1h1lyot2h",
+    "fbyh_banner_8",
+    "ux1h1lyot2i",
+    "fbyh_banner_7",
+    "ux1h1lyot2l",
+    "fbyh_banner_1",
+    "ux1h1lyot2m",
+    "fbyh_banner_2",
+    "ux1h1lyot2n",
+    "fbyh_banner_3",
+    "ux1h1lyot2o",
+    "fbyh_banner_4",
+    "ux1h1lyot2p",
+    "fbyh_banner_5",
+    "wf9c1lyot32",
+    "fbyh_banner_19",
+    "atlas0",
+    "atlas0.png"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "type": 9,
+      "id": "p8qs0",
+      "name": "bj04",
+      "path": "/",
+      "file": "bj04.json",
+      "size": [
+        226,
+        180
+      ]
+    },
+    {
+      "type": 9,
+      "id": "p8qs3",
+      "name": "bj03",
+      "path": "/",
+      "file": "bj03.json",
+      "size": [
+        287,
+        286
+      ]
+    },
+    {
+      "type": 9,
+      "id": "p8qs6",
+      "name": "bj02",
+      "path": "/",
+      "file": "bj02.json",
+      "size": [
+        1216,
+        826
+      ]
+    },
+    {
+      "type": 9,
+      "id": "p8qs9",
+      "name": "bj01",
+      "path": "/",
+      "file": "bj01.json",
+      "size": [
+        798,
+        731
+      ]
+    }
+  ],
+  "sprites": [],
+  "strings": [
+    "p8qs0",
+    "bj04",
+    "/",
+    "bj04.json",
+    "p8qs3",
+    "bj03",
+    "bj03.json",
+    "p8qs6",
+    "bj02",
+    "bj02.json",
+    "p8qs9",
+    "bj01",
+    "bj01.json"
+  ]
+}

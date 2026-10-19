@@ -3,7 +3,7 @@ from concurrent.futures import ProcessPoolExecutor
 
 def job(r):
  try:
-  e=Env();e.load_file((ROOT/'raw'/r['file']).read_bytes(),name=r['file']);clips=[]
+  e=Env();raw=(ROOT/'raw'/r['file']).read_bytes();e.load_file(raw[raw.index(b'UnityFS'):],name=r['file']);clips=[]
   for o in list(e.objects):
    if o.type.name!='AnimationClip':continue
    d=o.read_typetree();tracks=[]

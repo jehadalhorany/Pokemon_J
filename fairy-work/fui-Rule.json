@@ -1,0 +1,436 @@
+{
+  "items": [
+    {
+      "type": 0,
+      "id": "nlj87",
+      "name": "jl_hh_18",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        151,
+        173
+      ]
+    },
+    {
+      "type": 0,
+      "id": "nlj88",
+      "name": "jl_hh_19",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        31,
+        30
+      ]
+    },
+    {
+      "type": 0,
+      "id": "nlj89",
+      "name": "jl_hh_20",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        48,
+        48
+      ]
+    },
+    {
+      "type": 0,
+      "id": "nlj8b",
+      "name": "jl_hh_22",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        316,
+        619
+      ]
+    },
+    {
+      "type": 3,
+      "id": "nlj80",
+      "name": "RulePicture_MiniWindow",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "nlj82",
+      "name": "RulePicCom",
+      "path": "/",
+      "file": null,
+      "size": [
+        943,
+        548
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "nlj8d",
+      "name": "RulePicIndexCom",
+      "path": "/",
+      "file": null,
+      "size": [
+        30,
+        30
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "nlj8e",
+      "name": "RuleDescCom",
+      "path": "/",
+      "file": null,
+      "size": [
+        1338,
+        338
+      ],
+      "extension": 0
+    },
+    {
+      "type": 0,
+      "id": "alj0i",
+      "name": "BossUp3",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        396,
+        410
+      ]
+    },
+    {
+      "type": 0,
+      "id": "alj0j",
+      "name": "BossUp4",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        1176,
+        588
+      ]
+    },
+    {
+      "type": 0,
+      "id": "alj0k",
+      "name": "BossUp5",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        274,
+        125
+      ]
+    },
+    {
+      "type": 0,
+      "id": "alj0l",
+      "name": "BossUp1",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        485,
+        208
+      ]
+    },
+    {
+      "type": 0,
+      "id": "alj0m",
+      "name": "BossUp2",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        525,
+        211
+      ]
+    },
+    {
+      "type": 0,
+      "id": "nlj8a",
+      "name": "jl_hh_21",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        187,
+        220
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas1",
+      "name": null,
+      "path": null,
+      "file": "atlas1.png",
+      "size": [
+        1024,
+        512
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas_alj0i",
+      "name": null,
+      "path": null,
+      "file": "atlas_alj0i.png",
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas_alj0j",
+      "name": null,
+      "path": null,
+      "file": "atlas_alj0j.png",
+      "size": [
+        2048,
+        1024
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas_alj0k",
+      "name": null,
+      "path": null,
+      "file": "atlas_alj0k.png",
+      "size": [
+        512,
+        128
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas_alj0l",
+      "name": null,
+      "path": null,
+      "file": "atlas_alj0l.png",
+      "size": [
+        512,
+        256
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas_alj0m",
+      "name": null,
+      "path": null,
+      "file": "atlas_alj0m.png",
+      "size": [
+        1024,
+        256
+      ]
+    }
+  ],
+  "sprites": [
+    {
+      "id": "nlj8b",
+      "atlas": "atlas1",
+      "rect": [
+        0,
+        0,
+        619,
+        316
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "nlj8a",
+      "atlas": "atlas1",
+      "rect": [
+        0,
+        318,
+        220,
+        187
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "nlj87",
+      "atlas": "atlas1",
+      "rect": [
+        222,
+        318,
+        151,
+        173
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "nlj89",
+      "atlas": "atlas1",
+      "rect": [
+        375,
+        318,
+        48,
+        48
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "nlj88",
+      "atlas": "atlas1",
+      "rect": [
+        375,
+        368,
+        30,
+        31
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "alj0i",
+      "atlas": "atlas_alj0i",
+      "rect": [
+        0,
+        0,
+        396,
+        410
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "alj0j",
+      "atlas": "atlas_alj0j",
+      "rect": [
+        0,
+        0,
+        1176,
+        588
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "alj0k",
+      "atlas": "atlas_alj0k",
+      "rect": [
+        0,
+        0,
+        274,
+        125
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "alj0l",
+      "atlas": "atlas_alj0l",
+      "rect": [
+        0,
+        0,
+        485,
+        208
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "alj0m",
+      "atlas": "atlas_alj0m",
+      "rect": [
+        0,
+        0,
+        525,
+        211
+      ],
+      "rotated": 0
+    }
+  ],
+  "strings": [
+    "c1imbcrl",
+    "Base",
+    "ufgirfkm",
+    "Common",
+    "nlj87",
+    "jl_hh_18",
+    "/Images/",
+    "nlj88",
+    "jl_hh_19",
+    "nlj89",
+    "jl_hh_20",
+    "nlj8b",
+    "jl_hh_22",
+    "nlj80",
+    "RulePicture_MiniWindow",
+    "/",
+    "IsShowLeft",
+    "0",
+    "no",
+    "1",
+    "yes",
+    "IsShowRight",
+    "Page",
+    "2",
+    "3",
+    "4",
+    "nm0oh265",
+    "n11_ykrd",
+    "close_mask",
+    "n4_nlj8",
+    "n4",
+    "n5_nlj8",
+    "lb_title",
+    "e0us6h2tk",
+    "n6_nlj8",
+    "close",
+    "关闭",
+    "ui://ufgirfkmcuyu6h2ta",
+    "q2rv6h3it",
+    "n7_nlj8",
+    "n7",
+    "e8ln6h4gi",
+    "n8_nlj8",
+    "n8",
+    "n0_nlj8",
+    "list_pictures",
+    "ui://nr05gkdbnlj82",
+    "n3_nlj8",
+    "list_picIndex",
+    "ui://nr05gkdbnlj8d",
+    "eeo81lyorlw",
+    "n1_nlj8",
+    "btn_right",
+    "ui://nr05gkdbnlj87",
+    "n2_nlj8",
+    "btn_left",
+    "nlj8e",
+    "n10_nlj8",
+    "com_desc",
+    "nlj82",
+    "RulePicCom",
+    "nlj8a",
+    "n1",
+    "ld_pic",
+    "nlj8d",
+    "RulePicIndexCom",
+    "IsSelect",
+    "img_n2",
+    "img_n3",
+    "RuleDescCom",
+    "lb_desc",
+    "alj0i",
+    "BossUp3",
+    "alj0j",
+    "BossUp4",
+    "alj0k",
+    "BossUp5",
+    "alj0l",
+    "BossUp1",
+    "alj0m",
+    "BossUp2",
+    "jl_hh_21",
+    "atlas1",
+    "atlas1.png",
+    "atlas_alj0i",
+    "atlas_alj0i.png",
+    "atlas_alj0j",
+    "atlas_alj0j.png",
+    "atlas_alj0k",
+    "atlas_alj0k.png",
+    "atlas_alj0l",
+    "atlas_alj0l.png",
+    "atlas_alj0m",
+    "atlas_alj0m.png"
+  ]
+}

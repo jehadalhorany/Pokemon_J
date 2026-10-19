@@ -1,0 +1,1440 @@
+{
+  "items": [
+    {
+      "type": 3,
+      "id": "11qq76h4gg",
+      "name": "ChatEmojiBtn",
+      "path": "/",
+      "file": null,
+      "size": [
+        96,
+        96
+      ],
+      "extension": 12
+    },
+    {
+      "type": 0,
+      "id": "11qq70",
+      "name": "1f600",
+      "path": "/emoji/",
+      "file": null,
+      "size": [
+        60,
+        58
+      ]
+    },
+    {
+      "type": 0,
+      "id": "11qq71",
+      "name": "1f621",
+      "path": "/emoji/",
+      "file": null,
+      "size": [
+        62,
+        60
+      ]
+    },
+    {
+      "type": 0,
+      "id": "11qq710",
+      "name": "1f609",
+      "path": "/emoji/",
+      "file": null,
+      "size": [
+        62,
+        60
+      ]
+    },
+    {
+      "type": 0,
+      "id": "11qq711",
+      "name": "1f637",
+      "path": "/emoji/",
+      "file": null,
+      "size": [
+        62,
+        60
+      ]
+    },
+    {
+      "type": 0,
+      "id": "11qq72",
+      "name": "1f622",
+      "path": "/emoji/",
+      "file": null,
+      "size": [
+        62,
+        60
+      ]
+    },
+    {
+      "type": 0,
+      "id": "11qq73",
+      "name": "1f623",
+      "path": "/emoji/",
+      "file": null,
+      "size": [
+        62,
+        60
+      ]
+    },
+    {
+      "type": 0,
+      "id": "11qq74",
+      "name": "1f624",
+      "path": "/emoji/",
+      "file": null,
+      "size": [
+        62,
+        61
+      ]
+    },
+    {
+      "type": 0,
+      "id": "11qq75",
+      "name": "1f625",
+      "path": "/emoji/",
+      "file": null,
+      "size": [
+        62,
+        60
+      ]
+    },
+    {
+      "type": 0,
+      "id": "11qq76",
+      "name": "1f626",
+      "path": "/emoji/",
+      "file": null,
+      "size": [
+        60,
+        58
+      ]
+    },
+    {
+      "type": 0,
+      "id": "11qq77",
+      "name": "1f627",
+      "path": "/emoji/",
+      "file": null,
+      "size": [
+        60,
+        58
+      ]
+    },
+    {
+      "type": 0,
+      "id": "11qq78",
+      "name": "1f628",
+      "path": "/emoji/",
+      "file": null,
+      "size": [
+        62,
+        60
+      ]
+    },
+    {
+      "type": 0,
+      "id": "11qq79",
+      "name": "1f629",
+      "path": "/emoji/",
+      "file": null,
+      "size": [
+        62,
+        61
+      ]
+    },
+    {
+      "type": 0,
+      "id": "11qq7a",
+      "name": "1f630",
+      "path": "/emoji/",
+      "file": null,
+      "size": [
+        62,
+        60
+      ]
+    },
+    {
+      "type": 0,
+      "id": "11qq7b",
+      "name": "1f631",
+      "path": "/emoji/",
+      "file": null,
+      "size": [
+        58,
+        60
+      ]
+    },
+    {
+      "type": 0,
+      "id": "11qq7c",
+      "name": "1f632",
+      "path": "/emoji/",
+      "file": null,
+      "size": [
+        62,
+        60
+      ]
+    },
+    {
+      "type": 0,
+      "id": "11qq7d",
+      "name": "1f633",
+      "path": "/emoji/",
+      "file": null,
+      "size": [
+        62,
+        60
+      ]
+    },
+    {
+      "type": 0,
+      "id": "11qq7e",
+      "name": "1f634",
+      "path": "/emoji/",
+      "file": null,
+      "size": [
+        60,
+        59
+      ]
+    },
+    {
+      "type": 0,
+      "id": "11qq7f",
+      "name": "1f635",
+      "path": "/emoji/",
+      "file": null,
+      "size": [
+        62,
+        61
+      ]
+    },
+    {
+      "type": 0,
+      "id": "11qq7g",
+      "name": "1f620",
+      "path": "/emoji/",
+      "file": null,
+      "size": [
+        62,
+        60
+      ]
+    },
+    {
+      "type": 0,
+      "id": "11qq7h",
+      "name": "1f619",
+      "path": "/emoji/",
+      "file": null,
+      "size": [
+        60,
+        58
+      ]
+    },
+    {
+      "type": 0,
+      "id": "11qq7i",
+      "name": "1f618",
+      "path": "/emoji/",
+      "file": null,
+      "size": [
+        63,
+        60
+      ]
+    },
+    {
+      "type": 0,
+      "id": "11qq7j",
+      "name": "1f617",
+      "path": "/emoji/",
+      "file": null,
+      "size": [
+        60,
+        58
+      ]
+    },
+    {
+      "type": 0,
+      "id": "11qq7k",
+      "name": "1f601",
+      "path": "/emoji/",
+      "file": null,
+      "size": [
+        62,
+        60
+      ]
+    },
+    {
+      "type": 0,
+      "id": "11qq7l",
+      "name": "1f602",
+      "path": "/emoji/",
+      "file": null,
+      "size": [
+        62,
+        60
+      ]
+    },
+    {
+      "type": 0,
+      "id": "11qq7m",
+      "name": "1f603",
+      "path": "/emoji/",
+      "file": null,
+      "size": [
+        62,
+        60
+      ]
+    },
+    {
+      "type": 0,
+      "id": "11qq7n",
+      "name": "1f604",
+      "path": "/emoji/",
+      "file": null,
+      "size": [
+        62,
+        60
+      ]
+    },
+    {
+      "type": 0,
+      "id": "11qq7o",
+      "name": "1f605",
+      "path": "/emoji/",
+      "file": null,
+      "size": [
+        62,
+        60
+      ]
+    },
+    {
+      "type": 0,
+      "id": "11qq7p",
+      "name": "1f606",
+      "path": "/emoji/",
+      "file": null,
+      "size": [
+        62,
+        60
+      ]
+    },
+    {
+      "type": 0,
+      "id": "11qq7q",
+      "name": "1f607",
+      "path": "/emoji/",
+      "file": null,
+      "size": [
+        62,
+        64
+      ]
+    },
+    {
+      "type": 0,
+      "id": "11qq7r",
+      "name": "1f636",
+      "path": "/emoji/",
+      "file": null,
+      "size": [
+        62,
+        61
+      ]
+    },
+    {
+      "type": 0,
+      "id": "11qq7s",
+      "name": "1f608",
+      "path": "/emoji/",
+      "file": null,
+      "size": [
+        64,
+        63
+      ]
+    },
+    {
+      "type": 0,
+      "id": "11qq7t",
+      "name": "1f610",
+      "path": "/emoji/",
+      "file": null,
+      "size": [
+        62,
+        60
+      ]
+    },
+    {
+      "type": 0,
+      "id": "11qq7u",
+      "name": "1f611",
+      "path": "/emoji/",
+      "file": null,
+      "size": [
+        60,
+        58
+      ]
+    },
+    {
+      "type": 0,
+      "id": "11qq7v",
+      "name": "1f612",
+      "path": "/emoji/",
+      "file": null,
+      "size": [
+        62,
+        60
+      ]
+    },
+    {
+      "type": 0,
+      "id": "11qq7w",
+      "name": "1f613",
+      "path": "/emoji/",
+      "file": null,
+      "size": [
+        62,
+        63
+      ]
+    },
+    {
+      "type": 0,
+      "id": "11qq7x",
+      "name": "1f614",
+      "path": "/emoji/",
+      "file": null,
+      "size": [
+        62,
+        60
+      ]
+    },
+    {
+      "type": 0,
+      "id": "11qq7y",
+      "name": "1f615",
+      "path": "/emoji/",
+      "file": null,
+      "size": [
+        60,
+        58
+      ]
+    },
+    {
+      "type": 0,
+      "id": "11qq7z",
+      "name": "1f616",
+      "path": "/emoji/",
+      "file": null,
+      "size": [
+        62,
+        60
+      ]
+    },
+    {
+      "type": 0,
+      "id": "abnz76h4gh",
+      "name": "1f640",
+      "path": "/emoji/",
+      "file": null,
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "type": 0,
+      "id": "abnz76h4gi",
+      "name": "1f657",
+      "path": "/emoji/",
+      "file": null,
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "type": 0,
+      "id": "abnz76h4gj",
+      "name": "1f656",
+      "path": "/emoji/",
+      "file": null,
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "type": 0,
+      "id": "abnz76h4gk",
+      "name": "1f655",
+      "path": "/emoji/",
+      "file": null,
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "type": 0,
+      "id": "abnz76h4gl",
+      "name": "1f654",
+      "path": "/emoji/",
+      "file": null,
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "type": 0,
+      "id": "abnz76h4gm",
+      "name": "1f653",
+      "path": "/emoji/",
+      "file": null,
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "type": 0,
+      "id": "abnz76h4gn",
+      "name": "1f652",
+      "path": "/emoji/",
+      "file": null,
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "type": 0,
+      "id": "abnz76h4go",
+      "name": "1f651",
+      "path": "/emoji/",
+      "file": null,
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "type": 0,
+      "id": "abnz76h4gp",
+      "name": "1f650",
+      "path": "/emoji/",
+      "file": null,
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "type": 0,
+      "id": "abnz76h4gq",
+      "name": "1f649",
+      "path": "/emoji/",
+      "file": null,
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "type": 0,
+      "id": "abnz76h4gr",
+      "name": "1f648",
+      "path": "/emoji/",
+      "file": null,
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "type": 0,
+      "id": "abnz76h4gs",
+      "name": "1f647",
+      "path": "/emoji/",
+      "file": null,
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "type": 0,
+      "id": "abnz76h4gt",
+      "name": "1f646",
+      "path": "/emoji/",
+      "file": null,
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "type": 0,
+      "id": "abnz76h4gu",
+      "name": "1f645",
+      "path": "/emoji/",
+      "file": null,
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "type": 0,
+      "id": "abnz76h4gv",
+      "name": "1f644",
+      "path": "/emoji/",
+      "file": null,
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "type": 0,
+      "id": "abnz76h4gw",
+      "name": "1f643",
+      "path": "/emoji/",
+      "file": null,
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "type": 0,
+      "id": "abnz76h4gx",
+      "name": "1f642",
+      "path": "/emoji/",
+      "file": null,
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "type": 0,
+      "id": "abnz76h4gy",
+      "name": "1f641",
+      "path": "/emoji/",
+      "file": null,
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "type": 0,
+      "id": "abnz76h4gz",
+      "name": "1f638",
+      "path": "/emoji/",
+      "file": null,
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "type": 0,
+      "id": "abnz76h4h0",
+      "name": "1f639",
+      "path": "/emoji/",
+      "file": null,
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas0",
+      "name": null,
+      "path": null,
+      "file": "atlas0.png",
+      "size": [
+        1024,
+        512
+      ]
+    }
+  ],
+  "sprites": [
+    {
+      "id": "abnz76h4gp",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        0,
+        93,
+        100
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "abnz76h4gy",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        102,
+        90,
+        100
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "abnz76h4gi",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        204,
+        87,
+        100
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "abnz76h4gw",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        306,
+        91,
+        100
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "abnz76h4gj",
+      "atlas": "atlas0",
+      "rect": [
+        89,
+        204,
+        96,
+        100
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "abnz76h4gk",
+      "atlas": "atlas0",
+      "rect": [
+        92,
+        102,
+        93,
+        100
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "abnz76h4gt",
+      "atlas": "atlas0",
+      "rect": [
+        187,
+        102,
+        94,
+        100
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "abnz76h4gs",
+      "atlas": "atlas0",
+      "rect": [
+        95,
+        0,
+        88,
+        100
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "abnz76h4gr",
+      "atlas": "atlas0",
+      "rect": [
+        185,
+        0,
+        90,
+        100
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "abnz76h4gq",
+      "atlas": "atlas0",
+      "rect": [
+        277,
+        0,
+        99,
+        100
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "abnz76h4gz",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        408,
+        81,
+        100
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "abnz76h4go",
+      "atlas": "atlas0",
+      "rect": [
+        83,
+        408,
+        94,
+        100
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "abnz76h4gn",
+      "atlas": "atlas0",
+      "rect": [
+        93,
+        306,
+        89,
+        100
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "abnz76h4gm",
+      "atlas": "atlas0",
+      "rect": [
+        179,
+        408,
+        97,
+        100
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "abnz76h4gl",
+      "atlas": "atlas0",
+      "rect": [
+        184,
+        306,
+        74,
+        100
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "abnz76h4h0",
+      "atlas": "atlas0",
+      "rect": [
+        187,
+        204,
+        97,
+        99
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "abnz76h4gx",
+      "atlas": "atlas0",
+      "rect": [
+        283,
+        102,
+        96,
+        99
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "abnz76h4gu",
+      "atlas": "atlas0",
+      "rect": [
+        378,
+        0,
+        91,
+        98
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "abnz76h4gv",
+      "atlas": "atlas0",
+      "rect": [
+        260,
+        305,
+        87,
+        95
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "abnz76h4gh",
+      "atlas": "atlas0",
+      "rect": [
+        286,
+        203,
+        94,
+        95
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "11qq7q",
+      "atlas": "atlas0",
+      "rect": [
+        381,
+        100,
+        62,
+        64
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "11qq7s",
+      "atlas": "atlas0",
+      "rect": [
+        278,
+        402,
+        63,
+        64
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "11qq7w",
+      "atlas": "atlas0",
+      "rect": [
+        343,
+        402,
+        62,
+        63
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "11qq7i",
+      "atlas": "atlas0",
+      "rect": [
+        349,
+        300,
+        60,
+        63
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "11qq7m",
+      "atlas": "atlas0",
+      "rect": [
+        407,
+        166,
+        60,
+        62
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "11qq79",
+      "atlas": "atlas0",
+      "rect": [
+        445,
+        100,
+        61,
+        62
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "11qq7a",
+      "atlas": "atlas0",
+      "rect": [
+        382,
+        230,
+        60,
+        62
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "11qq75",
+      "atlas": "atlas0",
+      "rect": [
+        471,
+        0,
+        60,
+        62
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "11qq7c",
+      "atlas": "atlas0",
+      "rect": [
+        407,
+        365,
+        60,
+        62
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "11qq7d",
+      "atlas": "atlas0",
+      "rect": [
+        411,
+        294,
+        60,
+        62
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "11qq74",
+      "atlas": "atlas0",
+      "rect": [
+        444,
+        230,
+        61,
+        62
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "11qq7f",
+      "atlas": "atlas0",
+      "rect": [
+        469,
+        164,
+        61,
+        62
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "11qq7g",
+      "atlas": "atlas0",
+      "rect": [
+        407,
+        429,
+        60,
+        62
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "11qq7l",
+      "atlas": "atlas0",
+      "rect": [
+        508,
+        64,
+        60,
+        62
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "11qq711",
+      "atlas": "atlas0",
+      "rect": [
+        533,
+        0,
+        60,
+        62
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "11qq710",
+      "atlas": "atlas0",
+      "rect": [
+        595,
+        0,
+        60,
+        62
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "11qq7z",
+      "atlas": "atlas0",
+      "rect": [
+        469,
+        358,
+        60,
+        62
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "11qq73",
+      "atlas": "atlas0",
+      "rect": [
+        473,
+        294,
+        60,
+        62
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "11qq7x",
+      "atlas": "atlas0",
+      "rect": [
+        531,
+        228,
+        60,
+        62
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "11qq7v",
+      "atlas": "atlas0",
+      "rect": [
+        593,
+        228,
+        60,
+        62
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "11qq72",
+      "atlas": "atlas0",
+      "rect": [
+        532,
+        128,
+        60,
+        62
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "11qq7t",
+      "atlas": "atlas0",
+      "rect": [
+        570,
+        64,
+        60,
+        62
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "11qq71",
+      "atlas": "atlas0",
+      "rect": [
+        632,
+        64,
+        60,
+        62
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "11qq7r",
+      "atlas": "atlas0",
+      "rect": [
+        657,
+        0,
+        61,
+        62
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "11qq7k",
+      "atlas": "atlas0",
+      "rect": [
+        720,
+        0,
+        60,
+        62
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "11qq7p",
+      "atlas": "atlas0",
+      "rect": [
+        594,
+        128,
+        60,
+        62
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "11qq7o",
+      "atlas": "atlas0",
+      "rect": [
+        469,
+        422,
+        60,
+        62
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "11qq7n",
+      "atlas": "atlas0",
+      "rect": [
+        531,
+        358,
+        60,
+        62
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "11qq78",
+      "atlas": "atlas0",
+      "rect": [
+        535,
+        292,
+        60,
+        62
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "11qq76",
+      "atlas": "atlas0",
+      "rect": [
+        531,
+        422,
+        58,
+        60
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "11qq7h",
+      "atlas": "atlas0",
+      "rect": [
+        591,
+        422,
+        58,
+        60
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "11qq7b",
+      "atlas": "atlas0",
+      "rect": [
+        593,
+        356,
+        58,
+        60
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "11qq7e",
+      "atlas": "atlas0",
+      "rect": [
+        651,
+        292,
+        59,
+        60
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "11qq7y",
+      "atlas": "atlas0",
+      "rect": [
+        651,
+        418,
+        58,
+        60
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "11qq7u",
+      "atlas": "atlas0",
+      "rect": [
+        653,
+        354,
+        58,
+        60
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "11qq7j",
+      "atlas": "atlas0",
+      "rect": [
+        711,
+        416,
+        58,
+        60
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "11qq77",
+      "atlas": "atlas0",
+      "rect": [
+        655,
+        192,
+        58,
+        60
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "11qq70",
+      "atlas": "atlas0",
+      "rect": [
+        656,
+        128,
+        58,
+        60
+      ],
+      "rotated": 1
+    }
+  ],
+  "strings": [
+    "11qq76h4gg",
+    "ChatEmojiBtn",
+    "/",
+    "button",
+    "0",
+    "up",
+    "1",
+    "down",
+    "2",
+    "over",
+    "3",
+    "selectedOver",
+    "n3_rt3l",
+    "icon",
+    "11qq70",
+    "1f600",
+    "/emoji/",
+    "11qq71",
+    "1f621",
+    "11qq710",
+    "1f609",
+    "11qq711",
+    "1f637",
+    "11qq72",
+    "1f622",
+    "11qq73",
+    "1f623",
+    "11qq74",
+    "1f624",
+    "11qq75",
+    "1f625",
+    "11qq76",
+    "1f626",
+    "11qq77",
+    "1f627",
+    "11qq78",
+    "1f628",
+    "11qq79",
+    "1f629",
+    "11qq7a",
+    "1f630",
+    "11qq7b",
+    "1f631",
+    "11qq7c",
+    "1f632",
+    "11qq7d",
+    "1f633",
+    "11qq7e",
+    "1f634",
+    "11qq7f",
+    "1f635",
+    "11qq7g",
+    "1f620",
+    "11qq7h",
+    "1f619",
+    "11qq7i",
+    "1f618",
+    "11qq7j",
+    "1f617",
+    "11qq7k",
+    "1f601",
+    "11qq7l",
+    "1f602",
+    "11qq7m",
+    "1f603",
+    "11qq7n",
+    "1f604",
+    "11qq7o",
+    "1f605",
+    "11qq7p",
+    "1f606",
+    "11qq7q",
+    "1f607",
+    "11qq7r",
+    "1f636",
+    "11qq7s",
+    "1f608",
+    "11qq7t",
+    "1f610",
+    "11qq7u",
+    "1f611",
+    "11qq7v",
+    "1f612",
+    "11qq7w",
+    "1f613",
+    "11qq7x",
+    "1f614",
+    "11qq7y",
+    "1f615",
+    "11qq7z",
+    "1f616",
+    "abnz76h4gh",
+    "1f640",
+    "abnz76h4gi",
+    "1f657",
+    "abnz76h4gj",
+    "1f656",
+    "abnz76h4gk",
+    "1f655",
+    "abnz76h4gl",
+    "1f654",
+    "abnz76h4gm",
+    "1f653",
+    "abnz76h4gn",
+    "1f652",
+    "abnz76h4go",
+    "1f651",
+    "abnz76h4gp",
+    "1f650",
+    "abnz76h4gq",
+    "1f649",
+    "abnz76h4gr",
+    "1f648",
+    "abnz76h4gs",
+    "1f647",
+    "abnz76h4gt",
+    "1f646",
+    "abnz76h4gu",
+    "1f645",
+    "abnz76h4gv",
+    "1f644",
+    "abnz76h4gw",
+    "1f643",
+    "abnz76h4gx",
+    "1f642",
+    "abnz76h4gy",
+    "1f641",
+    "abnz76h4gz",
+    "1f638",
+    "abnz76h4h0",
+    "1f639",
+    "atlas0",
+    "atlas0.png"
+  ]
+}

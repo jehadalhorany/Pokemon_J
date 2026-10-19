@@ -1,0 +1,5860 @@
+{
+  "items": [
+    {
+      "type": 0,
+      "id": "avi15o",
+      "name": "jz_bg_3",
+      "path": "/HomeMain/Building/Image/",
+      "file": null,
+      "size": [
+        1024,
+        474
+      ]
+    },
+    {
+      "type": 0,
+      "id": "doqj55",
+      "name": "znqrw_bth_1",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        80,
+        54
+      ]
+    },
+    {
+      "type": 0,
+      "id": "doqj59",
+      "name": "flhd_di_2",
+      "path": "/Task/Images/",
+      "file": null,
+      "size": [
+        943,
+        187
+      ]
+    },
+    {
+      "type": 0,
+      "id": "doqj5a",
+      "name": "xsnz_di_7",
+      "path": "/Task/Images/",
+      "file": null,
+      "size": [
+        573,
+        56
+      ]
+    },
+    {
+      "type": 0,
+      "id": "doqj5b",
+      "name": "xscc_di_11",
+      "path": "/Task/Images/",
+      "file": null,
+      "size": [
+        959,
+        184
+      ]
+    },
+    {
+      "type": 0,
+      "id": "doqj5c",
+      "name": "xscc_di_12",
+      "path": "/Task/Images/",
+      "file": null,
+      "size": [
+        580,
+        63
+      ]
+    },
+    {
+      "type": 0,
+      "id": "fjq46l",
+      "name": "jy_bth_14",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        157,
+        53
+      ]
+    },
+    {
+      "type": 0,
+      "id": "fjq46m",
+      "name": "jy_bth_15",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        157,
+        53
+      ]
+    },
+    {
+      "type": 0,
+      "id": "fjq46n",
+      "name": "jy_ic_32",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        42,
+        42
+      ]
+    },
+    {
+      "type": 0,
+      "id": "fjq46o",
+      "name": "jy_ic_33",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        42,
+        42
+      ]
+    },
+    {
+      "type": 0,
+      "id": "g9b363",
+      "name": "sj_di_3",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "type": 0,
+      "id": "g9b364",
+      "name": "sj_di_4",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "type": 0,
+      "id": "g9b365",
+      "name": "sj_di_5",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "type": 0,
+      "id": "g9b366",
+      "name": "sj_ic_1",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        80,
+        80
+      ]
+    },
+    {
+      "type": 0,
+      "id": "g9b367",
+      "name": "sj_ic_2",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        80,
+        80
+      ]
+    },
+    {
+      "type": 0,
+      "id": "g9b368",
+      "name": "sj_ic_3",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        80,
+        80
+      ]
+    },
+    {
+      "type": 0,
+      "id": "g9b369",
+      "name": "sj_ic_4",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        80,
+        80
+      ]
+    },
+    {
+      "type": 0,
+      "id": "hnwe5c",
+      "name": "jy_bth_4",
+      "path": "/HomeMain/Building/Image/",
+      "file": null,
+      "size": [
+        490,
+        55
+      ]
+    },
+    {
+      "type": 0,
+      "id": "hnwe5d",
+      "name": "jy_di_8",
+      "path": "/HomeMain/Building/Image/",
+      "file": null,
+      "size": [
+        259,
+        27
+      ]
+    },
+    {
+      "type": 0,
+      "id": "hnwe5e",
+      "name": "jy_di_6",
+      "path": "/HomeMain/Building/Image/",
+      "file": null,
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "type": 0,
+      "id": "kvne34",
+      "name": "jy_ic_31",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        45,
+        43
+      ]
+    },
+    {
+      "type": 0,
+      "id": "kvne3a",
+      "name": "hc2048_bth_1",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        132,
+        132
+      ]
+    },
+    {
+      "type": 0,
+      "id": "kvne3b",
+      "name": "znqts_bth_3",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        61,
+        61
+      ]
+    },
+    {
+      "type": 0,
+      "id": "kvne3c",
+      "name": "zbxt_bg_1",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        1024,
+        511
+      ]
+    },
+    {
+      "type": 0,
+      "id": "kvne3d",
+      "name": "zbxt_di_8",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        40,
+        40
+      ]
+    },
+    {
+      "type": 0,
+      "id": "kvne3e",
+      "name": "zbxt_di_4",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        37,
+        752
+      ]
+    },
+    {
+      "type": 0,
+      "id": "kvne3g",
+      "name": "hphd_bth_3",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        132,
+        55
+      ]
+    },
+    {
+      "type": 0,
+      "id": "kvne3h",
+      "name": "jy_di_25",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        56,
+        56
+      ]
+    },
+    {
+      "type": 0,
+      "id": "kvne3j",
+      "name": "xgmb_di_12",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        50,
+        50
+      ]
+    },
+    {
+      "type": 0,
+      "id": "kvne3k",
+      "name": "flhd_di_3",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        56,
+        57
+      ]
+    },
+    {
+      "type": 0,
+      "id": "kvne3l",
+      "name": "yxzs_bg_3",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        30,
+        30
+      ]
+    },
+    {
+      "type": 0,
+      "id": "kvne3m",
+      "name": "sezjm_di_9",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        16,
+        24
+      ]
+    },
+    {
+      "type": 0,
+      "id": "l6yi63",
+      "name": "jy_bg",
+      "path": "/Task/Images/",
+      "file": null,
+      "size": [
+        1024,
+        474
+      ]
+    },
+    {
+      "type": 0,
+      "id": "l6yi64",
+      "name": "jy_bth_10",
+      "path": "/Task/Images/",
+      "file": null,
+      "size": [
+        284,
+        82
+      ]
+    },
+    {
+      "type": 0,
+      "id": "l6yi65",
+      "name": "jy_bth_11",
+      "path": "/Task/Images/",
+      "file": null,
+      "size": [
+        284,
+        79
+      ]
+    },
+    {
+      "type": 0,
+      "id": "l6yi66",
+      "name": "jy_di_16",
+      "path": "/Task/Images/",
+      "file": null,
+      "size": [
+        665,
+        934
+      ]
+    },
+    {
+      "type": 0,
+      "id": "l6yi67",
+      "name": "jy_ic_19",
+      "path": "/Task/Images/",
+      "file": null,
+      "size": [
+        57,
+        56
+      ]
+    },
+    {
+      "type": 0,
+      "id": "l6yi68",
+      "name": "jy_ic_20",
+      "path": "/Task/Images/",
+      "file": null,
+      "size": [
+        57,
+        56
+      ]
+    },
+    {
+      "type": 0,
+      "id": "l6yi69",
+      "name": "jy_ic_21",
+      "path": "/Task/Images/",
+      "file": null,
+      "size": [
+        57,
+        56
+      ]
+    },
+    {
+      "type": 0,
+      "id": "l6yi6a",
+      "name": "jy_ic_22",
+      "path": "/Task/Images/",
+      "file": null,
+      "size": [
+        57,
+        56
+      ]
+    },
+    {
+      "type": 0,
+      "id": "l6yi6b",
+      "name": "jy_ic_23",
+      "path": "/Task/Images/",
+      "file": null,
+      "size": [
+        57,
+        56
+      ]
+    },
+    {
+      "type": 0,
+      "id": "l6yi6c",
+      "name": "jy_ic_24",
+      "path": "/Task/Images/",
+      "file": null,
+      "size": [
+        57,
+        56
+      ]
+    },
+    {
+      "type": 0,
+      "id": "l6yi6d",
+      "name": "jy_ic_25",
+      "path": "/Task/Images/",
+      "file": null,
+      "size": [
+        57,
+        56
+      ]
+    },
+    {
+      "type": 0,
+      "id": "l6yi6e",
+      "name": "jy_ic_26",
+      "path": "/Task/Images/",
+      "file": null,
+      "size": [
+        57,
+        56
+      ]
+    },
+    {
+      "type": 0,
+      "id": "p7ar6v",
+      "name": "hfhd_bg_2",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        409,
+        115
+      ]
+    },
+    {
+      "type": 0,
+      "id": "p7ar6w",
+      "name": "hfhd_bg_3",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        409,
+        115
+      ]
+    },
+    {
+      "type": 0,
+      "id": "p7ar6x",
+      "name": "hfhd_bg_4",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        23,
+        27
+      ]
+    },
+    {
+      "type": 0,
+      "id": "p7ar6z",
+      "name": "jy_di_27",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        313,
+        388
+      ]
+    },
+    {
+      "type": 0,
+      "id": "p7ar70",
+      "name": "jy_bg_1",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        1024,
+        474
+      ]
+    },
+    {
+      "type": 0,
+      "id": "q7cq3s",
+      "name": "jz_bg",
+      "path": "/HomeMain/Building/Image/",
+      "file": null,
+      "size": [
+        1024,
+        51
+      ]
+    },
+    {
+      "type": 0,
+      "id": "q7cq3u",
+      "name": "jz_bg_2",
+      "path": "/HomeMain/Building/Image/",
+      "file": null,
+      "size": [
+        1024,
+        474
+      ]
+    },
+    {
+      "type": 0,
+      "id": "q7cq3v",
+      "name": "jy_di_10",
+      "path": "/HomeMain/Building/Image/",
+      "file": null,
+      "size": [
+        95,
+        703
+      ]
+    },
+    {
+      "type": 0,
+      "id": "q7cq3w",
+      "name": "jz_ic_5",
+      "path": "/HomeMain/Building/Image/",
+      "file": null,
+      "size": [
+        74,
+        71
+      ]
+    },
+    {
+      "type": 0,
+      "id": "q7cq3z",
+      "name": "ty_ic_Selected",
+      "path": "/HomeMain/Building/Image/",
+      "file": null,
+      "size": [
+        124,
+        127
+      ]
+    },
+    {
+      "type": 0,
+      "id": "q7cq40",
+      "name": "zbxt_di_8",
+      "path": "/HomeMain/Building/Image/",
+      "file": null,
+      "size": [
+        40,
+        40
+      ]
+    },
+    {
+      "type": 0,
+      "id": "q7cq42",
+      "name": "znqts_bth_2",
+      "path": "/HomeMain/Building/Image/",
+      "file": null,
+      "size": [
+        284,
+        78
+      ]
+    },
+    {
+      "type": 0,
+      "id": "q7cq44",
+      "name": "jz_di_3",
+      "path": "/HomeMain/Building/Image/",
+      "file": null,
+      "size": [
+        154,
+        154
+      ]
+    },
+    {
+      "type": 0,
+      "id": "q7cq45",
+      "name": "jz_di_4",
+      "path": "/HomeMain/Building/Image/",
+      "file": null,
+      "size": [
+        154,
+        154
+      ]
+    },
+    {
+      "type": 0,
+      "id": "q7cq46",
+      "name": "jz_bth_1",
+      "path": "/HomeMain/Building/Image/",
+      "file": null,
+      "size": [
+        61,
+        61
+      ]
+    },
+    {
+      "type": 0,
+      "id": "q7cq47",
+      "name": "dy_xian_1",
+      "path": "/HomeMain/Building/Image/",
+      "file": null,
+      "size": [
+        5,
+        2
+      ]
+    },
+    {
+      "type": 0,
+      "id": "rmsk2q",
+      "name": "yzzl_di_3",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        42,
+        42
+      ]
+    },
+    {
+      "type": 0,
+      "id": "rmsk2s",
+      "name": "ghboss_bg_6",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        59,
+        53
+      ]
+    },
+    {
+      "type": 0,
+      "id": "rmsk2t",
+      "name": "ghboss_bg_7",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        21,
+        18
+      ]
+    },
+    {
+      "type": 0,
+      "id": "rmsk2x",
+      "name": "xsjhm_bg_2",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        371,
+        55
+      ]
+    },
+    {
+      "type": 0,
+      "id": "rmsk2z",
+      "name": "znqts_bth_2",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        284,
+        78
+      ]
+    },
+    {
+      "type": 0,
+      "id": "rmsk30",
+      "name": "znqts_bth_4",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        284,
+        78
+      ]
+    },
+    {
+      "type": 0,
+      "id": "s0wy12",
+      "name": "jy_ic_27",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        30,
+        36
+      ]
+    },
+    {
+      "type": 0,
+      "id": "s0wy13",
+      "name": "jy_ic_28",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        50,
+        46
+      ]
+    },
+    {
+      "type": 0,
+      "id": "s0wy14",
+      "name": "jy_ic_29",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        50,
+        46
+      ]
+    },
+    {
+      "type": 0,
+      "id": "s0wy15",
+      "name": "jy_ic_30",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        72,
+        72
+      ]
+    },
+    {
+      "type": 0,
+      "id": "s0wy17",
+      "name": "jy_bth_1",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        272,
+        71
+      ]
+    },
+    {
+      "type": 0,
+      "id": "s0wy18",
+      "name": "jy_bth_2",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        129,
+        128
+      ]
+    },
+    {
+      "type": 0,
+      "id": "s0wy19",
+      "name": "jy_bth_3",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        31,
+        54
+      ]
+    },
+    {
+      "type": 0,
+      "id": "s0wy1a",
+      "name": "jy_bth_4",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        490,
+        55
+      ]
+    },
+    {
+      "type": 0,
+      "id": "s0wy1b",
+      "name": "jy_bth_5",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        157,
+        53
+      ]
+    },
+    {
+      "type": 0,
+      "id": "s0wy1c",
+      "name": "jy_bth_6",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        157,
+        53
+      ]
+    },
+    {
+      "type": 0,
+      "id": "s0wy1d",
+      "name": "jy_bth_7",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        157,
+        53
+      ]
+    },
+    {
+      "type": 0,
+      "id": "s0wy1e",
+      "name": "jy_bth_8",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        157,
+        53
+      ]
+    },
+    {
+      "type": 0,
+      "id": "s0wy1f",
+      "name": "jy_bth_9",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        157,
+        53
+      ]
+    },
+    {
+      "type": 0,
+      "id": "s0wy1h",
+      "name": "jy_di_11",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        118,
+        379
+      ]
+    },
+    {
+      "type": 0,
+      "id": "s0wy1i",
+      "name": "jy_di_10",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        95,
+        703
+      ]
+    },
+    {
+      "type": 0,
+      "id": "s0wy1j",
+      "name": "jy_di_9",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        107,
+        105
+      ]
+    },
+    {
+      "type": 0,
+      "id": "s0wy1k",
+      "name": "jy_di_8",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        259,
+        27
+      ]
+    },
+    {
+      "type": 0,
+      "id": "s0wy1m",
+      "name": "jy_di_6",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "type": 0,
+      "id": "s0wy1o",
+      "name": "jy_di_5",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        726,
+        169
+      ]
+    },
+    {
+      "type": 0,
+      "id": "s0wy1p",
+      "name": "jy_di_3",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        88,
+        88
+      ]
+    },
+    {
+      "type": 0,
+      "id": "s0wy1q",
+      "name": "jy_di_2",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        61,
+        61
+      ]
+    },
+    {
+      "type": 0,
+      "id": "s0wy1r",
+      "name": "jy_di_1",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        594,
+        184
+      ]
+    },
+    {
+      "type": 0,
+      "id": "s0wy1s",
+      "name": "jy_bth_13",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        218,
+        66
+      ]
+    },
+    {
+      "type": 0,
+      "id": "s0wy1t",
+      "name": "jy_bth_12",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        218,
+        66
+      ]
+    },
+    {
+      "type": 0,
+      "id": "s0wy1v",
+      "name": "jy_di_4",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        61,
+        61
+      ]
+    },
+    {
+      "type": 0,
+      "id": "s0wy2b",
+      "name": "sezjm_di_3",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        20,
+        14
+      ]
+    },
+    {
+      "type": 0,
+      "id": "s0wy2c",
+      "name": "sezjm_di_4",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        295,
+        20
+      ]
+    },
+    {
+      "type": 0,
+      "id": "s0wy3",
+      "name": "jy_di_17",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        163,
+        179
+      ]
+    },
+    {
+      "type": 0,
+      "id": "s0wy5",
+      "name": "jy_di_19",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        128,
+        88
+      ]
+    },
+    {
+      "type": 0,
+      "id": "s0wy6",
+      "name": "jy_di_20",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        80,
+        51
+      ]
+    },
+    {
+      "type": 0,
+      "id": "s0wy7",
+      "name": "jy_di_21",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        66,
+        64
+      ]
+    },
+    {
+      "type": 0,
+      "id": "s0wy8",
+      "name": "jy_di_22",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        60,
+        60
+      ]
+    },
+    {
+      "type": 0,
+      "id": "s0wy9",
+      "name": "jy_di_23",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        106,
+        65
+      ]
+    },
+    {
+      "type": 0,
+      "id": "s0wya",
+      "name": "jy_di_24",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        257,
+        88
+      ]
+    },
+    {
+      "type": 0,
+      "id": "s0wyb",
+      "name": "jy_ic_1",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        83,
+        83
+      ]
+    },
+    {
+      "type": 0,
+      "id": "s0wyc",
+      "name": "jy_ic_2",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        49,
+        51
+      ]
+    },
+    {
+      "type": 0,
+      "id": "s0wyd",
+      "name": "jy_ic_3",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        43,
+        48
+      ]
+    },
+    {
+      "type": 0,
+      "id": "s0wye",
+      "name": "jy_ic_4",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        57,
+        50
+      ]
+    },
+    {
+      "type": 0,
+      "id": "s0wyf",
+      "name": "jy_ic_5",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        57,
+        50
+      ]
+    },
+    {
+      "type": 0,
+      "id": "s0wyh",
+      "name": "jy_ic_6",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        57,
+        50
+      ]
+    },
+    {
+      "type": 0,
+      "id": "s0wyi",
+      "name": "jy_ic_8",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        57,
+        50
+      ]
+    },
+    {
+      "type": 0,
+      "id": "s0wyj",
+      "name": "jy_ic_9",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        57,
+        50
+      ]
+    },
+    {
+      "type": 0,
+      "id": "s0wyk",
+      "name": "jy_ic_10",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        57,
+        50
+      ]
+    },
+    {
+      "type": 0,
+      "id": "s0wyl",
+      "name": "jy_ic_11",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        57,
+        50
+      ]
+    },
+    {
+      "type": 0,
+      "id": "s0wym",
+      "name": "jy_ic_12",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        42,
+        42
+      ]
+    },
+    {
+      "type": 0,
+      "id": "s0wyn",
+      "name": "jy_ic_13",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        42,
+        42
+      ]
+    },
+    {
+      "type": 0,
+      "id": "s0wyo",
+      "name": "jy_ic_14",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        42,
+        42
+      ]
+    },
+    {
+      "type": 0,
+      "id": "s0wyp",
+      "name": "jy_ic_15",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        42,
+        42
+      ]
+    },
+    {
+      "type": 0,
+      "id": "s0wyq",
+      "name": "jy_ic_16",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        42,
+        42
+      ]
+    },
+    {
+      "type": 0,
+      "id": "s0wyr",
+      "name": "jy_ic_17",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        42,
+        42
+      ]
+    },
+    {
+      "type": 0,
+      "id": "s0wys",
+      "name": "jy_ic_18",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        42,
+        42
+      ]
+    },
+    {
+      "type": 0,
+      "id": "s0wyw",
+      "name": "jy_ic_7",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        57,
+        50
+      ]
+    },
+    {
+      "type": 0,
+      "id": "s0wyx",
+      "name": "jy_di_14",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        166,
+        206
+      ]
+    },
+    {
+      "type": 0,
+      "id": "s0wyy",
+      "name": "jy_di_13",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        255,
+        128
+      ]
+    },
+    {
+      "type": 0,
+      "id": "s0wyz",
+      "name": "jy_di_12",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        305,
+        153
+      ]
+    },
+    {
+      "type": 0,
+      "id": "scr62n",
+      "name": "tj_qiu_1",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        66,
+        66
+      ]
+    },
+    {
+      "type": 0,
+      "id": "scr62o",
+      "name": "tj_di_11",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        523,
+        401
+      ]
+    },
+    {
+      "type": 0,
+      "id": "u06g4b",
+      "name": "jz_ic_9",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        45,
+        45
+      ]
+    },
+    {
+      "type": 0,
+      "id": "u06g4c",
+      "name": "jz_ic_8",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        45,
+        45
+      ]
+    },
+    {
+      "type": 0,
+      "id": "u06g4d",
+      "name": "jz_ic_7",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        45,
+        45
+      ]
+    },
+    {
+      "type": 0,
+      "id": "u06g4e",
+      "name": "jz_ic_6",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        74,
+        71
+      ]
+    },
+    {
+      "type": 0,
+      "id": "u06g4g",
+      "name": "jz_ic_4",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        74,
+        71
+      ]
+    },
+    {
+      "type": 0,
+      "id": "u06g4h",
+      "name": "jz_ic_3",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        80,
+        35
+      ]
+    },
+    {
+      "type": 0,
+      "id": "u06g4i",
+      "name": "jz_ic_2",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        228,
+        142
+      ]
+    },
+    {
+      "type": 0,
+      "id": "u06g4j",
+      "name": "jz_ic_10",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        45,
+        45
+      ]
+    },
+    {
+      "type": 0,
+      "id": "u06g4n",
+      "name": "jz_di_6",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        98,
+        98
+      ]
+    },
+    {
+      "type": 0,
+      "id": "u06g4p",
+      "name": "jz_di_4",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        154,
+        154
+      ]
+    },
+    {
+      "type": 0,
+      "id": "u06g4q",
+      "name": "jz_di_3",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        154,
+        154
+      ]
+    },
+    {
+      "type": 0,
+      "id": "u06g4r",
+      "name": "jz_di_2",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        317,
+        382
+      ]
+    },
+    {
+      "type": 0,
+      "id": "u06g4s",
+      "name": "jz_di_1",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        112,
+        112
+      ]
+    },
+    {
+      "type": 0,
+      "id": "u06g4t",
+      "name": "jz_bth_1",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        61,
+        61
+      ]
+    },
+    {
+      "type": 0,
+      "id": "u06g4w",
+      "name": "jz_bg_1",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        1024,
+        474
+      ]
+    },
+    {
+      "type": 0,
+      "id": "u06g4x",
+      "name": "jz_di_7",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        75,
+        85
+      ]
+    },
+    {
+      "type": 0,
+      "id": "u06g4y",
+      "name": "sj_di_2",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "type": 0,
+      "id": "u06g4z",
+      "name": "jz_ic_11",
+      "path": "/HomeMain/Building/Image/",
+      "file": null,
+      "size": [
+        37,
+        43
+      ]
+    },
+    {
+      "type": 0,
+      "id": "u4ld6i",
+      "name": "zjmdlqd_fgx_1",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        13,
+        6
+      ]
+    },
+    {
+      "type": 3,
+      "id": "a5722h",
+      "name": "BuildEmplaceItem",
+      "path": "/HomeMain/Component/",
+      "file": null,
+      "size": [
+        187,
+        203
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "avi15n",
+      "name": "FoodAddItem",
+      "path": "/HomeMain/Building/AutoFeedBuilding/",
+      "file": null,
+      "size": [
+        181,
+        205
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "avi15p",
+      "name": "HomeBuildingDescribItem",
+      "path": "/HomeMain/Building/SynthesisBuilding/",
+      "file": null,
+      "size": [
+        636,
+        58
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "avi16f",
+      "name": "HomeBuildingKitchen_Window",
+      "path": "/HomeMain/Building/Kitchen/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "c3l62g",
+      "name": "HomeBagMain_MiniWindow",
+      "path": "/HomeMain/Bag/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "c3l62h",
+      "name": "HomeBagTabItem",
+      "path": "/HomeMain/Bag/",
+      "file": null,
+      "size": [
+        107,
+        105
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "c3l62j",
+      "name": "HomeBagEudSlodItem",
+      "path": "/HomeMain/Bag/Eud/",
+      "file": null,
+      "size": [
+        277,
+        158
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "cage6t",
+      "name": "HomeMapUnlock_MiniWindow",
+      "path": "/HomeMain/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "didf2d",
+      "name": "HomeBtn",
+      "path": "/HomeMain/Component/",
+      "file": null,
+      "size": [
+        129,
+        149
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "didf2e",
+      "name": "HomeMapUnlockTips",
+      "path": "/HomeMain/Component/",
+      "file": null,
+      "size": [
+        305,
+        153
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "didf2f",
+      "name": "MapBuildHub",
+      "path": "/HomeMain/Component/",
+      "file": null,
+      "size": [
+        0,
+        0
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "doqj54",
+      "name": "HomeTask_Window",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "doqj56",
+      "name": "HomeBack",
+      "path": "/",
+      "file": null,
+      "size": [
+        661,
+        126
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "doqj57",
+      "name": "HomeTaskTab",
+      "path": "/",
+      "file": null,
+      "size": [
+        284,
+        82
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "doqj58",
+      "name": "HomeTaskItem",
+      "path": "/",
+      "file": null,
+      "size": [
+        970,
+        208
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "doqj5h",
+      "name": "HomeTaskDesc",
+      "path": "/",
+      "file": null,
+      "size": [
+        488,
+        44
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "ev5c54",
+      "name": "HomeSeedBtn",
+      "path": "/HomeMain/Component/",
+      "file": null,
+      "size": [
+        157,
+        53
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "f1e471",
+      "name": "HomeBagFoodsItem",
+      "path": "/HomeMain/Bag/Goods/",
+      "file": null,
+      "size": [
+        183,
+        204
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "f1e472",
+      "name": "HomeBagMaterialsItem",
+      "path": "/HomeMain/Bag/Goods/",
+      "file": null,
+      "size": [
+        183,
+        204
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "fjq46q",
+      "name": "HomeEudRestItem",
+      "path": "/HomeMain/Building/Rest/",
+      "file": null,
+      "size": [
+        277,
+        158
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "gjzk6h",
+      "name": "HomeEudRest_MiniWindow",
+      "path": "/HomeMain/Building/Rest/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "gjzk6i",
+      "name": "HomeEudRestCom",
+      "path": "/HomeMain/Building/Rest/",
+      "file": null,
+      "size": [
+        800,
+        422
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "gjzk6j",
+      "name": "HomeEudRestSel_MiniWindow",
+      "path": "/HomeMain/Building/Rest/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "gjzk6k",
+      "name": "HomeBagEudBaseDetail",
+      "path": "/HomeMain/Bag/Eud/",
+      "file": null,
+      "size": [
+        538,
+        666
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "hbi60",
+      "name": "HomeScene_Bg",
+      "path": "/HomeMain/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "hnwe4z",
+      "name": "HomeAutoFeedBuilding_MiniWindow",
+      "path": "/HomeMain/Building/AutoFeedBuilding/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "hnwe5f",
+      "name": "BuildingFoodMakeItem",
+      "path": "/HomeMain/Building/Component/",
+      "file": null,
+      "size": [
+        166,
+        173
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "hnwe5g",
+      "name": "HomeSynthesisBuilding_Window",
+      "path": "/HomeMain/Building/SynthesisBuilding/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "hnwe5i",
+      "name": "HomeAutoFeedBuildingAddItem_MiniWindow",
+      "path": "/HomeMain/Building/AutoFeedBuilding/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "icad53",
+      "name": "EventBtn",
+      "path": "/HomeMain/Component/",
+      "file": null,
+      "size": [
+        200,
+        52
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "kll46s",
+      "name": "BuildingTipItem",
+      "path": "/HomeMain/Building/Component/",
+      "file": null,
+      "size": [
+        117,
+        197
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "kvne32",
+      "name": "HomeBagGoodsItem",
+      "path": "/HomeMain/Bag/Goods/",
+      "file": null,
+      "size": [
+        183,
+        204
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "kvne33",
+      "name": "HomeBagGoodsDetail",
+      "path": "/HomeMain/Bag/Goods/",
+      "file": null,
+      "size": [
+        557,
+        885
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "kvne35",
+      "name": "HomeBagGoodsOtherInfoPanel",
+      "path": "/HomeMain/Bag/Goods/",
+      "file": null,
+      "size": [
+        535,
+        339
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "kvne36",
+      "name": "HomeBagGoodsWayItem",
+      "path": "/HomeMain/Bag/Goods/",
+      "file": null,
+      "size": [
+        512,
+        88
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "kvne37",
+      "name": "HomeBagInfoItem",
+      "path": "/HomeMain/Bag/Goods/",
+      "file": null,
+      "size": [
+        135,
+        40
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "kvne39",
+      "name": "HomeBagEudSoldUnlock_MiniWindow",
+      "path": "/HomeMain/Bag/Eud/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "kvne3f",
+      "name": "HomeBagEudSelect_MiniWindow",
+      "path": "/HomeMain/Bag/Eud/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "kvne3i",
+      "name": "HomeBagEudInfo",
+      "path": "/HomeMain/Bag/Eud/",
+      "file": null,
+      "size": [
+        277,
+        145
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "kvne3n",
+      "name": "HomeBagEudSkillSelectCell",
+      "path": "/HomeMain/Bag/Eud/",
+      "file": null,
+      "size": [
+        161,
+        45
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "m06c54",
+      "name": "HomeBuildInfo_MiniWindow",
+      "path": "/HomeMain/Building/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "m06c5e",
+      "name": "HomeBuildDetailCom",
+      "path": "/HomeMain/Building/",
+      "file": null,
+      "size": [
+        527,
+        719
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "m06c5f",
+      "name": "HomeBuildLvUp_MiniWindow",
+      "path": "/HomeMain/Building/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "m06c5g",
+      "name": "HomeBuildLevelCom",
+      "path": "/HomeMain/Building/",
+      "file": null,
+      "size": [
+        319,
+        382
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "p7ar6s",
+      "name": "HomeShop_Window",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "p7ar6u",
+      "name": "HomeShopTabItem",
+      "path": "/HomeMain/Component/",
+      "file": null,
+      "size": [
+        409,
+        115
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "p7ar6y",
+      "name": "HomeShopItem",
+      "path": "/",
+      "file": null,
+      "size": [
+        313,
+        388
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "q7cq3r",
+      "name": "HomeDecorationBuilding_Window",
+      "path": "/HomeMain/Building/Decoration/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "q7cq3y",
+      "name": "BuildingItem",
+      "path": "/HomeMain/Building/Component/",
+      "file": null,
+      "size": [
+        204,
+        211
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "q7cq43",
+      "name": "BuildingMakeItem",
+      "path": "/HomeMain/Building/Component/",
+      "file": null,
+      "size": [
+        191,
+        260
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "q7cq49",
+      "name": "BuildingNumBarItem",
+      "path": "/HomeMain/Building/Component/",
+      "file": null,
+      "size": [
+        284,
+        68
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "rmsk2r",
+      "name": "HomeBagEudSkillCell",
+      "path": "/HomeMain/Bag/Eud/",
+      "file": null,
+      "size": [
+        251,
+        77
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "rmsk2u",
+      "name": "HomeBagFoodUseItem",
+      "path": "/HomeMain/Bag/Goods/",
+      "file": null,
+      "size": [
+        180,
+        222
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "rmsk2v",
+      "name": "HomeBagEudOpe",
+      "path": "/HomeMain/Bag/Eud/",
+      "file": null,
+      "size": [
+        157,
+        53
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "rmsk2w",
+      "name": "HomeBagBuildDetail",
+      "path": "/HomeMain/Bag/",
+      "file": null,
+      "size": [
+        557,
+        885
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "rmsk2y",
+      "name": "HomeBuildDescTextPanel",
+      "path": "/HomeMain/Bag/Goods/",
+      "file": null,
+      "size": [
+        494,
+        245
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "rmsk31",
+      "name": "HomeBagBuildItem",
+      "path": "/HomeMain/Bag/",
+      "file": null,
+      "size": [
+        189,
+        204
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "s0wy2a",
+      "name": "ActivityGroupBuyBar2",
+      "path": "/HomeMain/Component/",
+      "file": null,
+      "size": [
+        295,
+        20
+      ],
+      "extension": 14
+    },
+    {
+      "type": 3,
+      "id": "scr62l",
+      "name": "HomeBagFold",
+      "path": "/HomeMain/Bag/",
+      "file": null,
+      "size": [
+        84,
+        93
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "scr62p",
+      "name": "HomeBagEudDetail",
+      "path": "/HomeMain/Bag/Eud/",
+      "file": null,
+      "size": [
+        557,
+        885
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "shvw73",
+      "name": "HomeBagFoodsDetail",
+      "path": "/HomeMain/Bag/Goods/",
+      "file": null,
+      "size": [
+        557,
+        885
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "shvw74",
+      "name": "HomeBagMaterialsDetail",
+      "path": "/HomeMain/Bag/Goods/",
+      "file": null,
+      "size": [
+        557,
+        885
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "u06g51",
+      "name": "HomeAddSeed_MiniWindow",
+      "path": "/HomeMain/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "u4ld6f",
+      "name": "HomeMainTaskItem",
+      "path": "/HomeMain/Component/",
+      "file": null,
+      "size": [
+        327,
+        117
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "u4ld6g",
+      "name": "HomeEditModeEudEmplaceItem",
+      "path": "/HomeMain/Component/",
+      "file": null,
+      "size": [
+        277,
+        158
+      ],
+      "extension": 0
+    },
+    {
+      "type": 0,
+      "id": "c3l62k",
+      "name": "ydxyx_jia",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        148,
+        148
+      ]
+    },
+    {
+      "type": 0,
+      "id": "c6ng6r",
+      "name": "jy_di_26",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        92,
+        113
+      ]
+    },
+    {
+      "type": 0,
+      "id": "doqj5d",
+      "name": "jy_banner_4",
+      "path": "/Task/Images/",
+      "file": null,
+      "size": [
+        302,
+        119
+      ]
+    },
+    {
+      "type": 0,
+      "id": "doqj5e",
+      "name": "jy_banner_1",
+      "path": "/Task/Images/",
+      "file": null,
+      "size": [
+        302,
+        119
+      ]
+    },
+    {
+      "type": 0,
+      "id": "doqj5f",
+      "name": "jy_banner_2",
+      "path": "/Task/Images/",
+      "file": null,
+      "size": [
+        302,
+        119
+      ]
+    },
+    {
+      "type": 0,
+      "id": "doqj5g",
+      "name": "jy_banner_3",
+      "path": "/Task/Images/",
+      "file": null,
+      "size": [
+        302,
+        119
+      ]
+    },
+    {
+      "type": 0,
+      "id": "scr62m",
+      "name": "sz_di_5",
+      "path": "/HomeMain/Images/",
+      "file": null,
+      "size": [
+        2,
+        10
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas0",
+      "name": null,
+      "path": null,
+      "file": "atlas0.png",
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas6",
+      "name": null,
+      "path": null,
+      "file": "atlas6.png",
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas_kvne3c",
+      "name": null,
+      "path": null,
+      "file": "atlas_kvne3c.png",
+      "size": [
+        1024,
+        512
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas_p7ar70",
+      "name": null,
+      "path": null,
+      "file": "atlas_p7ar70.png",
+      "size": [
+        1024,
+        512
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas_s0wyz",
+      "name": null,
+      "path": null,
+      "file": "atlas_s0wyz.png",
+      "size": [
+        512,
+        256
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas_l6yi63",
+      "name": null,
+      "path": null,
+      "file": "atlas_l6yi63.png",
+      "size": [
+        1024,
+        512
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas_l6yi66",
+      "name": null,
+      "path": null,
+      "file": "atlas_l6yi66.png",
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas_u06g4w",
+      "name": null,
+      "path": null,
+      "file": "atlas_u06g4w.png",
+      "size": [
+        1024,
+        512
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas_q7cq3u",
+      "name": null,
+      "path": null,
+      "file": "atlas_q7cq3u.png",
+      "size": [
+        1024,
+        512
+      ]
+    }
+  ],
+  "sprites": [
+    {
+      "id": "q7cq3s",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        0,
+        1024,
+        51
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "avi15o",
+      "atlas": "atlas0",
+      "rect": [
+        1026,
+        0,
+        474,
+        1024
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "kvne3e",
+      "atlas": "atlas0",
+      "rect": [
+        1502,
+        0,
+        37,
+        752
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "s0wy1o",
+      "atlas": "atlas0",
+      "rect": [
+        1502,
+        754,
+        169,
+        726
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "s0wy1i",
+      "atlas": "atlas0",
+      "rect": [
+        1541,
+        0,
+        95,
+        703
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "q7cq3v",
+      "atlas": "atlas0",
+      "rect": [
+        1638,
+        0,
+        95,
+        703
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "s0wy1r",
+      "atlas": "atlas0",
+      "rect": [
+        1673,
+        705,
+        184,
+        594
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "scr62o",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        1482,
+        401,
+        523
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "hnwe5c",
+      "atlas": "atlas0",
+      "rect": [
+        1735,
+        0,
+        55,
+        490
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "s0wy1a",
+      "atlas": "atlas0",
+      "rect": [
+        1792,
+        0,
+        55,
+        490
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "p7ar6v",
+      "atlas": "atlas0",
+      "rect": [
+        1849,
+        0,
+        115,
+        409
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "p7ar6w",
+      "atlas": "atlas0",
+      "rect": [
+        1673,
+        1301,
+        115,
+        409
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "p7ar6z",
+      "atlas": "atlas0",
+      "rect": [
+        403,
+        1712,
+        388,
+        313
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "u06g4r",
+      "atlas": "atlas0",
+      "rect": [
+        793,
+        1712,
+        382,
+        317
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "s0wy1h",
+      "atlas": "atlas0",
+      "rect": [
+        1790,
+        1301,
+        118,
+        379
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "rmsk2x",
+      "atlas": "atlas0",
+      "rect": [
+        1910,
+        1301,
+        55,
+        371
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "s0wy2c",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        2007,
+        289,
+        14
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "q7cq42",
+      "atlas": "atlas0",
+      "rect": [
+        1910,
+        1674,
+        78,
+        284
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "rmsk2z",
+      "atlas": "atlas0",
+      "rect": [
+        1790,
+        1682,
+        78,
+        284
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "rmsk30",
+      "atlas": "atlas0",
+      "rect": [
+        1849,
+        411,
+        78,
+        284
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "s0wy17",
+      "atlas": "atlas0",
+      "rect": [
+        1929,
+        411,
+        71,
+        272
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "hnwe5d",
+      "atlas": "atlas0",
+      "rect": [
+        1870,
+        1682,
+        27,
+        259
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "s0wy1k",
+      "atlas": "atlas0",
+      "rect": [
+        1966,
+        0,
+        27,
+        259
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "s0wya",
+      "atlas": "atlas0",
+      "rect": [
+        1929,
+        685,
+        88,
+        257
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "s0wyy",
+      "atlas": "atlas0",
+      "rect": [
+        1859,
+        944,
+        128,
+        255
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "u06g4i",
+      "atlas": "atlas0",
+      "rect": [
+        1177,
+        1712,
+        138,
+        224
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "s0wy1s",
+      "atlas": "atlas0",
+      "rect": [
+        1859,
+        697,
+        66,
+        218
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "s0wy1t",
+      "atlas": "atlas0",
+      "rect": [
+        1967,
+        1201,
+        66,
+        218
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "s0wyx",
+      "atlas": "atlas0",
+      "rect": [
+        1317,
+        1712,
+        166,
+        206
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "s0wy3",
+      "atlas": "atlas0",
+      "rect": [
+        1485,
+        1712,
+        179,
+        163
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "fjq46m",
+      "atlas": "atlas0",
+      "rect": [
+        1989,
+        944,
+        53,
+        157
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "s0wy1e",
+      "atlas": "atlas0",
+      "rect": [
+        1870,
+        1960,
+        157,
+        53
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "s0wy1f",
+      "atlas": "atlas0",
+      "rect": [
+        1967,
+        1421,
+        53,
+        157
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "s0wy1b",
+      "atlas": "atlas0",
+      "rect": [
+        1990,
+        1580,
+        53,
+        157
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "s0wy1c",
+      "atlas": "atlas0",
+      "rect": [
+        1990,
+        1739,
+        53,
+        157
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "s0wy1d",
+      "atlas": "atlas0",
+      "rect": [
+        1735,
+        492,
+        53,
+        157
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "fjq46l",
+      "atlas": "atlas0",
+      "rect": [
+        1790,
+        492,
+        53,
+        157
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "u06g4p",
+      "atlas": "atlas0",
+      "rect": [
+        1485,
+        1877,
+        154,
+        154
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "u06g4q",
+      "atlas": "atlas0",
+      "rect": [
+        403,
+        1482,
+        154,
+        154
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "q7cq45",
+      "atlas": "atlas0",
+      "rect": [
+        559,
+        1482,
+        154,
+        154
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "q7cq44",
+      "atlas": "atlas0",
+      "rect": [
+        715,
+        1482,
+        154,
+        154
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "c3l62k",
+      "atlas": "atlas0",
+      "rect": [
+        1641,
+        1877,
+        144,
+        144
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "kvne3a",
+      "atlas": "atlas0",
+      "rect": [
+        871,
+        1482,
+        132,
+        132
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "kvne3g",
+      "atlas": "atlas0",
+      "rect": [
+        1966,
+        261,
+        55,
+        132
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "s0wy18",
+      "atlas": "atlas0",
+      "rect": [
+        1005,
+        1482,
+        128,
+        129
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "s0wy5",
+      "atlas": "atlas0",
+      "rect": [
+        1666,
+        1712,
+        88,
+        128
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "q7cq3z",
+      "atlas": "atlas0",
+      "rect": [
+        1317,
+        1920,
+        127,
+        124
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "c6ng6r",
+      "atlas": "atlas0",
+      "rect": [
+        1177,
+        1938,
+        113,
+        92
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "u06g4s",
+      "atlas": "atlas0",
+      "rect": [
+        1135,
+        1482,
+        112,
+        112
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "s0wy1j",
+      "atlas": "atlas0",
+      "rect": [
+        1135,
+        1596,
+        105,
+        107
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "s0wy9",
+      "atlas": "atlas0",
+      "rect": [
+        1859,
+        1201,
+        106,
+        65
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "g9b364",
+      "atlas": "atlas0",
+      "rect": [
+        1242,
+        1596,
+        100,
+        100
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "g9b365",
+      "atlas": "atlas0",
+      "rect": [
+        1344,
+        1596,
+        100,
+        100
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "u06g4y",
+      "atlas": "atlas0",
+      "rect": [
+        1249,
+        1482,
+        100,
+        100
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "g9b363",
+      "atlas": "atlas0",
+      "rect": [
+        1351,
+        1482,
+        100,
+        100
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "u06g4n",
+      "atlas": "atlas0",
+      "rect": [
+        1446,
+        1584,
+        98,
+        98
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "s0wy1p",
+      "atlas": "atlas0",
+      "rect": [
+        1005,
+        1613,
+        88,
+        88
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "u06g4x",
+      "atlas": "atlas0",
+      "rect": [
+        871,
+        1616,
+        75,
+        85
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "s0wyb",
+      "atlas": "atlas0",
+      "rect": [
+        1453,
+        1482,
+        83,
+        83
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "u06g4h",
+      "atlas": "atlas0",
+      "rect": [
+        1095,
+        1613,
+        35,
+        80
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "doqj55",
+      "atlas": "atlas0",
+      "rect": [
+        948,
+        1616,
+        54,
+        80
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "s0wy6",
+      "atlas": "atlas0",
+      "rect": [
+        1989,
+        1103,
+        51,
+        80
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "g9b367",
+      "atlas": "atlas0",
+      "rect": [
+        1787,
+        1968,
+        69,
+        74
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "u06g4g",
+      "atlas": "atlas0",
+      "rect": [
+        1538,
+        1482,
+        60,
+        74
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "u06g4e",
+      "atlas": "atlas0",
+      "rect": [
+        1600,
+        1482,
+        71,
+        60
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "q7cq3w",
+      "atlas": "atlas0",
+      "rect": [
+        1600,
+        1544,
+        71,
+        65
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "g9b369",
+      "atlas": "atlas0",
+      "rect": [
+        1546,
+        1611,
+        69,
+        70
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "s0wy15",
+      "atlas": "atlas0",
+      "rect": [
+        403,
+        1638,
+        68,
+        68
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "scr62n",
+      "atlas": "atlas0",
+      "rect": [
+        473,
+        1638,
+        66,
+        66
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "s0wy7",
+      "atlas": "atlas0",
+      "rect": [
+        541,
+        1638,
+        64,
+        66
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "g9b368",
+      "atlas": "atlas0",
+      "rect": [
+        607,
+        1638,
+        63,
+        66
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "g9b366",
+      "atlas": "atlas0",
+      "rect": [
+        672,
+        1638,
+        61,
+        65
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "s0wy1m",
+      "atlas": "atlas0",
+      "rect": [
+        735,
+        1638,
+        64,
+        64
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "hnwe5e",
+      "atlas": "atlas0",
+      "rect": [
+        801,
+        1638,
+        64,
+        64
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "s0wy1q",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        1026,
+        61,
+        61
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "s0wy1v",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        1089,
+        61,
+        61
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "kvne3b",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        1152,
+        60,
+        60
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "s0wy8",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        1214,
+        60,
+        60
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "rmsk2s",
+      "atlas": "atlas0",
+      "rect": [
+        1990,
+        1898,
+        53,
+        59
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "s0wye",
+      "atlas": "atlas0",
+      "rect": [
+        1617,
+        1611,
+        50,
+        57
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "s0wyf",
+      "atlas": "atlas0",
+      "rect": [
+        1735,
+        651,
+        57,
+        50
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "u06g4t",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        1276,
+        57,
+        57
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "kvne3k",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        1335,
+        56,
+        57
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "q7cq46",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        1394,
+        57,
+        57
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "s0wyi",
+      "atlas": "atlas0",
+      "rect": [
+        1995,
+        0,
+        50,
+        56
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "s0wyj",
+      "atlas": "atlas0",
+      "rect": [
+        1995,
+        58,
+        50,
+        56
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "kvne3h",
+      "atlas": "atlas0",
+      "rect": [
+        58,
+        1335,
+        56,
+        56
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "s0wyh",
+      "atlas": "atlas0",
+      "rect": [
+        1541,
+        705,
+        54,
+        42
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "s0wyw",
+      "atlas": "atlas0",
+      "rect": [
+        1597,
+        705,
+        54,
+        42
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "s0wy19",
+      "atlas": "atlas0",
+      "rect": [
+        1617,
+        1670,
+        54,
+        31
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "s0wyk",
+      "atlas": "atlas0",
+      "rect": [
+        1794,
+        651,
+        53,
+        50
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "s0wyl",
+      "atlas": "atlas0",
+      "rect": [
+        1995,
+        116,
+        50,
+        53
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "s0wyc",
+      "atlas": "atlas0",
+      "rect": [
+        1546,
+        1558,
+        49,
+        51
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "kvne3j",
+      "atlas": "atlas0",
+      "rect": [
+        1995,
+        171,
+        50,
+        50
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "s0wy14",
+      "atlas": "atlas0",
+      "rect": [
+        2002,
+        395,
+        44,
+        49
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "s0wyd",
+      "atlas": "atlas0",
+      "rect": [
+        2002,
+        446,
+        43,
+        48
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "u06g4b",
+      "atlas": "atlas0",
+      "rect": [
+        1995,
+        223,
+        45,
+        30
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "u06g4c",
+      "atlas": "atlas0",
+      "rect": [
+        291,
+        2007,
+        45,
+        36
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "rmsk2q",
+      "atlas": "atlas0",
+      "rect": [
+        2002,
+        496,
+        42,
+        42
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "s0wy13",
+      "atlas": "atlas0",
+      "rect": [
+        2002,
+        540,
+        42,
+        42
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "kvne34",
+      "atlas": "atlas0",
+      "rect": [
+        338,
+        2007,
+        41,
+        39
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "q7cq40",
+      "atlas": "atlas0",
+      "rect": [
+        2002,
+        584,
+        40,
+        40
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "kvne3d",
+      "atlas": "atlas0",
+      "rect": [
+        2002,
+        626,
+        40,
+        40
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "u06g4d",
+      "atlas": "atlas0",
+      "rect": [
+        1446,
+        1920,
+        35,
+        39
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "u06g4z",
+      "atlas": "atlas0",
+      "rect": [
+        1446,
+        1961,
+        33,
+        39
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "s0wym",
+      "atlas": "atlas0",
+      "rect": [
+        59,
+        1276,
+        38,
+        38
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "s0wyp",
+      "atlas": "atlas0",
+      "rect": [
+        99,
+        1276,
+        38,
+        38
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "s0wyo",
+      "atlas": "atlas0",
+      "rect": [
+        1446,
+        2002,
+        36,
+        38
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "fjq46n",
+      "atlas": "atlas0",
+      "rect": [
+        59,
+        1393,
+        35,
+        37
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "s0wyr",
+      "atlas": "atlas0",
+      "rect": [
+        59,
+        1432,
+        36,
+        37
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "u06g4j",
+      "atlas": "atlas0",
+      "rect": [
+        96,
+        1393,
+        35,
+        37
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "s0wy12",
+      "atlas": "atlas0",
+      "rect": [
+        1859,
+        1268,
+        36,
+        30
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "s0wyq",
+      "atlas": "atlas0",
+      "rect": [
+        1666,
+        1842,
+        36,
+        33
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "fjq46o",
+      "atlas": "atlas0",
+      "rect": [
+        97,
+        1432,
+        34,
+        35
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "s0wys",
+      "atlas": "atlas0",
+      "rect": [
+        1897,
+        1268,
+        34,
+        28
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "s0wyn",
+      "atlas": "atlas0",
+      "rect": [
+        1933,
+        1268,
+        32,
+        31
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "kvne3l",
+      "atlas": "atlas0",
+      "rect": [
+        1704,
+        1842,
+        30,
+        30
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "p7ar6x",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        1453,
+        23,
+        27
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "kvne3m",
+      "atlas": "atlas0",
+      "rect": [
+        1870,
+        1943,
+        23,
+        15
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "rmsk2t",
+      "atlas": "atlas0",
+      "rect": [
+        381,
+        2007,
+        18,
+        21
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "s0wy2b",
+      "atlas": "atlas0",
+      "rect": [
+        1966,
+        395,
+        20,
+        14
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "u4ld6i",
+      "atlas": "atlas0",
+      "rect": [
+        1538,
+        1558,
+        6,
+        13
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "scr62m",
+      "atlas": "atlas0",
+      "rect": [
+        1481,
+        1961,
+        2,
+        10
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "q7cq47",
+      "atlas": "atlas0",
+      "rect": [
+        1849,
+        697,
+        2,
+        5
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "doqj5b",
+      "atlas": "atlas6",
+      "rect": [
+        0,
+        0,
+        959,
+        184
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "doqj59",
+      "atlas": "atlas6",
+      "rect": [
+        0,
+        186,
+        943,
+        187
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "doqj5c",
+      "atlas": "atlas6",
+      "rect": [
+        945,
+        186,
+        62,
+        579
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "doqj5a",
+      "atlas": "atlas6",
+      "rect": [
+        0,
+        767,
+        573,
+        56
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "doqj5d",
+      "atlas": "atlas6",
+      "rect": [
+        575,
+        767,
+        302,
+        119
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "doqj5e",
+      "atlas": "atlas6",
+      "rect": [
+        0,
+        825,
+        302,
+        119
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "doqj5f",
+      "atlas": "atlas6",
+      "rect": [
+        304,
+        888,
+        302,
+        119
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "doqj5g",
+      "atlas": "atlas6",
+      "rect": [
+        608,
+        888,
+        302,
+        119
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "l6yi64",
+      "atlas": "atlas6",
+      "rect": [
+        0,
+        375,
+        82,
+        284
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "l6yi65",
+      "atlas": "atlas6",
+      "rect": [
+        0,
+        661,
+        284,
+        79
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "l6yi69",
+      "atlas": "atlas6",
+      "rect": [
+        961,
+        0,
+        57,
+        56
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "l6yi6a",
+      "atlas": "atlas6",
+      "rect": [
+        961,
+        58,
+        57,
+        56
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "l6yi67",
+      "atlas": "atlas6",
+      "rect": [
+        961,
+        116,
+        53,
+        52
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "l6yi6d",
+      "atlas": "atlas6",
+      "rect": [
+        304,
+        825,
+        50,
+        53
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "l6yi68",
+      "atlas": "atlas6",
+      "rect": [
+        356,
+        825,
+        52,
+        53
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "l6yi6e",
+      "atlas": "atlas6",
+      "rect": [
+        410,
+        825,
+        50,
+        53
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "l6yi6b",
+      "atlas": "atlas6",
+      "rect": [
+        462,
+        825,
+        48,
+        48
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "l6yi6c",
+      "atlas": "atlas6",
+      "rect": [
+        512,
+        825,
+        48,
+        48
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "kvne3c",
+      "atlas": "atlas_kvne3c",
+      "rect": [
+        0,
+        0,
+        1024,
+        511
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "p7ar70",
+      "atlas": "atlas_p7ar70",
+      "rect": [
+        0,
+        0,
+        1024,
+        474
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "s0wyz",
+      "atlas": "atlas_s0wyz",
+      "rect": [
+        0,
+        0,
+        305,
+        153
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "l6yi63",
+      "atlas": "atlas_l6yi63",
+      "rect": [
+        0,
+        0,
+        1024,
+        474
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "l6yi66",
+      "atlas": "atlas_l6yi66",
+      "rect": [
+        0,
+        0,
+        665,
+        934
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "u06g4w",
+      "atlas": "atlas_u06g4w",
+      "rect": [
+        0,
+        0,
+        1024,
+        474
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "q7cq3u",
+      "atlas": "atlas_q7cq3u",
+      "rect": [
+        0,
+        0,
+        1024,
+        474
+      ],
+      "rotated": 0
+    }
+  ],
+  "strings": [
+    "c1imbcrl",
+    "Base",
+    "uohhcc0q",
+    "Battle",
+    "ufgirfkm",
+    "Common",
+    "cyrayt3h",
+    "Item",
+    "c6iwlr2r",
+    "Main",
+    "avi15o",
+    "jz_bg_3",
+    "/HomeMain/Building/Image/",
+    "doqj55",
+    "znqrw_bth_1",
+    "/HomeMain/Images/",
+    "doqj59",
+    "flhd_di_2",
+    "/Task/Images/",
+    "doqj5a",
+    "xsnz_di_7",
+    "doqj5b",
+    "xscc_di_11",
+    "doqj5c",
+    "xscc_di_12",
+    "fjq46l",
+    "jy_bth_14",
+    "fjq46m",
+    "jy_bth_15",
+    "fjq46n",
+    "jy_ic_32",
+    "fjq46o",
+    "jy_ic_33",
+    "g9b363",
+    "sj_di_3",
+    "g9b364",
+    "sj_di_4",
+    "g9b365",
+    "sj_di_5",
+    "g9b366",
+    "sj_ic_1",
+    "g9b367",
+    "sj_ic_2",
+    "g9b368",
+    "sj_ic_3",
+    "g9b369",
+    "sj_ic_4",
+    "hnwe5c",
+    "jy_bth_4",
+    "hnwe5d",
+    "jy_di_8",
+    "hnwe5e",
+    "jy_di_6",
+    "kvne34",
+    "jy_ic_31",
+    "kvne3a",
+    "hc2048_bth_1",
+    "kvne3b",
+    "znqts_bth_3",
+    "kvne3c",
+    "zbxt_bg_1",
+    "kvne3d",
+    "zbxt_di_8",
+    "kvne3e",
+    "zbxt_di_4",
+    "kvne3g",
+    "hphd_bth_3",
+    "kvne3h",
+    "jy_di_25",
+    "kvne3j",
+    "xgmb_di_12",
+    "kvne3k",
+    "flhd_di_3",
+    "kvne3l",
+    "yxzs_bg_3",
+    "kvne3m",
+    "sezjm_di_9",
+    "l6yi63",
+    "jy_bg",
+    "l6yi64",
+    "jy_bth_10",
+    "l6yi65",
+    "jy_bth_11",
+    "l6yi66",
+    "jy_di_16",
+    "l6yi67",
+    "jy_ic_19",
+    "l6yi68",
+    "jy_ic_20",
+    "l6yi69",
+    "jy_ic_21",
+    "l6yi6a",
+    "jy_ic_22",
+    "l6yi6b",
+    "jy_ic_23",
+    "l6yi6c",
+    "jy_ic_24",
+    "l6yi6d",
+    "jy_ic_25",
+    "l6yi6e",
+    "jy_ic_26",
+    "p7ar6v",
+    "hfhd_bg_2",
+    "p7ar6w",
+    "hfhd_bg_3",
+    "p7ar6x",
+    "hfhd_bg_4",
+    "p7ar6z",
+    "jy_di_27",
+    "p7ar70",
+    "jy_bg_1",
+    "q7cq3s",
+    "jz_bg",
+    "q7cq3u",
+    "jz_bg_2",
+    "q7cq3v",
+    "jy_di_10",
+    "q7cq3w",
+    "jz_ic_5",
+    "q7cq3z",
+    "ty_ic_Selected",
+    "q7cq40",
+    "q7cq42",
+    "znqts_bth_2",
+    "q7cq44",
+    "jz_di_3",
+    "q7cq45",
+    "jz_di_4",
+    "q7cq46",
+    "jz_bth_1",
+    "q7cq47",
+    "dy_xian_1",
+    "rmsk2q",
+    "yzzl_di_3",
+    "rmsk2s",
+    "ghboss_bg_6",
+    "rmsk2t",
+    "ghboss_bg_7",
+    "rmsk2x",
+    "xsjhm_bg_2",
+    "rmsk2z",
+    "rmsk30",
+    "znqts_bth_4",
+    "s0wy12",
+    "jy_ic_27",
+    "s0wy13",
+    "jy_ic_28",
+    "s0wy14",
+    "jy_ic_29",
+    "s0wy15",
+    "jy_ic_30",
+    "s0wy17",
+    "jy_bth_1",
+    "s0wy18",
+    "jy_bth_2",
+    "s0wy19",
+    "jy_bth_3",
+    "s0wy1a",
+    "s0wy1b",
+    "jy_bth_5",
+    "s0wy1c",
+    "jy_bth_6",
+    "s0wy1d",
+    "jy_bth_7",
+    "s0wy1e",
+    "jy_bth_8",
+    "s0wy1f",
+    "jy_bth_9",
+    "s0wy1h",
+    "jy_di_11",
+    "s0wy1i",
+    "s0wy1j",
+    "jy_di_9",
+    "s0wy1k",
+    "s0wy1m",
+    "s0wy1o",
+    "jy_di_5",
+    "s0wy1p",
+    "jy_di_3",
+    "s0wy1q",
+    "jy_di_2",
+    "s0wy1r",
+    "jy_di_1",
+    "s0wy1s",
+    "jy_bth_13",
+    "s0wy1t",
+    "jy_bth_12",
+    "s0wy1v",
+    "jy_di_4",
+    "s0wy2b",
+    "sezjm_di_3",
+    "s0wy2c",
+    "sezjm_di_4",
+    "s0wy3",
+    "jy_di_17",
+    "s0wy5",
+    "jy_di_19",
+    "s0wy6",
+    "jy_di_20",
+    "s0wy7",
+    "jy_di_21",
+    "s0wy8",
+    "jy_di_22",
+    "s0wy9",
+    "jy_di_23",
+    "s0wya",
+    "jy_di_24",
+    "s0wyb",
+    "jy_ic_1",
+    "s0wyc",
+    "jy_ic_2",
+    "s0wyd",
+    "jy_ic_3",
+    "s0wye",
+    "jy_ic_4",
+    "s0wyf",
+    "jy_ic_5",
+    "s0wyh",
+    "jy_ic_6",
+    "s0wyi",
+    "jy_ic_8",
+    "s0wyj",
+    "jy_ic_9",
+    "s0wyk",
+    "jy_ic_10",
+    "s0wyl",
+    "jy_ic_11",
+    "s0wym",
+    "jy_ic_12",
+    "s0wyn",
+    "jy_ic_13",
+    "s0wyo",
+    "jy_ic_14",
+    "s0wyp",
+    "jy_ic_15",
+    "s0wyq",
+    "jy_ic_16",
+    "s0wyr",
+    "jy_ic_17",
+    "s0wys",
+    "jy_ic_18",
+    "s0wyw",
+    "jy_ic_7",
+    "s0wyx",
+    "jy_di_14",
+    "s0wyy",
+    "jy_di_13",
+    "s0wyz",
+    "jy_di_12",
+    "scr62n",
+    "tj_qiu_1",
+    "scr62o",
+    "tj_di_11",
+    "u06g4b",
+    "jz_ic_9",
+    "u06g4c",
+    "jz_ic_8",
+    "u06g4d",
+    "jz_ic_7",
+    "u06g4e",
+    "jz_ic_6",
+    "u06g4g",
+    "jz_ic_4",
+    "u06g4h",
+    "jz_ic_3",
+    "u06g4i",
+    "jz_ic_2",
+    "u06g4j",
+    "jz_ic_10",
+    "u06g4n",
+    "jz_di_6",
+    "u06g4p",
+    "u06g4q",
+    "u06g4r",
+    "jz_di_2",
+    "u06g4s",
+    "jz_di_1",
+    "u06g4t",
+    "u06g4w",
+    "jz_bg_1",
+    "u06g4x",
+    "jz_di_7",
+    "u06g4y",
+    "sj_di_2",
+    "u06g4z",
+    "jz_ic_11",
+    "u4ld6i",
+    "zjmdlqd_fgx_1",
+    "a5722h",
+    "BuildEmplaceItem",
+    "/HomeMain/Component/",
+    "isSelect",
+    "0",
+    "No",
+    "1",
+    "Yes",
+    "cShowValue",
+    "n102_a572",
+    "n102",
+    "n103_a572",
+    "n103",
+    "n104_a572",
+    "lb_num",
+    "n105_a572",
+    "lb_name",
+    "ewfrh22n",
+    "n106_a572",
+    "item",
+    "n107_u06g",
+    "n107",
+    "avi15n",
+    "FoodAddItem",
+    "/HomeMain/Building/AutoFeedBuilding/",
+    "no",
+    "yes",
+    "n0_avi1",
+    "n0",
+    "n1_avi1",
+    "n1",
+    "n2_avi1",
+    "n3_avi1",
+    "n3",
+    "n4_avi1",
+    "lb_valueHunger",
+    "n5_avi1",
+    "n5",
+    "n6_avi1",
+    "lb_valueWater",
+    "n7_avi1",
+    "avi15p",
+    "HomeBuildingDescribItem",
+    "/HomeMain/Building/SynthesisBuilding/",
+    "lb_describe",
+    "avi16f",
+    "HomeBuildingKitchen_Window",
+    "/HomeMain/Building/Kitchen/",
+    "isLock",
+    "bg",
+    "ui://8mydkn0wu06g4w",
+    "psobw",
+    "close",
+    "ui://8mydkn0ws0wy15",
+    "n2",
+    "lb_BuildName",
+    "厨房",
+    "list_item",
+    "ui://8mydkn0wq7cq3y",
+    "n7",
+    "n8_avi1",
+    "n8",
+    "n9_avi1",
+    "lb_need",
+    "n10_avi1",
+    "n10",
+    "n11_avi1",
+    "needList",
+    "ui://ufgirfkmewfrh22n",
+    "q7cq49",
+    "n12_avi1",
+    "numBar",
+    "n13_avi1",
+    "maxBtn",
+    "ui://ufgirfkmp0l36h4h1",
+    "eeo81lyorlw",
+    "n14_avi1",
+    "btn_make",
+    "制作",
+    "ui://8mydkn0wq7cq42",
+    "n15_avi1",
+    "n15",
+    "n16_avi1",
+    "lb_state",
+    "n17_avi1",
+    "SlotList",
+    "ui://8mydkn0wq7cq43",
+    "state",
+    "2",
+    "c3l62g",
+    "HomeBagMain_MiniWindow",
+    "/HomeMain/Bag/",
+    "TabType",
+    "Eudemon",
+    "Food",
+    "Material",
+    "3",
+    "Build",
+    "IsShowDetail",
+    "nm0oh265",
+    "n0_c3l6",
+    "mask",
+    "n18_rwhx",
+    "gra_sizeCtrl",
+    "n2_rwhx",
+    "n3_rwhx",
+    "ui://8mydkn0ws0wy1h",
+    "scr62l",
+    "n4_rwhx",
+    "btn_fold",
+    "c3l62h",
+    "n5_rwhx",
+    "btn_tabEud",
+    "n6_rwhx",
+    "btn_tabFood",
+    "n7_rwhx",
+    "btn_tabMaterial",
+    "n8_rwhx",
+    "btn_tabBuild",
+    "n9_rwhx",
+    "list_Eud",
+    "ui://8mydkn0wc3l62j",
+    "n10_rwhx",
+    "list_Food",
+    "ui://8mydkn0wf1e471",
+    "n11_rwhx",
+    "list_Material",
+    "ui://8mydkn0wf1e472",
+    "n12_rwhx",
+    "list_Build",
+    "ui://8mydkn0wrmsk31",
+    "scr62m",
+    "n13_rwhx",
+    "n13",
+    "scr62p",
+    "n14_rwhx",
+    "com_eudDetail",
+    "rmsk2w",
+    "n15_rwhx",
+    "com_buildDetail",
+    "shvw73",
+    "n16_rwhx",
+    "com_foodsDetail",
+    "shvw74",
+    "n19_fhau",
+    "com_materialDetail",
+    "n17_rwhx",
+    "n17",
+    "HomeBagTabItem",
+    "button",
+    "up",
+    "down",
+    "n14_c3l6",
+    "n14",
+    "n5_c3l6",
+    "ld_iconeud",
+    "ui://8mydkn0ws0wyf",
+    "ui://8mydkn0ws0wye",
+    "n11_c3l6",
+    "ld_iconfood",
+    "ui://8mydkn0ws0wyw",
+    "ui://8mydkn0ws0wyh",
+    "n12_c3l6",
+    "ld_iconmeterial",
+    "ui://8mydkn0ws0wyj",
+    "ui://8mydkn0ws0wyi",
+    "n13_c3l6",
+    "ld_iconbuild",
+    "ui://8mydkn0ws0wyk",
+    "ui://8mydkn0ws0wyl",
+    "n6_c3l6",
+    "lb_nameeud",
+    "n7_c3l6",
+    "lb_namefood",
+    "n8_c3l6",
+    "lb_namemeterial",
+    "n9_c3l6",
+    "lb_namebuild",
+    "c3l62j",
+    "HomeBagEudSlodItem",
+    "/HomeMain/Bag/Eud/",
+    "Status",
+    "Locked",
+    "JoinAble",
+    "PlaceAble",
+    "PlacedYet",
+    "kvne3i",
+    "n17_c3l6",
+    "com_eudInfo",
+    "n39_rwhx",
+    "n39",
+    "n41_najp",
+    "btn_addEud",
+    "ui://8mydkn0wc3l62k",
+    "n40_rwhx",
+    "n40",
+    "n35_scr6",
+    "n35",
+    "n36_scr6",
+    "lb_placed",
+    "n37_scr6",
+    "n37",
+    "n42_najp",
+    "btn_unLock",
+    "ui://8mydkn0ws0wyy",
+    "n33_c3l6",
+    "lb_locked",
+    "n34_c3l6",
+    "n34",
+    "cage6t",
+    "HomeMapUnlock_MiniWindow",
+    "/HomeMain/",
+    "n16_najp",
+    "n0_kvne",
+    "n1_kvne",
+    "lb_title",
+    "n3_kvne",
+    "btn_close",
+    "ui://8mydkn0wkvne3b",
+    "n5_kvne",
+    "n13_kvne",
+    "n6_kvne",
+    "n6",
+    "n8_kvne",
+    "lb_tip1",
+    "n7_kvne",
+    "n9_kvne",
+    "lb_tip2",
+    "n10_kvne",
+    "lb_unlockCondition",
+    "n11_kvne",
+    "n11",
+    "n12_kvne",
+    "list_consumeItems",
+    "n14_kvne",
+    "btn_unlock",
+    "ui://8mydkn0wrmsk2z",
+    "n15_kvne",
+    "lb_unlock",
+    "didf2d",
+    "HomeBtn",
+    "n8_didf",
+    "n3_i9zd",
+    "icon",
+    "ui://8mydkn0ws0wyb",
+    "n4_i9zd",
+    "title",
+    "使用",
+    "h1wsh268",
+    "n7_k36z",
+    "RedDot",
+    "didf2e",
+    "HomeMapUnlockTips",
+    "n0_didf",
+    "n1_didf",
+    "n5_didf",
+    "lb_level",
+    "didf2f",
+    "MapBuildHub",
+    "cModel",
+    "None",
+    "Preview",
+    "SeedMini",
+    "SeedSelect",
+    "4",
+    "SeedStatus",
+    "5",
+    "EudRestCom",
+    "6",
+    "Decoration",
+    "cSelect",
+    "cShowAuto",
+    "cShowSeed",
+    "cFarmSp",
+    "cCanRecyl",
+    "InSecen",
+    "InList",
+    "kll46s",
+    "n70_bqvb",
+    "i9zd6h2q7",
+    "n6_didf",
+    "btn_cancel",
+    " ",
+    "ui://8mydkn0ws0wy9",
+    "enu7f6h54u",
+    "n9_didf",
+    "lb_cancel",
+    "n10_didf",
+    "btn_ok",
+    " ",
+    "eqxp6h4fn",
+    "n3_didf",
+    "n4_didf",
+    "lb_ok",
+    "n11_didf",
+    "n12_didf",
+    "btn_recycle",
+    " ",
+    "n13_didf",
+    "n14_didf",
+    "lb_recycle",
+    "n15_didf",
+    "n16_didf",
+    "n17_ijgd",
+    "Name",
+    "n18_u06g",
+    "n18",
+    "n20_u06g",
+    "n20",
+    "n25_u06g",
+    "btn_seedSelect",
+    "  ",
+    "ui://8mydkn0wq7cq45",
+    "c3l62k",
+    "n22_u06g",
+    "n22",
+    "n37_u06g",
+    "img_seed",
+    "ui://cyrayt3habnz1lyou8j",
+    "n23_u06g",
+    "lb_seedname",
+    "n24_u06g",
+    "btn_seedOk",
+    "front",
+    "确认播种",
+    "n29_u06g",
+    "Seed",
+    "n19_u06g",
+    "n19",
+    "ui://8mydkn0wg9b363",
+    "ui://8mydkn0wg9b365",
+    "ui://8mydkn0wg9b364",
+    "ui://8mydkn0wu06g4y",
+    "n36_u06g",
+    "img_seedMini",
+    "ui://8mydkn0wg9b368",
+    "ui://8mydkn0wg9b367",
+    "ui://8mydkn0wg9b366",
+    "ui://8mydkn0wg9b369",
+    "n30_u06g",
+    "n30",
+    "n31_u06g",
+    "Tip",
+    "n26_u06g",
+    "btn_seedAuto",
+    "  ",
+    "ui://8mydkn0ws0wy1b",
+    "n27_u06g",
+    "lb_seedAuto",
+    "n28_u06g",
+    "n28",
+    "siql6h2x9",
+    "n33_u06g",
+    "n33",
+    "n34_u06g",
+    "SeedAuto",
+    "n38_u06g",
+    "n38",
+    "n39_u06g",
+    "n45_u06g",
+    "n45",
+    "n46_u06g",
+    "n46",
+    "n64_u06g",
+    "lb_seedst",
+    "n65_u06g",
+    "lb_seedtimet",
+    "s0wy2a",
+    "n66_u06g",
+    "pro_seed",
+    "n68_ev5c",
+    "list_sebtn",
+    "ui://8mydkn0wev5c54",
+    "ev5c54",
+    "n56_u06g",
+    "btn_harvest",
+    "cType",
+    "  ",
+    "n43_u06g",
+    "lb_seedtime",
+    "n44_u06g",
+    "n44",
+    "n41_u06g",
+    "lb_seedname2",
+    "n42_u06g",
+    "n42",
+    "n40_u06g",
+    "gjzk6i",
+    "n69_l4ia",
+    "doqj54",
+    "HomeTask_Window",
+    "/",
+    "ReceiveState",
+    "Receive",
+    "Received",
+    "TaskState",
+    "Day",
+    "Wek",
+    "Achieve",
+    "n1_doqj",
+    "n8_doqj",
+    "n16_doqj",
+    "n16",
+    "n17_doqj",
+    "n18_doqj",
+    "n5_doqj",
+    "list_tab",
+    "ui://8mydkn0wdoqj57",
+    "n7_doqj",
+    "list_task",
+    "ui://8mydkn0wdoqj58",
+    "n19_doqj",
+    "list_reward",
+    "doqj56",
+    "n4_doqj",
+    "btn_back",
+    "n9_doqj",
+    "n9",
+    "n10_doqj",
+    "n11_doqj",
+    "n12_doqj",
+    "lb_title1",
+    "任务名称多字",
+    "n13_doqj",
+    "lb_title2",
+    "任务要求",
+    "n14_doqj",
+    "lb_title3",
+    "任务奖励",
+    "n15_doqj",
+    "lb_desc",
+    "文本描述xxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxx",
+    "n22_u4ld",
+    "lb_receive",
+    "已领取",
+    "n20_doqj",
+    "list_taskdesc",
+    "ui://8mydkn0wdoqj5h",
+    "n21_doqj",
+    "btn_receive",
+    "领取奖励",
+    "HomeBack",
+    "ui://8mydkn0wdoqj55",
+    "家园任务",
+    "doqj57",
+    "HomeTaskTab",
+    "SelectState",
+    "NoSelect",
+    "Select",
+    "TaskType",
+    "Week",
+    "icon_bg",
+    "ui://8mydkn0wl6yi65",
+    "ui://8mydkn0wl6yi64",
+    "icon_1",
+    "ui://8mydkn0wl6yi67",
+    "ui://8mydkn0wl6yi69",
+    "ui://8mydkn0wl6yi6b",
+    "ui://8mydkn0wl6yi6d",
+    "icon_2",
+    "ui://8mydkn0wl6yi68",
+    "ui://8mydkn0wl6yi6a",
+    "ui://8mydkn0wl6yi6c",
+    "ui://8mydkn0wl6yi6e",
+    "n9_u4ld",
+    "n6_doqj",
+    "主线任务",
+    "doqj58",
+    "HomeTaskItem",
+    "n2_doqj",
+    "ui://8mydkn0wdoqj5b",
+    "ui://8mydkn0wdoqj59",
+    "icon_bg1",
+    "ui://8mydkn0wdoqj5c",
+    "ui://8mydkn0wdoqj5a",
+    "icon_banner",
+    "ui://8mydkn0wdoqj5e",
+    "n3_doqj",
+    "任务名称多个字（0/20）",
+    "文本描述xxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "n7_eopj",
+    "doqj5h",
+    "HomeTaskDesc",
+    "State",
+    "Compelete",
+    "icon_state1",
+    "ui://ufgirfkmeqxp6h4fn",
+    "icon_state2",
+    "ui://ufgirfkmenu7f6h54u",
+    "文本描述xxxxxxxxxxxxxxxxxx",
+    "HomeSeedBtn",
+    "n52_u06g",
+    "btn_water",
+    "ui://8mydkn0ws0wy1e",
+    "ui://8mydkn0ws0wy1f",
+    "ui://8mydkn0ws0wy1c",
+    "n54_u06g",
+    "n54",
+    "ui://8mydkn0wu06g4d",
+    "ui://8mydkn0wu06g4j",
+    "ui://8mydkn0wu06g4b",
+    "ui://8mydkn0wu06g4c",
+    "n53_u06g",
+    "lb_seeds_2",
+    "n55_ev5c",
+    "lb_seeds_1",
+    "n57_ev5c",
+    "lb_seeds_4",
+    "n59_ev5c",
+    "lb_seeds_3",
+    "n60_g9b3",
+    "lb_seeds_5",
+    "f1e471",
+    "HomeBagFoodsItem",
+    "/HomeMain/Bag/Goods/",
+    "IsSelect",
+    "n6_mti7",
+    "n0_h1ws",
+    "itemBtn",
+    "showState",
+    "showName",
+    "n7_ldkr",
+    "n10_rmsk",
+    "n11_rmsk",
+    "n12_rmsk",
+    "n13_rmsk",
+    "lb_valueMood",
+    "aban6h2pl",
+    "n14_rmsk",
+    "n15_fhau",
+    "gra_clickMask",
+    "f1e472",
+    "HomeBagMaterialsItem",
+    "fjq46q",
+    "HomeEudRestItem",
+    "/HomeMain/Building/Rest/",
+    "EudRestRoom",
+    "noRoom",
+    "thisRoom",
+    "otherRoom",
+    "lb_notHaveRoom",
+    "n38_fjq4",
+    "n39_fjq4",
+    "lb_dispatchThisRoom",
+    "n40_fjq4",
+    "n41_fjq4",
+    "n41",
+    "n42_fjq4",
+    "lb_dispatchOtherRoom",
+    "n43_fjq4",
+    "n43",
+    "gjzk6h",
+    "HomeEudRest_MiniWindow",
+    "n22_gjzk",
+    "com_eudRestInfo",
+    "HomeEudRestCom",
+    "BuildEudRestStatus",
+    "noDispatch",
+    "notResting",
+    "Resting",
+    "n24_gjzk",
+    "n24",
+    "n44_gjzk",
+    "n45_gjzk",
+    "n43_gjzk",
+    "lb_noEudTip",
+    "n46_gjzk",
+    "n35_gjzk",
+    "lb_fatigueAdd",
+    "n37_gjzk",
+    "lb_moodAdd",
+    "n70_fjq4",
+    "n70",
+    "n39_gjzk",
+    "n40_gjzk",
+    "n41_gjzk",
+    "lb_extrEffect",
+    "n49_gjzk",
+    "n49",
+    "n51_gjzk",
+    "lb_nameFatigueValueTip",
+    "n54_gjzk",
+    "lb_fatigueValueAddPercent",
+    "n55_gjzk",
+    "n55",
+    "n58_gjzk",
+    "lb_nameFatigueTimeTip",
+    "n59_gjzk",
+    "lb_fatigueTimeReducePercent",
+    "n50_gjzk",
+    "n50",
+    "n52_gjzk",
+    "lb_nameMoodValueTip",
+    "n61_gjzk",
+    "lb_moodValueAddPercent",
+    "n56_gjzk",
+    "n56",
+    "n53_gjzk",
+    "lb_nameMoodTimeTip",
+    "n62_gjzk",
+    "lb_moodTimeReducePercent",
+    "n71_fjq4",
+    "n71",
+    "n27_gjzk",
+    "n27",
+    "n28_gjzk",
+    "ld_eud",
+    "ui://cyrayt3hpifh6h2lw",
+    "n25_gjzk",
+    "n25",
+    "n26_gjzk",
+    "lb_eudName",
+    "n38_gjzk",
+    "n29_gjzk",
+    "n29",
+    "n31_gjzk",
+    "lb_nameFatigue",
+    "p0l36h2tv",
+    "n33_gjzk",
+    "bar_fatigue",
+    "n66_gjzk",
+    "lb_fatigueProgressValue",
+    "n30_gjzk",
+    "n32_gjzk",
+    "lb_nameMood",
+    "n34_gjzk",
+    "bar_mood",
+    "n67_gjzk",
+    "lb_moodProgressValue",
+    "n47_gjzk",
+    "n47",
+    "n75_f5j3",
+    "n75",
+    "n76_f5j3",
+    "lb_nameFood",
+    "n77_f5j3",
+    "bar_food",
+    "n78_f5j3",
+    "lb_foodProgressValue",
+    "n79_f5j3",
+    "n79",
+    "n72_fjq4",
+    "lb_eudStatus",
+    "gjzk6j",
+    "HomeEudRestSel_MiniWindow",
+    "ui://8mydkn0wfjq46q",
+    "gjzk6k",
+    "n29_fjq4",
+    "com_eudBaseDetail",
+    "n30_fjq4",
+    "btn_select",
+    "n31_fjq4",
+    "lb_select",
+    "n32_fjq4",
+    "n32",
+    "n33_fjq4",
+    "btn_remove",
+    "n34_fjq4",
+    "lb_remove",
+    "n35_fjq4",
+    "HomeBagEudBaseDetail",
+    "EudStatus",
+    "NotJoinHome",
+    "JustInBag",
+    "Wandering",
+    "Working",
+    "n18_scr6",
+    "n17_scr6",
+    "n19_scr6",
+    "lb_eudLv",
+    "n20_scr6",
+    "n21_scr6",
+    "n21",
+    "n23_scr6",
+    "n24_scr6",
+    "n25_scr6",
+    "n26_scr6",
+    "n26",
+    "n27_scr6",
+    "lb_valuleFatigue",
+    "n28_scr6",
+    "lb_valuleMood",
+    "n29_scr6",
+    "lb_valuleHunger",
+    "n30_rmsk",
+    "n31_rmsk",
+    "n32_rmsk",
+    "n33_rmsk",
+    "n34_rmsk",
+    "n37_rmsk",
+    "n42_rmsk",
+    "list_eudSkill",
+    "ui://8mydkn0wrmsk2r",
+    "n44_fjq4",
+    "lb_workStatus",
+    "n45_fjq4",
+    "hbi60",
+    "HomeScene_Bg",
+    "cEditMode",
+    "Normal",
+    "Edit",
+    "cSelectTap",
+    "JZ",
+    "JL",
+    "LevelState",
+    "Max",
+    "gauw6",
+    "n98_didf",
+    "poolObj",
+    "n99_didf",
+    "EditUIPoolObj",
+    "n100_didf",
+    "NotEditUIPoolObj",
+    "n74_didf",
+    "homelock",
+    "n80_didf",
+    "n80",
+    "n88_didf",
+    "btn_menuJZ",
+    "ui://8mydkn0ws0wy1t",
+    "ui://8mydkn0ws0wy1s",
+    "showIcon",
+    " ",
+    "n89_didf",
+    "lb_menuJZ",
+    "建筑",
+    "n87_didf",
+    "btn_menuJL",
+    " ",
+    "n90_didf",
+    "lb_menuJL",
+    "精灵",
+    "n81_didf",
+    "n81",
+    "n82_didf",
+    "n82",
+    "n84_didf",
+    "n84",
+    "n83_didf",
+    "btn_hidMenu",
+    " ",
+    " ",
+    "n101_a572",
+    "list_Emplace",
+    "ui://8mydkn0wa5722h",
+    "n103_oyij",
+    "list_Eudemon",
+    "ui://8mydkn0wu4ld6g",
+    "n94_didf",
+    "n94",
+    "n105_icad",
+    "list_event",
+    "ui://8mydkn0wicad53",
+    "n44_s0wy",
+    "n43_hbi6",
+    "btn_out",
+    " ",
+    "n45_s0wy",
+    "j0o0h24u",
+    "n46_s0wy",
+    "head",
+    "n47_s0wy",
+    "lb_playername",
+    "n48_s0wy",
+    "pro_lv",
+    "n49_s0wy",
+    "n50_s0wy",
+    "lb_lvpro",
+    "n52_s0wy",
+    "n52",
+    "n53_s0wy",
+    "n53",
+    "n54_s0wy",
+    "n55_s0wy",
+    "lb_Livability",
+    "宜居度：999",
+    "n56_s0wy",
+    "n57_s0wy",
+    "lb_rank",
+    "全服排行：999",
+    "n60_s0wy",
+    "btn_task",
+    "red",
+    " ",
+    "ui://8mydkn0ws0wy17",
+    "n59_s0wy",
+    "lb_task",
+    "农场任务",
+    "n61_s0wy",
+    "n61",
+    "n102_u06g",
+    "lb_max",
+    "max",
+    "n108_u4ld",
+    "ui://8mydkn0wu4ld6f",
+    "n51_s0wy",
+    "n51",
+    "n75_didf",
+    "n76_didf",
+    "btn_outEdit",
+    " ",
+    "n77_didf",
+    "n77",
+    "n78_didf",
+    "n78",
+    "n79_didf",
+    "999",
+    "n93_didf",
+    "Left_E",
+    "n62_didf",
+    "n62",
+    "n69_didf",
+    "btn_EditMode",
+    "编辑设置",
+    "n70_didf",
+    "btn_VisLog",
+    "访客记录",
+    "ui://cyrayt3hv6xa6h553",
+    "n71_didf",
+    "btn_VisFriends",
+    "好友拜访",
+    "ui://cyrayt3hv6xa6h54m",
+    "n72_didf",
+    "btn_Bag",
+    " ",
+    "ui://cyrayt3hv6xa6h569",
+    "n73_didf",
+    "lb_Bag",
+    "背包",
+    "n66_didf",
+    "n66",
+    "n92_didf",
+    "btn_reAll",
+    " ",
+    "n95_didf",
+    "n95",
+    "n96_didf",
+    "lb_reAll",
+    "收起全部",
+    "n97_didf",
+    "n97",
+    "MailAni",
+    "hnwe4z",
+    "HomeAutoFeedBuilding_MiniWindow",
+    "n0_hnwe",
+    "n1_hnwe",
+    "n2_hnwe",
+    "n3_hnwe",
+    "n4_hnwe",
+    "n5_hnwe",
+    "n6_hnwe",
+    "n7_hnwe",
+    "n9_hnwe",
+    "btn_add",
+    "添加",
+    "n10_hnwe",
+    "foodList",
+    "ui://8mydkn0whnwe5f",
+    "n11_hnwe",
+    "hnwe5f",
+    "BuildingFoodMakeItem",
+    "/HomeMain/Building/Component/",
+    "none",
+    "add",
+    "ui://8mydkn0wu06g4q",
+    "ui://8mydkn0wu06g4s",
+    "lb_none",
+    "cancelBtn",
+    "ui://8mydkn0wu06g4t",
+    "itemIcon",
+    "n8_hnwe",
+    "hnwe5g",
+    "HomeSynthesisBuilding_Window",
+    "n20_avi1",
+    "ui://8mydkn0wavi15o",
+    "炼金台",
+    "n4",
+    "开始合成",
+    "n12",
+    "n21_avi1",
+    "describeList",
+    "ui://8mydkn0wavi15p",
+    "hnwe5i",
+    "HomeAutoFeedBuildingAddItem_MiniWindow",
+    "lb_food",
+    "ui://8mydkn0wavi15n",
+    "okBtn",
+    "确认",
+    "icad53",
+    "EventBtn",
+    "over",
+    "selectedOver",
+    "IconType",
+    "Dialog",
+    "Function",
+    "Collect",
+    "Transmit",
+    "Quest",
+    "9",
+    "Quest_Branch",
+    "7",
+    "Water",
+    "8",
+    "GoFishing",
+    "10",
+    "Terastal",
+    "11",
+    "Quest_Bounty",
+    "12",
+    "Vortex",
+    "13",
+    "MountTain",
+    "14",
+    "Waterfall",
+    "15",
+    "Machine",
+    "16",
+    "HP",
+    "19",
+    "Up",
+    "20",
+    "Down",
+    "ohrj6h4gb",
+    "n4_kovu",
+    "n3_kovu",
+    "auto",
+    "n5_ttqx",
+    "icon_type",
+    "ui://c6iwlr2rohrj6h4g9",
+    "ui://c6iwlr2rohrj6h4g5",
+    "ui://c6iwlr2rohrj6h4g6",
+    "ui://c6iwlr2rcmfa6h4m7",
+    "ui://c6iwlr2rohrj6h4g4",
+    "ui://c6iwlr2rcbjo6h4ll",
+    "ui://c6iwlr2rcmfa6h4m8",
+    "ui://c6iwlr2rjyb76h4hu",
+    "ui://c6iwlr2rqvfa6h4nx",
+    "ui://c6iwlr2rj43i6h4og",
+    "ui://c6iwlr2rk8fp6h5h5",
+    "ui://c6iwlr2rk8fp6h5h4",
+    "ui://c6iwlr2rk8fp6h5h6",
+    "ui://c6iwlr2ro1b36h5hq",
+    "ui://c6iwlr2ro2dq6h5hu",
+    "ui://c6iwlr2rcvk31lyormr",
+    "ui://c6iwlr2rcvk31lyormq",
+    "BuildingTipItem",
+    "n0_kll4",
+    "n1_kll4",
+    "img",
+    "n2_kll4",
+    "bg2",
+    "n3_kll4",
+    "group",
+    "kvne32",
+    "HomeBagGoodsItem",
+    "kvne33",
+    "HomeBagGoodsDetail",
+    "IsShowSupportItem",
+    "icon_goods",
+    "n65_kvne",
+    "n65",
+    "n66_kvne",
+    "lb_typename",
+    "n67_kvne",
+    "lb_limit",
+    "n68_kvne",
+    "n64_kvne",
+    "btn_share",
+    "ui://8mydkn0wkvne34",
+    "n76_kvne",
+    "list_price",
+    "ui://c1imbcrl8yc4j",
+    "mti76h2ac",
+    "n77_kvne",
+    "shareItem",
+    "kvne35",
+    "n80_kvne",
+    "com_goodsOtherInfo",
+    "HomeBagGoodsOtherInfoPanel",
+    "ResourceState",
+    "NoResource",
+    "n25_kvne",
+    "n26_kvne",
+    "n35_kvne",
+    "n30_kvne",
+    "n34_kvne",
+    "lb_get",
+    "获得途径",
+    "n40_fhau",
+    "kvne36",
+    "n20_h1ws",
+    "goodsWayItem",
+    "n38_kvne",
+    "list_way",
+    "ui://8mydkn0wkvne36",
+    "n39_kvne",
+    "lb_None",
+    "暂无获取途径",
+    "HomeBagGoodsWayItem",
+    "n0_psob",
+    "n1_psob",
+    "天梯赛A",
+    "n2_kvne",
+    "kvne37",
+    "HomeBagInfoItem",
+    "Style",
+    "Style1",
+    "Style2",
+    "威力",
+    "lb_value",
+    "240",
+    "kvne39",
+    "HomeBagEudSoldUnlock_MiniWindow",
+    "kvne3f",
+    "HomeBagEudSelect_MiniWindow",
+    "IsShowFilter",
+    "IsShowEudDetail",
+    "n66_najp",
+    "n21_kvne",
+    "n22_kvne",
+    "n46_kvne",
+    "list_eud",
+    "ui://8mydkn0wkvne3i",
+    "n48_kvne",
+    "n48",
+    "n50_kvne",
+    "n51_kvne",
+    "lb_filter",
+    "n52_kvne",
+    "n64_najp",
+    "btn_filter",
+    "n65_najp",
+    "btn_filtermask",
+    "n47_kvne",
+    "n49_kvne",
+    "n54_kvne",
+    "lb_allSkill",
+    "n55_kvne",
+    "n56_kvne",
+    "lb_allSkillLv",
+    "n61_kvne",
+    "list_filterSkillTypes",
+    "ui://8mydkn0wkvne3n",
+    "n62_kvne",
+    "list_filterSkillLvs",
+    "n57_kvne",
+    "n57",
+    "n16_kvne",
+    "n17_kvne",
+    "n18_kvne",
+    "n19_kvne",
+    "n29_kvne",
+    "n23_kvne",
+    "n23",
+    "fytm6h5ln",
+    "n27_kvne",
+    "n41_kvne",
+    "n42_kvne",
+    "n32_kvne",
+    "n33_kvne",
+    "99/999",
+    "n36_kvne",
+    "99/999",
+    "n37_kvne",
+    "99/999",
+    "n40_kvne",
+    "n28_kvne",
+    "n24_kvne",
+    "lb_workEffect",
+    "n43_kvne",
+    "n44_kvne",
+    "lb_add",
+    "n45_kvne",
+    "n63_najp",
+    "n63",
+    "HomeBagEudInfo",
+    "n21_c3l6",
+    "n19_c3l6",
+    "n20_c3l6",
+    "lb_health",
+    "n22_c3l6",
+    "n23_c3l6",
+    "n24_c3l6",
+    "n25_c3l6",
+    "lb_valueFatigue",
+    "n27_c3l6",
+    "n26_c3l6",
+    "n31_kvne",
+    "n31",
+    "lagc8c",
+    "n32_rwhx",
+    "com_quality",
+    "c1",
+    "kvne3n",
+    "HomeBagEudSkillSelectCell",
+    "Type",
+    "skillCategory",
+    "skillLv",
+    "e0us6h4ci",
+    "n58_kvne",
+    "n58",
+    "n59_kvne",
+    "n59",
+    "n60_kvne",
+    "lb_skillName",
+    "lb_skillLv",
+    "m06c54",
+    "HomeBuildInfo_MiniWindow",
+    "/HomeMain/Building/",
+    "m06c5e",
+    "n21_m06c",
+    "com_buildInfo",
+    "n20_m06c",
+    "HomeBuildDetailCom",
+    "lb_buildName",
+    "ld_build",
+    "n53_rmsk",
+    "n54_rmsk",
+    "rmsk2y",
+    "n58_rmsk",
+    "com_buildDesc",
+    "m06c5f",
+    "HomeBuildLvUp_MiniWindow",
+    "m06c5g",
+    "n27_m06c",
+    "com_buildLvOld",
+    "cBuildType",
+    "n33_m06c",
+    "com_buildLvNew",
+    "n30_m06c",
+    "n31_m06c",
+    "n32_m06c",
+    "n38_m06c",
+    "n34_m06c",
+    "n35_m06c",
+    "n36_m06c",
+    "n36",
+    "n37_m06c",
+    "n39_m06c",
+    "list_lvUpNeeds",
+    "n40_m06c",
+    "n41_m06c",
+    "lb_condition1",
+    "n43_m06c",
+    "btn_LvUp",
+    "n44_m06c",
+    "lb_lvUp",
+    "HomeBuildLevelCom",
+    "Current",
+    "Next",
+    "n22_m06c",
+    "n24_m06c",
+    "n26_m06c",
+    "n29_m06c",
+    "lb_buildLevel",
+    "p7ar6s",
+    "HomeShop_Window",
+    "n4_p7ar",
+    "n1_p7ar",
+    "n2_p7ar",
+    "ui://8mydkn0wp7ar6u",
+    "n3_p7ar",
+    "list_shop",
+    "ui://8mydkn0wp7ar6y",
+    "n5_zoqo",
+    "currencyList",
+    "ui://ufgirfkmgauw1c",
+    "p7ar6u",
+    "HomeShopTabItem",
+    "n0_p7ar",
+    "ui://8mydkn0wp7ar6w",
+    "ui://8mydkn0wp7ar6v",
+    "名称多字",
+    "名称多字",
+    "p7ar6y",
+    "HomeShopItem",
+    "IsLock",
+    "Enough",
+    "NoEnough",
+    "btn_item",
+    "道具名称多字",
+    "剩余次数：99",
+    "n5_p7ar",
+    "X99",
+    "n6_zoqo",
+    "ui://cyrayt3hpsobh244",
+    "n8_zoqo",
+    "n9_zoqo",
+    "lb_lock",
+    "n10_zoqo",
+    "img_click",
+    "q7cq3r",
+    "HomeDecorationBuilding_Window",
+    "/HomeMain/Building/Decoration/",
+    "n5_q7cq",
+    "ui://8mydkn0wq7cq3u",
+    "n3_q7cq",
+    "n4_q7cq",
+    "n6_q7cq",
+    "n7_q7cq",
+    "n8_q7cq",
+    "装饰制造",
+    "n9_q7cq",
+    "type",
+    "n10_q7cq",
+    "n11_q7cq",
+    "n12_q7cq",
+    "n13_q7cq",
+    "n14_q7cq",
+    "n16_q7cq",
+    "n18_q7cq",
+    "n15_q7cq",
+    "制作",
+    "n26_hnwe",
+    "q7cq3y",
+    "BuildingItem",
+    "isLocked",
+    "Synthesis",
+    "Kitchen",
+    "n0_q7cq",
+    "n1_q7cq",
+    "n2_q7cq",
+    "99",
+    "道具名称",
+    "q7cq43",
+    "BuildingMakeItem",
+    "progracing",
+    "finish",
+    "lb_makeTime",
+    "ui://8mydkn0wq7cq44",
+    "名称多字",
+    "ui://8mydkn0wq7cq46",
+    "BuildingNumBarItem",
+    "39",
+    "Feeder",
+    "ui://ufgirfkmq7cq1tcvshm",
+    "ultg6h2tz",
+    "btn_reduce",
+    "ui://ufgirfkmp0l36h4gz",
+    "ui://ufgirfkmp0l36h4h0",
+    "999",
+    "rmsk2r",
+    "HomeBagEudSkillCell",
+    "styleType",
+    "type1",
+    "type2",
+    "n39_rmsk",
+    "ld_iconSkill",
+    "n40_rmsk",
+    "n41_rmsk",
+    "lb_skillDesc",
+    "rmsk2u",
+    "HomeBagFoodUseItem",
+    "mti76h2a5",
+    "n1_h1ws",
+    "NumState",
+    "btn_eat",
+    "ui://8mydkn0ws0wy5",
+    "n15_najp",
+    "lb_eat",
+    "rmsk2v",
+    "HomeBagEudOpe",
+    "OpeType",
+    "Touch",
+    "Move",
+    "Recyle",
+    "Remove",
+    "Rest",
+    "Awake",
+    "n46_rmsk",
+    "ui://8mydkn0ws0wy1d",
+    "ui://8mydkn0wfjq46l",
+    "ui://8mydkn0wfjq46m",
+    "n47_rmsk",
+    "ui://8mydkn0ws0wyr",
+    "ui://8mydkn0ws0wyp",
+    "ui://8mydkn0ws0wym",
+    "ui://8mydkn0wfjq46o",
+    "ui://8mydkn0wfjq46n",
+    "ui://8mydkn0ws0wyq",
+    "n49_rmsk",
+    "lb_opNameTouch",
+    "n51_rmsk",
+    "lb_opNameFood",
+    "n52_rmsk",
+    "lb_opNameMove",
+    "lb_opNameRecyle",
+    "n54_najp",
+    "lb_opNameRemove",
+    "lb_opNameRest",
+    "lb_opNameAwake",
+    "HomeBagBuildDetail",
+    "com_homeDetail",
+    "n59_rmsk",
+    "btn_settle",
+    "ui://8mydkn0wrmsk30",
+    "n61_rmsk",
+    "btn_sale",
+    "n62_rmsk",
+    "lb_settle",
+    "n63_rmsk",
+    "lb_sale",
+    "HomeBuildDescTextPanel",
+    "n0_aban",
+    "rmsk31",
+    "HomeBagBuildItem",
+    "n15_rmsk",
+    "道具名称",
+    "n16_rmsk",
+    "n17_rmsk",
+    "n18_fhau",
+    "ActivityGroupBuyBar2",
+    "n0_o91k",
+    "n1_o91k",
+    "bar",
+    "HomeBagFold",
+    "n3_c3l6",
+    "n15_c3l6",
+    "arrow",
+    "HomeBagEudDetail",
+    "IsShowFoods",
+    "IsEudInScene",
+    "btn_operTouch",
+    "n50_rmsk",
+    "btn_operFood",
+    "btn_operMove",
+    "btn_operRecyle",
+    "n53_najp",
+    "btn_operRemove",
+    "n57_gjzk",
+    "btn_operRest",
+    "btn_operAwake",
+    "n55_najp",
+    "btn_foodMask",
+    "n43_rmsk",
+    "n44_rmsk",
+    "n45_rmsk",
+    "list_foods",
+    "ui://8mydkn0wrmsk2u",
+    "n48_rmsk",
+    "HomeBagFoodsDetail",
+    "HomeBagMaterialsDetail",
+    "u06g51",
+    "HomeAddSeed_MiniWindow",
+    "n0_u06g",
+    "n1_u06g",
+    "n10_u06g",
+    "n2_u06g",
+    "n3_u06g",
+    "  ",
+    "n4_u06g",
+    "n5_u06g",
+    "n6_u06g",
+    "n7_u06g",
+    " ",
+    "n8_u06g",
+    "n9_u06g",
+    "n11_u06g",
+    "lb_dec",
+    "n12_icad",
+    "n13_icad",
+    "u4ld6f",
+    "HomeMainTaskItem",
+    "n0_u4ld",
+    "n1_u4ld",
+    "主线任务",
+    "n3_u4ld",
+    "任务名称xxxxxx111111111111111",
+    "n4_u4ld",
+    "n5_u4ld",
+    "任务描述xxxxxxxxx",
+    "i3m66h4ix",
+    "n6_u4ld",
+    "u4ld6g",
+    "HomeEditModeEudEmplaceItem",
+    "Forbid",
+    "ui://8mydkn0wgjzk6g",
+    "ydxyx_jia",
+    "c6ng6r",
+    "jy_di_26",
+    "doqj5d",
+    "jy_banner_4",
+    "doqj5e",
+    "jy_banner_1",
+    "doqj5f",
+    "jy_banner_2",
+    "doqj5g",
+    "jy_banner_3",
+    "sz_di_5",
+    "atlas0",
+    "atlas0.png",
+    "atlas6",
+    "atlas6.png",
+    "atlas_kvne3c",
+    "atlas_kvne3c.png",
+    "atlas_p7ar70",
+    "atlas_p7ar70.png",
+    "atlas_s0wyz",
+    "atlas_s0wyz.png",
+    "atlas_l6yi63",
+    "atlas_l6yi63.png",
+    "atlas_l6yi66",
+    "atlas_l6yi66.png",
+    "atlas_u06g4w",
+    "atlas_u06g4w.png",
+    "atlas_q7cq3u",
+    "atlas_q7cq3u.png"
+  ]
+}

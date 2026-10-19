@@ -1,0 +1,531 @@
+{
+  "items": [
+    {
+      "type": 0,
+      "id": "m2g66h4gi",
+      "name": "ph_bg_1",
+      "path": "/Images/new/",
+      "file": null,
+      "size": [
+        960,
+        497
+      ]
+    },
+    {
+      "type": 0,
+      "id": "m2g66h4gj",
+      "name": "ph_bg_2",
+      "path": "/Images/new/",
+      "file": null,
+      "size": [
+        500,
+        33
+      ]
+    },
+    {
+      "type": 0,
+      "id": "m2g66h4gl",
+      "name": "ph_bg_4",
+      "path": "/Images/new/",
+      "file": null,
+      "size": [
+        37,
+        63
+      ]
+    },
+    {
+      "type": 0,
+      "id": "m2g66h4gm",
+      "name": "ph_bg_5",
+      "path": "/Images/new/",
+      "file": null,
+      "size": [
+        37,
+        55
+      ]
+    },
+    {
+      "type": 0,
+      "id": "m2g66h4gn",
+      "name": "ph_bg_mc1",
+      "path": "/Images/new/",
+      "file": null,
+      "size": [
+        299,
+        173
+      ]
+    },
+    {
+      "type": 0,
+      "id": "m2g66h4go",
+      "name": "ph_bg_mc2",
+      "path": "/Images/new/",
+      "file": null,
+      "size": [
+        299,
+        173
+      ]
+    },
+    {
+      "type": 0,
+      "id": "m2g66h4gp",
+      "name": "ph_bg_mc3",
+      "path": "/Images/new/",
+      "file": null,
+      "size": [
+        299,
+        173
+      ]
+    },
+    {
+      "type": 0,
+      "id": "m2g66h4gq",
+      "name": "ph_bg_mc4",
+      "path": "/Images/new/",
+      "file": null,
+      "size": [
+        299,
+        173
+      ]
+    },
+    {
+      "type": 3,
+      "id": "dabw1lyos8g",
+      "name": "RankReward",
+      "path": "/",
+      "file": null,
+      "size": [
+        80,
+        93
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "dabw1lyos8h",
+      "name": "RankIRewardtem",
+      "path": "/",
+      "file": null,
+      "size": [
+        1362,
+        195
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "dabw6h4gt",
+      "name": "RankReward_MiniWindow",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "e0us0",
+      "name": "RankCenter_Window",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "e0us1",
+      "name": "RankItem",
+      "path": "/",
+      "file": null,
+      "size": [
+        916,
+        196
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "rvj06h4gh",
+      "name": "TabButton",
+      "path": "/",
+      "file": null,
+      "size": [
+        303,
+        121
+      ],
+      "extension": 12
+    },
+    {
+      "type": 4,
+      "id": "atlas0",
+      "name": null,
+      "path": null,
+      "file": "atlas0.png",
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas_m2g66h4gi",
+      "name": null,
+      "path": null,
+      "file": "atlas_m2g66h4gi.png",
+      "size": [
+        1024,
+        512
+      ]
+    }
+  ],
+  "sprites": [
+    {
+      "id": "m2g66h4gj",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        0,
+        500,
+        33
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "m2g66h4gn",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        35,
+        299,
+        173
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "m2g66h4gp",
+      "atlas": "atlas0",
+      "rect": [
+        301,
+        35,
+        173,
+        299
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "m2g66h4gq",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        210,
+        173,
+        299
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "m2g66h4go",
+      "atlas": "atlas0",
+      "rect": [
+        175,
+        336,
+        299,
+        173
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "m2g66h4gl",
+      "atlas": "atlas0",
+      "rect": [
+        175,
+        210,
+        37,
+        63
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "m2g66h4gm",
+      "atlas": "atlas0",
+      "rect": [
+        175,
+        275,
+        55,
+        37
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "m2g66h4gi",
+      "atlas": "atlas_m2g66h4gi",
+      "rect": [
+        0,
+        0,
+        960,
+        497
+      ],
+      "rotated": 0
+    }
+  ],
+  "strings": [
+    "ufgirfkm",
+    "Common",
+    "cyrayt3h",
+    "Item",
+    "pf74c6s3",
+    "Pvp",
+    "m2g66h4gi",
+    "ph_bg_1",
+    "/Images/new/",
+    "m2g66h4gj",
+    "ph_bg_2",
+    "m2g66h4gl",
+    "ph_bg_4",
+    "m2g66h4gm",
+    "ph_bg_5",
+    "m2g66h4gn",
+    "ph_bg_mc1",
+    "m2g66h4go",
+    "ph_bg_mc2",
+    "m2g66h4gp",
+    "ph_bg_mc3",
+    "m2g66h4gq",
+    "ph_bg_mc4",
+    "dabw1lyos8g",
+    "RankReward",
+    "/",
+    "button",
+    "0",
+    "up",
+    "1",
+    "down",
+    "2",
+    "over",
+    "3",
+    "selectedOver",
+    "n3_hx6o",
+    "icon",
+    "ui://pf74c6s3hx6o6h4os",
+    "n4_hx6o",
+    "title",
+    "排名",
+    "h1wsh268",
+    "n5_ivs7",
+    "RedDot",
+    "dabw1lyos8h",
+    "RankIRewardtem",
+    "Rank",
+    "97",
+    "One",
+    "98",
+    "Two",
+    "99",
+    "Three",
+    "100",
+    "Other",
+    "n8_g9mo",
+    "n8",
+    "ui://ufgirfkme0us6h4ci",
+    "n9_g9mo",
+    "ui://ufgirfkmrvj06h2f1",
+    "ui://ufgirfkmrvj06h2fc",
+    "ui://ufgirfkmrvj06h2es",
+    "n2_fwqi",
+    "team",
+    "ui://ufgirfkmewfrh22n",
+    "n10_g9mo",
+    "index",
+    "999",
+    "dabw6h4gt",
+    "RankReward_MiniWindow",
+    "eqxp6h4fd",
+    "n0_dabw",
+    "window",
+    "BigSize",
+    "7",
+    "e0us6h4ch",
+    "n1_dabw",
+    "n1",
+    "n2_dabw",
+    "lb_myRank",
+    "我的排名：{value=未上榜}",
+    "n3_dabw",
+    "tip",
+    "赛季结束后,奖励通过邮件发送",
+    "n4_dabw",
+    "list_reward",
+    "ui://q4wob529dabw1lyos8h",
+    "e0us0",
+    "RankCenter_Window",
+    "MyRankState",
+    "NoRank",
+    "RankType",
+    "None",
+    "Level",
+    "Power",
+    "Handbook",
+    "4",
+    "Arena",
+    "5",
+    "ArenaScore",
+    "6",
+    "Guild",
+    "InsectHunting",
+    "ModeState",
+    "Show",
+    "Hide",
+    "n44_m2g6",
+    "n44",
+    "8yc42",
+    "n2_e0us",
+    "wnd",
+    "TopState",
+    "商店",
+    "pqp26h2eg",
+    "n45_m2g6",
+    "n45",
+    "n52_m2g6",
+    "n52",
+    "n54_m2g6",
+    "n54",
+    "n46_m2g6",
+    "n46",
+    "n47_m2g6",
+    "n47",
+    "n58_yqcq",
+    "Model_RankFist",
+    "se4ph26g",
+    "n10_e0us",
+    "model",
+    "n1_e0us",
+    "list_tab",
+    "ui://q4wob529rvj06h4gh",
+    "等级排行",
+    "战力排行",
+    "图鉴排行",
+    "竞技场",
+    "天梯赛",
+    "公会",
+    "捕虫大会",
+    "n11_e0us",
+    "list_playerTitle",
+    "ui://ufgirfkmmti7h22y",
+    "psob3",
+    "n25_e0us",
+    "btn_areaSort",
+    "品质排序1",
+    "品质排序2",
+    "品质排序3",
+    "品质排序4",
+    "福建",
+    "n26_e0us",
+    "btn_rankSort",
+    "品质排序1",
+    "品质排序2",
+    "品质排序3",
+    "品质排序4",
+    "本服排行",
+    "n18_e0us",
+    "list_rank",
+    "ui://q4wob529e0us1",
+    "n20_e0us",
+    "lb_myrank",
+    "我的排名:50",
+    "n22_e0us",
+    "lb_mylevel",
+    "1999",
+    "n7_e0us",
+    "lb_rank",
+    "排名",
+    "n8_e0us",
+    "lb_info",
+    "玩家信息",
+    "n9_e0us",
+    "lb_level",
+    "等级等级等级等级等级等级",
+    "n28_e0us",
+    "lb_update",
+    "排行榜xx分钟更新一次",
+    "n56_ujgo",
+    "lb_desc",
+    "排行榜xx分钟更新一次排行榜xx分钟更新一次排行榜xx分钟更新一次",
+    "n49_m2g6",
+    "n49",
+    "n50_m2g6",
+    "n50",
+    "n51_m2g6",
+    "n51",
+    "n55_dabw",
+    "btn_reward",
+    "奖励",
+    "ui://ufgirfkme0us6h2ub",
+    "e0us1",
+    "RankItem",
+    "State",
+    "NoSetect",
+    "Select",
+    "Normal",
+    "RaceScore",
+    "Belong",
+    "Self",
+    "RankLevel",
+    "Third",
+    "n12_e0us",
+    "n12",
+    "ui://q4wob529m2g66h4gn",
+    "ui://q4wob529m2g66h4gp",
+    "ui://q4wob529m2g66h4gq",
+    "ui://q4wob529m2g66h4go",
+    "j0o0h24u",
+    "n6_e0us",
+    "playerHead",
+    "tref6h4fp",
+    "n19_rvj0",
+    "n19",
+    "tref6h4fq",
+    "n20_rvj0",
+    "n20",
+    "n23_m2g6",
+    "n23",
+    "1",
+    "lb_name",
+    "玩家昵称七个字",
+    "129999",
+    "aban6h2pl",
+    "n13_e0us",
+    "n13",
+    "n14_e0us",
+    "lb_guild",
+    "公会",
+    "n16_e0us",
+    "lb_area",
+    "福建",
+    "n21_rvj0",
+    "lb_guild_Info",
+    "公会公会公会公会",
+    "n24_hx6o",
+    "guildFlag",
+    "ui://cyrayt3hcms46h3y9",
+    "ku3u1lyosq8",
+    "n25_ku3u",
+    "ladderRank",
+    "rvj06h4gh",
+    "TabButton",
+    "n4_t115",
+    "ui://ufgirfkmi3m66h4j7",
+    "ui://ufgirfkmi3m66h4j8",
+    "n7_q2rv",
+    "个体值",
+    "n8_k36z",
+    "atlas0",
+    "atlas0.png",
+    "atlas_m2g66h4gi",
+    "atlas_m2g66h4gi.png"
+  ]
+}

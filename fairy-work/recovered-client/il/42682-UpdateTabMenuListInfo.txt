@@ -1,0 +1,21 @@
+NormalBattleWindow::UpdateTabMenuListInfo
+000c ldc.i4.0 
+000d stloc.0 
+000e br.s 41
+0010 ldarg.0 
+0011 ldfld m_menuList
+0016 ldloc.0 
+0017 callvirt GetChildAt
+001c stloc.1 
+001d ldarg.0 
+001e ldloc.0 
+001f ldloc.1 
+0020 call NormalBattleWindow::MenuListRenderListItem
+0025 ldloc.0 
+0026 ldc.i4.1 
+0027 add 
+0028 stloc.0 
+0029 ldloc.0 
+002a ldc.i4.4 
+002b blt.s 16
+002d ret 

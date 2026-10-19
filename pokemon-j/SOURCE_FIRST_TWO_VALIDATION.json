@@ -1,0 +1,33 @@
+{
+  "nativeBattle": {
+    "open": true,
+    "scene": {
+      "scene": "skyland",
+      "camera": {
+        "source": "c483baf3e646f1d59aa603b179dbcb37",
+        "position": [
+          1.8899999857,
+          0.6700000167,
+          -6.1100001335
+        ],
+        "quaternion": [
+          -0.0019949139,
+          -0.1705101877,
+          -0.0003452091,
+          0.9853538275
+        ],
+        "fov": 25,
+        "near": 0.5,
+        "far": 500
+      },
+      "frames": 4
+    }
+  },
+  "physicalAttack": true,
+  "physicalRetreat": true,
+  "physicalBallAttempt": true,
+  "buildingLabels": true,
+  "physicalViridianDoor": true,
+  "sourceReturn": true,
+  "pageErrors": []
+}

@@ -1,0 +1,28 @@
+ActivityComponentSystem::CheckOpenActivity
+000c ldarg.0 
+000d ldfld PlayerActivityInfoList
+0012 callvirt get_Values
+0017 callvirt GetEnumerator
+001c stloc.0 
+001d br.s 55
+001f ldloca.s local(0x0000)
+0021 call get_Current
+0026 ldfld info
+002b callvirt get_FunctionId
+0030 ldarg.1 
+0031 bne.un.s 55
+0033 ldc.i4.1 
+0034 stloc.1 
+0035 leave.s 82
+0037 ldloca.s local(0x0000)
+0039 call MoveNext
+003e brtrue.s 31
+0040 leave.s 80
+0042 ldloca.s local(0x0000)
+0044 constrained. 0x1b001167
+004a callvirt Dispose
+004f endfinally 
+0050 ldc.i4.0 
+0051 ret 
+0052 ldloc.1 
+0053 ret 

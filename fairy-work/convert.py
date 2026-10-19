@@ -10,7 +10,7 @@ class Env(UnityPy.Environment):
   key=name.rsplit('/',1)[-1].lower();cab=self.get_cab(key)
   if cab:return cab
   if key in CAB:
-   f=CAB[key];self.load_file((ROOT/'raw'/f).read_bytes(),name=key)
+   f=CAB[key];raw=(ROOT/'raw'/f).read_bytes();self.load_file(raw[raw.index(b'UnityFS'):],name=key)
    return self.get_cab(key)
   raise FileNotFoundError('Missing dependency '+name)
 def key(o):return (o.assets_file.name,str(o.path_id))
@@ -73,6 +73,9 @@ class GLB:
   if h.m_Normals and len(h.m_Normals)==len(h.m_Vertices):attrs['NORMAL']=self.acc([v[:3] for v in h.m_Normals],'VEC3')
   if h.m_UV0 and len(h.m_UV0)==len(h.m_Vertices):attrs['TEXCOORD_0']=self.acc([[u,1-v] for u,v in h.m_UV0],'VEC2')
   bones=getattr(renderer,'m_Bones',None)
+  if bones and len(bones)==1 and not h.m_BoneWeights and len(mesh.m_BindPose)==1:
+   # Unity omits explicit per-vertex weights for rigid single-bone skins.
+   h.m_BoneIndices=[[0,0,0,0] for _ in h.m_Vertices];h.m_BoneWeights=[[1,0,0,0] for _ in h.m_Vertices]
   if bones and h.m_BoneIndices and h.m_BoneWeights:
    attrs['JOINTS_0']=self.acc([list(v[:4])+[0]*max(0,4-len(v)) for v in h.m_BoneIndices],'VEC4',5123);attrs['WEIGHTS_0']=self.acc([list(v[:4])+[0]*max(0,4-len(v)) for v in h.m_BoneWeights],'VEC4')
   prim=[]
@@ -125,7 +128,7 @@ class GLB:
   total=12+8+len(js)+8+len(binary);payload=(struct.pack('<III',0x46546c67,2,total)+struct.pack('<II',len(js),0x4e4f534a)+js+struct.pack('<II',len(binary),0x004e4942)+binary)
   path.with_name(path.name+'.gz').write_bytes(gzip.compress(payload,compresslevel=6,mtime=0))
 def convert(row):
- e=Env();e.load_file((ROOT/'raw'/row['file']).read_bytes(),name=row['file']);g=GLB()
+ e=Env();raw=(ROOT/'raw'/row['file']).read_bytes();e.load_file(raw[raw.index(b'UnityFS'):],name=row['file']);g=GLB()
  for name,p in [(name,p) for cab in list(e.cabs.values()) if hasattr(cab,'container') for name,p in cab.container.items()]:
   if not name.endswith('.prefab'):continue
   o=p.deref()

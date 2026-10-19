@@ -1,0 +1,3985 @@
+{
+  "items": [
+    {
+      "type": 0,
+      "id": "noci6h4fj",
+      "name": "gnyg_bg1",
+      "path": "/FunctionPreview/Images/",
+      "file": null,
+      "size": [
+        452,
+        892
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ovq66h4e2",
+      "name": "hdrl_bg_01",
+      "path": "/Calendar/image/",
+      "file": null,
+      "size": [
+        30,
+        30
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ovq66h4e3",
+      "name": "hdrl_bg_02",
+      "path": "/Calendar/image/",
+      "file": null,
+      "size": [
+        30,
+        30
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ovq66h4e4",
+      "name": "hdrl_bg_03",
+      "path": "/Calendar/image/",
+      "file": null,
+      "size": [
+        33,
+        33
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ovq66h4e6",
+      "name": "hdrl_bg_05",
+      "path": "/Calendar/image/",
+      "file": null,
+      "size": [
+        30,
+        30
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ovq66h4e7",
+      "name": "hdrl_bg_06",
+      "path": "/Calendar/image/",
+      "file": null,
+      "size": [
+        98,
+        28
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ovq66h4e8",
+      "name": "hdrl_fenge",
+      "path": "/Calendar/image/",
+      "file": null,
+      "size": [
+        2,
+        43
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ovq66h4e9",
+      "name": "hdrl_xian",
+      "path": "/Calendar/image/",
+      "file": null,
+      "size": [
+        2,
+        30
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ovq66h4ed",
+      "name": "hdrl_bg_07",
+      "path": "/Calendar/image/",
+      "file": null,
+      "size": [
+        57,
+        57
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ox7l1lyoswj",
+      "name": "ywyg_bg_11(1)",
+      "path": "/LineUpRecommended/Images/",
+      "file": null,
+      "size": [
+        25,
+        43
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ox7l6h4fs",
+      "name": "zrtj_bg_3",
+      "path": "/LineUpRecommended/Images/",
+      "file": null,
+      "size": [
+        40,
+        20
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ox7l6h4ft",
+      "name": "zrtj_bg_4",
+      "path": "/LineUpRecommended/Images/",
+      "file": null,
+      "size": [
+        635,
+        814
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ox7l6h4fv",
+      "name": "zrtj_bg_6",
+      "path": "/LineUpRecommended/Images/",
+      "file": null,
+      "size": [
+        24,
+        24
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ox7l6h4fw",
+      "name": "zrtj_bth_1",
+      "path": "/LineUpRecommended/Images/",
+      "file": null,
+      "size": [
+        49,
+        49
+      ]
+    },
+    {
+      "type": 0,
+      "id": "siql6h4d6",
+      "name": "mrbz_bg_2",
+      "path": "/Daily/",
+      "file": null,
+      "size": [
+        92,
+        92
+      ]
+    },
+    {
+      "type": 0,
+      "id": "siql6h4d7",
+      "name": "mrbz_bg_3",
+      "path": "/Daily/",
+      "file": null,
+      "size": [
+        82,
+        781
+      ]
+    },
+    {
+      "type": 0,
+      "id": "siql6h4d9",
+      "name": "mrbz_bg_5",
+      "path": "/Daily/",
+      "file": null,
+      "size": [
+        85,
+        154
+      ]
+    },
+    {
+      "type": 0,
+      "id": "siql6h4da",
+      "name": "mrbz_bg_6",
+      "path": "/Daily/",
+      "file": null,
+      "size": [
+        110,
+        55
+      ]
+    },
+    {
+      "type": 0,
+      "id": "siql6h4db",
+      "name": "mrbz_bg_7",
+      "path": "/Daily/",
+      "file": null,
+      "size": [
+        110,
+        55
+      ]
+    },
+    {
+      "type": 0,
+      "id": "siql6h4dd",
+      "name": "mrbz_ic_wcg",
+      "path": "/Daily/",
+      "file": null,
+      "size": [
+        54,
+        54
+      ]
+    },
+    {
+      "type": 3,
+      "id": "aban0",
+      "name": "TaskCenter_Window",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "aban1",
+      "name": "TaskTreeItem",
+      "path": "/",
+      "file": null,
+      "size": [
+        589,
+        97
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "aban2",
+      "name": "TreeExpandButton",
+      "path": "/",
+      "file": null,
+      "size": [
+        600,
+        80
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "aban5",
+      "name": "TaskChildTreeItem",
+      "path": "/",
+      "file": null,
+      "size": [
+        589,
+        70
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "btgf1lyosz9",
+      "name": "ResourceRecoveryCom",
+      "path": "/ResourceRecovery/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "e0us6h4b4",
+      "name": "TaskOfferRewardItem",
+      "path": "/",
+      "file": null,
+      "size": [
+        614,
+        152
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "e0us6h4b9",
+      "name": "TaskMain",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "e0us6h4bb",
+      "name": "TaskOfferReward",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "e0us6h4bd",
+      "name": "TaskDaily",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "e0us6h4bi",
+      "name": "TaskBranch",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "e0us6h4bk",
+      "name": "TaskAchievement_Window",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "e0us6h4cf",
+      "name": "AchievementItem",
+      "path": "/",
+      "file": null,
+      "size": [
+        625,
+        134
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "iiws6h4en",
+      "name": "FunctionPreviewCom",
+      "path": "/FunctionPreview/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "iiws6h4fh",
+      "name": "FunctionPreviewItem",
+      "path": "/FunctionPreview/",
+      "file": null,
+      "size": [
+        456,
+        894
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "ir001lyosz4",
+      "name": "LineUpRecommended_Window",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "jdv66h4em",
+      "name": "TaskMultiplePayment_MiniWindow",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "k36z6h4ch",
+      "name": "DailyActive_Window",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "k36z6h4ci",
+      "name": "DailyActiveItem",
+      "path": "/",
+      "file": null,
+      "size": [
+        655,
+        413
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "ldf71lyoszc",
+      "name": "ResourceRecoveryComItem",
+      "path": "/ResourceRecovery/",
+      "file": null,
+      "size": [
+        1049,
+        193
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "mjc16h4aq",
+      "name": "TaskItem",
+      "path": "/",
+      "file": null,
+      "size": [
+        770,
+        46
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "ovq66h4ea",
+      "name": "DailyCalendarCom",
+      "path": "/Calendar/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "ovq66h4eb",
+      "name": "DailyCalendarListCom",
+      "path": "/Calendar/",
+      "file": null,
+      "size": [
+        1399,
+        839
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "ovq66h4ec",
+      "name": "DailyCalendarListItem",
+      "path": "/Calendar/",
+      "file": null,
+      "size": [
+        1396,
+        132
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "ox7l1lyoswi",
+      "name": "LineUpEudemon",
+      "path": "/LineUpRecommended/",
+      "file": null,
+      "size": [
+        222,
+        257
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "ox7l1lyosz1",
+      "name": "PropLableItem",
+      "path": "/LineUpRecommended/",
+      "file": null,
+      "size": [
+        420,
+        39
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "ox7l1lyosz3",
+      "name": "EudemonHeldItemBtn",
+      "path": "/LineUpRecommended/",
+      "file": null,
+      "size": [
+        100,
+        94
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "ox7l6h4fk",
+      "name": "LineUpRecommendedCom",
+      "path": "/LineUpRecommended/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "ox7l6h4fl",
+      "name": "LineUpRecommendedComItem",
+      "path": "/LineUpRecommended/",
+      "file": null,
+      "size": [
+        1381,
+        208
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "ox7l6h4fm",
+      "name": "LineUpRecommendedComDetail",
+      "path": "/LineUpRecommended/",
+      "file": null,
+      "size": [
+        635,
+        814
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "ox7l6h4fn",
+      "name": "LineUpRecommendedDetail_MiniWindow",
+      "path": "/LineUpRecommended/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "rev56h4dw",
+      "name": "NewTaskTreeItem",
+      "path": "/",
+      "file": null,
+      "size": [
+        589,
+        97
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "rev56h4dx",
+      "name": "NewTaskChildTreeItem",
+      "path": "/",
+      "file": null,
+      "size": [
+        446,
+        76
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "rev56h4dy",
+      "name": "NewTaskMain",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "rev56h4dz",
+      "name": "NewTaskBranch",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "rhl16",
+      "name": "TaskPayment_MiniWindow",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "rhl16h2r7",
+      "name": "TaskReward",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "rhl16h2r8",
+      "name": "TaskReward_MiniWindow",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "siql6h4df",
+      "name": "DailyActiveTabItem",
+      "path": "/",
+      "file": null,
+      "size": [
+        303,
+        121
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "ttqx6h4ap",
+      "name": "TaskTabItem",
+      "path": "/",
+      "file": null,
+      "size": [
+        252,
+        100
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "ux1h1lyoszd",
+      "name": "RRNeedItem",
+      "path": "/ResourceRecovery/",
+      "file": null,
+      "size": [
+        150,
+        50
+      ],
+      "extension": 0
+    },
+    {
+      "type": 0,
+      "id": "e0us6h4ay",
+      "name": "rw_daily",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        145,
+        24
+      ]
+    },
+    {
+      "type": 0,
+      "id": "e0us6h4b0",
+      "name": "rw_challenges",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        142,
+        24
+      ]
+    },
+    {
+      "type": 0,
+      "id": "e0us6h4b5",
+      "name": "rw_bg_xs1",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        341,
+        128
+      ]
+    },
+    {
+      "type": 0,
+      "id": "e0us6h4b6",
+      "name": "rw_bg_xs2",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        341,
+        129
+      ]
+    },
+    {
+      "type": 0,
+      "id": "e0us6h4b7",
+      "name": "rw_bg_xs3",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        341,
+        129
+      ]
+    },
+    {
+      "type": 0,
+      "id": "e0us6h4b8",
+      "name": "OfficeReward1",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        141,
+        126
+      ]
+    },
+    {
+      "type": 0,
+      "id": "e0us6h4bl",
+      "name": "rw_bg6",
+      "path": "/Achievement/",
+      "file": null,
+      "size": [
+        215,
+        44
+      ]
+    },
+    {
+      "type": 0,
+      "id": "e0us6h4bq",
+      "name": "rw_bg_cj1",
+      "path": "/Achievement/",
+      "file": null,
+      "size": [
+        358,
+        116
+      ]
+    },
+    {
+      "type": 0,
+      "id": "e0us6h4br",
+      "name": "rw_bg_cj2",
+      "path": "/Achievement/",
+      "file": null,
+      "size": [
+        358,
+        116
+      ]
+    },
+    {
+      "type": 0,
+      "id": "e0us6h4bs",
+      "name": "rw_bg_cj3",
+      "path": "/Achievement/",
+      "file": null,
+      "size": [
+        358,
+        116
+      ]
+    },
+    {
+      "type": 0,
+      "id": "e0us6h4bt",
+      "name": "rw_bg_cj4",
+      "path": "/Achievement/",
+      "file": null,
+      "size": [
+        358,
+        116
+      ]
+    },
+    {
+      "type": 0,
+      "id": "e0us6h4bu",
+      "name": "rw_bg_cj5",
+      "path": "/Achievement/",
+      "file": null,
+      "size": [
+        358,
+        116
+      ]
+    },
+    {
+      "type": 0,
+      "id": "e0us6h4bv",
+      "name": "rw_bg_cj6",
+      "path": "/Achievement/",
+      "file": null,
+      "size": [
+        358,
+        116
+      ]
+    },
+    {
+      "type": 0,
+      "id": "e0us6h4bw",
+      "name": "rw_bg_cj7",
+      "path": "/Achievement/",
+      "file": null,
+      "size": [
+        358,
+        116
+      ]
+    },
+    {
+      "type": 0,
+      "id": "e0us6h4c8",
+      "name": "rw_cjicon1",
+      "path": "/Achievement/",
+      "file": null,
+      "size": [
+        258,
+        97
+      ]
+    },
+    {
+      "type": 0,
+      "id": "e0us6h4c9",
+      "name": "rw_cjicon2",
+      "path": "/Achievement/",
+      "file": null,
+      "size": [
+        258,
+        97
+      ]
+    },
+    {
+      "type": 0,
+      "id": "e0us6h4ca",
+      "name": "rw_cjicon3",
+      "path": "/Achievement/",
+      "file": null,
+      "size": [
+        258,
+        97
+      ]
+    },
+    {
+      "type": 0,
+      "id": "e0us6h4cb",
+      "name": "rw_cjicon4",
+      "path": "/Achievement/",
+      "file": null,
+      "size": [
+        258,
+        97
+      ]
+    },
+    {
+      "type": 0,
+      "id": "e0us6h4cc",
+      "name": "rw_cjicon5",
+      "path": "/Achievement/",
+      "file": null,
+      "size": [
+        258,
+        97
+      ]
+    },
+    {
+      "type": 0,
+      "id": "e0us6h4cd",
+      "name": "rw_cjicon6",
+      "path": "/Achievement/",
+      "file": null,
+      "size": [
+        258,
+        97
+      ]
+    },
+    {
+      "type": 0,
+      "id": "e0us6h4ce",
+      "name": "rw_cjicon7",
+      "path": "/Achievement/",
+      "file": null,
+      "size": [
+        258,
+        97
+      ]
+    },
+    {
+      "type": 0,
+      "id": "e8eh6h4dh",
+      "name": "mrbz_banner_10",
+      "path": "/Daily/",
+      "file": null,
+      "size": [
+        634,
+        151
+      ]
+    },
+    {
+      "type": 0,
+      "id": "e8eh6h4di",
+      "name": "mrbz_banner_11",
+      "path": "/Daily/",
+      "file": null,
+      "size": [
+        634,
+        151
+      ]
+    },
+    {
+      "type": 0,
+      "id": "e8eh6h4dj",
+      "name": "mrbz_banner_12",
+      "path": "/Daily/",
+      "file": null,
+      "size": [
+        634,
+        151
+      ]
+    },
+    {
+      "type": 0,
+      "id": "e8eh6h4dk",
+      "name": "mrbz_banner_13",
+      "path": "/Daily/",
+      "file": null,
+      "size": [
+        634,
+        151
+      ]
+    },
+    {
+      "type": 0,
+      "id": "e8eh6h4dl",
+      "name": "mrbz_banner_14",
+      "path": "/Daily/",
+      "file": null,
+      "size": [
+        634,
+        151
+      ]
+    },
+    {
+      "type": 0,
+      "id": "e8eh6h4dm",
+      "name": "mrbz_banner_15",
+      "path": "/Daily/",
+      "file": null,
+      "size": [
+        634,
+        151
+      ]
+    },
+    {
+      "type": 0,
+      "id": "e8eh6h4dn",
+      "name": "mrbz_banner_16",
+      "path": "/Daily/",
+      "file": null,
+      "size": [
+        634,
+        151
+      ]
+    },
+    {
+      "type": 0,
+      "id": "e8eh6h4do",
+      "name": "mrbz_banner_17",
+      "path": "/Daily/",
+      "file": null,
+      "size": [
+        634,
+        151
+      ]
+    },
+    {
+      "type": 0,
+      "id": "e8eh6h4dp",
+      "name": "mrbz_banner_3",
+      "path": "/Daily/",
+      "file": null,
+      "size": [
+        634,
+        151
+      ]
+    },
+    {
+      "type": 0,
+      "id": "e8eh6h4dq",
+      "name": "mrbz_banner_4",
+      "path": "/Daily/",
+      "file": null,
+      "size": [
+        634,
+        151
+      ]
+    },
+    {
+      "type": 0,
+      "id": "e8eh6h4dr",
+      "name": "mrbz_banner_5",
+      "path": "/Daily/",
+      "file": null,
+      "size": [
+        634,
+        151
+      ]
+    },
+    {
+      "type": 0,
+      "id": "e8eh6h4ds",
+      "name": "mrbz_banner_6",
+      "path": "/Daily/",
+      "file": null,
+      "size": [
+        634,
+        151
+      ]
+    },
+    {
+      "type": 0,
+      "id": "e8eh6h4dt",
+      "name": "mrbz_banner_7",
+      "path": "/Daily/",
+      "file": null,
+      "size": [
+        634,
+        151
+      ]
+    },
+    {
+      "type": 0,
+      "id": "e8eh6h4du",
+      "name": "mrbz_banner_8",
+      "path": "/Daily/",
+      "file": null,
+      "size": [
+        634,
+        151
+      ]
+    },
+    {
+      "type": 0,
+      "id": "e8eh6h4dv",
+      "name": "mrbz_banner_9",
+      "path": "/Daily/",
+      "file": null,
+      "size": [
+        634,
+        151
+      ]
+    },
+    {
+      "type": 0,
+      "id": "l4vm6h4ek",
+      "name": "hdri_icon_07",
+      "path": "/Calendar/image/",
+      "file": null,
+      "size": [
+        140,
+        122
+      ]
+    },
+    {
+      "type": 0,
+      "id": "l4vm6h4el",
+      "name": "hdri_icon_08",
+      "path": "/Calendar/image/",
+      "file": null,
+      "size": [
+        140,
+        122
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mjc16h4av",
+      "name": "rw_t1",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        12,
+        30
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mjc16h4aw",
+      "name": "rw_free",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        157,
+        24
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mjc16h4ax",
+      "name": "rw_story",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        76,
+        24
+      ]
+    },
+    {
+      "type": 0,
+      "id": "oexw1lyoszh",
+      "name": "zuzh_di_1",
+      "path": "/ResourceRecovery/",
+      "file": null,
+      "size": [
+        537,
+        398
+      ]
+    },
+    {
+      "type": 0,
+      "id": "oexw1lyoszi",
+      "name": "zuzh_di_2",
+      "path": "/ResourceRecovery/",
+      "file": null,
+      "size": [
+        516,
+        96
+      ]
+    },
+    {
+      "type": 0,
+      "id": "oexw1lyoszj",
+      "name": "Dr_Damu",
+      "path": "/ResourceRecovery/",
+      "file": null,
+      "size": [
+        608,
+        1584
+      ]
+    },
+    {
+      "type": 0,
+      "id": "oexw1lyoszk",
+      "name": "wsj_lsp_k",
+      "path": "/ResourceRecovery/",
+      "file": null,
+      "size": [
+        305,
+        153
+      ]
+    },
+    {
+      "type": 0,
+      "id": "oexw1lyoszm",
+      "name": "xsnz_di_7",
+      "path": "/ResourceRecovery/",
+      "file": null,
+      "size": [
+        573,
+        56
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ovq66h4e1",
+      "name": "hdri_icon_01",
+      "path": "/Calendar/image/",
+      "file": null,
+      "size": [
+        140,
+        122
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ox7l6h4fq",
+      "name": "zrtj_bg_1",
+      "path": "/LineUpRecommended/Images/",
+      "file": null,
+      "size": [
+        1381,
+        208
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ox7l6h4fr",
+      "name": "zrtj_bg_2",
+      "path": "/LineUpRecommended/Images/",
+      "file": null,
+      "size": [
+        1377,
+        205
+      ]
+    },
+    {
+      "type": 0,
+      "id": "phf56h4ef",
+      "name": "hdri_icon_02",
+      "path": "/Calendar/image/",
+      "file": null,
+      "size": [
+        140,
+        122
+      ]
+    },
+    {
+      "type": 0,
+      "id": "phf56h4eg",
+      "name": "hdri_icon_03",
+      "path": "/Calendar/image/",
+      "file": null,
+      "size": [
+        140,
+        122
+      ]
+    },
+    {
+      "type": 0,
+      "id": "phf56h4eh",
+      "name": "hdri_icon_04",
+      "path": "/Calendar/image/",
+      "file": null,
+      "size": [
+        140,
+        122
+      ]
+    },
+    {
+      "type": 0,
+      "id": "phf56h4ei",
+      "name": "hdri_icon_05",
+      "path": "/Calendar/image/",
+      "file": null,
+      "size": [
+        140,
+        122
+      ]
+    },
+    {
+      "type": 0,
+      "id": "phf56h4ej",
+      "name": "hdri_icon_06",
+      "path": "/Calendar/image/",
+      "file": null,
+      "size": [
+        140,
+        122
+      ]
+    },
+    {
+      "type": 0,
+      "id": "siql6h4d3",
+      "name": "mrbz_banner_1",
+      "path": "/Daily/",
+      "file": null,
+      "size": [
+        634,
+        151
+      ]
+    },
+    {
+      "type": 0,
+      "id": "siql6h4d4",
+      "name": "mrbz_banner_2",
+      "path": "/Daily/",
+      "file": null,
+      "size": [
+        634,
+        151
+      ]
+    },
+    {
+      "type": 0,
+      "id": "siql6h4d5",
+      "name": "mrbz_bg_1",
+      "path": "/Daily/",
+      "file": null,
+      "size": [
+        910,
+        512
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ttqx6h2rf",
+      "name": "rw_icrwxx",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        90,
+        87
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ttqx6h2rn",
+      "name": "rw_bg_zj1",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        36,
+        97
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ttqx6h2ro",
+      "name": "rw_bg_zj2",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        36,
+        97
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ttqx6h2rp",
+      "name": "rw_bg_zj3",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        36,
+        97
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ttqx6h2rq",
+      "name": "rw_bg_zj4",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        36,
+        96
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ttqx6h2rr",
+      "name": "rw_bg_zj5",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        36,
+        97
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ttqx6h2rs",
+      "name": "rw_icball1",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        60,
+        59
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ttqx6h2rt",
+      "name": "rw_icball2",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        56,
+        58
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ttqx6h2rv",
+      "name": "ch1",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        585,
+        117
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ttqx6h2rw",
+      "name": "ch2",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        585,
+        117
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ttqx6h2rx",
+      "name": "ch3",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        585,
+        117
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ttqx6h2ry",
+      "name": "rw_bg15",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        227,
+        45
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ttqx6h2rz",
+      "name": "rw_bg19",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        66,
+        64
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ttqx6h2s0",
+      "name": "rw_bg20",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        66,
+        64
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ttqx6h2s1",
+      "name": "rw_icflag",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        22,
+        26
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ttqx6h2s2",
+      "name": "rw_icxz1",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        25,
+        25
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ttqx6h2s5",
+      "name": "rw_bg3",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        45,
+        132
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ttqx6h2s9",
+      "name": "ch1_1",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        585,
+        117
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ttqx6h2sa",
+      "name": "ch1_2",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        585,
+        91
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ttqx6h2sb",
+      "name": "ch2_1",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        585,
+        117
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ttqx6h2sc",
+      "name": "ch2_2",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        586,
+        91
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ttqx6h2sd",
+      "name": "ch3_1",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        585,
+        117
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ttqx6h2se",
+      "name": "ch3_2",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        585,
+        91
+      ]
+    },
+    {
+      "type": 0,
+      "id": "uyve6h4cu",
+      "name": "mrbz_bg_9",
+      "path": "/Daily/",
+      "file": null,
+      "size": [
+        40,
+        41
+      ]
+    },
+    {
+      "type": 0,
+      "id": "uyve6h4cx",
+      "name": "mrbz_ic_lw",
+      "path": "/Daily/",
+      "file": null,
+      "size": [
+        62,
+        64
+      ]
+    },
+    {
+      "type": 0,
+      "id": "uyve6h4d0",
+      "name": "mrbz_bg_10",
+      "path": "/Daily/",
+      "file": null,
+      "size": [
+        40,
+        41
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas0",
+      "name": null,
+      "path": null,
+      "file": "atlas0.png",
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas1",
+      "name": null,
+      "path": null,
+      "file": "atlas1.png",
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas2",
+      "name": null,
+      "path": null,
+      "file": "atlas2.png",
+      "size": [
+        2048,
+        1024
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas_siql6h4d5",
+      "name": null,
+      "path": null,
+      "file": "atlas_siql6h4d5.png",
+      "size": [
+        910,
+        512
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas3",
+      "name": null,
+      "path": null,
+      "file": "atlas3.png",
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas6",
+      "name": null,
+      "path": null,
+      "file": "atlas6.png",
+      "size": [
+        2048,
+        1024
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas7",
+      "name": null,
+      "path": null,
+      "file": "atlas7.png",
+      "size": [
+        2048,
+        1024
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas_noci6h4fj",
+      "name": null,
+      "path": null,
+      "file": "atlas_noci6h4fj.png",
+      "size": [
+        512,
+        1024
+      ]
+    }
+  ],
+  "sprites": [
+    {
+      "id": "ttqx6h2rv",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        0,
+        585,
+        117
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "ttqx6h2rw",
+      "atlas": "atlas0",
+      "rect": [
+        587,
+        0,
+        117,
+        585
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "ttqx6h2rx",
+      "atlas": "atlas0",
+      "rect": [
+        706,
+        0,
+        117,
+        585
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "ttqx6h2sa",
+      "atlas": "atlas0",
+      "rect": [
+        825,
+        0,
+        91,
+        583
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "ttqx6h2se",
+      "atlas": "atlas0",
+      "rect": [
+        918,
+        0,
+        91,
+        583
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "ttqx6h2sd",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        587,
+        583,
+        115
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "ttqx6h2sb",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        119,
+        583,
+        115
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "ttqx6h2s9",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        236,
+        583,
+        115
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "ttqx6h2sc",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        353,
+        582,
+        91
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "e0us6h4b5",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        446,
+        341,
+        128
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "e0us6h4b7",
+      "atlas": "atlas0",
+      "rect": [
+        825,
+        585,
+        129,
+        341
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "e0us6h4b6",
+      "atlas": "atlas0",
+      "rect": [
+        585,
+        587,
+        129,
+        341
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "ttqx6h2ry",
+      "atlas": "atlas0",
+      "rect": [
+        716,
+        928,
+        227,
+        45
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "mjc16h4aw",
+      "atlas": "atlas0",
+      "rect": [
+        956,
+        585,
+        24,
+        157
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "e0us6h4ay",
+      "atlas": "atlas0",
+      "rect": [
+        982,
+        585,
+        24,
+        145
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "e0us6h4b0",
+      "atlas": "atlas0",
+      "rect": [
+        982,
+        732,
+        24,
+        142
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "e0us6h4b8",
+      "atlas": "atlas0",
+      "rect": [
+        343,
+        446,
+        141,
+        126
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "ttqx6h2s5",
+      "atlas": "atlas0",
+      "rect": [
+        956,
+        876,
+        45,
+        132
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "ttqx6h2rr",
+      "atlas": "atlas0",
+      "rect": [
+        486,
+        446,
+        97,
+        36
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "ttqx6h2rp",
+      "atlas": "atlas0",
+      "rect": [
+        486,
+        484,
+        97,
+        36
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "ttqx6h2ro",
+      "atlas": "atlas0",
+      "rect": [
+        486,
+        522,
+        97,
+        36
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "ttqx6h2rn",
+      "atlas": "atlas0",
+      "rect": [
+        716,
+        587,
+        97,
+        36
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "ttqx6h2rq",
+      "atlas": "atlas0",
+      "rect": [
+        716,
+        625,
+        96,
+        36
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "ttqx6h2rf",
+      "atlas": "atlas0",
+      "rect": [
+        716,
+        663,
+        90,
+        87
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "mjc16h4ax",
+      "atlas": "atlas0",
+      "rect": [
+        486,
+        560,
+        76,
+        24
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "ttqx6h2s0",
+      "atlas": "atlas0",
+      "rect": [
+        716,
+        752,
+        66,
+        64
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "ttqx6h2rz",
+      "atlas": "atlas0",
+      "rect": [
+        716,
+        818,
+        66,
+        64
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "ttqx6h2rs",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        930,
+        59,
+        60
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "ttqx6h2rt",
+      "atlas": "atlas0",
+      "rect": [
+        61,
+        930,
+        56,
+        58
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "mjc16h4av",
+      "atlas": "atlas0",
+      "rect": [
+        1003,
+        876,
+        12,
+        30
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "ttqx6h2s1",
+      "atlas": "atlas0",
+      "rect": [
+        956,
+        744,
+        22,
+        26
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "ttqx6h2s2",
+      "atlas": "atlas0",
+      "rect": [
+        716,
+        884,
+        25,
+        25
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "e0us6h4bq",
+      "atlas": "atlas1",
+      "rect": [
+        0,
+        0,
+        358,
+        116
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "e0us6h4br",
+      "atlas": "atlas1",
+      "rect": [
+        360,
+        0,
+        358,
+        116
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "e0us6h4bs",
+      "atlas": "atlas1",
+      "rect": [
+        720,
+        0,
+        116,
+        358
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "e0us6h4bt",
+      "atlas": "atlas1",
+      "rect": [
+        838,
+        0,
+        116,
+        358
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "e0us6h4bu",
+      "atlas": "atlas1",
+      "rect": [
+        0,
+        118,
+        358,
+        116
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "e0us6h4bv",
+      "atlas": "atlas1",
+      "rect": [
+        360,
+        118,
+        358,
+        116
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "e0us6h4bw",
+      "atlas": "atlas1",
+      "rect": [
+        0,
+        236,
+        358,
+        116
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "e0us6h4c8",
+      "atlas": "atlas1",
+      "rect": [
+        360,
+        236,
+        258,
+        97
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "e0us6h4c9",
+      "atlas": "atlas1",
+      "rect": [
+        620,
+        236,
+        97,
+        258
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "e0us6h4ca",
+      "atlas": "atlas1",
+      "rect": [
+        360,
+        335,
+        258,
+        97
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "e0us6h4cb",
+      "atlas": "atlas1",
+      "rect": [
+        719,
+        360,
+        258,
+        97
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "e0us6h4cc",
+      "atlas": "atlas1",
+      "rect": [
+        719,
+        459,
+        258,
+        97
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "e0us6h4cd",
+      "atlas": "atlas1",
+      "rect": [
+        0,
+        354,
+        258,
+        97
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "e0us6h4ce",
+      "atlas": "atlas1",
+      "rect": [
+        260,
+        354,
+        97,
+        258
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "e0us6h4bl",
+      "atlas": "atlas1",
+      "rect": [
+        956,
+        0,
+        44,
+        214
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "siql6h4d7",
+      "atlas": "atlas2",
+      "rect": [
+        0,
+        0,
+        781,
+        82
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "e8eh6h4do",
+      "atlas": "atlas2",
+      "rect": [
+        783,
+        0,
+        634,
+        151
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "e8eh6h4ds",
+      "atlas": "atlas2",
+      "rect": [
+        1419,
+        0,
+        151,
+        634
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "e8eh6h4dr",
+      "atlas": "atlas2",
+      "rect": [
+        1572,
+        0,
+        151,
+        634
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "e8eh6h4dq",
+      "atlas": "atlas2",
+      "rect": [
+        1725,
+        0,
+        151,
+        634
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "e8eh6h4dp",
+      "atlas": "atlas2",
+      "rect": [
+        1878,
+        0,
+        151,
+        634
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "e8eh6h4dv",
+      "atlas": "atlas2",
+      "rect": [
+        0,
+        84,
+        151,
+        634
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "e8eh6h4dn",
+      "atlas": "atlas2",
+      "rect": [
+        153,
+        84,
+        151,
+        634
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "e8eh6h4dm",
+      "atlas": "atlas2",
+      "rect": [
+        306,
+        84,
+        151,
+        634
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "e8eh6h4dl",
+      "atlas": "atlas2",
+      "rect": [
+        459,
+        84,
+        151,
+        634
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "e8eh6h4dk",
+      "atlas": "atlas2",
+      "rect": [
+        612,
+        84,
+        151,
+        634
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "e8eh6h4dj",
+      "atlas": "atlas2",
+      "rect": [
+        765,
+        153,
+        151,
+        634
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "e8eh6h4di",
+      "atlas": "atlas2",
+      "rect": [
+        0,
+        720,
+        634,
+        151
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "e8eh6h4dh",
+      "atlas": "atlas2",
+      "rect": [
+        918,
+        153,
+        151,
+        634
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "siql6h4d4",
+      "atlas": "atlas2",
+      "rect": [
+        1071,
+        153,
+        151,
+        634
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "siql6h4d3",
+      "atlas": "atlas2",
+      "rect": [
+        1224,
+        153,
+        151,
+        634
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "e8eh6h4dt",
+      "atlas": "atlas2",
+      "rect": [
+        1377,
+        636,
+        634,
+        151
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "e8eh6h4du",
+      "atlas": "atlas2",
+      "rect": [
+        636,
+        789,
+        634,
+        151
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "siql6h4d9",
+      "atlas": "atlas2",
+      "rect": [
+        0,
+        873,
+        154,
+        85
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "siql6h4da",
+      "atlas": "atlas2",
+      "rect": [
+        636,
+        720,
+        110,
+        55
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "siql6h4db",
+      "atlas": "atlas2",
+      "rect": [
+        156,
+        873,
+        110,
+        55
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "siql6h4d6",
+      "atlas": "atlas2",
+      "rect": [
+        268,
+        873,
+        92,
+        92
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "uyve6h4cx",
+      "atlas": "atlas2",
+      "rect": [
+        156,
+        942,
+        64,
+        62
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "siql6h4dd",
+      "atlas": "atlas2",
+      "rect": [
+        0,
+        960,
+        54,
+        54
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "uyve6h4d0",
+      "atlas": "atlas2",
+      "rect": [
+        222,
+        930,
+        40,
+        41
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "uyve6h4cu",
+      "atlas": "atlas2",
+      "rect": [
+        56,
+        960,
+        41,
+        40
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "siql6h4d5",
+      "atlas": "atlas_siql6h4d5",
+      "rect": [
+        0,
+        0,
+        910,
+        512
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "ovq66h4e1",
+      "atlas": "atlas3",
+      "rect": [
+        0,
+        0,
+        140,
+        122
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "phf56h4ef",
+      "atlas": "atlas3",
+      "rect": [
+        142,
+        0,
+        140,
+        122
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "phf56h4eg",
+      "atlas": "atlas3",
+      "rect": [
+        284,
+        0,
+        140,
+        122
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "phf56h4eh",
+      "atlas": "atlas3",
+      "rect": [
+        0,
+        124,
+        122,
+        140
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "phf56h4ei",
+      "atlas": "atlas3",
+      "rect": [
+        0,
+        266,
+        122,
+        140
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "phf56h4ej",
+      "atlas": "atlas3",
+      "rect": [
+        124,
+        124,
+        140,
+        122
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "l4vm6h4ek",
+      "atlas": "atlas3",
+      "rect": [
+        266,
+        124,
+        140,
+        122
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "l4vm6h4el",
+      "atlas": "atlas3",
+      "rect": [
+        124,
+        248,
+        122,
+        140
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "ovq66h4e7",
+      "atlas": "atlas3",
+      "rect": [
+        408,
+        124,
+        98,
+        28
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "ovq66h4ed",
+      "atlas": "atlas3",
+      "rect": [
+        426,
+        0,
+        57,
+        57
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "ovq66h4e8",
+      "atlas": "atlas3",
+      "rect": [
+        508,
+        0,
+        2,
+        43
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "ovq66h4e4",
+      "atlas": "atlas3",
+      "rect": [
+        426,
+        59,
+        33,
+        33
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "ovq66h4e9",
+      "atlas": "atlas3",
+      "rect": [
+        508,
+        45,
+        2,
+        30
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "ovq66h4e6",
+      "atlas": "atlas3",
+      "rect": [
+        461,
+        77,
+        30,
+        30
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "ovq66h4e2",
+      "atlas": "atlas3",
+      "rect": [
+        408,
+        154,
+        30,
+        30
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "ovq66h4e3",
+      "atlas": "atlas3",
+      "rect": [
+        440,
+        154,
+        30,
+        30
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "ox7l6h4fq",
+      "atlas": "atlas6",
+      "rect": [
+        0,
+        0,
+        1377,
+        205
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "ox7l6h4fr",
+      "atlas": "atlas6",
+      "rect": [
+        0,
+        207,
+        1377,
+        205
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "ox7l6h4ft",
+      "atlas": "atlas6",
+      "rect": [
+        1379,
+        0,
+        635,
+        814
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "ox7l6h4fw",
+      "atlas": "atlas6",
+      "rect": [
+        0,
+        816,
+        45,
+        45
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "ox7l1lyoswj",
+      "atlas": "atlas6",
+      "rect": [
+        2016,
+        0,
+        25,
+        43
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "ox7l6h4fs",
+      "atlas": "atlas6",
+      "rect": [
+        2016,
+        45,
+        20,
+        40
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "ox7l6h4fv",
+      "atlas": "atlas6",
+      "rect": [
+        2016,
+        87,
+        24,
+        24
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "oexw1lyoszj",
+      "atlas": "atlas7",
+      "rect": [
+        0,
+        0,
+        1584,
+        608
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "oexw1lyoszm",
+      "atlas": "atlas7",
+      "rect": [
+        1586,
+        0,
+        56,
+        573
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "oexw1lyoszh",
+      "atlas": "atlas7",
+      "rect": [
+        1644,
+        0,
+        398,
+        537
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "oexw1lyoszi",
+      "atlas": "atlas7",
+      "rect": [
+        0,
+        610,
+        516,
+        96
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "oexw1lyoszk",
+      "atlas": "atlas7",
+      "rect": [
+        1644,
+        539,
+        305,
+        153
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "noci6h4fj",
+      "atlas": "atlas_noci6h4fj",
+      "rect": [
+        0,
+        0,
+        452,
+        892
+      ],
+      "rotated": 0
+    }
+  ],
+  "strings": [
+    "c1imbcrl",
+    "Base",
+    "ufgirfkm",
+    "Common",
+    "cyrayt3h",
+    "Item",
+    "c6iwlr2r",
+    "Main",
+    "oztdjss0",
+    "Wild",
+    "noci6h4fj",
+    "gnyg_bg1",
+    "/FunctionPreview/Images/",
+    "ovq66h4e2",
+    "hdrl_bg_01",
+    "/Calendar/image/",
+    "ovq66h4e3",
+    "hdrl_bg_02",
+    "ovq66h4e4",
+    "hdrl_bg_03",
+    "ovq66h4e6",
+    "hdrl_bg_05",
+    "ovq66h4e7",
+    "hdrl_bg_06",
+    "ovq66h4e8",
+    "hdrl_fenge",
+    "ovq66h4e9",
+    "hdrl_xian",
+    "ovq66h4ed",
+    "hdrl_bg_07",
+    "ox7l1lyoswj",
+    "ywyg_bg_11(1)",
+    "/LineUpRecommended/Images/",
+    "ox7l6h4fs",
+    "zrtj_bg_3",
+    "ox7l6h4ft",
+    "zrtj_bg_4",
+    "ox7l6h4fv",
+    "zrtj_bg_6",
+    "ox7l6h4fw",
+    "zrtj_bth_1",
+    "siql6h4d6",
+    "mrbz_bg_2",
+    "/Daily/",
+    "siql6h4d7",
+    "mrbz_bg_3",
+    "siql6h4d9",
+    "mrbz_bg_5",
+    "siql6h4da",
+    "mrbz_bg_6",
+    "siql6h4db",
+    "mrbz_bg_7",
+    "siql6h4dd",
+    "mrbz_ic_wcg",
+    "aban0",
+    "TaskCenter_Window",
+    "/",
+    "TaskType",
+    "0",
+    "1",
+    "Branch",
+    "2",
+    "Daily",
+    "3",
+    "OfferReward",
+    "mjc16h4bx",
+    "n39_e0us",
+    "n39",
+    "mjc16h4bw",
+    "n0_aban",
+    "n0",
+    "e0us6h4bb",
+    "n41_e0us",
+    "taskOfferReward",
+    "ttqx6h2rh",
+    "n19_ttqx",
+    "n19",
+    "ttqx6h2s5",
+    "n31_ttqx",
+    "n31",
+    "rev56h4dy",
+    "n45_rev5",
+    "newMainTaskItem",
+    "e0us6h4b9",
+    "n40_e0us",
+    "mainTaskItem",
+    "ttqx6h2ry",
+    "n28_ttqx",
+    "n28",
+    "e0us6h4bd",
+    "n42_e0us",
+    "taskDaily",
+    "rev56h4dz",
+    "n46_rev5",
+    "newTaskBranch",
+    "e0us6h4bi",
+    "n43_e0us",
+    "taskBranch",
+    "n3_aban",
+    "list_tab",
+    "ui://0r3jopljttqx6h4ap",
+    "主线任务",
+    "支线任务",
+    "日常任务",
+    "悬赏任务",
+    "8yc42",
+    "n1_aban",
+    "wnd",
+    "aban1",
+    "TaskTreeItem",
+    "button",
+    "up",
+    "down",
+    "over",
+    "selectedOver",
+    "expanded",
+    "None",
+    "expland",
+    "State",
+    "Normal",
+    "Receive",
+    "Received",
+    "SelectState",
+    "Select",
+    "n22_ttqx",
+    "icon_changebg",
+    "ui://0r3jopljttqx6h2rn",
+    "n21_ttqx",
+    "icon_chapter1",
+    "ui://0r3jopljttqx6h2sa",
+    "icon_chapter2",
+    "ui://0r3jopljttqx6h2s9",
+    "aban2",
+    "n12_jqb0",
+    "btn_expand",
+    "n4",
+    "ui://ufgirfkmh1wsh263",
+    "n3",
+    "ui://ufgirfkmh1wsh263",
+    "n13_ndks",
+    "icon_box",
+    "ui://0r3jopljttqx6h2rs",
+    "ui://0r3jopljttqx6h2rt",
+    "n18_rhl1",
+    "img_click",
+    "k36z6h4e8",
+    "n29_n3pe",
+    "n29",
+    "e0us6h4c8",
+    "n20_ttqx",
+    "n20",
+    "n15_r1ej",
+    "NumText",
+    "<font color={color1=#FF0000}>{count=22}</font> / <font color={color2=#ffffff}>{totalCount=500}</font>",
+    "n23_ttqx",
+    "lb_tpro",
+    "进度",
+    "n2",
+    "title",
+    "第一章 对话任务",
+    "n26_ttqx",
+    "lb_pro",
+    "ui://ufgirfkmttqx6h4bq",
+    "100%",
+    "aban6h2pl",
+    "n30_dkrc",
+    "n30",
+    "TreeExpandButton",
+    "n4_fhsc",
+    "ui://ufgirfkmh1wsh263",
+    "n3_fhsc",
+    "aban5",
+    "TaskChildTreeItem",
+    "none",
+    "NoSelect",
+    "TaskState",
+    "Compeleted",
+    "Doing",
+    "n6",
+    "icon",
+    "ui://0r3jopljttqx6h2s0",
+    "ui://0r3jopljttqx6h2rz",
+    "第一章 对话任务",
+    "n16_aban",
+    "lb_state",
+    "进行中",
+    "ttqx6h2s1",
+    "ttqx6h2s2",
+    "n21",
+    "btgf1lyosz9",
+    "ResourceRecoveryCom",
+    "/ResourceRecovery/",
+    "noRecovery",
+    "haveRecovery",
+    "oexw1lyoszh",
+    "n14_oexw",
+    "n14",
+    "n3_ldf7",
+    "lb_noResource",
+    "暂无可找回资源",
+    "n4_ldf7",
+    "img_banner",
+    "ui://0r3jopljoexw1lyoszj",
+    "oexw1lyoszk",
+    "n13_oexw",
+    "n13",
+    "n5_ldf7",
+    "lb_tite",
+    "离线资源，直接找回！！！",
+    "n6_ldf7",
+    "lb_tip",
+    "最多可以找回",
+    "9ltv1lyothg",
+    "n7_ldf7",
+    "n7",
+    "n8_ldf7",
+    "list_recovery",
+    "ui://0r3jopljldf71lyoszc",
+    "eeo81lyorlw",
+    "n9_ldf7",
+    "btn_1TapReceive",
+    "一键找回",
+    "ui://ufgirfkmpsobh23t",
+    "n12_ux1h",
+    "list_needItems",
+    "ui://0r3jopljux1h1lyoszd",
+    "e0us6h4b4",
+    "TaskOfferRewardItem",
+    "DifficultyLevel",
+    "Low",
+    "Medium",
+    "High",
+    "Selected",
+    "icon_bg",
+    "ui://0r3joplje0us6h4b5",
+    "e0us6h4b8",
+    "n31_e0us",
+    "lb_name",
+    "击败莫妮卡败莫妮卡败莫妮卡败莫妮卡",
+    "【29号地区】",
+    "n32_e0us",
+    "list_star",
+    "ui://ufgirfkmkzec6h2vh",
+    "n34_e0us",
+    "n34",
+    "TaskMain",
+    "LevelLimit",
+    "aban6h2pk",
+    "n34_ttqx",
+    "mjc16h4at",
+    "n33_ttqx",
+    "n33",
+    "ttqx6h4bd",
+    "n29_ttqx",
+    "mjc16h4as",
+    "n30_ttqx",
+    "ttqx6h4bt",
+    "n18_ttqx",
+    "n18",
+    "n38_mjc1",
+    "icon_type",
+    "ui://0r3jopljmjc16h4aw",
+    "ui://0r3joplje0us6h4ay",
+    "ui://0r3joplje0us6h4b0",
+    "ui://0r3jopljmjc16h4ax",
+    "psobw",
+    "n13_aban",
+    "btn_go",
+    "front",
+    "前往",
+    "ui://ufgirfkmaban6h2pp",
+    "ttqx6h2rf",
+    "n17_ttqx",
+    "n17",
+    "n39_mut5",
+    "n15_aban",
+    "childTreeItem",
+    "treeItem",
+    "n4_aban",
+    "list_task",
+    "ui://ufgirfkmttqx6h4az",
+    "ui://0r3jopljaban1",
+    "n35_mjc1",
+    "list_desc",
+    "ui://0r3jopljmjc16h4aq",
+    "n14_aban",
+    "list_reward",
+    "ui://ufgirfkmewfrh22n",
+    "n5_aban",
+    "lb_tasktype",
+    "【主线】",
+    "n6_aban",
+    "任务名称111",
+    "n7_aban",
+    "lb_desc",
+    "任务描述111111111111",
+    "n10_aban",
+    "lb_lock",
+    "解锁等级：",
+    "n12_aban",
+    "lb_reward",
+    "任务奖励",
+    "n9_aban",
+    "lb_taskNum",
+    "(<font color={color1=#FD4A4A}>{count=22}</font> / <font color={color2=#266086}>{totalCount=500}</font>)",
+    "n11_aban",
+    "lb_locklevel",
+    "<font color={color1=#FD4A4A}>{count=22}</font>/<font color={color2=#266086}>{totalCount=500}</font>",
+    "TaskOfferReward",
+    "ShowState",
+    "Show",
+    "Hide",
+    "ui://0r3joplje0us6h4b4",
+    "【悬赏】",
+    "任务名称111",
+    "解锁等级：",
+    "<font color={color1=#FD4A4A}>{count=22}</font> / <font color={color2=#266086}>{totalCount=500}</font>",
+    "任务奖励",
+    "前往",
+    "lb_time",
+    "剩余时间:222222222",
+    "n40_sos8",
+    "TaskDaily",
+    "BoxState",
+    "e0us6h4be",
+    "e0us6h4bf",
+    "n40",
+    "e0us6h4d8",
+    "n49_e0us",
+    "n49",
+    "n50_e0us",
+    "n50",
+    "n52_mut5",
+    "n52",
+    "e0us6h4c5",
+    "btn_sort",
+    "普通",
+    "对战",
+    "稀有",
+    "家园",
+    "全部",
+    "n45_e0us",
+    "n46_e0us",
+    "ui://ufgirfkmxkkzh25r",
+    "btn_box",
+    "ui://cyrayt3httqx6h2qi",
+    "ui://cyrayt3httqx6h2qj",
+    "ui://cyrayt3httqx6h2qh",
+    "n47_e0us",
+    "list_daily",
+    "ui://ufgirfkme0us6h4bh",
+    "n48_e0us",
+    "lb_reset",
+    "每天24点重置日常任务",
+    "日常任务奖励",
+    "每日完成10个任务即可领取额外奖励",
+    "(<font color={color1=#FD4A4A}>{count=22}</font>/<font color={color2=#266086}>{totalCount=500}</font>)",
+    "n51_eoyk",
+    "effect",
+    "TaskBranch",
+    "【支线】",
+    "任务名称111",
+    "任务描述111111111111",
+    "(<font color={color1=#FD4A4A}>{count=22}</font>/<font color={color2=#266086}>{totalCount=500}</font>)",
+    "解锁等级：",
+    "<font color={color1=#FD4A4A}>{count=22}</font>/<font color={color2=#266086}>{totalCount=500}</font>",
+    "任务奖励",
+    "前往",
+    "e0us6h4bk",
+    "TaskAchievement_Window",
+    "n44_e0us",
+    "n44",
+    "n45",
+    "ttqx6h2qz",
+    "n53_e0us",
+    "n53",
+    "n46",
+    "ttqx6h2qx",
+    "n51_e0us",
+    "n51",
+    "ttqx6h2qy",
+    "n52_e0us",
+    "row4x",
+    "pro_value",
+    "list_box",
+    "ui://ufgirfkmrhl14",
+    "n57_e0us",
+    "ui://0r3joplje0us6h4cf",
+    "n56_e0us",
+    "ui://0r3joplje0us6h4c8",
+    "e0us6h4bl",
+    "n55_e0us",
+    "n55",
+    "n58_e0us",
+    "list_achievement",
+    "rhl14",
+    "n59_e0us",
+    "boxItem",
+    "n60_e0us",
+    "lb_chaptername",
+    "精灵成就",
+    "lb_reward1",
+    "累积成就数量奖励：",
+    "e0us6h4cf",
+    "AchievementItem",
+    "n2_e0us",
+    "ui://0r3joplje0us6h4bq",
+    "n3_e0us",
+    "ttqx6h4bs",
+    "n6_e0us",
+    "n7_e0us",
+    "pro_star",
+    "n8_e0us",
+    "10/30",
+    "n4_e0us",
+    "精灵成就",
+    "n1_e0us",
+    "n1",
+    "h1wsh268",
+    "n9_k36z",
+    "RedDot",
+    "iiws6h4en",
+    "FunctionPreviewCom",
+    "/FunctionPreview/",
+    "n1_iiws",
+    "n2_iiws",
+    "list",
+    "ui://0r3jopljiiws6h4fh",
+    "iiws6h4fh",
+    "FunctionPreviewItem",
+    "n8_noci",
+    "n8",
+    "n0_iiws",
+    "icon_function",
+    "ui://cyrayt3hv6xa6h55q",
+    "n3_iiws",
+    "n5_iiws",
+    "lb_open",
+    "100级开启456145361641561361213231",
+    "n6_iiws",
+    "panel",
+    "color",
+    "5",
+    "n4_iiws",
+    "btn_receive",
+    "领取",
+    "n9_zqel",
+    "领取",
+    "ui://ufgirfkmaban6h2po",
+    "n7_iiws",
+    "lb_title",
+    "扭蛋机扭蛋机扭蛋机",
+    "ir001lyosz4",
+    "LineUpRecommended_Window",
+    "siql6h4d5",
+    "n65_siql",
+    "n65",
+    "n56_uyve",
+    "n56",
+    "n71_ir00",
+    "n71",
+    "ui://0r3jopljsiql6h4df",
+    "每日活跃",
+    "明信片",
+    "宝可梦",
+    "n72_ir00",
+    "list_recommand",
+    "ui://0r3jopljox7l6h4fl",
+    "jdv66h4em",
+    "TaskMultiplePayment_MiniWindow",
+    "eqxp6h4fd",
+    "n9_rxrg",
+    "bg",
+    "BigSize",
+    "8",
+    "e0us6h4ch",
+    "n10_mfdn",
+    "n10",
+    "e8ln6h4gi",
+    "n11_mfdn",
+    "n11",
+    "n1_rhl1",
+    "btn_pay",
+    "交付",
+    "n2_rhl1",
+    "btn_get",
+    "去获取",
+    "n6_rhl1",
+    "lb_paynum",
+    "精灵名(2/9)",
+    "n7_rhl1",
+    "ui://ufgirfkmn979h287",
+    "k36z6h4ch",
+    "DailyActive_Window",
+    "model",
+    "DailyTask",
+    "Calendar",
+    "FunctionPreview",
+    "LineUpRecommended",
+    "4",
+    "ResourceRecovery",
+    "ShowFound",
+    "no",
+    "yes",
+    "n58_uyve",
+    "n58",
+    "n66_siql",
+    "n66",
+    "n44_k36z",
+    "ui://0r3jopljk36z6h4ci",
+    "n51_k36z",
+    "uyve6h4cx",
+    "n45_k36z",
+    "reward_icon",
+    "n52_k36z",
+    "n53_k36z",
+    "n46_k36z",
+    "每日活跃进度(<font color={color1=#C4E3FF}>{count=10}</font>/<font color={color2=#C4E3FF}>{totalCount=10}</font>)",
+    "n47_k36z",
+    "lb_pro11",
+    "(<font color={color1=#C4E3FF}>{count=10}</font>/<font color={color2=#C4E3FF}>{totalCount=10}</font>)",
+    "n48_k36z",
+    "每日0点重置重置重置置重重置重置重置置重重置重置重置置重",
+    "n72_x9ur",
+    "btn_fund",
+    "LabPos",
+    "ui://c6iwlr2rn0bj1lyoron",
+    "n73_uqiy",
+    "lb_foundName",
+    "n67_ovq6",
+    "n67",
+    "ovq66h4ea",
+    "n68_ovq6",
+    "calendarPanel",
+    "n69_iiws",
+    "functionPreviewPanel",
+    "ox7l6h4fk",
+    "n70_ox7l",
+    "lineUpRecommended",
+    "n71_10iog",
+    "resourceRecoverry",
+    "每日活跃",
+    "明信片",
+    "宝可梦",
+    "资源找回",
+    "k36z6h4ci",
+    "DailyActiveItem",
+    "Goto",
+    "Recevied",
+    "OpenTime",
+    "Limit",
+    "Recommon",
+    "n13_siql",
+    "n0_k36z",
+    "ui://0r3jopljsiql6h4d3",
+    "n15_siql",
+    "n15",
+    "n12_k36z",
+    "n12",
+    "n18_siql",
+    "n20_siql",
+    "n5_k36z",
+    "n14_siql",
+    "siql6h2ty",
+    "n6_k36z",
+    "ui://cyrayt3huv5m6h2vz",
+    "ui://cyrayt3hw5i86h4la",
+    "ui://cyrayt3httqx6h4b0",
+    "领取",
+    "n2_k36z",
+    "训练师挑战",
+    "n3_k36z",
+    "任务描述6666(<font color={color1=#000000}>{count=10}</font>/<font color={color2=#000000}>{totalCount=10}</font>)",
+    "n4_k36z",
+    "lb_pro1",
+    "(<font color={color1=#000000}>{count=10}</font>/<font color={color2=#000000}>{totalCount=10}</font>)",
+    "lb_timeTitle",
+    "开启倒计时启倒计时启倒计时倒计时启倒计时",
+    "n10_k36z",
+    "3天5小时",
+    "n19_siql",
+    "lb_type",
+    "限时",
+    "ldf71lyoszc",
+    "ResourceRecoveryComItem",
+    "Price",
+    "free",
+    "items",
+    "oexw1lyoszi",
+    "n7_oexw",
+    "oexw1lyoszm",
+    "n8_oexw",
+    "n0_ldf7",
+    "n1_ldf7",
+    "免费找回",
+    "免费找回",
+    "n2_ldf7",
+    "lb_taskName",
+    "任务名称多个字111111111111111111111111",
+    "lb_needItemNum",
+    "找回",
+    "ux1h1lyoszd",
+    "n6_ux1h",
+    "needItemCom",
+    "mjc16h4aq",
+    "TaskItem",
+    "Compelete",
+    "NoCompelete",
+    "n0_ttqx",
+    "任务描述111111111111(<font color={color1=#FD4A4A}>{count=22}</font>/<font color={color2=#266086}>{totalCount=500}</font>)",
+    "n1_ttqx",
+    "lb_taskNum11",
+    "(<font color={color1=#FD4A4A}>{count=22}</font>/<font color={color2=#266086}>{totalCount=500}</font>)",
+    "n2_mjc1",
+    "ui://ufgirfkme0us6h4c8",
+    "ui://0r3jopljmjc16h4av",
+    "DailyCalendarCom",
+    "/Calendar/",
+    "weekDay",
+    "6",
+    "Sunday",
+    "Monday ",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday",
+    "n0_ovq6",
+    "n1_ovq6",
+    "ovq66h4eb",
+    "n20_ovq6",
+    "listCom",
+    "n2_ovq6",
+    "n3_ovq6",
+    "n4_ovq6",
+    "n5_ovq6",
+    "n5",
+    "n6_ovq6",
+    "n7_ovq6",
+    "n8_ovq6",
+    "n10_ovq6",
+    "n11_ovq6",
+    "lb_Monday",
+    "星期二",
+    "n12_ovq6",
+    "lb_Tuesday",
+    "星期二",
+    "n13_ovq6",
+    "lb_Wednesday",
+    "星期二",
+    "n14_ovq6",
+    "lb_Thursday",
+    "星期二",
+    "n15_ovq6",
+    "lb_Friday",
+    "星期二",
+    "n16_ovq6",
+    "lb_Saturday",
+    "星期二",
+    "n17_ovq6",
+    "lb_Sunday",
+    "星期二",
+    "n19_ovq6",
+    "lb_des",
+    "功能",
+    "DailyCalendarListCom",
+    "n22_q463",
+    "n22",
+    "n23_q463",
+    "n23",
+    "n24_q463",
+    "n24",
+    "n21_ovq6",
+    "ui://0r3jopljovq66h4ec",
+    "ovq66h4ec",
+    "DailyCalendarListItem",
+    "openModel",
+    "uslock",
+    "n22_ovq6",
+    "n9_ovq6",
+    "ui://0r3jopljovq66h4e1",
+    "跨服天梯",
+    "12:00-15:00<br>20:00-23:00",
+    "12:00-15:00<br>20:00-23:00",
+    "12:00-15:00<br>20:00-23:00",
+    "12:00-15:00<br>20:00-23:00",
+    "12:00-15:00<br>20:00-23:00",
+    "12:00-15:00<br>20:00-23:00",
+    "12:00-15:00<br>20:00-23:00",
+    "开启中",
+    "n28_q463",
+    "btn_state",
+    "n23_ovq6",
+    "n24_ovq6",
+    "ox7l1lyoswi",
+    "LineUpEudemon",
+    "/LineUpRecommended/",
+    "quality",
+    "quality1",
+    "quality2",
+    "quality3",
+    "quality4",
+    "quality5",
+    "quality6",
+    "n1_uv5m",
+    "ui://ufgirfkmuv5m6h2vv",
+    "ui://ufgirfkmuv5m6h2vu",
+    "ui://ufgirfkmuv5m6h2vs",
+    "ui://ufgirfkmuv5m6h2vr",
+    "ui://ufgirfkmk15v1tcvsh2",
+    "ui://ufgirfkmuv5m6h2vt",
+    "n6_uv5m",
+    "ui://oztdjss0uv5m6h2w0",
+    "ui://oztdjss0uv5m6h2vq",
+    "ui://oztdjss0uv5m6h2vo",
+    "ui://oztdjss0uv5m6h2vn",
+    "lagc8c",
+    "n2_uv5m",
+    "qua",
+    "c1",
+    "n8_uv5m",
+    "io1q6h2tq",
+    "n3_uv5m",
+    "type1",
+    "n4_uv5m",
+    "type2",
+    "n7_uv5m",
+    "name",
+    "巨钳螳螂",
+    "n9_uv5m",
+    "eudemonIcon",
+    "fmg56h50z",
+    "n11_ox7l",
+    "flashItem",
+    "n12_ox7l",
+    "flashPanel",
+    "n13_eulz",
+    "img_flash",
+    "ui://cyrayt3hv6xa6h54a",
+    "ox7l1lyosz1",
+    "PropLableItem",
+    "ColorType",
+    "White",
+    "n80_i9zd",
+    "lb_prop_name",
+    "攻擊努力值[color=#00cc33]+100[/color]",
+    "n81_i9zd",
+    "lb_prop_val",
+    "89",
+    "n82_i9zd",
+    "lb_prop_add",
+    "999",
+    "ox7l1lyosz3",
+    "EudemonHeldItemBtn",
+    "quality0",
+    "26",
+    "n101_g47n",
+    "img_quality",
+    "ui://ufgirfkmi3m66h4jh",
+    "ui://ufgirfkmi3m66h4jg",
+    "ui://ufgirfkmi3m66h4ji",
+    "ui://ufgirfkmi3m66h4jf",
+    "ui://ufgirfkmk15v1tcvsh8",
+    "ui://ufgirfkmp0l36h4i7",
+    "n113_i3m6",
+    "img_icon",
+    "ui://cyrayt3hmti7h24n",
+    "LineUpRecommendedCom",
+    "ox7l6h4fl",
+    "LineUpRecommendedComItem",
+    "NoReceive",
+    "n7_ox7l",
+    "ui://0r3jopljox7l6h4fq",
+    "n8_ox7l",
+    "n9_eulz",
+    "icon_click",
+    "n0_ox7l",
+    "list_eudemon",
+    "ui://0r3jopljox7l1lyoswi",
+    "n1_ox7l",
+    "新手推荐",
+    "ultg6h2tz",
+    "n2_ox7l",
+    "btn_reward",
+    "n3_ox7l",
+    "btn_find",
+    "查找",
+    "ui://0r3jopljox7l6h4fw",
+    "n5_ox7l",
+    "ox7l6h4fm",
+    "LineUpRecommendedComDetail",
+    "ShowSkillInfo",
+    "n21_ox7l",
+    "n25_ox7l",
+    "n25",
+    "n26_ox7l",
+    "n26",
+    "n27_ox7l",
+    "n27",
+    "n28_ox7l",
+    "n37_ox7l",
+    "n37",
+    "n38_ox7l",
+    "n38",
+    "se4ph26g",
+    "Model",
+    "list_prop",
+    "ui://0r3jopljox7l1lyosz1",
+    "lab_naturedesc",
+    "冷静",
+    "lab_ability",
+    "暂无",
+    "n18_ox7l",
+    "list_held",
+    "ui://0r3jopljox7l1lyosz3",
+    "n22_ox7l",
+    "eudeminItem",
+    "n35_ox7l",
+    "n36_ox7l",
+    "n23_ox7l",
+    "n29_ox7l",
+    "lb_texing",
+    "特性:",
+    "n30_ox7l",
+    "lb_shuxing",
+    "属性:",
+    "n31_ox7l",
+    "lb_xingge",
+    "性格:性格:",
+    "n32_ox7l",
+    "lb_xiedai",
+    "携带:",
+    "n33_ox7l",
+    "lb_nuli",
+    "努力值:",
+    "n34_ox7l",
+    "lb_skill",
+    "技能推荐：",
+    "小火龙",
+    "gz141lyos4e",
+    "n39_ox7l",
+    "skillInfo",
+    "n40_ox7l",
+    "selectSkill",
+    "n16_ox7l",
+    "list_skill",
+    "ui://ufgirfkmox7l1lyosz2",
+    "ox7l6h4fn",
+    "LineUpRecommendedDetail_MiniWindow",
+    "nm0oh265",
+    "close_mask",
+    "list_detail",
+    "ui://0r3jopljox7l6h4fm",
+    "lb_close",
+    "点击空白区域返回",
+    "rev56h4dw",
+    "NewTaskTreeItem",
+    "<font color={color1=#FF0000}>{count=22}</font> / <font color={color2=#ffffff}>{totalCount=500}</font>",
+    "进度",
+    "第一章 对话任务",
+    "100%",
+    "n32_rev5",
+    "ui://0r3jopljrev56h4dx",
+    "rev56h4dx",
+    "n33_rev5",
+    "NewTaskChildTreeItem",
+    "第一章 对话任务",
+    "进行中进行中",
+    "NewTaskMain",
+    "前往",
+    "ui://0r3jopljrev56h4dw",
+    "【主线】",
+    "任务名称111",
+    "任务描述111111111111任务描述111111111111任务描述111111111111任务描述111111111111",
+    "解锁等级：",
+    "任务奖励",
+    "(<font color={color1=#FD4A4A}>{count=22}</font> / <font color={color2=#266086}>{totalCount=500}</font>)",
+    "<font color={color1=#FD4A4A}>{count=22}</font>/<font color={color2=#266086}>{totalCount=500}</font>",
+    "NewTaskBranch",
+    "【支线】",
+    "任务名称111",
+    "任务描述111111111111任务描述111111111111任务描述111111111111任务描述111111111111",
+    "(<font color={color1=#FD4A4A}>{count=22}</font>/<font color={color2=#266086}>{totalCount=500}</font>)",
+    "解锁等级：",
+    "<font color={color1=#FD4A4A}>{count=22}</font>/<font color={color2=#266086}>{totalCount=500}</font>",
+    "任务奖励",
+    "前往",
+    "rhl16",
+    "TaskPayment_MiniWindow",
+    "noGet",
+    "交付",
+    "去获取",
+    "n5_rhl1",
+    "lb_pay",
+    "交付委托精灵：",
+    "精灵名(2/9)",
+    "n12_b52y",
+    "lb_center",
+    "n13_nyq1",
+    "btn_select",
+    "添加",
+    "rhl16h2r7",
+    "TaskReward",
+    "itemList",
+    "bigIcon",
+    "c2",
+    "showCloseTip",
+    "showBtn",
+    "c3",
+    "noTips",
+    "tips",
+    "ui://ufgirfkmcbjo6h4lm",
+    "lagc6h289",
+    "n1_h1ws",
+    "任务完成",
+    "n32_eoyk",
+    "n5_h1ws",
+    "点击任意区域关闭",
+    "n3_h1ws",
+    "n19_kijk",
+    "ItemIcon",
+    "ui://cyrayt3hmti7h24t",
+    "kijk6h264",
+    "n20_kijk",
+    "n21_kijk",
+    "lb_tips",
+    "称号时效：72小时",
+    "n23_kijk",
+    "Tips",
+    "n24_kijk",
+    "btn_action",
+    "穿戴",
+    "n26_bw9g",
+    "n27_rhl1",
+    "lb_titlereward",
+    "任务奖励",
+    "n29_rhl1",
+    "lb_taskType",
+    "ui://ufgirfkmqz27h255",
+    "完成【悬赏任务[color=#ffffff] [/color]】:与真心镇npc对话",
+    "rhl16h2r8",
+    "TaskReward_MiniWindow",
+    "n18_kijk",
+    "btn_close",
+    "gauw6",
+    "poolObj",
+    "siql6h4df",
+    "DailyActiveTabItem",
+    "openModle",
+    "i3m66h4j8",
+    "n0_siql",
+    "i3m66h4j7",
+    "n3_siql",
+    "n4_siql",
+    "每日活跃每日活跃每日活跃",
+    "n5_siql",
+    "n6_q463",
+    "n7_q463",
+    "活动进行中",
+    "ttqx6h4ap",
+    "TaskTabItem",
+    "n4_psob",
+    "ui://ufgirfkmttqx6h4b5",
+    "ui://ufgirfkmttqx6h4b1",
+    "ui://ufgirfkmttqx6h4b3",
+    "ui://ufgirfkmttqx6h4b2",
+    "ui://ufgirfkmttqx6h4b4",
+    "n2_psob",
+    "主线任务",
+    "RRNeedItem",
+    "n0_ux1h",
+    "X500",
+    "n1_ux1h",
+    "e0us6h4ay",
+    "rw_daily",
+    "/Images/",
+    "e0us6h4b0",
+    "rw_challenges",
+    "e0us6h4b5",
+    "rw_bg_xs1",
+    "e0us6h4b6",
+    "rw_bg_xs2",
+    "e0us6h4b7",
+    "rw_bg_xs3",
+    "OfficeReward1",
+    "rw_bg6",
+    "/Achievement/",
+    "e0us6h4bq",
+    "rw_bg_cj1",
+    "e0us6h4br",
+    "rw_bg_cj2",
+    "e0us6h4bs",
+    "rw_bg_cj3",
+    "e0us6h4bt",
+    "rw_bg_cj4",
+    "e0us6h4bu",
+    "rw_bg_cj5",
+    "e0us6h4bv",
+    "rw_bg_cj6",
+    "e0us6h4bw",
+    "rw_bg_cj7",
+    "rw_cjicon1",
+    "e0us6h4c9",
+    "rw_cjicon2",
+    "e0us6h4ca",
+    "rw_cjicon3",
+    "e0us6h4cb",
+    "rw_cjicon4",
+    "e0us6h4cc",
+    "rw_cjicon5",
+    "e0us6h4cd",
+    "rw_cjicon6",
+    "e0us6h4ce",
+    "rw_cjicon7",
+    "e8eh6h4dh",
+    "mrbz_banner_10",
+    "e8eh6h4di",
+    "mrbz_banner_11",
+    "e8eh6h4dj",
+    "mrbz_banner_12",
+    "e8eh6h4dk",
+    "mrbz_banner_13",
+    "e8eh6h4dl",
+    "mrbz_banner_14",
+    "e8eh6h4dm",
+    "mrbz_banner_15",
+    "e8eh6h4dn",
+    "mrbz_banner_16",
+    "e8eh6h4do",
+    "mrbz_banner_17",
+    "e8eh6h4dp",
+    "mrbz_banner_3",
+    "e8eh6h4dq",
+    "mrbz_banner_4",
+    "e8eh6h4dr",
+    "mrbz_banner_5",
+    "e8eh6h4ds",
+    "mrbz_banner_6",
+    "e8eh6h4dt",
+    "mrbz_banner_7",
+    "e8eh6h4du",
+    "mrbz_banner_8",
+    "e8eh6h4dv",
+    "mrbz_banner_9",
+    "l4vm6h4ek",
+    "hdri_icon_07",
+    "l4vm6h4el",
+    "hdri_icon_08",
+    "mjc16h4av",
+    "rw_t1",
+    "mjc16h4aw",
+    "rw_free",
+    "mjc16h4ax",
+    "rw_story",
+    "zuzh_di_1",
+    "zuzh_di_2",
+    "oexw1lyoszj",
+    "Dr_Damu",
+    "wsj_lsp_k",
+    "xsnz_di_7",
+    "ovq66h4e1",
+    "hdri_icon_01",
+    "ox7l6h4fq",
+    "zrtj_bg_1",
+    "ox7l6h4fr",
+    "zrtj_bg_2",
+    "phf56h4ef",
+    "hdri_icon_02",
+    "phf56h4eg",
+    "hdri_icon_03",
+    "phf56h4eh",
+    "hdri_icon_04",
+    "phf56h4ei",
+    "hdri_icon_05",
+    "phf56h4ej",
+    "hdri_icon_06",
+    "siql6h4d3",
+    "mrbz_banner_1",
+    "siql6h4d4",
+    "mrbz_banner_2",
+    "mrbz_bg_1",
+    "rw_icrwxx",
+    "ttqx6h2rn",
+    "rw_bg_zj1",
+    "ttqx6h2ro",
+    "rw_bg_zj2",
+    "ttqx6h2rp",
+    "rw_bg_zj3",
+    "ttqx6h2rq",
+    "rw_bg_zj4",
+    "ttqx6h2rr",
+    "rw_bg_zj5",
+    "ttqx6h2rs",
+    "rw_icball1",
+    "ttqx6h2rt",
+    "rw_icball2",
+    "ttqx6h2rv",
+    "ch1",
+    "ttqx6h2rw",
+    "ch2",
+    "ttqx6h2rx",
+    "ch3",
+    "rw_bg15",
+    "ttqx6h2rz",
+    "rw_bg19",
+    "ttqx6h2s0",
+    "rw_bg20",
+    "rw_icflag",
+    "rw_icxz1",
+    "rw_bg3",
+    "ttqx6h2s9",
+    "ch1_1",
+    "ttqx6h2sa",
+    "ch1_2",
+    "ttqx6h2sb",
+    "ch2_1",
+    "ttqx6h2sc",
+    "ch2_2",
+    "ttqx6h2sd",
+    "ch3_1",
+    "ttqx6h2se",
+    "ch3_2",
+    "uyve6h4cu",
+    "mrbz_bg_9",
+    "mrbz_ic_lw",
+    "uyve6h4d0",
+    "mrbz_bg_10",
+    "atlas0",
+    "atlas0.png",
+    "atlas1",
+    "atlas1.png",
+    "atlas2",
+    "atlas2.png",
+    "atlas_siql6h4d5",
+    "atlas_siql6h4d5.png",
+    "atlas3",
+    "atlas3.png",
+    "atlas6",
+    "atlas6.png",
+    "atlas7",
+    "atlas7.png",
+    "atlas_noci6h4fj",
+    "atlas_noci6h4fj.png"
+  ]
+}

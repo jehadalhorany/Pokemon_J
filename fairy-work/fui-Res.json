@@ -1,0 +1,146 @@
+{
+  "items": [
+    {
+      "type": 0,
+      "id": "og5t3",
+      "name": "bg_Progressbar",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        62,
+        39
+      ]
+    },
+    {
+      "type": 0,
+      "id": "og5t4",
+      "name": "bg_Progressbar_1",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        62,
+        39
+      ]
+    },
+    {
+      "type": 0,
+      "id": "og5t5",
+      "name": "bg_Progressbar_0",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        62,
+        39
+      ]
+    },
+    {
+      "type": 3,
+      "id": "og5t0",
+      "name": "Res_MiniWindow",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "og5t2",
+      "name": "LoadPro",
+      "path": "/",
+      "file": null,
+      "size": [
+        91,
+        98
+      ],
+      "extension": 14
+    },
+    {
+      "type": 4,
+      "id": "atlas0",
+      "name": null,
+      "path": null,
+      "file": "atlas0.png",
+      "size": [
+        128,
+        64
+      ]
+    }
+  ],
+  "sprites": [
+    {
+      "id": "og5t3",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        0,
+        39,
+        62
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "og5t4",
+      "atlas": "atlas0",
+      "rect": [
+        41,
+        0,
+        39,
+        62
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "og5t5",
+      "atlas": "atlas0",
+      "rect": [
+        82,
+        0,
+        39,
+        62
+      ],
+      "rotated": 1
+    }
+  ],
+  "strings": [
+    "og5t3",
+    "bg_Progressbar",
+    "/Image/",
+    "og5t4",
+    "bg_Progressbar_1",
+    "og5t5",
+    "bg_Progressbar_0",
+    "og5t0",
+    "Res_MiniWindow",
+    "/",
+    "n8_i2ky",
+    "n8",
+    "og5t2",
+    "n0_mvan",
+    "bar",
+    "Title",
+    "1",
+    "n4_eoyk",
+    "lb_load",
+    "正在为您加载游戏，请耐心等候",
+    "n9_fa2i",
+    "lb_load1",
+    "30/100",
+    "LoadPro",
+    "0",
+    "show",
+    "hide",
+    "n5_h1ws",
+    "n5",
+    "n3_j0o0",
+    "n2_j0o0",
+    "n2",
+    "n4_j0o0",
+    "title",
+    "100%",
+    "atlas0",
+    "atlas0.png"
+  ]
+}

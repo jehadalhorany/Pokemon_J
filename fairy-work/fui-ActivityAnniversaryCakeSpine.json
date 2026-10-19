@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "type": 9,
+      "id": "wio00",
+      "name": "spine_twoyears",
+      "path": "/",
+      "file": "spine_twoyears.json",
+      "size": [
+        2278,
+        1076
+      ]
+    }
+  ],
+  "sprites": [],
+  "strings": [
+    "wio00",
+    "spine_twoyears",
+    "/",
+    "spine_twoyears.json"
+  ]
+}

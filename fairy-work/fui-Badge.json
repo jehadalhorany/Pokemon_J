@@ -1,0 +1,1233 @@
+{
+  "items": [
+    {
+      "type": 0,
+      "id": "kkiy13",
+      "name": "hzg_bg_10",
+      "path": "/New/",
+      "file": null,
+      "size": [
+        139,
+        139
+      ]
+    },
+    {
+      "type": 0,
+      "id": "kkiy14",
+      "name": "hzg_bg_11",
+      "path": "/New/",
+      "file": null,
+      "size": [
+        121,
+        121
+      ]
+    },
+    {
+      "type": 0,
+      "id": "kkiy15",
+      "name": "hzg_bth_1",
+      "path": "/New/",
+      "file": null,
+      "size": [
+        121,
+        92
+      ]
+    },
+    {
+      "type": 0,
+      "id": "kkiy16",
+      "name": "hzg_bth_2",
+      "path": "/New/",
+      "file": null,
+      "size": [
+        121,
+        92
+      ]
+    },
+    {
+      "type": 0,
+      "id": "lder1b",
+      "name": "hzg_bg2",
+      "path": "/New/",
+      "file": null,
+      "size": [
+        16,
+        1080
+      ]
+    },
+    {
+      "type": 0,
+      "id": "lder1c",
+      "name": "hzg_bg",
+      "path": "/New/",
+      "file": null,
+      "size": [
+        1806,
+        876
+      ]
+    },
+    {
+      "type": 0,
+      "id": "n1a88",
+      "name": "hz_ic_lock",
+      "path": "/New/",
+      "file": null,
+      "size": [
+        30,
+        38
+      ]
+    },
+    {
+      "type": 0,
+      "id": "n1a8c",
+      "name": "hz_bg_14",
+      "path": "/New/",
+      "file": null,
+      "size": [
+        42,
+        42
+      ]
+    },
+    {
+      "type": 0,
+      "id": "n1a8d",
+      "name": "hz_bg_13",
+      "path": "/New/",
+      "file": null,
+      "size": [
+        124,
+        124
+      ]
+    },
+    {
+      "type": 0,
+      "id": "n1a8s",
+      "name": "hz_bg_15",
+      "path": "/New/",
+      "file": null,
+      "size": [
+        131,
+        28
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ok481q",
+      "name": "hz_3D_bg",
+      "path": "/New/",
+      "file": null,
+      "size": [
+        1024,
+        512
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ok481u",
+      "name": "hz_3D_bg2",
+      "path": "/New/",
+      "file": null,
+      "size": [
+        575,
+        70
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ok481w",
+      "name": "hz_3D_bg4",
+      "path": "/New/",
+      "file": null,
+      "size": [
+        80,
+        32
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ok481x",
+      "name": "hz_3D_bg3",
+      "path": "/New/",
+      "file": null,
+      "size": [
+        159,
+        146
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ok481y",
+      "name": "hz_3D_bg5",
+      "path": "/New/",
+      "file": null,
+      "size": [
+        707,
+        970
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ok481z",
+      "name": "sc_qwcz",
+      "path": "/New/",
+      "file": null,
+      "size": [
+        425,
+        147
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ok4820",
+      "name": "hz_3D_G1",
+      "path": "/New/",
+      "file": null,
+      "size": [
+        484,
+        204
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ok4827",
+      "name": "hz_3D_h",
+      "path": "/New/",
+      "file": null,
+      "size": [
+        86,
+        81
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ok4828",
+      "name": "hz_3D_hbg",
+      "path": "/New/",
+      "file": null,
+      "size": [
+        287,
+        146
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ok4829",
+      "name": "hz_3D_lb",
+      "path": "/New/",
+      "file": null,
+      "size": [
+        512,
+        47
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ok482a",
+      "name": "hz_3D_bgclose",
+      "path": "/New/",
+      "file": null,
+      "size": [
+        61,
+        60
+      ]
+    },
+    {
+      "type": 0,
+      "id": "p8s91d",
+      "name": "hz_tips",
+      "path": "/New/",
+      "file": null,
+      "size": [
+        167,
+        44
+      ]
+    },
+    {
+      "type": 0,
+      "id": "p8s91e",
+      "name": "hz_huizhangicon_01",
+      "path": "/New/",
+      "file": null,
+      "size": [
+        95,
+        94
+      ]
+    },
+    {
+      "type": 0,
+      "id": "p8s91g",
+      "name": "hz_jindu_02",
+      "path": "/New/",
+      "file": null,
+      "size": [
+        133,
+        420
+      ]
+    },
+    {
+      "type": 0,
+      "id": "p8s91h",
+      "name": "hz_bg_02",
+      "path": "/New/",
+      "file": null,
+      "size": [
+        80,
+        32
+      ]
+    },
+    {
+      "type": 0,
+      "id": "p8s91i",
+      "name": "hz_jindu_01",
+      "path": "/New/",
+      "file": null,
+      "size": [
+        40,
+        52
+      ]
+    },
+    {
+      "type": 0,
+      "id": "p8s91j",
+      "name": "hz_jindu_02(1)",
+      "path": "/New/",
+      "file": null,
+      "size": [
+        40,
+        52
+      ]
+    },
+    {
+      "type": 0,
+      "id": "p8s91m",
+      "name": "hzg_bx3",
+      "path": "/New/",
+      "file": null,
+      "size": [
+        122,
+        122
+      ]
+    },
+    {
+      "type": 0,
+      "id": "p8s91n",
+      "name": "hzg_bx1",
+      "path": "/New/",
+      "file": null,
+      "size": [
+        122,
+        122
+      ]
+    },
+    {
+      "type": 0,
+      "id": "p8s91o",
+      "name": "hzg_bx2",
+      "path": "/New/",
+      "file": null,
+      "size": [
+        122,
+        122
+      ]
+    },
+    {
+      "type": 3,
+      "id": "aqf70",
+      "name": "Badge_Window",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "aqf71",
+      "name": "BadgeBtn",
+      "path": "/Button/",
+      "file": null,
+      "size": [
+        290,
+        118
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "aqf74",
+      "name": "AttributeItem",
+      "path": "/Item/",
+      "file": null,
+      "size": [
+        250,
+        40
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "aqf75",
+      "name": "badgeItem",
+      "path": "/Item/",
+      "file": null,
+      "size": [
+        133,
+        159
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "ok481r",
+      "name": "BadgeThreeD_Window",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "ok481s",
+      "name": "BadgeGenItem",
+      "path": "/Item/",
+      "file": null,
+      "size": [
+        626,
+        380
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "ok4824",
+      "name": "BadgeCloseBtn",
+      "path": "/Item/",
+      "file": null,
+      "size": [
+        311,
+        146
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "p8s91f",
+      "name": "BadgeAttrBtn",
+      "path": "/",
+      "file": null,
+      "size": [
+        167,
+        44
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "p8s91k",
+      "name": "BadgeProBar",
+      "path": "/Button/",
+      "file": null,
+      "size": [
+        140,
+        52
+      ],
+      "extension": 14
+    },
+    {
+      "type": 3,
+      "id": "p8s91l",
+      "name": "BadgeBoxItem",
+      "path": "/Item/",
+      "file": null,
+      "size": [
+        122,
+        133
+      ],
+      "extension": 12
+    },
+    {
+      "type": 4,
+      "id": "atlas0",
+      "name": null,
+      "path": null,
+      "file": "atlas0.png",
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas_ok481q",
+      "name": null,
+      "path": null,
+      "file": "atlas_ok481q.png",
+      "size": [
+        1024,
+        512
+      ]
+    }
+  ],
+  "sprites": [
+    {
+      "id": "lder1c",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        0,
+        1806,
+        876
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "lder1b",
+      "atlas": "atlas0",
+      "rect": [
+        1808,
+        0,
+        16,
+        1080
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "ok481y",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        1082,
+        970,
+        707
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "ok481u",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        878,
+        575,
+        70
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "ok4829",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        950,
+        512,
+        47
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "ok4820",
+      "atlas": "atlas0",
+      "rect": [
+        1826,
+        0,
+        204,
+        484
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "ok481z",
+      "atlas": "atlas0",
+      "rect": [
+        577,
+        878,
+        425,
+        146
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "p8s91g",
+      "atlas": "atlas0",
+      "rect": [
+        1826,
+        486,
+        133,
+        420
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "ok4828",
+      "atlas": "atlas0",
+      "rect": [
+        1826,
+        908,
+        146,
+        287
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "p8s91d",
+      "atlas": "atlas0",
+      "rect": [
+        1961,
+        486,
+        44,
+        167
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "ok481x",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        1791,
+        146,
+        159
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "kkiy13",
+      "atlas": "atlas0",
+      "rect": [
+        148,
+        1791,
+        139,
+        139
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "n1a8s",
+      "atlas": "atlas0",
+      "rect": [
+        1961,
+        655,
+        28,
+        131
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "n1a8d",
+      "atlas": "atlas0",
+      "rect": [
+        289,
+        1791,
+        124,
+        124
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "p8s91m",
+      "atlas": "atlas0",
+      "rect": [
+        289,
+        1917,
+        120,
+        122
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "kkiy14",
+      "atlas": "atlas0",
+      "rect": [
+        411,
+        1917,
+        121,
+        121
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "kkiy15",
+      "atlas": "atlas0",
+      "rect": [
+        148,
+        1932,
+        121,
+        92
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "kkiy16",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        1952,
+        121,
+        92
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "p8s91o",
+      "atlas": "atlas0",
+      "rect": [
+        415,
+        1791,
+        100,
+        101
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "p8s91e",
+      "atlas": "atlas0",
+      "rect": [
+        517,
+        1791,
+        94,
+        95
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "p8s91n",
+      "atlas": "atlas0",
+      "rect": [
+        534,
+        1888,
+        92,
+        94
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "ok4827",
+      "atlas": "atlas0",
+      "rect": [
+        1961,
+        788,
+        81,
+        86
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "ok481w",
+      "atlas": "atlas0",
+      "rect": [
+        1991,
+        655,
+        32,
+        80
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "p8s91h",
+      "atlas": "atlas0",
+      "rect": [
+        2007,
+        486,
+        32,
+        80
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "ok482a",
+      "atlas": "atlas0",
+      "rect": [
+        514,
+        950,
+        61,
+        60
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "p8s91j",
+      "atlas": "atlas0",
+      "rect": [
+        1991,
+        737,
+        52,
+        40
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "p8s91i",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        1012,
+        40,
+        52
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "n1a8c",
+      "atlas": "atlas0",
+      "rect": [
+        42,
+        1012,
+        42,
+        42
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "n1a88",
+      "atlas": "atlas0",
+      "rect": [
+        1961,
+        876,
+        38,
+        30
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "ok481q",
+      "atlas": "atlas_ok481q",
+      "rect": [
+        0,
+        0,
+        1024,
+        512
+      ],
+      "rotated": 0
+    }
+  ],
+  "strings": [
+    "c1imbcrl",
+    "Base",
+    "ufgirfkm",
+    "Common",
+    "cyrayt3h",
+    "Item",
+    "kkiy13",
+    "hzg_bg_10",
+    "/New/",
+    "kkiy14",
+    "hzg_bg_11",
+    "kkiy15",
+    "hzg_bth_1",
+    "kkiy16",
+    "hzg_bth_2",
+    "lder1b",
+    "hzg_bg2",
+    "lder1c",
+    "hzg_bg",
+    "n1a88",
+    "hz_ic_lock",
+    "n1a8c",
+    "hz_bg_14",
+    "n1a8d",
+    "hz_bg_13",
+    "n1a8s",
+    "hz_bg_15",
+    "ok481q",
+    "hz_3D_bg",
+    "ok481u",
+    "hz_3D_bg2",
+    "ok481w",
+    "hz_3D_bg4",
+    "ok481x",
+    "hz_3D_bg3",
+    "ok481y",
+    "hz_3D_bg5",
+    "ok481z",
+    "sc_qwcz",
+    "ok4820",
+    "hz_3D_G1",
+    "ok4827",
+    "hz_3D_h",
+    "ok4828",
+    "hz_3D_hbg",
+    "ok4829",
+    "hz_3D_lb",
+    "ok482a",
+    "hz_3D_bgclose",
+    "p8s91d",
+    "hz_tips",
+    "p8s91e",
+    "hz_huizhangicon_01",
+    "p8s91g",
+    "hz_jindu_02",
+    "p8s91h",
+    "hz_bg_02",
+    "p8s91i",
+    "hz_jindu_01",
+    "p8s91j",
+    "hz_jindu_02(1)",
+    "p8s91m",
+    "hzg_bx3",
+    "p8s91n",
+    "hzg_bx1",
+    "p8s91o",
+    "hzg_bx2",
+    "aqf70",
+    "Badge_Window",
+    "/",
+    "max",
+    "0",
+    "no",
+    "1",
+    "yes",
+    "None",
+    "new",
+    "attrStatus",
+    "hide",
+    "show",
+    "n116_lder",
+    "n116",
+    "ui://ngyd196qlder1b",
+    "n113_lder",
+    "n113",
+    "8yc42",
+    "n1_igz4",
+    "wnd",
+    "公会",
+    "n22_lewj",
+    "list_type",
+    "ui://ngyd196qaqf71",
+    "aqf75",
+    "n64_aqf7",
+    "btn_badge_1",
+    "n65_aqf7",
+    "btn_badge_2",
+    "n66_aqf7",
+    "btn_badge_3",
+    "n67_aqf7",
+    "btn_badge_4",
+    "n68_aqf7",
+    "btn_badge_5",
+    "n69_aqf7",
+    "btn_badge_6",
+    "n70_aqf7",
+    "btn_badge_7",
+    "n71_aqf7",
+    "btn_badge_8",
+    "n72_aqf7",
+    "n72",
+    "n74_aqf7",
+    "n74",
+    "None",
+    "psobw",
+    "n79_uyve",
+    "btn_explain",
+    "ui://ufgirfkmkijk6h27i",
+    "i9zd6h2q7",
+    "n55_aqf7",
+    "btn_new",
+    "n77_aqf7",
+    "btn_up",
+    "n76_aqf7",
+    "text_new",
+    "激活消耗:",
+    "n50_75cq",
+    "text_up",
+    "升级消耗:",
+    "n58_aqf7",
+    "text_attr",
+    "属性加成:",
+    "n59_aqf7",
+    "list_attr",
+    "ui://ngyd196qaqf74",
+    "n62_aqf7",
+    "text_max",
+    "已满级",
+    "n61_aqf7",
+    "text_lv",
+    "LV.0",
+    "n75_aqf7",
+    "text_name",
+    "蓝色徽章",
+    "n78_aqf7",
+    "list_cost",
+    "ui://ufgirfkmewfrh22n",
+    "n95_n1a8",
+    "n95",
+    "n96_n1a8",
+    "img_icon",
+    "ui://cyrayt3hlj2j6h3pk",
+    "n111_kkiy",
+    "n111",
+    "p8s91k",
+    "n117_p8s9",
+    "bar_collect",
+    "n118_p8s9",
+    "list_box",
+    "ui://ngyd196qp8s91l",
+    "n120_p8s9",
+    "n120",
+    "n140_p8s9",
+    "n140",
+    "n141_p8s9",
+    "lb_barValue",
+    "10/10",
+    "p8s91f",
+    "n121_p8s9",
+    "attrBtn",
+    "n137_p8s9",
+    "n137",
+    "n123_p8s9",
+    "n123",
+    "n124_p8s9",
+    "lb_attrTip",
+    "该效果对所有精灵有效",
+    "n125_p8s9",
+    "lb_attrHp",
+    "生命",
+    "n126_p8s9",
+    "lb_attrAtk",
+    "攻击",
+    "n127_p8s9",
+    "lb_attrDef",
+    "防御",
+    "n128_p8s9",
+    "lb_attrSatk",
+    "特攻",
+    "n129_p8s9",
+    "lb_attrSdef",
+    "特防",
+    "n130_p8s9",
+    "lb_attrSpeed",
+    "速度",
+    "n131_p8s9",
+    "lb_attrHpValue",
+    "+300",
+    "n132_p8s9",
+    "lb_attrAtkValue",
+    "+300",
+    "n133_p8s9",
+    "lb_attrDefValue",
+    "+300",
+    "n134_p8s9",
+    "lb_attrSatkValue",
+    "+300",
+    "n135_p8s9",
+    "lb_attrSdefValue",
+    "+300",
+    "n136_p8s9",
+    "lb_attrSpeedValue",
+    "+300",
+    "n138_p8s9",
+    "n138",
+    "aqf71",
+    "BadgeBtn",
+    "/Button/",
+    "status",
+    "up",
+    "down",
+    "lock",
+    "n4_j398",
+    "icon",
+    "ui://ngyd196qkkiy16",
+    "ui://ngyd196qkkiy15",
+    "h1wsh269",
+    "n6_pqm4",
+    "RedDot",
+    "n8_ey9v",
+    "title",
+    "关都",
+    "n11_aqf7",
+    "ui://cyrayt3hn1a8q",
+    "n12_ieui",
+    "n12",
+    "aqf74",
+    "AttributeItem",
+    "/Item/",
+    "n0_aqf7",
+    "lb_val",
+    "生命 9999999",
+    "badgeItem",
+    "select",
+    "n4_aqf7",
+    "n4",
+    "n2_aqf7",
+    "n2",
+    "3",
+    "n6_aqf7",
+    "n7_n1a8",
+    "n7",
+    "n9_n1a8",
+    "text_lock",
+    "未激活\n",
+    "n1_aqf7",
+    "LV.10",
+    "n8_n1a8",
+    "n8",
+    "n5_aqf7",
+    "已满级",
+    "ok481r",
+    "BadgeThreeD_Window",
+    "none",
+    "type",
+    "normal",
+    "in",
+    "out",
+    "n142_ok48",
+    "n142",
+    "n199_ok48",
+    "n199",
+    "se4ph26g",
+    "n145_ok48",
+    "model",
+    "n144_ok48",
+    "GenList",
+    "ui://ngyd196qok481s",
+    "n151_ok48",
+    "n151",
+    "n146_ok48",
+    "n147_ok48",
+    "n148_ok48",
+    "n148",
+    "n149_ok48",
+    "n149",
+    "n150_ok48",
+    "10/10",
+    "n154_ok48",
+    "awardPanel",
+    "n152_ok48",
+    "n152",
+    "n198_ok48",
+    "n198",
+    "ui://ngyd196qok482a",
+    "n153_ok48",
+    "n156_ok48",
+    "ui://ngyd196qok481z",
+    "n157_ok48",
+    "激活消耗:",
+    "n155_ok48",
+    "n158_ok48",
+    "升级消耗:",
+    "n159_ok48",
+    "属性加成:",
+    "n160_ok48",
+    "n161_ok48",
+    "已满级",
+    "n162_ok48",
+    "LV.0",
+    "n163_ok48",
+    "蓝色徽章",
+    "n164_ok48",
+    "n166_ok48",
+    "n168_ok48",
+    "normalPanel",
+    "n184_ok48",
+    "n184",
+    "n169_ok48",
+    "n169",
+    "n170_ok48",
+    "该效果对所有精灵有效",
+    "n171_ok48",
+    "生命",
+    "n172_ok48",
+    "攻击",
+    "n173_ok48",
+    "防御",
+    "n174_ok48",
+    "特攻",
+    "n175_ok48",
+    "特防",
+    "n176_ok48",
+    "速度",
+    "n177_ok48",
+    "+300",
+    "n178_ok48",
+    "+300",
+    "n179_ok48",
+    "+300",
+    "n180_ok48",
+    "+300",
+    "n181_ok48",
+    "+300",
+    "n182_ok48",
+    "+300",
+    "n183_ok48",
+    "attrPanel",
+    "n187_ok48",
+    "n188_ok48",
+    "n189_ok48",
+    "n190_ok48",
+    "n191_ok48",
+    "n192_ok48",
+    "n193_ok48",
+    "n194_ok48",
+    "n195_ok48",
+    "n196_ok48",
+    "n196",
+    "ok4824",
+    "n197_ok48",
+    "btn_close",
+    "ok481s",
+    "BadgeGenItem",
+    "n8_ok48",
+    "n9_ok48",
+    "关都地区",
+    "n11_ok48",
+    "ui://ngyd196qok4820",
+    "n12_ok48",
+    "BadgeCloseBtn",
+    "button",
+    "2",
+    "over",
+    "selectedOver",
+    "textColor",
+    "red",
+    "blue",
+    "orange",
+    "green",
+    "n7_ok48",
+    "BadgeAttrBtn",
+    "4",
+    "5",
+    "n121",
+    "n122_p8s9",
+    "属性总览",
+    "BadgeProBar",
+    "HPState",
+    "Normal",
+    "LowHp",
+    "WillDie",
+    "n2_row4",
+    "bg",
+    "n3_row4",
+    "bar",
+    "n4_pifh",
+    "12/12",
+    "p8s91l",
+    "BadgeBoxItem",
+    "State",
+    "Receive",
+    "Received",
+    "gear",
+    "n0_rhl1",
+    "icon_box",
+    "ui://ngyd196qp8s91n",
+    "ui://ngyd196qp8s91o",
+    "ui://ngyd196qp8s91m",
+    "eqxp6h4fn",
+    "n6_p8s9",
+    "n6",
+    "n5_p8s9",
+    "n5",
+    "n3_rhl1",
+    "lb_num",
+    "111",
+    "n4_eoyk",
+    "effect",
+    "atlas0",
+    "atlas0.png",
+    "atlas_ok481q",
+    "atlas_ok481q.png"
+  ]
+}

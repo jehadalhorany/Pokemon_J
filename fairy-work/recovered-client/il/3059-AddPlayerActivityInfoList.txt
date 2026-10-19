@@ -1,0 +1,62 @@
+ActivityComponentSystem::AddPlayerActivityInfoList
+000c ldarg.0 
+000d ldfld PlayerActivityInfoList
+0012 ldarg.1 
+0013 ldarg.2 
+0014 callvirt TryAdd
+0019 brtrue.s 42
+001b ldarg.0 
+001c ldfld PlayerActivityInfoList
+0021 ldarg.1 
+0022 ldarg.2 
+0023 callvirt set_Item
+0028 br.s 101
+002a ldarg.3 
+002b brfalse.s 101
+002d call get_Instance
+0032 ldarg.0 
+0033 call DomainScene
+0038 ldloca.s local(0x0001)
+003a initobj AddActivityFinally
+0040 ldloca.s local(0x0001)
+0042 ldarg.2 
+0043 ldfld activityId
+0048 stfld activityId
+004d ldloca.s local(0x0001)
+004f ldarg.2 
+0050 ldfld info
+0055 callvirt get_FunctionId
+005a stfld functionId
+005f ldloc.1 
+0060 callvirt Publish<ET.EventType.AddActivityFinally>
+0065 ldarg.0 
+0066 call DomainScene
+006b ldarg.1 
+006c call ActivityUnitFactory::GetActivityUnit
+0071 stloc.0 
+0072 ldloc.0 
+0073 ldarg.2 
+0074 call ActivityUnitFactory::SetActivityUnitInfo
+0079 call get_Instance
+007e ldarg.0 
+007f call DomainScene
+0084 ldloca.s local(0x0002)
+0086 initobj ChangeActivityUnitInfo
+008c ldloca.s local(0x0002)
+008e ldloc.0 
+008f stfld unit
+0094 ldloc.2 
+0095 callvirt Publish<ET.EventType.ChangeActivityUnitInfo>
+009a ldarg.1 
+009b ldc.i4 707
+00a0 conv.i8 
+00a1 beq.s 191
+00a3 ldarg.0 
+00a4 call DomainScene
+00a9 ldarg.1 
+00aa ldarg.2 
+00ab ldfld info
+00b0 callvirt get_FunctionId
+00b5 call ActivityHelper::GetIndependentctivityConfig
+00ba callvirt Coroutine
+00bf ret 

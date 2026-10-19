@@ -1,0 +1,2652 @@
+{
+  "items": [
+    {
+      "type": 0,
+      "id": "95l16h4nw",
+      "name": "bg_btn_notice",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        256,
+        256
+      ]
+    },
+    {
+      "type": 0,
+      "id": "cb7w1",
+      "name": "icon_ui_bg_light_arrow",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        40,
+        40
+      ]
+    },
+    {
+      "type": 0,
+      "id": "cb7w2",
+      "name": "title_ui_1",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        22,
+        22
+      ]
+    },
+    {
+      "type": 0,
+      "id": "eoyk6h4o1",
+      "name": "bg_szzw3",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        52,
+        52
+      ]
+    },
+    {
+      "type": 0,
+      "id": "g6kf1lyot2u",
+      "name": "xzdq_di_1",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        1024,
+        506
+      ]
+    },
+    {
+      "type": 0,
+      "id": "g6kf1lyot2v",
+      "name": "xzdq_di_2",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        435,
+        147
+      ]
+    },
+    {
+      "type": 0,
+      "id": "g6kf1lyot2w",
+      "name": "xzdq_di_3",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        417,
+        106
+      ]
+    },
+    {
+      "type": 0,
+      "id": "g6kf1lyot2x",
+      "name": "xzdq_di_4",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        46,
+        64
+      ]
+    },
+    {
+      "type": 0,
+      "id": "i3m66h4fg",
+      "name": "bth_server_bg1",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        173,
+        170
+      ]
+    },
+    {
+      "type": 0,
+      "id": "i3m66h4fh",
+      "name": "bth_server_bg1_1",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        149,
+        835
+      ]
+    },
+    {
+      "type": 0,
+      "id": "i3m66h4fi",
+      "name": "bth_server_bg2",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        50,
+        64
+      ]
+    },
+    {
+      "type": 0,
+      "id": "i3m66h4fj",
+      "name": "bth_server_bg3",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        89,
+        57
+      ]
+    },
+    {
+      "type": 0,
+      "id": "i3m66h4fk",
+      "name": "bth_server_bg4",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        130,
+        121
+      ]
+    },
+    {
+      "type": 0,
+      "id": "i3m66h4fl",
+      "name": "bth_server_tt",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        349,
+        366
+      ]
+    },
+    {
+      "type": 0,
+      "id": "i3m66h4fm",
+      "name": "jlg_bg_6_2",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        90,
+        90
+      ]
+    },
+    {
+      "type": 0,
+      "id": "i3m66h4fo",
+      "name": "jlg_bg_6",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        90,
+        90
+      ]
+    },
+    {
+      "type": 0,
+      "id": "im3e1lyorl5",
+      "name": "lg_btn",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        100,
+        40
+      ]
+    },
+    {
+      "type": 0,
+      "id": "im3e1lyorl7",
+      "name": "dl_f2",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        25,
+        25
+      ]
+    },
+    {
+      "type": 0,
+      "id": "im3e1lyorl8",
+      "name": "dl_f0",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        41,
+        41
+      ]
+    },
+    {
+      "type": 0,
+      "id": "im3e1lyorl9",
+      "name": "dl_f1",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        25,
+        25
+      ]
+    },
+    {
+      "type": 0,
+      "id": "im3e1lyorla",
+      "name": "dl_bg_3",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        280,
+        49
+      ]
+    },
+    {
+      "type": 0,
+      "id": "im3e1lyorlb",
+      "name": "dl_bth",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        298,
+        85
+      ]
+    },
+    {
+      "type": 0,
+      "id": "im3e1lyorlc",
+      "name": "dl_f4",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        25,
+        25
+      ]
+    },
+    {
+      "type": 0,
+      "id": "j0o0h24l",
+      "name": "bg_state_1",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        42,
+        42
+      ]
+    },
+    {
+      "type": 0,
+      "id": "j0o0h24r",
+      "name": "bg_ic",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        86,
+        86
+      ]
+    },
+    {
+      "type": 0,
+      "id": "j0o0h24s",
+      "name": "bth_agree_1",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        46,
+        46
+      ]
+    },
+    {
+      "type": 0,
+      "id": "j0o0h24t",
+      "name": "bth_agree_2",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        46,
+        46
+      ]
+    },
+    {
+      "type": 0,
+      "id": "k9l91lyorle",
+      "name": "gg_fl",
+      "path": "/bg/",
+      "file": null,
+      "size": [
+        1024,
+        567
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mti7ng",
+      "name": "Busy",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        34,
+        34
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mti7ni",
+      "name": "Full",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        34,
+        34
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mti7nj",
+      "name": "Maintain",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        34,
+        34
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mti7nk",
+      "name": "Normal",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        34,
+        34
+      ]
+    },
+    {
+      "type": 0,
+      "id": "om2n1lyot37",
+      "name": "18",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        200,
+        258
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ox3f1lyot25",
+      "name": "jsxz_1_2",
+      "path": "/bg/",
+      "file": null,
+      "size": [
+        158,
+        74
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ox3f1lyot27",
+      "name": "jsxz_bj_2",
+      "path": "/bg/",
+      "file": null,
+      "size": [
+        139,
+        154
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ox3f1lyot28",
+      "name": "jsxz_bj_3",
+      "path": "/bg/",
+      "file": null,
+      "size": [
+        500,
+        154
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ox3f1lyot29",
+      "name": "jsxz_bj_4",
+      "path": "/bg/",
+      "file": null,
+      "size": [
+        179,
+        179
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ox3f1lyot2a",
+      "name": "jsxz_bj_b",
+      "path": "/bg/",
+      "file": null,
+      "size": [
+        110,
+        130
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ox3f1lyot2b",
+      "name": "jsxz_bj_g",
+      "path": "/bg/",
+      "file": null,
+      "size": [
+        110,
+        129
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ox3f1lyot2e",
+      "name": "jsxz_1_3",
+      "path": "/bg/",
+      "file": null,
+      "size": [
+        169,
+        190
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ox3f1lyot2f",
+      "name": "jsxz_bj_1",
+      "path": "/bg/",
+      "file": null,
+      "size": [
+        1024,
+        512
+      ]
+    },
+    {
+      "type": 0,
+      "id": "pq3g1lyorld",
+      "name": "xiufu",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "type": 0,
+      "id": "psws1lyot2n",
+      "name": "fwqxz_di_2",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        197,
+        46
+      ]
+    },
+    {
+      "type": 0,
+      "id": "psws1lyot2o",
+      "name": "fwqxz_di_3",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        43,
+        43
+      ]
+    },
+    {
+      "type": 0,
+      "id": "qyssnn",
+      "name": "bg_szzw1",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        44,
+        44
+      ]
+    },
+    {
+      "type": 0,
+      "id": "qyssno",
+      "name": "bg_szzw2",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        20,
+        10
+      ]
+    },
+    {
+      "type": 0,
+      "id": "qyssns",
+      "name": "bg_szzw4",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        40,
+        4
+      ]
+    },
+    {
+      "type": 0,
+      "id": "uu2z1lyorky",
+      "name": "16",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        100,
+        129
+      ]
+    },
+    {
+      "type": 3,
+      "id": "11szm6",
+      "name": "Login_GButton",
+      "path": "/",
+      "file": null,
+      "size": [
+        258,
+        88
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "7v64n2",
+      "name": "ServerIState",
+      "path": "/",
+      "file": null,
+      "size": [
+        130,
+        50
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "7v64n3",
+      "name": "ServerItem",
+      "path": "/",
+      "file": null,
+      "size": [
+        736,
+        186
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "cb7w0",
+      "name": "LoginDebug_Window",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "cb7w3",
+      "name": "ServerListBox_ComboBoxItem",
+      "path": "/",
+      "file": null,
+      "size": [
+        235,
+        55
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "cb7w4",
+      "name": "ServerListBox_GComponent",
+      "path": "/",
+      "file": null,
+      "size": [
+        399,
+        200
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "cb7w5",
+      "name": "ServerListBox_GComboBox",
+      "path": "/",
+      "file": null,
+      "size": [
+        347,
+        55
+      ],
+      "extension": 13
+    },
+    {
+      "type": 3,
+      "id": "fk5go3",
+      "name": "Login_Window",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "g6kf1lyot2t",
+      "name": "ShareAreaSelect_MiniWindow",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "g6kf1lyot2z",
+      "name": "AreaItem",
+      "path": "/",
+      "file": null,
+      "size": [
+        417,
+        106
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "ha1y1lyorl0",
+      "name": "QueuedLogin_MiniWindow",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "k36z6h4fd",
+      "name": "Notice_MiniWindow",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "mvanmf",
+      "name": "CreateRole_Window",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "mvanmg",
+      "name": "ServerList_Window",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "mvanmi",
+      "name": "ServerTable",
+      "path": "/",
+      "file": null,
+      "size": [
+        334,
+        132
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "mvanmk",
+      "name": "Recoding_Tip",
+      "path": "/",
+      "file": null,
+      "size": [
+        2334,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "o2dq1lyorkw",
+      "name": "YearExplain_MiniWindow",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "o2dq6h4o4",
+      "name": "StandardLogin_Window",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "ox7l1lyot23",
+      "name": "FashionHead",
+      "path": "/",
+      "file": null,
+      "size": [
+        173,
+        173
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "qyssnl",
+      "name": "LoginComboBox",
+      "path": "/",
+      "file": null,
+      "size": [
+        584,
+        70
+      ],
+      "extension": 13
+    },
+    {
+      "type": 3,
+      "id": "qyssnp",
+      "name": "LoginBoxItem",
+      "path": "/",
+      "file": null,
+      "size": [
+        584,
+        70
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "qyssnr",
+      "name": "LoginComBoxItem",
+      "path": "/",
+      "file": null,
+      "size": [
+        580,
+        70
+      ],
+      "extension": 12
+    },
+    {
+      "type": 0,
+      "id": "bux51lyot2r",
+      "name": "fwqxz_di_1",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        55,
+        15
+      ]
+    },
+    {
+      "type": 0,
+      "id": "dhco1lyot34",
+      "name": "bg_login8",
+      "path": "/bg/",
+      "file": null,
+      "size": [
+        1024,
+        512
+      ]
+    },
+    {
+      "type": 0,
+      "id": "dhco1lyot35",
+      "name": "Zshen",
+      "path": "/bg/",
+      "file": null,
+      "size": [
+        1555,
+        1080
+      ]
+    },
+    {
+      "type": 0,
+      "id": "eoyk6h4ny",
+      "name": "pokemon_tw",
+      "path": "/bg/",
+      "file": null,
+      "size": [
+        719,
+        290
+      ]
+    },
+    {
+      "type": 0,
+      "id": "eoyk6h4nz",
+      "name": "pokemon_en",
+      "path": "/bg/",
+      "file": null,
+      "size": [
+        719,
+        290
+      ]
+    },
+    {
+      "type": 0,
+      "id": "f0hs1lyot33",
+      "name": "bg_zhongqiu",
+      "path": "/bg/",
+      "file": null,
+      "size": [
+        1024,
+        512
+      ]
+    },
+    {
+      "type": 0,
+      "id": "gfy31lyot2j",
+      "name": "beijing",
+      "path": "/bg/",
+      "file": null,
+      "size": [
+        1024,
+        512
+      ]
+    },
+    {
+      "type": 0,
+      "id": "i7i51lyot32",
+      "name": "bg_login7",
+      "path": "/bg/",
+      "file": null,
+      "size": [
+        1024,
+        512
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mut56h4o2",
+      "name": "bg_login1",
+      "path": "/bg/",
+      "file": null,
+      "size": [
+        1024,
+        512
+      ]
+    },
+    {
+      "type": 0,
+      "id": "t0ql1lyorld",
+      "name": "bg_login2",
+      "path": "/bg/",
+      "file": null,
+      "size": [
+        1024,
+        512
+      ]
+    },
+    {
+      "type": 0,
+      "id": "tpxm6h4o3",
+      "name": "logo",
+      "path": "/bg/",
+      "file": null,
+      "size": [
+        703,
+        291
+      ]
+    },
+    {
+      "type": 0,
+      "id": "uwx91lyot36",
+      "name": "beijing_chunjie",
+      "path": "/bg/",
+      "file": null,
+      "size": [
+        1024,
+        512
+      ]
+    },
+    {
+      "type": 0,
+      "id": "vlji1lyot38",
+      "name": "pokemon_vi",
+      "path": "/bg/",
+      "file": null,
+      "size": [
+        712,
+        326
+      ]
+    },
+    {
+      "type": 0,
+      "id": "voeb1lyorli",
+      "name": "bg_login5",
+      "path": "/bg/",
+      "file": null,
+      "size": [
+        1024,
+        512
+      ]
+    },
+    {
+      "type": 0,
+      "id": "zi1h6h4nt",
+      "name": "pokemon_cn",
+      "path": "/bg/",
+      "file": null,
+      "size": [
+        719,
+        290
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas1",
+      "name": null,
+      "path": null,
+      "file": "atlas1.png",
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas_mut56h4o2",
+      "name": null,
+      "path": null,
+      "file": "atlas_mut56h4o2.png",
+      "size": [
+        1024,
+        512
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas0",
+      "name": null,
+      "path": null,
+      "file": "atlas0.png",
+      "size": [
+        2048,
+        1024
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas_t0ql1lyorld",
+      "name": null,
+      "path": null,
+      "file": "atlas_t0ql1lyorld.png",
+      "size": [
+        1024,
+        512
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas_voeb1lyorli",
+      "name": null,
+      "path": null,
+      "file": "atlas_voeb1lyorli.png",
+      "size": [
+        1024,
+        512
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas_gfy31lyot2j",
+      "name": null,
+      "path": null,
+      "file": "atlas_gfy31lyot2j.png",
+      "size": [
+        1024,
+        512
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas_i7i51lyot32",
+      "name": null,
+      "path": null,
+      "file": "atlas_i7i51lyot32.png",
+      "size": [
+        1024,
+        512
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas_f0hs1lyot33",
+      "name": null,
+      "path": null,
+      "file": "atlas_f0hs1lyot33.png",
+      "size": [
+        1024,
+        512
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas_dhco1lyot34",
+      "name": null,
+      "path": null,
+      "file": "atlas_dhco1lyot34.png",
+      "size": [
+        1024,
+        512
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas_dhco1lyot35",
+      "name": null,
+      "path": null,
+      "file": "atlas_dhco1lyot35.png",
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas_uwx91lyot36",
+      "name": null,
+      "path": null,
+      "file": "atlas_uwx91lyot36.png",
+      "size": [
+        1024,
+        512
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas_vlji1lyot38",
+      "name": null,
+      "path": null,
+      "file": "atlas_vlji1lyot38.png",
+      "size": [
+        1024,
+        512
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas_g6kf1lyot2u",
+      "name": null,
+      "path": null,
+      "file": "atlas_g6kf1lyot2u.png",
+      "size": [
+        1024,
+        512
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas_k9l91lyorle",
+      "name": null,
+      "path": null,
+      "file": "atlas_k9l91lyorle.png",
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas_ox3f1lyot2f",
+      "name": null,
+      "path": null,
+      "file": "atlas_ox3f1lyot2f.png",
+      "size": [
+        1024,
+        512
+      ]
+    }
+  ],
+  "sprites": [
+    {
+      "id": "zi1h6h4nt",
+      "atlas": "atlas1",
+      "rect": [
+        0,
+        0,
+        666,
+        287
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "eoyk6h4ny",
+      "atlas": "atlas1",
+      "rect": [
+        668,
+        0,
+        287,
+        666
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "eoyk6h4nz",
+      "atlas": "atlas1",
+      "rect": [
+        0,
+        668,
+        666,
+        287
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "mut56h4o2",
+      "atlas": "atlas_mut56h4o2",
+      "rect": [
+        0,
+        0,
+        1024,
+        512
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "i3m66h4fh",
+      "atlas": "atlas0",
+      "rect": [
+        1,
+        1,
+        149,
+        835
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "tpxm6h4o3",
+      "atlas": "atlas0",
+      "rect": [
+        152,
+        1,
+        291,
+        703
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "ox3f1lyot28",
+      "atlas": "atlas0",
+      "rect": [
+        1,
+        838,
+        500,
+        154
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "g6kf1lyot2v",
+      "atlas": "atlas0",
+      "rect": [
+        445,
+        1,
+        147,
+        435
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "g6kf1lyot2w",
+      "atlas": "atlas0",
+      "rect": [
+        152,
+        706,
+        417,
+        106
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "i3m66h4fl",
+      "atlas": "atlas0",
+      "rect": [
+        571,
+        438,
+        349,
+        366
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "im3e1lyorlb",
+      "atlas": "atlas0",
+      "rect": [
+        922,
+        438,
+        298,
+        85
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "im3e1lyorla",
+      "atlas": "atlas0",
+      "rect": [
+        571,
+        806,
+        280,
+        49
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "om2n1lyot37",
+      "atlas": "atlas0",
+      "rect": [
+        853,
+        806,
+        258,
+        200
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "95l16h4nw",
+      "atlas": "atlas0",
+      "rect": [
+        1113,
+        806,
+        242,
+        212
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "psws1lyot2n",
+      "atlas": "atlas0",
+      "rect": [
+        503,
+        814,
+        46,
+        197
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "ox3f1lyot2e",
+      "atlas": "atlas0",
+      "rect": [
+        1357,
+        806,
+        169,
+        190
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "ox3f1lyot29",
+      "atlas": "atlas0",
+      "rect": [
+        1528,
+        806,
+        179,
+        179
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "i3m66h4fg",
+      "atlas": "atlas0",
+      "rect": [
+        1709,
+        806,
+        170,
+        173
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "ox3f1lyot25",
+      "atlas": "atlas0",
+      "rect": [
+        445,
+        438,
+        74,
+        158
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "ox3f1lyot27",
+      "atlas": "atlas0",
+      "rect": [
+        551,
+        857,
+        139,
+        154
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "i3m66h4fk",
+      "atlas": "atlas0",
+      "rect": [
+        692,
+        857,
+        130,
+        121
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "ox3f1lyot2a",
+      "atlas": "atlas0",
+      "rect": [
+        1881,
+        1,
+        130,
+        110
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "ox3f1lyot2b",
+      "atlas": "atlas0",
+      "rect": [
+        1881,
+        113,
+        129,
+        110
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "uu2z1lyorky",
+      "atlas": "atlas0",
+      "rect": [
+        1881,
+        225,
+        129,
+        100
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "im3e1lyorl5",
+      "atlas": "atlas0",
+      "rect": [
+        692,
+        980,
+        100,
+        40
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "pq3g1lyorld",
+      "atlas": "atlas0",
+      "rect": [
+        445,
+        598,
+        97,
+        97
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "i3m66h4fm",
+      "atlas": "atlas0",
+      "rect": [
+        1881,
+        327,
+        90,
+        90
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "i3m66h4fo",
+      "atlas": "atlas0",
+      "rect": [
+        1881,
+        419,
+        90,
+        90
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "i3m66h4fj",
+      "atlas": "atlas0",
+      "rect": [
+        1973,
+        327,
+        57,
+        89
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "j0o0h24r",
+      "atlas": "atlas0",
+      "rect": [
+        1881,
+        511,
+        86,
+        86
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "i3m66h4fi",
+      "atlas": "atlas0",
+      "rect": [
+        1969,
+        511,
+        64,
+        50
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "g6kf1lyot2x",
+      "atlas": "atlas0",
+      "rect": [
+        1973,
+        418,
+        60,
+        42
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "bux51lyot2r",
+      "atlas": "atlas0",
+      "rect": [
+        794,
+        980,
+        55,
+        15
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "eoyk6h4o1",
+      "atlas": "atlas0",
+      "rect": [
+        1969,
+        563,
+        52,
+        52
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "j0o0h24s",
+      "atlas": "atlas0",
+      "rect": [
+        1973,
+        462,
+        46,
+        46
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "j0o0h24t",
+      "atlas": "atlas0",
+      "rect": [
+        521,
+        438,
+        46,
+        46
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "qyssnn",
+      "atlas": "atlas0",
+      "rect": [
+        521,
+        486,
+        44,
+        44
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "psws1lyot2o",
+      "atlas": "atlas0",
+      "rect": [
+        521,
+        532,
+        43,
+        43
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "j0o0h24l",
+      "atlas": "atlas0",
+      "rect": [
+        1709,
+        981,
+        42,
+        42
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "im3e1lyorl8",
+      "atlas": "atlas0",
+      "rect": [
+        1753,
+        981,
+        41,
+        41
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "qyssns",
+      "atlas": "atlas0",
+      "rect": [
+        551,
+        814,
+        4,
+        40
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "cb7w1",
+      "atlas": "atlas0",
+      "rect": [
+        1528,
+        987,
+        40,
+        29
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "mti7ng",
+      "atlas": "atlas0",
+      "rect": [
+        1570,
+        987,
+        34,
+        34
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "mti7nk",
+      "atlas": "atlas0",
+      "rect": [
+        1606,
+        987,
+        34,
+        34
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "mti7ni",
+      "atlas": "atlas0",
+      "rect": [
+        1642,
+        987,
+        34,
+        34
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "mti7nj",
+      "atlas": "atlas0",
+      "rect": [
+        2012,
+        113,
+        34,
+        34
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "im3e1lyorl7",
+      "atlas": "atlas0",
+      "rect": [
+        1678,
+        987,
+        25,
+        25
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "im3e1lyorlc",
+      "atlas": "atlas0",
+      "rect": [
+        2021,
+        462,
+        25,
+        25
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "im3e1lyorl9",
+      "atlas": "atlas0",
+      "rect": [
+        794,
+        997,
+        25,
+        25
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "cb7w2",
+      "atlas": "atlas0",
+      "rect": [
+        821,
+        997,
+        22,
+        22
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "qyssno",
+      "atlas": "atlas0",
+      "rect": [
+        557,
+        814,
+        10,
+        20
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "t0ql1lyorld",
+      "atlas": "atlas_t0ql1lyorld",
+      "rect": [
+        0,
+        0,
+        1024,
+        512
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "voeb1lyorli",
+      "atlas": "atlas_voeb1lyorli",
+      "rect": [
+        0,
+        0,
+        1024,
+        512
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "gfy31lyot2j",
+      "atlas": "atlas_gfy31lyot2j",
+      "rect": [
+        0,
+        0,
+        1024,
+        512
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "i7i51lyot32",
+      "atlas": "atlas_i7i51lyot32",
+      "rect": [
+        0,
+        0,
+        1024,
+        512
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "f0hs1lyot33",
+      "atlas": "atlas_f0hs1lyot33",
+      "rect": [
+        0,
+        0,
+        1024,
+        512
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "dhco1lyot34",
+      "atlas": "atlas_dhco1lyot34",
+      "rect": [
+        0,
+        0,
+        1024,
+        512
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "dhco1lyot35",
+      "atlas": "atlas_dhco1lyot35",
+      "rect": [
+        0,
+        0,
+        1555,
+        1080
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "uwx91lyot36",
+      "atlas": "atlas_uwx91lyot36",
+      "rect": [
+        0,
+        0,
+        1024,
+        512
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "vlji1lyot38",
+      "atlas": "atlas_vlji1lyot38",
+      "rect": [
+        0,
+        0,
+        712,
+        326
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "g6kf1lyot2u",
+      "atlas": "atlas_g6kf1lyot2u",
+      "rect": [
+        0,
+        0,
+        1024,
+        506
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "k9l91lyorle",
+      "atlas": "atlas_k9l91lyorle",
+      "rect": [
+        0,
+        0,
+        1024,
+        566
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "ox3f1lyot2f",
+      "atlas": "atlas_ox3f1lyot2f",
+      "rect": [
+        0,
+        0,
+        1024,
+        512
+      ],
+      "rotated": 0
+    }
+  ],
+  "strings": [
+    "c1imbcrl",
+    "Base",
+    "ufgirfkm",
+    "Common",
+    "cyrayt3h",
+    "Item",
+    "2dwvhsib",
+    "Role",
+    "dgrujmhu",
+    "Spine",
+    "95l16h4nw",
+    "bg_btn_notice",
+    "/Images/",
+    "cb7w1",
+    "icon_ui_bg_light_arrow",
+    "cb7w2",
+    "title_ui_1",
+    "eoyk6h4o1",
+    "bg_szzw3",
+    "g6kf1lyot2u",
+    "xzdq_di_1",
+    "g6kf1lyot2v",
+    "xzdq_di_2",
+    "g6kf1lyot2w",
+    "xzdq_di_3",
+    "g6kf1lyot2x",
+    "xzdq_di_4",
+    "i3m66h4fg",
+    "bth_server_bg1",
+    "i3m66h4fh",
+    "bth_server_bg1_1",
+    "i3m66h4fi",
+    "bth_server_bg2",
+    "i3m66h4fj",
+    "bth_server_bg3",
+    "i3m66h4fk",
+    "bth_server_bg4",
+    "i3m66h4fl",
+    "bth_server_tt",
+    "i3m66h4fm",
+    "jlg_bg_6_2",
+    "i3m66h4fo",
+    "jlg_bg_6",
+    "im3e1lyorl5",
+    "lg_btn",
+    "im3e1lyorl7",
+    "dl_f2",
+    "im3e1lyorl8",
+    "dl_f0",
+    "im3e1lyorl9",
+    "dl_f1",
+    "im3e1lyorla",
+    "dl_bg_3",
+    "im3e1lyorlb",
+    "dl_bth",
+    "im3e1lyorlc",
+    "dl_f4",
+    "j0o0h24l",
+    "bg_state_1",
+    "j0o0h24r",
+    "bg_ic",
+    "j0o0h24s",
+    "bth_agree_1",
+    "j0o0h24t",
+    "bth_agree_2",
+    "k9l91lyorle",
+    "gg_fl",
+    "/bg/",
+    "mti7ng",
+    "Busy",
+    "mti7ni",
+    "Full",
+    "mti7nj",
+    "Maintain",
+    "mti7nk",
+    "Normal",
+    "om2n1lyot37",
+    "18",
+    "ox3f1lyot25",
+    "jsxz_1_2",
+    "ox3f1lyot27",
+    "jsxz_bj_2",
+    "ox3f1lyot28",
+    "jsxz_bj_3",
+    "ox3f1lyot29",
+    "jsxz_bj_4",
+    "ox3f1lyot2a",
+    "jsxz_bj_b",
+    "ox3f1lyot2b",
+    "jsxz_bj_g",
+    "ox3f1lyot2e",
+    "jsxz_1_3",
+    "ox3f1lyot2f",
+    "jsxz_bj_1",
+    "pq3g1lyorld",
+    "xiufu",
+    "psws1lyot2n",
+    "fwqxz_di_2",
+    "psws1lyot2o",
+    "fwqxz_di_3",
+    "qyssnn",
+    "bg_szzw1",
+    "qyssno",
+    "bg_szzw2",
+    "qyssns",
+    "bg_szzw4",
+    "uu2z1lyorky",
+    "16",
+    "11szm6",
+    "Login_GButton",
+    "/",
+    "button",
+    "0",
+    "up",
+    "1",
+    "down",
+    "2",
+    "over",
+    "3",
+    "selectedOver",
+    "n5_lcuv",
+    "n5",
+    "ui://s8oshc2dxwkb1og",
+    "n3_lcuv",
+    "title",
+    "对对对对",
+    "7v64n2",
+    "ServerIState",
+    "n4_7v64",
+    "icon",
+    "ui://4p8n5d607v64mv",
+    "n5_7v64",
+    "流畅",
+    "7v64n3",
+    "ServerItem",
+    "SelectState",
+    "NoSelect",
+    "Select",
+    "RecomdState",
+    "8",
+    "None",
+    "Recommend",
+    "New",
+    "Test",
+    "ServerStateType",
+    "9",
+    "NoOpen",
+    "Hot",
+    "Preview",
+    "4",
+    "PlayerInfo",
+    "ShowArea",
+    "Show",
+    "AreaType",
+    "Area",
+    "n0_7v64",
+    "n0",
+    "ui://4p8n5d60i3m66h4fo",
+    "ui://4p8n5d60i3m66h4fm",
+    "n13_i3m6",
+    "n13",
+    "n1_7v64",
+    "n1",
+    " ",
+    "ui://ufgirfkmi3m66h4j9",
+    "ui://ufgirfkmi3m66h4ja",
+    "ui://ufgirfkmi3m66h4jb",
+    "n2_7v64",
+    "icon_state",
+    "ui://ufgirfkmuyjc6h4as",
+    "ui://ufgirfkmenu7f6h54w",
+    "ui://ufgirfkmenu7f6h54v",
+    "n11_i3m6",
+    "n11",
+    "n3_7v64",
+    "lb_name",
+    "烈风高地",
+    "j0o0h24u",
+    "Head",
+    "n6_7v64",
+    "lb_player",
+    "ID玩家名字七个字",
+    "n7_7v64",
+    "lb_level",
+    "LV 1",
+    "n8_rhl1",
+    "lb_servername",
+    "推荐",
+    "n9_i3m6",
+    "lb_openTime",
+    "开服时间2023-07-19 02:18:00",
+    "aban6h2pl",
+    "n12_i3m6",
+    "n12",
+    "bux51lyot2r",
+    "n14_bux5",
+    "n14",
+    "n16_bux5",
+    "n16",
+    "n17_bux5",
+    "lb_nareaame",
+    "亚太地区",
+    "n18_bux5",
+    "lb_areatype",
+    "北美地区",
+    "cb7w0",
+    "LoginDebug_Window",
+    "SelectStatue",
+    "ServerState",
+    "LoginStyle",
+    "Spring",
+    "Swim",
+    "6",
+    "Festival",
+    "7",
+    "Halloween",
+    "Christmas",
+    "Anniversary",
+    "n57_mwhw",
+    "n57",
+    "ui://4p8n5d60uwx91lyot36",
+    "ui://4p8n5d60t0ql1lyorld",
+    "ui://4p8n5d60i7i51lyot32",
+    "ui://4p8n5d60f0hs1lyot33",
+    "ui://4p8n5d60voeb1lyorli",
+    "ui://4p8n5d60dhco1lyot34",
+    "ui://4p8n5d60gfy31lyot2j",
+    "n80_im3e",
+    "sp3",
+    "ui://dgrujmhuux09n",
+    "n78_im3e",
+    "sp1",
+    "n79_im3e",
+    "sp2",
+    "n81_im3e",
+    "sp4",
+    "n84_t0ql",
+    "spspring3",
+    "n83_t0ql",
+    "spspring2",
+    "n82_t0ql",
+    "spspring1",
+    "n85_t0ql",
+    "spspring4",
+    "n89_hgd3",
+    "spswim",
+    "n90_ocyy",
+    "spfestival",
+    "n92_lmu5",
+    "sphalloween",
+    "n95_dhco",
+    "spchristmas1",
+    "dhco1lyot35",
+    "n96_dhco",
+    "n96",
+    "n93_psbg",
+    "spchristmas",
+    "n91_voeb",
+    "anniversary",
+    "n94_gfy3",
+    "anniversary1",
+    "j0o0h24p",
+    "n48_j0o0",
+    "n48",
+    "n51_j0o0",
+    "n51",
+    "n75_im3e",
+    "n75",
+    "n45_j0o0",
+    "n45",
+    "n46_j0o0",
+    "n46",
+    "n74_im3e",
+    "n74",
+    "ui://4p8n5d60im3e1lyorl9",
+    "ui://4p8n5d60im3e1lyorl7",
+    "ui://4p8n5d60im3e1lyorlc",
+    "n39_j0o0",
+    "logo",
+    "ui://4p8n5d60eoyk6h4ny",
+    "psobw",
+    "n68_wpc4",
+    "btn_chooseServer",
+    "e0us6h2tk",
+    "n50_j0o0",
+    "btn_choose",
+    "选服",
+    "ui://4p8n5d60im3e1lyorl5",
+    "n42_j0o0",
+    "btn_set",
+    "ui://ufgirfkmj0o0h24k",
+    "eeo81lyorlw",
+    "n44_j0o0",
+    "btn_enter",
+    "进入游戏",
+    "ui://4p8n5d60im3e1lyorlb",
+    "ultg6h2tz",
+    "n58_7v64",
+    "btn_select",
+    "ui://4p8n5d60j0o0h24s",
+    "ui://4p8n5d60j0o0h24t",
+    "n64_k36z",
+    "n64",
+    "n65_k36z",
+    "btn_notice",
+    "LabPos",
+    "公告",
+    "ui://4p8n5d6095l16h4nw",
+    "n49_j0o0",
+    "lb_serverName",
+    "若叶镇小夜糖17服",
+    "n53_j0o0",
+    "lb_server",
+    "我已详细阅读并同意《用户协议》《隐私协议》",
+    "n35_j0o0",
+    "lb_version",
+    "版本号：1.2.3.8.544",
+    "cb7w5",
+    "n5_cb7w",
+    "serverListBox",
+    "n12_cb7w",
+    "n11_cb7w",
+    "AccoutInput",
+    "n13_cb7w",
+    "账号:",
+    "n54_e0h5",
+    "n55",
+    "qyssnl",
+    "n55_e0h5",
+    "IpInput",
+    "192.168.16.12",
+    "192.168.16.61",
+    "999",
+    "127.0.0.1",
+    "127001",
+    "192.168.16.29",
+    "1685",
+    "111.229.30.10",
+    "30610",
+    "106.54.234.214",
+    "10002",
+    "192.168.16.17",
+    "1609",
+    "111.229.108.140",
+    "192.168.16.69:不嫖娼的伟少",
+    "1669",
+    "192.168.16.45:荷花",
+    "45",
+    "192.168.16.6",
+    "1606",
+    "192.168.16.96:出家的戴老板",
+    "1696",
+    "192.168.16.9:永泰一哥",
+    "1613",
+    "192.168.16.124:南平扛把子",
+    "1616",
+    "192.168.16.25",
+    "1625",
+    "192.168.16.66",
+    "1666",
+    "192.168.16.97狗策划的服",
+    "1697",
+    "192.168.16.2",
+    "1610",
+    "192.168.16.70",
+    "192.168.16.7",
+    "192.168.16.33",
+    "1633",
+    "192.168.16.18",
+    "1618",
+    "n56_e0h5",
+    "n56",
+    "IP:",
+    "n27_l680",
+    "AdapterNodeTop",
+    "n59_7v64",
+    "lb_desc",
+    "n67_ktcq",
+    "btn_enter1",
+    "Account内部登录",
+    "ui://ufgirfkmpsobh23t",
+    "n66_ktcq",
+    "AccoutInput1",
+    "AccountId",
+    "n69_dz1r",
+    "btn_enterOut",
+    "进入外网",
+    "ui://ufgirfkmaban6h2pp",
+    "n70_uu2z",
+    "btn_age",
+    "ui://4p8n5d60uu2z1lyorky",
+    "n82_pq3g",
+    "btn_fix",
+    "ui://4p8n5d60pq3g1lyorld",
+    "n88_sbnp",
+    "n88",
+    "n86_sbnp",
+    "CoustumIpInput",
+    "ip格式：192.168.16.1:1601",
+    "n87_sbnp",
+    "btn_addIp",
+    "添加服务器",
+    "cb7w3",
+    "ServerListBox_ComboBoxItem",
+    "n0_cb7w",
+    "n1_cb7w",
+    "n2_cb7w",
+    "n2",
+    "n3_cb7w",
+    "n3",
+    "n4_cb7w",
+    "111",
+    "cb7w4",
+    "ServerListBox_GComponent",
+    "list",
+    "ui://4p8n5d60cb7w3",
+    "ServerListBox_GComboBox",
+    "ui://4p8n5d60cb7w4",
+    "fk5go3",
+    "Login_Window",
+    "LoginState",
+    "Logining",
+    "Logined",
+    "5",
+    "11",
+    "12",
+    "13",
+    "ShareArea",
+    "Share",
+    "AgeState",
+    "sixTeen",
+    "eighTeen",
+    "ui://4p8n5d60mut56h4o2",
+    "n76_im3e",
+    "n77_im3e",
+    "n89_t0ql",
+    "n88_t0ql",
+    "n87_t0ql",
+    "n90_t0ql",
+    "n91_hgd3",
+    "n92_ocyy",
+    "n93_voeb",
+    "n100_dhco",
+    "n101_dhco",
+    "n101",
+    "n94_lmu5",
+    "n95_psbg",
+    "n96_gfy3",
+    "ui://4p8n5d60j0o0h24l",
+    "n80",
+    "n81",
+    "n62_wpc4",
+    "选服",
+    "进入游戏",
+    "请选择服务器",
+    "我已详细阅读并同意11111111111111111111111111111111111111111",
+    "版本号：1.2.3.8.544",
+    "192.168.16.74",
+    "111.229.108.140",
+    "192.168.16.69",
+    "不嫖娼的伟少",
+    "192.168.16.39",
+    "孔少的蓝色药丸",
+    "192.168.16.96",
+    "出家的戴老板",
+    "192.168.16.13",
+    "永",
+    "127.0.0.1",
+    "IP:",
+    "n60_fk5g",
+    "n60",
+    "n61_ktcq",
+    "公告",
+    "n66_uu2z",
+    "ui://4p8n5d60om2n1lyot37",
+    "n69_rev5",
+    "《用户协议》",
+    "n68_rev5",
+    "lb_private",
+    "《隐私协议》",
+    "n67_rev5",
+    "btn_player",
+    "n70_rev5",
+    "btn_private",
+    "n73_rev5",
+    "lb_desc1",
+    "n74_rev5",
+    "lb_desc2",
+    "n75_rev5",
+    "lb_desc3",
+    "n97_psws",
+    "n97",
+    "n98_psws",
+    "lb_arenaName",
+    "亚太地区",
+    "n99_psws",
+    "btn_area",
+    "ui://4p8n5d60psws1lyot2o",
+    "g6kf1lyot2t",
+    "ShareAreaSelect_MiniWindow",
+    "nm0oh265",
+    "n0_g6kf",
+    "bg",
+    "n1_g6kf",
+    "ui://4p8n5d60g6kf1lyot2u",
+    "n2_g6kf",
+    "n3_g6kf",
+    "n4_g6kf",
+    "lb_select",
+    "请选择想要游玩的大区",
+    "n5_g6kf",
+    "lb_title",
+    "地区选择",
+    "n6_g6kf",
+    "list_area",
+    "ui://4p8n5d60g6kf1lyot2z",
+    "g6kf1lyot2z",
+    "AreaItem",
+    "Sign",
+    "ui://4p8n5d60g6kf1lyot2w",
+    "亚太地区",
+    "sign",
+    "ha1y1lyorl0",
+    "QueuedLogin_MiniWindow",
+    "n39_ewfr",
+    "ui://ufgirfkmgauw4",
+    "uv5m6h4j3",
+    "n42_nidn",
+    "n42",
+    "uv5m6h4j4",
+    "n45_uv5m",
+    "e8ln6h4gi",
+    "n46_uv5m",
+    "n33_gbit",
+    "close",
+    "ui://ufgirfkmnidnh254",
+    "n55_qae5",
+    "退出排队",
+    "n4_mqtg",
+    "登录排队",
+    "n52_qae5",
+    "lb_waitRank",
+    "当前排队名次:[color=#5DEEFF]5[/color]",
+    "n54_qae5",
+    "lb_waitTime",
+    "预计等待时间:[color=#5DEEFF]5分钟[/color]",
+    "k36z6h4fd",
+    "Notice_MiniWindow",
+    "PanelType",
+    "Text",
+    "Img",
+    "eqxp6h4fd",
+    "n16_qsto",
+    "win",
+    "q2rv6h3it",
+    "n17_qsto",
+    "n17",
+    "n18_qsto",
+    "n18",
+    "n14_k36z",
+    "list_preview",
+    "ui://ufgirfkmqsto6h2wt",
+    "公告1",
+    "公告2",
+    "公告3",
+    "公告4",
+    "公告5",
+    "n19_k9l9",
+    "img",
+    "ui://4p8n5d60k9l91lyorle",
+    "aban1",
+    "n15_k36z",
+    "paneltext",
+    "mvanmf",
+    "CreateRole_Window",
+    "Boy",
+    "Girl",
+    "n31_ox3f",
+    "n31",
+    "n24_mti7",
+    "n24",
+    "n22_7v64",
+    "n22",
+    "se4ph26g",
+    "n25_u4fo",
+    "ModelBoy",
+    "n26_u4fo",
+    "ModelGirl",
+    "n10_7v64",
+    "n10",
+    "n0_mvan",
+    "name",
+    "玩家名字六个字",
+    "n11_7v64",
+    "btn_refresh",
+    "ui://ufgirfkm7v64h26h",
+    "n12_7v64",
+    "sure",
+    "确认",
+    "7v64h26k",
+    "n20_7v64",
+    "row4mc",
+    "n21_7v64",
+    "n21",
+    "n39_ox3f",
+    "n39",
+    "n30_ox7l",
+    "list_fashion",
+    "ui://4p8n5d60ox7l1lyot23",
+    "n33_ox3f",
+    "n33",
+    "n34_ox3f",
+    "n34",
+    "n35_ox3f",
+    "n35",
+    "n36_ox3f",
+    "n36",
+    "n37_ox3f",
+    "lb_skin",
+    "皮肤选择皮肤选择选择",
+    "n38_ox3f",
+    "lb_roleselect",
+    "角色选择",
+    "mvanmg",
+    "ServerList_Window",
+    "GroupType",
+    "Recommended",
+    "Last",
+    "mjc16h4bw",
+    "n36_ptwz",
+    "mjc16h4bx",
+    "n37_ptwz",
+    "n37",
+    "p0l36h4ic",
+    "n30_i3m6",
+    "n30",
+    "n25_rhl1",
+    "n25",
+    "n33_i3m6",
+    "n3_mvan",
+    "nextPage",
+    "ui://ufgirfkmp0l36h4i1",
+    "n4_mvan",
+    "lastPage",
+    "n34_i3m6",
+    "lb_page",
+    "12/12",
+    "n35_i3m6",
+    "g_page",
+    "n31_i3m6",
+    "n32_i3m6",
+    "n32",
+    "serverTables",
+    "ui://4p8n5d60mvanmi",
+    "n1_mvan",
+    "serverList",
+    "ui://4p8n5d607v64n3",
+    "n18_7v64",
+    "list_serverstate",
+    "ui://4p8n5d607v64n2",
+    "流畅",
+    "ui://4p8n5d60mti7ng",
+    "正常",
+    "ui://4p8n5d60mti7nk",
+    "繁忙",
+    "爆满",
+    "ui://4p8n5d60mti7ni",
+    "维护",
+    "ui://4p8n5d60mti7nj",
+    "lb_ver",
+    "版本号:1.2.3.8.54521212.5469.5",
+    "n29_i3m6",
+    "111",
+    "mvanmi",
+    "ServerTable",
+    "State",
+    "Selected",
+    "n2_mvan",
+    "ui://ufgirfkmi3m66h4j7",
+    "ui://ufgirfkmi3m66h4j8",
+    "table_title",
+    "推荐",
+    "mvanmk",
+    "Recoding_Tip",
+    "n17_l3pa",
+    "recordFiles",
+    "n33_ollo",
+    "recordFilesServer",
+    "n32_j6ah",
+    "upBtn",
+    "上传",
+    "n34_ollo",
+    "downBtn",
+    "下载",
+    "n36_rzxm",
+    "exportLogBtn",
+    "导出日志",
+    "recordBtn",
+    "开启录制",
+    "n19_s21v",
+    "clearRecord",
+    "清除录制",
+    "n18_s21v",
+    "playBtn",
+    "播放录制",
+    "n35_nt20",
+    "InputRobotBtn",
+    "开启点击机器人",
+    "o2dq1lyorkw",
+    "YearExplain_MiniWindow",
+    "n47_o2dq",
+    "content",
+    "size",
+    "适龄提示",
+    "o2dq6h4o4",
+    "StandardLogin_Window",
+    "10",
+    "14",
+    "n82_im3e",
+    "n83_im3e",
+    "n86_t0ql",
+    "n79",
+    "选服",
+    "进入游戏",
+    "请选择服务器",
+    "我已详细阅读并同意",
+    "版本号：1.2.3.8.544",
+    "公告",
+    "n66_o2dq",
+    "n66",
+    "n67_o2dq",
+    "n68_o2dq",
+    "n68",
+    "账号:",
+    "n69_o2dq",
+    "g_input",
+    "n70_o2dq",
+    "n71_rev5",
+    "《用户协议》",
+    "n72_rev5",
+    "《隐私协议》",
+    "n65_vmwh",
+    "n77_rev5",
+    "n78_rev5",
+    "n84_pq3g",
+    "ox7l1lyot23",
+    "FashionHead",
+    "NoSetect",
+    "n2_j0o0",
+    "icon_frame",
+    "ui://cyrayt3hmti7h249",
+    "n1_j0o0",
+    "icon_head",
+    "ui://cyrayt3hcaxk6h2fb",
+    "n3_ox7l",
+    "LoginComboBox",
+    "n0_as4i",
+    "n2_as4i",
+    "192.168.16.74",
+    "n4_1053h",
+    "n4",
+    "ui://4p8n5d60qyssnp",
+    "qyssnp",
+    "LoginBoxItem",
+    "n1_as4i",
+    "ui://4p8n5d60qyssnr",
+    "qyssnr",
+    "LoginComBoxItem",
+    "n5_as4i",
+    "全部",
+    "n6_ey9v",
+    "n6",
+    "fwqxz_di_1",
+    "dhco1lyot34",
+    "bg_login8",
+    "Zshen",
+    "eoyk6h4ny",
+    "pokemon_tw",
+    "eoyk6h4nz",
+    "pokemon_en",
+    "f0hs1lyot33",
+    "bg_zhongqiu",
+    "gfy31lyot2j",
+    "beijing",
+    "i7i51lyot32",
+    "bg_login7",
+    "mut56h4o2",
+    "bg_login1",
+    "t0ql1lyorld",
+    "bg_login2",
+    "tpxm6h4o3",
+    "uwx91lyot36",
+    "beijing_chunjie",
+    "vlji1lyot38",
+    "pokemon_vi",
+    "voeb1lyorli",
+    "bg_login5",
+    "zi1h6h4nt",
+    "pokemon_cn",
+    "atlas1",
+    "atlas1.png",
+    "atlas_mut56h4o2",
+    "atlas_mut56h4o2.png",
+    "atlas0",
+    "atlas0.png",
+    "atlas_t0ql1lyorld",
+    "atlas_t0ql1lyorld.png",
+    "atlas_voeb1lyorli",
+    "atlas_voeb1lyorli.png",
+    "atlas_gfy31lyot2j",
+    "atlas_gfy31lyot2j.png",
+    "atlas_i7i51lyot32",
+    "atlas_i7i51lyot32.png",
+    "atlas_f0hs1lyot33",
+    "atlas_f0hs1lyot33.png",
+    "atlas_dhco1lyot34",
+    "atlas_dhco1lyot34.png",
+    "atlas_dhco1lyot35",
+    "atlas_dhco1lyot35.png",
+    "atlas_uwx91lyot36",
+    "atlas_uwx91lyot36.png",
+    "atlas_vlji1lyot38",
+    "atlas_vlji1lyot38.png",
+    "atlas_g6kf1lyot2u",
+    "atlas_g6kf1lyot2u.png",
+    "atlas_k9l91lyorle",
+    "atlas_k9l91lyorle.png",
+    "atlas_ox3f1lyot2f",
+    "atlas_ox3f1lyot2f.png"
+  ]
+}

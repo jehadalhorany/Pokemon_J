@@ -1,0 +1,121 @@
+{
+  "items": [
+    {
+      "type": 9,
+      "id": "a74tc",
+      "name": "spine_fruit3",
+      "path": "/Farm/",
+      "file": "spine_fruit3.json",
+      "size": [
+        77,
+        98
+      ]
+    },
+    {
+      "type": 9,
+      "id": "a74td",
+      "name": "spine_fruit6",
+      "path": "/Farm/",
+      "file": "spine_fruit6.json",
+      "size": [
+        101,
+        102
+      ]
+    },
+    {
+      "type": 9,
+      "id": "a74te",
+      "name": "spine_fruit4",
+      "path": "/Farm/",
+      "file": "spine_fruit4.json",
+      "size": [
+        91,
+        92
+      ]
+    },
+    {
+      "type": 9,
+      "id": "a74tf",
+      "name": "spine_fruit2",
+      "path": "/Farm/",
+      "file": "spine_fruit2.json",
+      "size": [
+        111,
+        97
+      ]
+    },
+    {
+      "type": 9,
+      "id": "a74tg",
+      "name": "spine_fruit5",
+      "path": "/Farm/",
+      "file": "spine_fruit5.json",
+      "size": [
+        77,
+        92
+      ]
+    },
+    {
+      "type": 9,
+      "id": "a74th",
+      "name": "spine_fruit1",
+      "path": "/Farm/",
+      "file": "spine_fruit1.json",
+      "size": [
+        76,
+        77
+      ]
+    },
+    {
+      "type": 9,
+      "id": "yqcq1a",
+      "name": "spine_caidai",
+      "path": "/Marble/",
+      "file": "spine_caidai.json",
+      "size": [
+        1164,
+        587
+      ]
+    },
+    {
+      "type": 9,
+      "id": "yqcq1b",
+      "name": "spine_guangquan",
+      "path": "/Marble/",
+      "file": "spine_guangquan.json",
+      "size": [
+        1753,
+        864
+      ]
+    }
+  ],
+  "sprites": [],
+  "strings": [
+    "a74tc",
+    "spine_fruit3",
+    "/Farm/",
+    "spine_fruit3.json",
+    "a74td",
+    "spine_fruit6",
+    "spine_fruit6.json",
+    "a74te",
+    "spine_fruit4",
+    "spine_fruit4.json",
+    "a74tf",
+    "spine_fruit2",
+    "spine_fruit2.json",
+    "a74tg",
+    "spine_fruit5",
+    "spine_fruit5.json",
+    "a74th",
+    "spine_fruit1",
+    "spine_fruit1.json",
+    "yqcq1a",
+    "spine_caidai",
+    "/Marble/",
+    "spine_caidai.json",
+    "yqcq1b",
+    "spine_guangquan",
+    "spine_guangquan.json"
+  ]
+}

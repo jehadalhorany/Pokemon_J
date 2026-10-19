@@ -1,0 +1,12 @@
+const {spawn}=require('node:child_process'),fs=require('node:fs'),path=require('node:path'),assert=require('node:assert/strict');
+const {chromium}=require('/opt/codex/runtimes/codex-primary-runtime/dependencies/node/node_modules/playwright');
+const cwd=process.env.POKEMON_PROJECT_ROOT||path.resolve(__dirname,'../active-project'),server=spawn(process.execPath,['server/index.mjs'],{cwd,env:{...process.env,PORT:'3110',DATA_DIR:fs.mkdtempSync('/tmp/pokemon-bindings-')},stdio:'ignore'});
+(async()=>{let browser;try{
+ for(let i=0;i<100;i++){try{if((await fetch('http://127.0.0.1:3110/health')).ok)break;}catch{}await new Promise(r=>setTimeout(r,200));}
+ browser=await chromium.launch({executablePath:'/tmp/pokemon-chromium',headless:true,env:{...process.env,LD_LIBRARY_PATH:'/tmp',VK_ICD_FILENAMES:'/tmp/vk_swiftshader_icd.json'},args:['--no-sandbox','--no-zygote','--use-gl=angle','--use-angle=swiftshader-webgl','--enable-unsafe-swiftshader','--disable-dev-shm-usage']});
+ const page=await browser.newPage({viewport:{width:1909,height:905}}),errors=[];page.on('pageerror',e=>errors.push(e.message));
+ await page.goto('http://127.0.0.1:3110/data/original/interface.json');
+ await page.evaluate(async()=>{await fetch('/api/create',{method:'POST',headers:{'Content-Type':'application/json'},body:'{}'});});await page.goto('http://127.0.0.1:3110/');await page.waitForFunction(()=>window.getVisualStatus&&!getVisualStatus().loading&&getVisualStatus().sourceHud.ready,null,{timeout:120000});
+ await page.evaluate(()=>startOriginalMission());const samples=await page.evaluate(async()=>{const rows=[];for(let i=0;i<65;i++){await new Promise(requestAnimationFrame);const s=getVisualStatus();rows.push({moving:s.moving,animation:s.animationState,bone:s.bonePose,navigation:s.navigation,area:s.area});}return rows;});const moving=samples.filter(s=>s.moving&&s.navigation);assert(moving.length>=5);assert(moving.every(s=>s.animation.clip==='Run'));assert(new Set(moving.map(s=>JSON.stringify(s.bone))).size>3);assert(new Set(moving.map(s=>s.navigation.remaining)).size>1);assert.deepEqual(errors,[]);fs.writeFileSync(cwd+'/SOURCE_GAIT_VALIDATION.json',JSON.stringify({movingSamples:moving.length,waypointCounts:[...new Set(moving.map(s=>s.navigation.remaining))],bonePoses:new Set(moving.map(s=>JSON.stringify(s.bone))).size,pageErrors:errors,samples},null,2));console.log('PASS quest Run animation across original path waypoints');
+ }finally{await browser?.close();server.kill();}
+})().catch(e=>{console.error(e);process.exitCode=1;});

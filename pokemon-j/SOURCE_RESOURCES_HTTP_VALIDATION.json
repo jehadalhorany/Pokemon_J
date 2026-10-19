@@ -1,0 +1,14 @@
+{
+  "opening": true,
+  "separateLimits": [
+    68,
+    68
+  ],
+  "invalidFieldNoCharge": true,
+  "wildZipCost": 3,
+  "zipRefillGemCost": 50,
+  "independentCounters": true,
+  "fullRefillNoCharge": true,
+  "trainerRetreatNoEnergyCost": true,
+  "persistence": true
+}

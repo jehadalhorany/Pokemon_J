@@ -1,0 +1,22 @@
+{
+  "releaseReady": false,
+  "restoredVerifiedRuntime": true,
+  "nativeFriendPhysicalTabs": [
+    "Friend",
+    "Add",
+    "Apply",
+    "Blacklist"
+  ],
+  "nativeChatOpened": true,
+  "nativeAssistantDirectOpen": true,
+  "fullNavigationTest": "FAILED return from chat / opening helper path",
+  "servicesConnected": false,
+  "missingServices": [
+    "friend requests and social storage",
+    "chat delivery",
+    "assistant execution",
+    "verified mount ownership adapter"
+  ],
+  "wipLocation": "fairy-work/wip-bottom",
+  "noUserSaveChanges": true
+}

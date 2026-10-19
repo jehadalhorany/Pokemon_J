@@ -1,0 +1,19 @@
+MainWindow::UpdateShowState
+0001 ldarg.0 
+0002 ldfld m_MainState
+0007 ldc.i4.0 
+0008 callvirt set_selectedIndex
+000d ldarg.0 
+000e ldfld m_btn_friend
+0013 ldarg.0 
+0014 ldfld FunctionOpenComponent
+0019 ldc.i4 301
+001e call FunctionOpenComponentSystem::GetFunctionIsOpen
+0023 callvirt set_visible
+0028 ldarg.0 
+0029 ldfld m_g_chat
+002e ldc.i4.1 
+002f callvirt set_visible
+0034 ldarg.0 
+0035 call MainWindow::ShowMountState
+003a ret 

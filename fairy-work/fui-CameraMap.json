@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "type": 3,
+      "id": "lo5x0",
+      "name": "CameraMap_Bg",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    }
+  ],
+  "sprites": [],
+  "strings": [
+    "lo5x0",
+    "CameraMap_Bg",
+    "/",
+    "n1_lo5x",
+    "bg"
+  ]
+}

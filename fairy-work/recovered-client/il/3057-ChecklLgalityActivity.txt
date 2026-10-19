@@ -1,0 +1,81 @@
+ActivityComponentSystem::ChecklLgalityActivity
+000c ldarg.0 
+000d ldarg.1 
+000e call ActivityComponentSystem::GetActivityUnit
+0013 stloc.0 
+0014 ldloc.0 
+0015 brfalse.s 31
+0017 ldloc.0 
+0018 callvirt get_Info
+001d brtrue.s 32
+001f ret 
+0020 ldarg.0 
+0021 ldfld rolePropertyComponent
+0026 brtrue.s 57
+0028 ldarg.0 
+0029 ldarg.0 
+002a call DomainScene
+002f call RoleProperty
+0034 stfld rolePropertyComponent
+0039 ldarg.0 
+003a ldfld questComponent
+003f brfalse.s 73
+0041 ldarg.0 
+0042 ldfld rolePropertyComponent
+0047 brtrue.s 74
+0049 ret 
+004a ldarg.0 
+004b ldfld rolePropertyComponent
+0050 ldc.i4 1108
+0055 callvirt get_Item
+005a stloc.1 
+005b ldloc.0 
+005c callvirt get_Info
+0061 callvirt get_OpenLevel
+0066 conv.i8 
+0067 ldloc.1 
+0068 bgt.s 172
+006a ldarg.0 
+006b ldfld questComponent
+0070 ldloc.0 
+0071 callvirt get_Info
+0076 callvirt get_OpenQuest
+007b call QuestComponentSystem::QuestInfoIsCompelete
+0080 brfalse.s 172
+0082 ldarg.0 
+0083 ldarg.1 
+0084 call ActivityComponentSystem::GetPlayerActivityInfoByAll
+0089 stloc.2 
+008a ldloc.2 
+008b brtrue.s 142
+008d ret 
+008e ldarg.0 
+008f ldfld PlayerActivityInfoList
+0094 ldarg.1 
+0095 ldloc.2 
+0096 callvirt TryAdd
+009b brtrue.s 199
+009d ldarg.0 
+009e ldfld PlayerActivityInfoList
+00a3 ldarg.1 
+00a4 ldloc.2 
+00a5 callvirt set_Item
+00aa br.s 199
+00ac ldarg.0 
+00ad ldfld PlayerActivityInfoList
+00b2 ldarg.1 
+00b3 callvirt ContainsKey
+00b8 brfalse.s 199
+00ba ldarg.0 
+00bb ldfld PlayerActivityInfoList
+00c0 ldarg.1 
+00c1 callvirt Remove
+00c6 pop 
+00c7 call get_Instance
+00cc ldarg.0 
+00cd call DomainScene
+00d2 ldloca.s local(0x0003)
+00d4 initobj ChecklLgalityActivityFinally
+00da ldloc.3 
+00db callvirt Publish<ET.EventType.ChecklLgalityActivityFinally>
+00e0 ret 

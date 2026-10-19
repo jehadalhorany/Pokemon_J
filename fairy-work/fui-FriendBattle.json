@@ -1,0 +1,336 @@
+{
+  "items": [
+    {
+      "type": 0,
+      "id": "urh51lyorli",
+      "name": "jltc_bg_11",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        10,
+        44
+      ]
+    },
+    {
+      "type": 3,
+      "id": "mti73",
+      "name": "FriendBattle_MiniWindow",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 0,
+      "id": "e0us6h4cr",
+      "name": "jltc_bg_10",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        154,
+        238
+      ]
+    },
+    {
+      "type": 0,
+      "id": "e0us6h4cs",
+      "name": "jltc_bg_9",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        156,
+        185
+      ]
+    },
+    {
+      "type": 0,
+      "id": "e0us6h4cv",
+      "name": "jltc_bg_6",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        51,
+        259
+      ]
+    },
+    {
+      "type": 0,
+      "id": "e0us6h4cx",
+      "name": "jltc_bg_4",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        19,
+        21
+      ]
+    },
+    {
+      "type": 0,
+      "id": "e0us6h4cz",
+      "name": "jltc_bg_2",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        224,
+        124
+      ]
+    },
+    {
+      "type": 0,
+      "id": "e0us6h4d0",
+      "name": "jltc_bg_17",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        765,
+        182
+      ]
+    },
+    {
+      "type": 0,
+      "id": "e0us6h4d1",
+      "name": "jltc_bg_18",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        765,
+        182
+      ]
+    },
+    {
+      "type": 0,
+      "id": "e0us6h4e5",
+      "name": "jltc_bg_14",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        256,
+        35
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mti7v",
+      "name": "bg_rewardwenzi2",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        46,
+        46
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas0",
+      "name": null,
+      "path": null,
+      "file": "atlas0.png",
+      "size": [
+        1024,
+        512
+      ]
+    }
+  ],
+  "sprites": [
+    {
+      "id": "e0us6h4d0",
+      "atlas": "atlas0",
+      "rect": [
+        1,
+        1,
+        765,
+        182
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "e0us6h4d1",
+      "atlas": "atlas0",
+      "rect": [
+        1,
+        185,
+        765,
+        182
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "e0us6h4cv",
+      "atlas": "atlas0",
+      "rect": [
+        1,
+        369,
+        259,
+        51
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "e0us6h4e5",
+      "atlas": "atlas0",
+      "rect": [
+        1,
+        422,
+        256,
+        35
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "e0us6h4cr",
+      "atlas": "atlas0",
+      "rect": [
+        768,
+        1,
+        238,
+        154
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "e0us6h4cz",
+      "atlas": "atlas0",
+      "rect": [
+        262,
+        369,
+        224,
+        124
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "e0us6h4cs",
+      "atlas": "atlas0",
+      "rect": [
+        768,
+        157,
+        185,
+        155
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "mti7v",
+      "atlas": "atlas0",
+      "rect": [
+        1,
+        459,
+        46,
+        46
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "urh51lyorli",
+      "atlas": "atlas0",
+      "rect": [
+        1008,
+        1,
+        10,
+        44
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "e0us6h4cx",
+      "atlas": "atlas0",
+      "rect": [
+        49,
+        459,
+        19,
+        21
+      ],
+      "rotated": 0
+    }
+  ],
+  "strings": [
+    "c1imbcrl",
+    "Base",
+    "ufgirfkm",
+    "Common",
+    "urh51lyorli",
+    "jltc_bg_11",
+    "/Images/",
+    "mti73",
+    "FriendBattle_MiniWindow",
+    "/",
+    "State",
+    "0",
+    "BattleRequest",
+    "1",
+    "BattleReceive",
+    "n0_mti7",
+    "bg",
+    "ui://ufgirfkmgauw4",
+    "e0us6h4cz",
+    "n38_e0us",
+    "n38",
+    "e0us6h4d1",
+    "n40_e0us",
+    "n40",
+    "e0us6h4d0",
+    "n39_e0us",
+    "n39",
+    "e0us6h4cv",
+    "n41_e0us",
+    "n41",
+    "n42_e0us",
+    "n42",
+    "n43_e0us",
+    "n43",
+    "e0us6h4cx",
+    "n44_e0us",
+    "n44",
+    "e0us6h4cs",
+    "n45_e0us",
+    "n45",
+    "e0us6h4cr",
+    "n46_e0us",
+    "n46",
+    "e0us6h4e5",
+    "n47_e0us",
+    "n47",
+    "psobw",
+    "n6_mti7",
+    "btn_cancel",
+    "front",
+    "取消",
+    "ui://ufgirfkmaban6h2po",
+    "n7_mti7",
+    "btn_refuse",
+    "拒绝",
+    "n8_mti7",
+    "btn_accept",
+    "接受",
+    "ui://ufgirfkmaban6h2pp",
+    "lagc6h289",
+    "n9_mti7",
+    "mainTitle",
+    "切磋挑战",
+    "n13_mti7",
+    "n13",
+    "ui://h9ifpmewmti7v",
+    "n3_mti7",
+    "lb_desc",
+    "ui://ufgirfkmqz27h255",
+    "【玩家名称六个字】对您发起了切磋请求，是否同意切磋？",
+    "n5_mti7",
+    "lb_time",
+    "15S",
+    "jltc_bg_10",
+    "jltc_bg_9",
+    "jltc_bg_6",
+    "jltc_bg_4",
+    "jltc_bg_2",
+    "jltc_bg_17",
+    "jltc_bg_18",
+    "jltc_bg_14",
+    "mti7v",
+    "bg_rewardwenzi2",
+    "atlas0",
+    "atlas0.png"
+  ]
+}

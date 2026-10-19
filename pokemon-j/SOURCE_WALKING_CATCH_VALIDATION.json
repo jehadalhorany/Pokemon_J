@@ -1,0 +1,10 @@
+{
+  "source": "FieldEudemonConfig Step, BoxId, trainerMonster and GlobalValue NeedFatigue",
+  "walkingWithoutEnter": true,
+  "standingDoesNotTrigger": true,
+  "zipCharged": 3,
+  "powerUnchanged": true,
+  "enemy": "pidgey",
+  "contextLost": false,
+  "pageErrors": []
+}

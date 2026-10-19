@@ -1,0 +1,21 @@
+NormalBattleWindow::SelectMenu
+000c ldloca.s local(0x0000)
+000e call Create
+0013 stfld <>t__builder
+0018 ldloca.s local(0x0000)
+001a ldarg.0 
+001b stfld <>4__this
+0020 ldloca.s local(0x0000)
+0022 ldarg.1 
+0023 stfld index
+0028 ldloca.s local(0x0000)
+002a ldc.i4.m1 
+002b stfld <>1__state
+0030 ldloca.s local(0x0000)
+0032 ldflda <>t__builder
+0037 ldloca.s local(0x0000)
+0039 call Start<.<SelectMenu>d__201>
+003e ldloca.s local(0x0000)
+0040 ldflda <>t__builder
+0045 call get_Task
+004a ret 

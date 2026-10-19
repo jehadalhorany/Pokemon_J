@@ -1,0 +1,7 @@
+import fs from 'node:fs';import path from 'node:path';import{fileURLToPath}from'node:url';
+const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');const edits=[];
+function patch(file,token,from,to){const p=path.join(root,file);let s=fs.readFileSync(p,'utf8');if(s.includes(token))return;if(!s.includes(from))throw Error('Unknown file shape; no files changed: '+file);edits.push([p,s,s.replace(from,to)]);}
+patch('public/native-package-loader.js',"'Battle','Friend','Chat','Mail'","'Eudemon','Battle'","'Eudemon','Battle','Friend','Chat','Mail'");
+patch('public/source-map.js',"['chatView','bg_chat'","['list_task','miniMap'","['chatView','bg_chat','list_mount','list_task','miniMap'");
+const p=path.join(root,'public/source-hud.js');let s=fs.readFileSync(p,'utf8');if(!s.includes("from './source-bottom.js'")){const anchor="root.getController('BagState').selectedPage='Close';refresh();});ready=true";if(!s.includes(anchor))throw Error('Unknown HUD shape; no files changed');edits.push([p,s,"import {bindSourceBottom} from './source-bottom.js';\n"+s.replace(anchor,"bindSourceBottom(root,bindings.state);"+anchor)]);}
+for(const[p,before,after]of edits){if(!fs.existsSync(p+'.before-bottom-v04'))fs.writeFileSync(p+'.before-bottom-v04',before);fs.writeFileSync(p,after);}console.log('Native bottom navigation installed. Social and assistant services are NOT implemented by this patch. Saves unchanged.');

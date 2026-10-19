@@ -1,0 +1,183 @@
+ShopWindow::SetShopConfigByType
+000c ldc.i4.0 
+000d call GetVipConfigByLevel
+0012 stloc.0 
+0013 ldc.i4.1 
+0014 call GetVipConfigByLevel
+0019 stloc.1 
+001a ldarg.1 
+001b ldc.i4.1 
+001c sub 
+001d switch [127, 148, 169, 238, 307, 397, 418, 484, 502, 554, 376, 554, 554, 554, 554, 554, 554, 554, 520, 554, 554, 538]
+007a br 554
+007f ldarg.0 
+0080 call get_Instance
+0085 callvirt GetIBuildingConfig
+008a stfld _shopConfigs
+008f br 554
+0094 ldarg.0 
+0095 call get_Instance
+009a callvirt GetIBuildingConfig
+009f stfld _shopConfigs
+00a4 br 554
+00a9 ldarg.0 
+00aa call get_Instance
+00af callvirt GetIBuildingConfig
+00b4 stfld _shopConfigs
+00b9 ldarg.0 
+00ba ldfld m_lb_tvip
+00bf ldstr 'ShopNumUpByVip'
+00c4 ldc.i4.1 
+00c5 newarr Object
+00ca dup 
+00cb ldc.i4.0 
+00cc ldloc.1 
+00cd callvirt get_VipShop
+00d2 ldloc.0 
+00d3 callvirt get_VipShop
+00d8 sub 
+00d9 box Int32
+00de stelem.ref 
+00df call LanguageHelper::GetText
+00e4 callvirt set_text
+00e9 br 554
+00ee ldarg.0 
+00ef call get_Instance
+00f4 callvirt GetIBuildingConfig
+00f9 stfld _shopConfigs
+00fe ldarg.0 
+00ff ldfld m_lb_tvip
+0104 ldstr 'ShopNumUpByVip'
+0109 ldc.i4.1 
+010a newarr Object
+010f dup 
+0110 ldc.i4.0 
+0111 ldloc.1 
+0112 callvirt get_HonourShop
+0117 ldloc.0 
+0118 callvirt get_HonourShop
+011d sub 
+011e box Int32
+0123 stelem.ref 
+0124 call LanguageHelper::GetText
+0129 callvirt set_text
+012e br 554
+0133 ldarg.0 
+0134 call get_Instance
+0139 callvirt GetIBuildingConfig
+013e stfld _shopConfigs
+0143 ldarg.0 
+0144 ldfld m_lb_tvip
+0149 ldstr 'ShopNumUpByVip'
+014e ldc.i4.1 
+014f newarr Object
+0154 dup 
+0155 ldc.i4.0 
+0156 ldloc.1 
+0157 callvirt get_FreeShop
+015c ldloc.0 
+015d callvirt get_FreeShop
+0162 sub 
+0163 box Int32
+0168 stelem.ref 
+0169 call LanguageHelper::GetText
+016e callvirt set_text
+0173 br 554
+0178 ldarg.0 
+0179 call get_Instance
+017e callvirt GetIBuildingConfig
+0183 stfld _shopConfigs
+0188 br 554
+018d ldarg.0 
+018e call get_Instance
+0193 callvirt GetIBuildingConfig
+0198 stfld _shopConfigs
+019d br 554
+01a2 ldarg.0 
+01a3 call get_Instance
+01a8 callvirt GetIBuildingConfig
+01ad stfld _shopConfigs
+01b2 ldarg.0 
+01b3 ldfld m_lb_tvip
+01b8 ldstr 'ShopNumUpByVip'
+01bd ldc.i4.1 
+01be newarr Object
+01c3 dup 
+01c4 ldc.i4.0 
+01c5 ldloc.1 
+01c6 callvirt get_RememberShop
+01cb ldloc.0 
+01cc callvirt get_RememberShop
+01d1 sub 
+01d2 box Int32
+01d7 stelem.ref 
+01d8 call LanguageHelper::GetText
+01dd callvirt set_text
+01e2 br.s 554
+01e4 ldarg.0 
+01e5 call get_Instance
+01ea callvirt GetIBuildingConfig
+01ef stfld _shopConfigs
+01f4 br.s 554
+01f6 ldarg.0 
+01f7 call get_Instance
+01fc callvirt GetIBuildingConfig
+0201 stfld _shopConfigs
+0206 br.s 554
+0208 ldarg.0 
+0209 call get_Instance
+020e callvirt GetIBuildingConfig
+0213 stfld _shopConfigs
+0218 br.s 554
+021a ldarg.0 
+021b call get_Instance
+0220 callvirt GetIBuildingConfig
+0225 stfld _shopConfigs
+022a ldarg.0 
+022b ldfld m_RefreshState
+0230 ldc.i4.1 
+0231 callvirt set_selectedIndex
+0236 ldarg.0 
+0237 ldfld m_PardRefresh
+023c ldc.i4.1 
+023d callvirt set_selectedIndex
+0242 ldarg.0 
+0243 ldfld _shopTypeConfig
+0248 callvirt get_IsPardReset
+024d ldc.i4.0 
+024e ble.s 616
+0250 ldarg.0 
+0251 ldfld m_PardRefresh
+0256 ldc.i4.0 
+0257 callvirt set_selectedIndex
+025c ldarg.0 
+025d ldarg.0 
+025e ldfld _shopTypeConfig
+0263 call ShopWindow::UpdateRefreshNum
+0268 ldarg.0 
+0269 ldfld _shopTypeConfig
+026e callvirt get_RefreshType
+0273 ldc.i4.1 
+0274 bne.un.s 642
+0276 ldarg.0 
+0277 ldfld m_RefreshState
+027c ldc.i4.0 
+027d callvirt set_selectedIndex
+0282 call get_Instance
+0287 ldarg.0 
+0288 ldfld _shopTypeConfig
+028d callvirt get_Function
+0292 callvirt Get
+0297 stloc.2 
+0298 ldarg.0 
+0299 ldfld m_lb_ttime
+029e ldloc.2 
+029f callvirt get_Name
+02a4 call Empty<0x1c>
+02a9 call LanguageHelper::GetText
+02ae ldstr 'RefreshCountdown'
+02b3 call Empty<0x1c>
+02b8 call LanguageHelper::GetText
+02bd call Concat
+02c2 callvirt set_text
+02c7 ret 

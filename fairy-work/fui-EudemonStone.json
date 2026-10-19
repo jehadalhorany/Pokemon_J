@@ -1,0 +1,1112 @@
+{
+  "items": [
+    {
+      "type": 0,
+      "id": "p1dg10",
+      "name": "sc_qwcz",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        425,
+        147
+      ]
+    },
+    {
+      "type": 0,
+      "id": "p1dg12",
+      "name": "cssb_bg_4",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        128,
+        129
+      ]
+    },
+    {
+      "type": 0,
+      "id": "p1dg13",
+      "name": "cssb_bg_5",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        645,
+        646
+      ]
+    },
+    {
+      "type": 0,
+      "id": "p1dg2",
+      "name": "cssb_bg_1",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        910,
+        512
+      ]
+    },
+    {
+      "type": 0,
+      "id": "p1dg4",
+      "name": "cssb_bg_3",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        540,
+        512
+      ]
+    },
+    {
+      "type": 0,
+      "id": "p1dg5",
+      "name": "cssb_bg_gx",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        251,
+        211
+      ]
+    },
+    {
+      "type": 0,
+      "id": "p1dg6",
+      "name": "cssb_bth_back",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        312,
+        76
+      ]
+    },
+    {
+      "type": 0,
+      "id": "p1dgw",
+      "name": "cssb_ic_mb1",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        219,
+        179
+      ]
+    },
+    {
+      "type": 0,
+      "id": "sudh1e",
+      "name": "cssbg_bg_3",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        63,
+        46
+      ]
+    },
+    {
+      "type": 0,
+      "id": "sudh1g",
+      "name": "yslx_ic_arrow",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        136,
+        91
+      ]
+    },
+    {
+      "type": 0,
+      "id": "sudh1i",
+      "name": "sjsd_btn_1",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        502,
+        138
+      ]
+    },
+    {
+      "type": 3,
+      "id": "mq9l1b",
+      "name": "EudemonStoneInfoComponent",
+      "path": "/Component/",
+      "file": null,
+      "size": [
+        1127,
+        950
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "p1dg1",
+      "name": "EudemonStone_Window",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "p1dg17",
+      "name": "StoneTextPanel",
+      "path": "/Component/",
+      "file": null,
+      "size": [
+        494,
+        296
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "p1dg18",
+      "name": "StoneLabelBtn",
+      "path": "/Component/",
+      "file": null,
+      "size": [
+        120,
+        42
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "p1dgs",
+      "name": "StoneComponent",
+      "path": "/Component/",
+      "file": null,
+      "size": [
+        224,
+        214
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "p1dgt",
+      "name": "StoneCloseBtn",
+      "path": "/Component/",
+      "file": null,
+      "size": [
+        312,
+        76
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "p1dgx",
+      "name": "EudemonStoneInfo_Window",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "p1dgz",
+      "name": "StoneUpBtn",
+      "path": "/Component/",
+      "file": null,
+      "size": [
+        287,
+        98
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "sudh1h",
+      "name": "StoneTextAttr2Panel",
+      "path": "/Component/",
+      "file": null,
+      "size": [
+        494,
+        296
+      ],
+      "extension": 0
+    },
+    {
+      "type": 0,
+      "id": "p1dg14",
+      "name": "xfjnh_ic_lock",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        37,
+        48
+      ]
+    },
+    {
+      "type": 0,
+      "id": "p1dg7",
+      "name": "cssb_ic_1",
+      "path": "/icon/",
+      "file": null,
+      "size": [
+        439,
+        358
+      ]
+    },
+    {
+      "type": 0,
+      "id": "p1dg8",
+      "name": "cssb_ic_7",
+      "path": "/icon/",
+      "file": null,
+      "size": [
+        439,
+        358
+      ]
+    },
+    {
+      "type": 0,
+      "id": "p1dg9",
+      "name": "cssb_ic_6",
+      "path": "/icon/",
+      "file": null,
+      "size": [
+        439,
+        358
+      ]
+    },
+    {
+      "type": 0,
+      "id": "p1dga",
+      "name": "cssb_ic_5",
+      "path": "/icon/",
+      "file": null,
+      "size": [
+        439,
+        358
+      ]
+    },
+    {
+      "type": 0,
+      "id": "p1dgb",
+      "name": "cssb_ic_4",
+      "path": "/icon/",
+      "file": null,
+      "size": [
+        439,
+        358
+      ]
+    },
+    {
+      "type": 0,
+      "id": "p1dgc",
+      "name": "cssb_ic_3",
+      "path": "/icon/",
+      "file": null,
+      "size": [
+        439,
+        358
+      ]
+    },
+    {
+      "type": 0,
+      "id": "p1dgd",
+      "name": "cssb_ic_2",
+      "path": "/icon/",
+      "file": null,
+      "size": [
+        439,
+        358
+      ]
+    },
+    {
+      "type": 0,
+      "id": "p1dgf",
+      "name": "cssb_ic_8",
+      "path": "/icon/",
+      "file": null,
+      "size": [
+        439,
+        358
+      ]
+    },
+    {
+      "type": 0,
+      "id": "p1dgg",
+      "name": "cssb_ic_18",
+      "path": "/icon/",
+      "file": null,
+      "size": [
+        439,
+        358
+      ]
+    },
+    {
+      "type": 0,
+      "id": "p1dgh",
+      "name": "cssb_ic_16",
+      "path": "/icon/",
+      "file": null,
+      "size": [
+        439,
+        358
+      ]
+    },
+    {
+      "type": 0,
+      "id": "p1dgi",
+      "name": "cssb_ic_15",
+      "path": "/icon/",
+      "file": null,
+      "size": [
+        439,
+        358
+      ]
+    },
+    {
+      "type": 0,
+      "id": "p1dgj",
+      "name": "cssb_ic_14",
+      "path": "/icon/",
+      "file": null,
+      "size": [
+        439,
+        358
+      ]
+    },
+    {
+      "type": 0,
+      "id": "p1dgk",
+      "name": "cssb_ic_13",
+      "path": "/icon/",
+      "file": null,
+      "size": [
+        439,
+        358
+      ]
+    },
+    {
+      "type": 0,
+      "id": "p1dgl",
+      "name": "cssb_ic_12",
+      "path": "/icon/",
+      "file": null,
+      "size": [
+        439,
+        357
+      ]
+    },
+    {
+      "type": 0,
+      "id": "p1dgm",
+      "name": "cssb_ic_11",
+      "path": "/icon/",
+      "file": null,
+      "size": [
+        439,
+        358
+      ]
+    },
+    {
+      "type": 0,
+      "id": "p1dgn",
+      "name": "cssb_ic_10",
+      "path": "/icon/",
+      "file": null,
+      "size": [
+        439,
+        358
+      ]
+    },
+    {
+      "type": 0,
+      "id": "p1dgo",
+      "name": "cssb_ic_17",
+      "path": "/icon/",
+      "file": null,
+      "size": [
+        439,
+        358
+      ]
+    },
+    {
+      "type": 0,
+      "id": "p1dgp",
+      "name": "cssb_ic_9",
+      "path": "/icon/",
+      "file": null,
+      "size": [
+        439,
+        358
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas0",
+      "name": null,
+      "path": null,
+      "file": "atlas0.png",
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas_p1dg4",
+      "name": null,
+      "path": null,
+      "file": "atlas_p1dg4.png",
+      "size": [
+        1024,
+        512
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas_p1dg2",
+      "name": null,
+      "path": null,
+      "file": "atlas_p1dg2.png",
+      "size": [
+        1024,
+        512
+      ]
+    }
+  ],
+  "sprites": [
+    {
+      "id": "p1dg13",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        0,
+        645,
+        646
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "sudh1i",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        648,
+        138,
+        502
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "p1dg7",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        1152,
+        358,
+        439
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "p1dgp",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        1593,
+        358,
+        439
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "p1dgo",
+      "atlas": "atlas0",
+      "rect": [
+        140,
+        648,
+        358,
+        439
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "p1dgn",
+      "atlas": "atlas0",
+      "rect": [
+        360,
+        1089,
+        358,
+        439
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "p1dgm",
+      "atlas": "atlas0",
+      "rect": [
+        500,
+        648,
+        358,
+        439
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "p1dgk",
+      "atlas": "atlas0",
+      "rect": [
+        360,
+        1530,
+        358,
+        439
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "p1dgj",
+      "atlas": "atlas0",
+      "rect": [
+        647,
+        0,
+        358,
+        439
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "p1dgi",
+      "atlas": "atlas0",
+      "rect": [
+        720,
+        1089,
+        358,
+        439
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "p1dgl",
+      "atlas": "atlas0",
+      "rect": [
+        720,
+        1530,
+        357,
+        439
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "p1dgg",
+      "atlas": "atlas0",
+      "rect": [
+        1079,
+        1530,
+        358,
+        439
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "p1dgf",
+      "atlas": "atlas0",
+      "rect": [
+        860,
+        441,
+        358,
+        439
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "p1dgd",
+      "atlas": "atlas0",
+      "rect": [
+        1080,
+        0,
+        358,
+        439
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "p1dgc",
+      "atlas": "atlas0",
+      "rect": [
+        1440,
+        0,
+        358,
+        439
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "p1dgb",
+      "atlas": "atlas0",
+      "rect": [
+        1080,
+        882,
+        358,
+        439
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "p1dga",
+      "atlas": "atlas0",
+      "rect": [
+        1439,
+        441,
+        358,
+        439
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "p1dgh",
+      "atlas": "atlas0",
+      "rect": [
+        1439,
+        1323,
+        439,
+        358
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "p1dg9",
+      "atlas": "atlas0",
+      "rect": [
+        1440,
+        1683,
+        439,
+        358
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "p1dg8",
+      "atlas": "atlas0",
+      "rect": [
+        1440,
+        882,
+        358,
+        439
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "p1dg10",
+      "atlas": "atlas0",
+      "rect": [
+        1220,
+        441,
+        146,
+        425
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "p1dg6",
+      "atlas": "atlas0",
+      "rect": [
+        1080,
+        1323,
+        312,
+        76
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "p1dg5",
+      "atlas": "atlas0",
+      "rect": [
+        1799,
+        441,
+        211,
+        251
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "p1dgw",
+      "atlas": "atlas0",
+      "rect": [
+        1799,
+        694,
+        219,
+        179
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "sudh1g",
+      "atlas": "atlas0",
+      "rect": [
+        647,
+        441,
+        91,
+        136
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "p1dg12",
+      "atlas": "atlas0",
+      "rect": [
+        860,
+        882,
+        128,
+        129
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "sudh1e",
+      "atlas": "atlas0",
+      "rect": [
+        140,
+        1089,
+        63,
+        46
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "p1dg14",
+      "atlas": "atlas0",
+      "rect": [
+        1394,
+        1323,
+        37,
+        48
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "p1dg4",
+      "atlas": "atlas_p1dg4",
+      "rect": [
+        0,
+        0,
+        540,
+        512
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "p1dg2",
+      "atlas": "atlas_p1dg2",
+      "rect": [
+        0,
+        0,
+        910,
+        512
+      ],
+      "rotated": 0
+    }
+  ],
+  "strings": [
+    "c1imbcrl",
+    "Base",
+    "ufgirfkm",
+    "Common",
+    "j5ubmlq8",
+    "Gashapon",
+    "cyrayt3h",
+    "Item",
+    "p1dg10",
+    "sc_qwcz",
+    "/Image/",
+    "p1dg12",
+    "cssb_bg_4",
+    "p1dg13",
+    "cssb_bg_5",
+    "p1dg2",
+    "cssb_bg_1",
+    "p1dg4",
+    "cssb_bg_3",
+    "p1dg5",
+    "cssb_bg_gx",
+    "p1dg6",
+    "cssb_bth_back",
+    "p1dgw",
+    "cssb_ic_mb1",
+    "sudh1e",
+    "cssbg_bg_3",
+    "sudh1g",
+    "yslx_ic_arrow",
+    "sudh1i",
+    "sjsd_btn_1",
+    "mq9l1b",
+    "EudemonStoneInfoComponent",
+    "/Component/",
+    "status",
+    "0",
+    "normal",
+    "1",
+    "max",
+    "n150_p1dg",
+    "n150",
+    "n153_p1dg",
+    "n153",
+    "n154_p1dg",
+    "n154",
+    "n155_p1dg",
+    "n155",
+    "n184_sudh",
+    "n184",
+    "n185_sudh",
+    "n185",
+    "n166_p1dg",
+    "list_item",
+    "ui://ufgirfkmewfrh22n",
+    "cbjo6h4lo",
+    "n167_p1dg",
+    "n167",
+    "n171_p1dg",
+    "lb_title1",
+    "龙属性精灵能力值提升：",
+    "n172_p1dg",
+    "lb_title2",
+    "额外龙属性精灵加成：",
+    "n173_p1dg",
+    "lb_title3",
+    "升级消耗：",
+    "n169_p1dg",
+    "lv_before",
+    "LV.50",
+    "n170_p1dg",
+    "lv_after",
+    "LV.50",
+    "sudh1h",
+    "n174_p1dg",
+    "lab_attr",
+    "color",
+    "size",
+    "11",
+    "n179_p1dg",
+    "lab_attr2",
+    "p1dg17",
+    "n176_p1dg",
+    "lab_other",
+    "p1dgz",
+    "n158_p1dg",
+    "btn_up",
+    "升级",
+    "ui://4frj648zsudh1i",
+    "n177_p1dg",
+    "lb_max",
+    "已满级",
+    "n178_p1dg",
+    "list_lab",
+    "ui://4frj648zp1dg18",
+    "n180_mq9l",
+    "lb_successRate",
+    "成功率：80%",
+    "p1dg1",
+    "EudemonStone_Window",
+    "/",
+    "details",
+    "n68_w1gs",
+    "n68",
+    "se4ph26g",
+    "n148_p1dg",
+    "Model",
+    "p1dgt",
+    "n147_p1dg",
+    "btn_back",
+    "p1dgs",
+    "n129_p1dg",
+    "stone_0",
+    "n130_p1dg",
+    "stone_1",
+    "n131_p1dg",
+    "stone_2",
+    "n132_p1dg",
+    "stone_3",
+    "n133_p1dg",
+    "stone_4",
+    "n134_p1dg",
+    "stone_5",
+    "n135_p1dg",
+    "stone_6",
+    "n136_p1dg",
+    "stone_7",
+    "n137_p1dg",
+    "stone_8",
+    "n138_p1dg",
+    "stone_9",
+    "n139_p1dg",
+    "stone_10",
+    "n140_p1dg",
+    "stone_11",
+    "n141_p1dg",
+    "stone_12",
+    "n142_p1dg",
+    "stone_13",
+    "n143_p1dg",
+    "stone_14",
+    "n144_p1dg",
+    "stone_15",
+    "n145_p1dg",
+    "stone_16",
+    "n146_p1dg",
+    "stone_17",
+    "n128_p1dg",
+    "list",
+    "ui://4frj648zp1dgs",
+    "n149_mq9l",
+    "info",
+    "n150_mq9l",
+    "point",
+    "psobw",
+    "n152_sudh",
+    "btn_left",
+    "ui://4frj648zsudh1g",
+    "n153_sudh",
+    "btn_right",
+    "StoneTextPanel",
+    "n0_aban",
+    "lb_desc",
+    "p1dg18",
+    "StoneLabelBtn",
+    "button",
+    "up",
+    "down",
+    "2",
+    "over",
+    "3",
+    "selectedOver",
+    "n7_i3m6",
+    "title",
+    "0/1",
+    "StoneComponent",
+    "unShow",
+    "showAndNormal",
+    "showAndLock",
+    "showAndMax",
+    "4",
+    "showAndBack",
+    "n127_p1dg",
+    "sp_icon",
+    "ui://4frj648zp1dgn",
+    "n128",
+    "lb_name",
+    "传说石板",
+    "lb_lv",
+    "LV.10",
+    "n133",
+    "h1wsh268",
+    "n134_mq9l",
+    "RedDot",
+    "mode",
+    "StoneCloseBtn",
+    "textColor",
+    "red",
+    "blue",
+    "orange",
+    "green",
+    "n4_j398",
+    "icon",
+    "ui://4frj648zp1dg6",
+    "ui://j5ubmlq8eqxpo",
+    "ui://j5ubmlq8eqxpn",
+    "ui://j5ubmlq8eqxpq",
+    "n6_p1dg",
+    "sp_title",
+    "返回",
+    "p1dgx",
+    "EudemonStoneInfo_Window",
+    "n160_p1dg",
+    "n160",
+    "n161_p1dg",
+    "n161",
+    "n165_p1dg",
+    "8yc42",
+    "n149_p1dg",
+    "bg",
+    "n162_p1dg",
+    "ui://4frj648zp1dg7",
+    "n163_p1dg",
+    "传说石板",
+    "n164_p1dg",
+    "LV.10",
+    "t0",
+    "t1",
+    "StoneUpBtn",
+    "Type",
+    "Normal",
+    "Icon",
+    "n3_psob",
+    "ui://4frj648zp1dg10",
+    "n4_psob",
+    "lb_title",
+    "前往",
+    "n6_cqef",
+    "n7_eoyk",
+    "icon_type",
+    "ui://cyrayt3hhj996h40q",
+    "n8_eoyk",
+    "lb_icon",
+    "99",
+    "StoneTextAttr2Panel",
+    "write",
+    "black",
+    "5",
+    "blue2",
+    "9",
+    "black2",
+    "blue3",
+    "size24",
+    "size28",
+    "10",
+    "size30",
+    "size36",
+    "13",
+    "size46",
+    "p1dg14",
+    "xfjnh_ic_lock",
+    "p1dg7",
+    "cssb_ic_1",
+    "/icon/",
+    "p1dg8",
+    "cssb_ic_7",
+    "p1dg9",
+    "cssb_ic_6",
+    "p1dga",
+    "cssb_ic_5",
+    "p1dgb",
+    "cssb_ic_4",
+    "p1dgc",
+    "cssb_ic_3",
+    "p1dgd",
+    "cssb_ic_2",
+    "p1dgf",
+    "cssb_ic_8",
+    "p1dgg",
+    "cssb_ic_18",
+    "p1dgh",
+    "cssb_ic_16",
+    "p1dgi",
+    "cssb_ic_15",
+    "p1dgj",
+    "cssb_ic_14",
+    "p1dgk",
+    "cssb_ic_13",
+    "p1dgl",
+    "cssb_ic_12",
+    "p1dgm",
+    "cssb_ic_11",
+    "p1dgn",
+    "cssb_ic_10",
+    "p1dgo",
+    "cssb_ic_17",
+    "p1dgp",
+    "cssb_ic_9",
+    "atlas0",
+    "atlas0.png",
+    "atlas_p1dg4",
+    "atlas_p1dg4.png",
+    "atlas_p1dg2",
+    "atlas_p1dg2.png"
+  ]
+}

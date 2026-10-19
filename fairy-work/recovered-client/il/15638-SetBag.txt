@@ -1,0 +1,42 @@
+MainWindow::SetBag
+000c ldarg.0 
+000d ldfld m_BagState
+0012 ldc.i4.1 
+0013 callvirt set_selectedIndex
+0018 ldarg.0 
+0019 ldfld m_btn_menu
+001e ldfld m_RedDot
+0023 ldc.i4.1 
+0024 callvirt set_visible
+0029 ldarg.0 
+002a ldc.i4.0 
+002b stfld _isShowMenu
+0030 ldarg.0 
+0031 ldfld m_bg_bag
+0036 call get_inst
+003b callvirt get_width
+0040 ldc.r4 1.0
+0045 ldsfld scaleFactor
+004a div 
+004b mul 
+004c ldarg.0 
+004d ldfld m_bg_bag
+0052 callvirt get_width
+0057 add 
+0058 ldarg.0 
+0059 ldfld m_img_menu
+005e callvirt get_width
+0063 sub 
+0064 callvirt set_x
+0069 ldarg.0 
+006a ldfld m_bg_bag
+006f callvirt InvalidateBatchingState
+0074 ldarg.0 
+0075 ldfld m_g_box
+007a ldc.i4.0 
+007b callvirt set_visible
+0080 ldarg.0 
+0081 ldfld m_btn_menu
+0086 ldc.i4.1 
+0087 callvirt set_visible
+008c ret 

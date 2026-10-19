@@ -1,0 +1,5 @@
+ShopWindow::TabRenderListItem
+0001 ldarg.2 
+0002 castclass GButton
+0007 pop 
+0008 ret 

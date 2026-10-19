@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "type": 9,
+      "id": "tz0dg",
+      "name": "spine_tree",
+      "path": "/",
+      "file": "spine_tree.json",
+      "size": [
+        1693,
+        1080
+      ]
+    }
+  ],
+  "sprites": [],
+  "strings": [
+    "tz0dg",
+    "spine_tree",
+    "/",
+    "spine_tree.json"
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "role": {
+    "window": "Role/RoleCenter_Window",
+    "name": "Trainer",
+    "level": 5,
+    "collected": 2
+  },
+  "team": {
+    "window": "Eudemon/Eudemon_Window",
+    "selected": "dc14b932-bdff-470e-b4e7-d1f6448c48ed",
+    "species": "bulbasaur",
+    "count": 2,
+    "team": 2,
+    "box": 0,
+    "page": "eudemon_base"
+  },
+  "physicalHeadClick": true,
+  "physicalTeamClick": true,
+  "physicalTeamSelection": true,
+  "tabs": [
+    {
+      "page": "eudemon_skill",
+      "rows": [
+        {
+          "text": "",
+          "data": {
+            "id": 10033,
+            "name": "Tackle",
+            "pp": 35
+          },
+          "fields": [
+            {
+              "name": "skill_bg",
+              "text": "Normal"
+            },
+            {
+              "name": "lb_name",
+              "text": "Tackle"
+            },
+            {
+              "name": "lb_pp",
+              "text": "PP 35/35"
+            }
+          ]
+        },
+        {
+          "text": "",
+          "data": {
+            "id": 10045,
+            "name": "Growl",
+            "pp": 40
+          },
+          "fields": [
+            {
+              "name": "skill_bg",
+              "text": "Normal"
+            },
+            {
+              "name": "lb_name",
+              "text": "Growl"
+            },
+            {
+              "name": "lb_pp",
+              "text": "PP 40/40"
+            }
+          ]
+        },
+        {
+          "text": "",
+          "data": {
+            "id": 10022,
+            "name": "Vine Whip",
+            "pp": 25
+          },
+          "fields": [
+            {
+              "name": "skill_bg",
+              "text": "Grass"
+            },
+            {
+              "name": "lb_name",
+              "text": "Vine Whip"
+            },
+            {
+              "name": "lb_pp",
+              "text": "PP 25/25"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": "eudemon_individual",
+      "rows": [
+        {
+          "text": "0/1",
+          "fields": [
+            {
+              "name": "title",
+              "text": "Hp 9"
+            }
+          ]
+        },
+        {
+          "text": "0/1",
+          "fields": [
+            {
+              "name": "title",
+              "text": "Atk 17"
+            }
+          ]
+        },
+        {
+          "text": "0/1",
+          "fields": [
+            {
+              "name": "title",
+              "text": "Def 28"
+            }
+          ]
+        },
+        {
+          "text": "0/1",
+          "fields": [
+            {
+              "name": "title",
+              "text": "S.Atk 5"
+            }
+          ]
+        },
+        {
+          "text": "0/1",
+          "fields": [
+            {
+              "name": "title",
+              "text": "S.Def 26"
+            }
+          ]
+        },
+        {
+          "text": "0/1",
+          "fields": [
+            {
+              "name": "title",
+              "text": "Speed 15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": "eudemon_effort",
+      "rows": [
+        {
+          "text": "0/1",
+          "fields": [
+            {
+              "name": "title",
+              "text": "Hp 0"
+            }
+          ]
+        },
+        {
+          "text": "0/1",
+          "fields": [
+            {
+              "name": "title",
+              "text": "Atk 0"
+            }
+          ]
+        },
+        {
+          "text": "0/1",
+          "fields": [
+            {
+              "name": "title",
+              "text": "Def 0"
+            }
+          ]
+        },
+        {
+          "text": "0/1",
+          "fields": [
+            {
+              "name": "title",
+              "text": "S.Atk 0"
+            }
+          ]
+        },
+        {
+          "text": "0/1",
+          "fields": [
+            {
+              "name": "title",
+              "text": "S.Def 0"
+            }
+          ]
+        },
+        {
+          "text": "0/1",
+          "fields": [
+            {
+              "name": "title",
+              "text": "Speed 0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": "eudemon_base",
+      "rows": [
+        {
+          "text": null,
+          "fields": [
+            {
+              "name": "lb_prop_name",
+              "text": "Hp"
+            },
+            {
+              "name": "lb_prop_val",
+              "text": "19"
+            }
+          ]
+        },
+        {
+          "text": null,
+          "fields": [
+            {
+              "name": "lb_prop_name",
+              "text": "Atk"
+            },
+            {
+              "name": "lb_prop_val",
+              "text": "10"
+            }
+          ]
+        },
+        {
+          "text": null,
+          "fields": [
+            {
+              "name": "lb_prop_name",
+              "text": "Def"
+            },
+            {
+              "name": "lb_prop_val",
+              "text": "11"
+            }
+          ]
+        },
+        {
+          "text": null,
+          "fields": [
+            {
+              "name": "lb_prop_name",
+              "text": "S.Atk"
+            },
+            {
+              "name": "lb_prop_val",
+              "text": "11"
+            }
+          ]
+        },
+        {
+          "text": null,
+          "fields": [
+            {
+              "name": "lb_prop_name",
+              "text": "S.Def"
+            },
+            {
+              "name": "lb_prop_val",
+              "text": "13"
+            }
+          ]
+        },
+        {
+          "text": null,
+          "fields": [
+            {
+              "name": "lb_prop_name",
+              "text": "Speed"
+            },
+            {
+              "name": "lb_prop_val",
+              "text": "9"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "escape": true,
+  "pageErrors": []
+}

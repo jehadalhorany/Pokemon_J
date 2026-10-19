@@ -1,0 +1,18 @@
+MainWindow::OnClickbtn_friend
+000c ldloca.s local(0x0000)
+000e call Create
+0013 stfld <>t__builder
+0018 ldloca.s local(0x0000)
+001a ldarg.0 
+001b stfld <>4__this
+0020 ldloca.s local(0x0000)
+0022 ldc.i4.m1 
+0023 stfld <>1__state
+0028 ldloca.s local(0x0000)
+002a ldflda <>t__builder
+002f ldloca.s local(0x0000)
+0031 call Start<.<OnClickbtn_friend>d__249>
+0036 ldloca.s local(0x0000)
+0038 ldflda <>t__builder
+003d call get_Task
+0042 ret 

@@ -1,0 +1,28 @@
+{
+  "results": [
+    {
+      "mainMenuBagPhysicalClick": true
+    },
+    {
+      "module": "source-bag",
+      "opened": true,
+      "escape": true
+    },
+    {
+      "module": "source-shop",
+      "opened": true,
+      "escape": true
+    },
+    {
+      "module": "source-dex",
+      "opened": true,
+      "escape": true
+    },
+    {
+      "module": "source-resources",
+      "opened": true,
+      "escape": true
+    }
+  ],
+  "pageErrors": []
+}

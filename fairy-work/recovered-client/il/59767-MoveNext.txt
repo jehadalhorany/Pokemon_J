@@ -1,0 +1,112 @@
+<OnClickbtn_friend>d__249::MoveNext
+000c ldarg.0 
+000d ldfld <>1__state
+0012 stloc.0 
+0013 ldarg.0 
+0014 ldfld <>4__this
+0019 stloc.1 
+001a ldloc.0 
+001b brfalse 247
+0020 ldloc.1 
+0021 call DomainScene
+0026 callvirt GetComponent<ET.Client.RedComponent>
+002b stloc.2 
+002c ldloc.2 
+002d ldc.i4 60010
+0032 conv.i8 
+0033 ldc.i4 60000
+0038 conv.i8 
+0039 call RedComponentSystem::GetRedDotNodeValue
+003e ldc.i4.0 
+003f ble.s 111
+0041 ldsfld Instance
+0046 ldloca.s local(0x0003)
+0048 initobj FriendDto
+004e ldloca.s local(0x0003)
+0050 ldc.i4.3 
+0051 stfld FriendModuleListType
+0056 ldloca.s local(0x0003)
+0058 ldc.i4.0 
+0059 stfld Mode
+005e ldloc.3 
+005f box FriendDto
+0064 call UIComponentSystem::OpenWindow<ET.Client.Friend.FriendWindow>
+0069 pop 
+006a leave 310
+006f ldloc.2 
+0070 ldc.i4 60001
+0075 conv.i8 
+0076 ldc.i4 60000
+007b conv.i8 
+007c call RedComponentSystem::GetRedDotNodeValue
+0081 ldc.i4.0 
+0082 ble.s 178
+0084 ldsfld Instance
+0089 ldloca.s local(0x0003)
+008b initobj FriendDto
+0091 ldloca.s local(0x0003)
+0093 ldc.i4.1 
+0094 stfld FriendModuleListType
+0099 ldloca.s local(0x0003)
+009b ldc.i4.0 
+009c stfld Mode
+00a1 ldloc.3 
+00a2 box FriendDto
+00a7 call UIComponentSystem::OpenWindow<ET.Client.Friend.FriendWindow>
+00ac pop 
+00ad leave 310
+00b2 ldsfld Instance
+00b7 call UIComponentSystem::OpenWindow<ET.Client.Friend.FriendWindow>
+00bc pop 
+00bd call get_CompletedTask
+00c2 stloc.s local(0x0005)
+00c4 ldloca.s local(0x0005)
+00c6 call GetAwaiter
+00cb stloc.s local(0x0004)
+00cd ldloca.s local(0x0004)
+00cf call get_IsCompleted
+00d4 brtrue.s 276
+00d6 ldarg.0 
+00d7 ldc.i4.0 
+00d8 dup 
+00d9 stloc.0 
+00da stfld <>1__state
+00df ldarg.0 
+00e0 ldloc.s local(0x0004)
+00e2 stfld <>u__1
+00e7 ldarg.0 
+00e8 ldflda <>t__builder
+00ed ldloca.s local(0x0004)
+00ef ldarg.0 
+00f0 call AwaitUnsafeOnCompleted<ET.ETTaskCompleted,.<OnClickbtn_friend>d__249>
+00f5 leave.s 329
+00f7 ldarg.0 
+00f8 ldfld <>u__1
+00fd stloc.s local(0x0004)
+00ff ldarg.0 
+0100 ldflda <>u__1
+0105 initobj ETTaskCompleted
+010b ldarg.0 
+010c ldc.i4.m1 
+010d dup 
+010e stloc.0 
+010f stfld <>1__state
+0114 ldloca.s local(0x0004)
+0116 call GetResult
+011b leave.s 310
+011d stloc.s local(0x0006)
+011f ldarg.0 
+0120 ldc.i4.s -2
+0122 stfld <>1__state
+0127 ldarg.0 
+0128 ldflda <>t__builder
+012d ldloc.s local(0x0006)
+012f call SetException
+0134 leave.s 329
+0136 ldarg.0 
+0137 ldc.i4.s -2
+0139 stfld <>1__state
+013e ldarg.0 
+013f ldflda <>t__builder
+0144 call SetResult
+0149 ret 

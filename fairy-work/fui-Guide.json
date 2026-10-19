@@ -1,0 +1,398 @@
+{
+  "items": [
+    {
+      "type": 3,
+      "id": "p0l38",
+      "name": "GuideItem",
+      "path": "/",
+      "file": null,
+      "size": [
+        148,
+        117
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "p0l39",
+      "name": "Guide_Guide",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "vn8zl",
+      "name": "Ban_Guide",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 0,
+      "id": "i3m66h4j1",
+      "name": "yd_h",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        51,
+        70
+      ]
+    },
+    {
+      "type": 0,
+      "id": "p0l3a",
+      "name": "arrows_01",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        162,
+        300
+      ]
+    },
+    {
+      "type": 0,
+      "id": "p0l3b",
+      "name": "glow_01",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        128,
+        128
+      ]
+    },
+    {
+      "type": 0,
+      "id": "p0l3c",
+      "name": "light_03",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        256,
+        256
+      ]
+    },
+    {
+      "type": 0,
+      "id": "p0l3d",
+      "name": "light_04",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        256,
+        256
+      ]
+    },
+    {
+      "type": 0,
+      "id": "p0l3e",
+      "name": "light_05",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        256,
+        256
+      ]
+    },
+    {
+      "type": 0,
+      "id": "p0l3f",
+      "name": "glow_05",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        128,
+        128
+      ]
+    },
+    {
+      "type": 0,
+      "id": "p0l3g",
+      "name": "glow_06",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        128,
+        128
+      ]
+    },
+    {
+      "type": 0,
+      "id": "p0l3h",
+      "name": "glow_07",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        256,
+        256
+      ]
+    },
+    {
+      "type": 0,
+      "id": "p0l3j",
+      "name": "TY_XSYDjiantou",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        33,
+        28
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas0",
+      "name": null,
+      "path": null,
+      "file": "atlas0.png",
+      "size": [
+        1024,
+        512
+      ]
+    }
+  ],
+  "sprites": [
+    {
+      "id": "p0l3a",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        0,
+        161,
+        299
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "p0l3h",
+      "atlas": "atlas0",
+      "rect": [
+        163,
+        0,
+        256,
+        256
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "p0l3c",
+      "atlas": "atlas0",
+      "rect": [
+        163,
+        258,
+        255,
+        250
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "p0l3d",
+      "atlas": "atlas0",
+      "rect": [
+        421,
+        0,
+        253,
+        255
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "p0l3e",
+      "atlas": "atlas0",
+      "rect": [
+        420,
+        258,
+        228,
+        248
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "p0l3f",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        301,
+        126,
+        126
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "p0l3b",
+      "atlas": "atlas0",
+      "rect": [
+        650,
+        257,
+        110,
+        115
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "p0l3g",
+      "atlas": "atlas0",
+      "rect": [
+        650,
+        374,
+        84,
+        84
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "i3m66h4j1",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        429,
+        51,
+        70
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "p0l3j",
+      "atlas": "atlas0",
+      "rect": [
+        128,
+        301,
+        33,
+        28
+      ],
+      "rotated": 0
+    }
+  ],
+  "strings": [
+    "ufgirfkm",
+    "Common",
+    "p0l38",
+    "GuideItem",
+    "/",
+    "style",
+    "0",
+    "style0",
+    "1",
+    "style1",
+    "2",
+    "style2",
+    "State",
+    "Normal",
+    "Left",
+    "3",
+    "Center",
+    "4",
+    "Right",
+    "ArrowType",
+    "5",
+    "None",
+    "Down",
+    "UP",
+    "anim_down",
+    "anim_Up",
+    "anim_Left",
+    "anim_Right",
+    "LabelType",
+    "6",
+    "Left1",
+    "Right1",
+    "Left2",
+    "Right2",
+    "p0l3a",
+    "n15_xwgx",
+    "n15",
+    "p0l3d",
+    "n12_xwgx",
+    "n12",
+    "p0l3c",
+    "n13_xwgx",
+    "n13",
+    "p0l3e",
+    "n14_xwgx",
+    "n14",
+    "p0l3b",
+    "n16_xwgx",
+    "n16",
+    "n17_tm66",
+    "n17",
+    "p0l3h",
+    "n19_fi00",
+    "n19",
+    "n21_fi00",
+    "n21",
+    "n18_tm5n",
+    "n18",
+    "n22_ntt2",
+    "n22",
+    "ui://ufgirfkmi3m66h4iy",
+    "n23_ntt2",
+    "n23",
+    "ui://ueefnhx8p0l3j",
+    "i3m66h4iz",
+    "n26_i3m6",
+    "n26",
+    "n24_ntt2",
+    "lb_desc",
+    "点击打开精灵升级界面",
+    "i3m66h4j1",
+    "n27_i3m6",
+    "n27",
+    "anim_click",
+    "effect_focus",
+    "anim",
+    "p0l39",
+    "Guide_Guide",
+    "GuideType",
+    "Wait",
+    "BgState",
+    "Show",
+    "Hide",
+    "n13_p0l3",
+    "n15_p0l3",
+    "n16_p0l3",
+    "n14_p0l3",
+    "n6_iurl",
+    "up",
+    "n7_iurl",
+    "down",
+    "n8_iurl",
+    "left",
+    "n9_iurl",
+    "right",
+    "n12_iurl",
+    "center",
+    "n18_t8y9",
+    "bg",
+    "n10_iurl",
+    "mask",
+    "n1_tm5n",
+    "Guide",
+    "n17_p0l3",
+    "vn8zl",
+    "Ban_Guide",
+    "n18_vn8z",
+    "yd_h",
+    "/Images/",
+    "arrows_01",
+    "glow_01",
+    "light_03",
+    "light_04",
+    "light_05",
+    "p0l3f",
+    "glow_05",
+    "p0l3g",
+    "glow_06",
+    "glow_07",
+    "p0l3j",
+    "TY_XSYDjiantou",
+    "atlas0",
+    "atlas0.png"
+  ]
+}

@@ -1,0 +1,41 @@
+ActivityViewJumpHelper::FuntionJump
+000c ldarg.1 
+000d ldc.i4.1 
+000e sub 
+000f switch [38, 57, 77, 95]
+0024 br.s 113
+0026 ldarg.0 
+0027 ldc.i4 306
+002c ldnull 
+002d ldc.i4.0 
+002e call FunctionHelper::FunctionJump
+0033 callvirt Coroutine
+0038 ret 
+0039 ldarg.0 
+003a ldc.i4 321
+003f ldc.i4.0 
+0040 conv.i8 
+0041 ldc.i4.0 
+0042 call ActivityViewJumpHelper::Jump
+0047 callvirt Coroutine
+004c ret 
+004d ldsfld Instance
+0052 ldc.i4.1 
+0053 box ResumeType
+0058 call UIComponentSystem::OpenWindow
+005d pop 
+005e ret 
+005f ldsfld Instance
+0064 ldc.i4.2 
+0065 box ResumeType
+006a call UIComponentSystem::OpenWindow
+006f pop 
+0070 ret 
+0071 ldsfld Instance
+0076 newobj CommonItemInfoDto::.ctor
+007b dup 
+007c ldarg.1 
+007d stfld configId
+0082 call UIComponentSystem::OpenWindow
+0087 pop 
+0088 ret 

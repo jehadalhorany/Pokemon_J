@@ -1,0 +1,950 @@
+{
+  "items": [
+    {
+      "type": 0,
+      "id": "cyg223",
+      "name": "zqhd_di_2",
+      "path": "/MakeSnowManType2Com/",
+      "file": null,
+      "size": [
+        871,
+        512
+      ]
+    },
+    {
+      "type": 0,
+      "id": "sdiw1y",
+      "name": "bllhd_bth_2",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        44,
+        44
+      ]
+    },
+    {
+      "type": 0,
+      "id": "sdiw1z",
+      "name": "nczd_bth_2",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        260,
+        69
+      ]
+    },
+    {
+      "type": 0,
+      "id": "sdiw20",
+      "name": "nczd_di_8",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        94,
+        108
+      ]
+    },
+    {
+      "type": 0,
+      "id": "sdiw21",
+      "name": "nczd_di_9",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        36,
+        36
+      ]
+    },
+    {
+      "type": 0,
+      "id": "u8161q",
+      "name": "dy_tip_3",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        667,
+        98
+      ]
+    },
+    {
+      "type": 0,
+      "id": "u8161r",
+      "name": "lyhd_bg_30",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        667,
+        89
+      ]
+    },
+    {
+      "type": 0,
+      "id": "u8161s",
+      "name": "lyhd_bg_31",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        667,
+        105
+      ]
+    },
+    {
+      "type": 0,
+      "id": "u8161t",
+      "name": "dy_di_24",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        102,
+        102
+      ]
+    },
+    {
+      "type": 0,
+      "id": "u8161u",
+      "name": "dy_di_21",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        102,
+        102
+      ]
+    },
+    {
+      "type": 0,
+      "id": "u8161v",
+      "name": "dy_di_22",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        102,
+        102
+      ]
+    },
+    {
+      "type": 0,
+      "id": "u8161w",
+      "name": "dy_di_23",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        102,
+        102
+      ]
+    },
+    {
+      "type": 0,
+      "id": "u8164",
+      "name": "wyhd_bth_back",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        414,
+        128
+      ]
+    },
+    {
+      "type": 0,
+      "id": "u816d",
+      "name": "dy_di_5",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        26,
+        101
+      ]
+    },
+    {
+      "type": 0,
+      "id": "u816e",
+      "name": "dy_di_1",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        419,
+        163
+      ]
+    },
+    {
+      "type": 0,
+      "id": "u816f",
+      "name": "dy_di_2",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        529,
+        265
+      ]
+    },
+    {
+      "type": 0,
+      "id": "u816g",
+      "name": "dy_di_3",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        529,
+        265
+      ]
+    },
+    {
+      "type": 0,
+      "id": "u816k",
+      "name": "dy_di_19",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        57,
+        57
+      ]
+    },
+    {
+      "type": 0,
+      "id": "u816l",
+      "name": "dy_di_20",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        57,
+        57
+      ]
+    },
+    {
+      "type": 0,
+      "id": "u816m",
+      "name": "dy_di_4",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        57,
+        57
+      ]
+    },
+    {
+      "type": 0,
+      "id": "u816n",
+      "name": "dy_di_11",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        384,
+        384
+      ]
+    },
+    {
+      "type": 0,
+      "id": "u816o",
+      "name": "dy_di_12",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        91,
+        91
+      ]
+    },
+    {
+      "type": 0,
+      "id": "u816p",
+      "name": "dy_di_13",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        102,
+        102
+      ]
+    },
+    {
+      "type": 0,
+      "id": "u816t",
+      "name": "dy_di_14",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        418,
+        147
+      ]
+    },
+    {
+      "type": 0,
+      "id": "u816u",
+      "name": "dy_di_15",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        530,
+        265
+      ]
+    },
+    {
+      "type": 0,
+      "id": "u816v",
+      "name": "dy_jia",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        54,
+        54
+      ]
+    },
+    {
+      "type": 0,
+      "id": "u816w",
+      "name": "dy_di_6",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        25,
+        36
+      ]
+    },
+    {
+      "type": 3,
+      "id": "cyg222",
+      "name": "MakeSnowManType2Com",
+      "path": "/MakeSnowManType2Com/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "u8161",
+      "name": "ActivityFishingBattle_MiniWindow",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "u8161p",
+      "name": "ActivityCursorComponent",
+      "path": "/Component/",
+      "file": null,
+      "size": [
+        387,
+        443
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "u8166",
+      "name": "ActivityFishingBuoyCom",
+      "path": "/Component/",
+      "file": null,
+      "size": [
+        419,
+        163
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "u816h",
+      "name": "ActivityFishingFishBar",
+      "path": "/Component/",
+      "file": null,
+      "size": [
+        418,
+        147
+      ],
+      "extension": 14
+    },
+    {
+      "type": 3,
+      "id": "u816s",
+      "name": "ActivityFishingWheelComponent",
+      "path": "/Component/",
+      "file": null,
+      "size": [
+        383,
+        456
+      ],
+      "extension": 0
+    },
+    {
+      "type": 4,
+      "id": "atlas_cyg223",
+      "name": null,
+      "path": null,
+      "file": "atlas_cyg223.png",
+      "size": [
+        1024,
+        512
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas0",
+      "name": null,
+      "path": null,
+      "file": "atlas0.png",
+      "size": [
+        2048,
+        1024
+      ]
+    }
+  ],
+  "sprites": [
+    {
+      "id": "cyg223",
+      "atlas": "atlas_cyg223",
+      "rect": [
+        0,
+        0,
+        871,
+        512
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "u8161r",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        0,
+        89,
+        667
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "u8161q",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        669,
+        667,
+        98
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "u8161s",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        769,
+        667,
+        105
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "u816g",
+      "atlas": "atlas0",
+      "rect": [
+        91,
+        0,
+        265,
+        529
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "u816u",
+      "atlas": "atlas0",
+      "rect": [
+        358,
+        0,
+        265,
+        529
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "u816f",
+      "atlas": "atlas0",
+      "rect": [
+        625,
+        0,
+        265,
+        529
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "u8164",
+      "atlas": "atlas0",
+      "rect": [
+        91,
+        531,
+        414,
+        128
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "u816t",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        876,
+        414,
+        143
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "u816e",
+      "atlas": "atlas0",
+      "rect": [
+        669,
+        531,
+        161,
+        413
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "u816n",
+      "atlas": "atlas0",
+      "rect": [
+        832,
+        531,
+        384,
+        384
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "sdiw1z",
+      "atlas": "atlas0",
+      "rect": [
+        1218,
+        531,
+        256,
+        65
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "sdiw20",
+      "atlas": "atlas0",
+      "rect": [
+        507,
+        531,
+        94,
+        108
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "u816p",
+      "atlas": "atlas0",
+      "rect": [
+        416,
+        876,
+        98,
+        98
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "u8161w",
+      "atlas": "atlas0",
+      "rect": [
+        516,
+        876,
+        98,
+        98
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "u8161v",
+      "atlas": "atlas0",
+      "rect": [
+        832,
+        917,
+        98,
+        98
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "u8161u",
+      "atlas": "atlas0",
+      "rect": [
+        932,
+        917,
+        98,
+        98
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "u8161t",
+      "atlas": "atlas0",
+      "rect": [
+        1032,
+        917,
+        98,
+        98
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "u816d",
+      "atlas": "atlas0",
+      "rect": [
+        507,
+        641,
+        97,
+        22
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "u816o",
+      "atlas": "atlas0",
+      "rect": [
+        1132,
+        917,
+        91,
+        91
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "u816m",
+      "atlas": "atlas0",
+      "rect": [
+        603,
+        531,
+        53,
+        53
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "u816l",
+      "atlas": "atlas0",
+      "rect": [
+        603,
+        586,
+        53,
+        53
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "u816k",
+      "atlas": "atlas0",
+      "rect": [
+        616,
+        946,
+        53,
+        53
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "u816v",
+      "atlas": "atlas0",
+      "rect": [
+        616,
+        876,
+        50,
+        50
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "sdiw1y",
+      "atlas": "atlas0",
+      "rect": [
+        416,
+        976,
+        44,
+        44
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "sdiw21",
+      "atlas": "atlas0",
+      "rect": [
+        462,
+        976,
+        36,
+        36
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "u816w",
+      "atlas": "atlas0",
+      "rect": [
+        606,
+        641,
+        33,
+        22
+      ],
+      "rotated": 1
+    }
+  ],
+  "strings": [
+    "c1imbcrl",
+    "Base",
+    "ufgirfkm",
+    "Common",
+    "9gi0yw7a",
+    "EudemonIcon",
+    "cyg223",
+    "zqhd_di_2",
+    "/MakeSnowManType2Com/",
+    "sdiw1y",
+    "bllhd_bth_2",
+    "/Image/",
+    "sdiw1z",
+    "nczd_bth_2",
+    "sdiw20",
+    "nczd_di_8",
+    "sdiw21",
+    "nczd_di_9",
+    "u8161q",
+    "dy_tip_3",
+    "u8161r",
+    "lyhd_bg_30",
+    "u8161s",
+    "lyhd_bg_31",
+    "u8161t",
+    "dy_di_24",
+    "u8161u",
+    "dy_di_21",
+    "u8161v",
+    "dy_di_22",
+    "u8161w",
+    "dy_di_23",
+    "u8164",
+    "wyhd_bth_back",
+    "u816d",
+    "dy_di_5",
+    "u816e",
+    "dy_di_1",
+    "u816f",
+    "dy_di_2",
+    "u816g",
+    "dy_di_3",
+    "u816k",
+    "dy_di_19",
+    "u816l",
+    "dy_di_20",
+    "u816m",
+    "dy_di_4",
+    "u816n",
+    "dy_di_11",
+    "u816o",
+    "dy_di_12",
+    "u816p",
+    "dy_di_13",
+    "u816t",
+    "dy_di_14",
+    "u816u",
+    "dy_di_15",
+    "u816v",
+    "dy_jia",
+    "u816w",
+    "dy_di_6",
+    "cyg222",
+    "MakeSnowManType2Com",
+    "n0_cyg2",
+    "n0",
+    "eeo81lyorlw",
+    "n1_cyg2",
+    "btn_Go",
+    "ui://ufgirfkmizk51tcvsj0",
+    "n2_cyg2",
+    "lb_GoTo",
+    "u8161",
+    "ActivityFishingBattle_MiniWindow",
+    "/",
+    "cursorStatus",
+    "0",
+    "none",
+    "1",
+    "normal",
+    "2",
+    "good",
+    "3",
+    "prefect",
+    "fishStatus",
+    "red",
+    "yellow",
+    "green",
+    "rodStatus",
+    "casting",
+    "waiting",
+    "reeling",
+    "4",
+    "end",
+    "guideStatus",
+    "first",
+    "second",
+    "third",
+    "nm0oh265",
+    "n96_u816",
+    "mask",
+    "psobw",
+    "n44_qpvr",
+    "btn_close",
+    "ui://0gzpspwcu8164",
+    "n45_qpvr",
+    "lb_title",
+    "退出",
+    "n94_u816",
+    "spine_rod",
+    "ui://0gzpspwcu8161g",
+    "n97_sdiw",
+    "lb_rodName",
+    "鱼竿名称",
+    "n98_sdiw",
+    "rod_explain",
+    "n99_sdiw",
+    "btn_rodView",
+    "n101_sdiw",
+    "firstMask",
+    "u816s",
+    "n83_u816",
+    "wheelCom",
+    "i9zd6h2q7",
+    "n79_u816",
+    "btn_begin",
+    " ",
+    "  ",
+    "n95_u816",
+    "n95",
+    "ui://0gzpspwcu8161s",
+    "ui://0gzpspwcu8161r",
+    "ui://0gzpspwcu8161q",
+    "n67_u816",
+    "lb_cursorTip",
+    "u8166",
+    "n68_u816",
+    "buoyCom",
+    "n70_u816",
+    "btn_up",
+    " ",
+    "ui://0gzpspwcu816w",
+    "n66_u816",
+    "btn_sure",
+    " ",
+    " ",
+    "n71_u816",
+    "btn_down",
+    " ",
+    "n86_u816",
+    "u816h",
+    "n73_u816",
+    "fishBar",
+    "n76_u816",
+    "lb_fishDistance",
+    "65km",
+    "n90_u816",
+    "n90",
+    "ui://0gzpspwcu816l",
+    "ui://0gzpspwcu816k",
+    "ui://0gzpspwcu816m",
+    "n91_u816",
+    "disPanel",
+    "n75_u816",
+    "btn_reeling",
+    " ",
+    "n92_u816",
+    "reelingPanel",
+    "n100_sdiw",
+    "btn_skip",
+    "ui://0gzpspwcsdiw1z",
+    "n103_sdiw",
+    "lb_skip",
+    "跳过动画",
+    "n104_sdiw",
+    "skipPanel",
+    "n111_sdiw",
+    "n111",
+    "n112_sdiw",
+    "sp_first",
+    "n113_sdiw",
+    "lb_first",
+    "点击开始钓鱼",
+    "n114_sdiw",
+    "n115_sdiw",
+    "sp_second",
+    "n116_sdiw",
+    "lb_second",
+    "点击抛竿，评价越好稀有鱼概率越高！",
+    "n117_sdiw",
+    "n118_sdiw",
+    "sp_third",
+    "n119_sdiw",
+    "lb_third",
+    "长按或点击进行拉扯，距离超过150m或进度条涨满则断线",
+    "n120_sdiw",
+    "t0",
+    "t1",
+    "u8161p",
+    "ActivityCursorComponent",
+    "/Component/",
+    "sp_wheel",
+    "n82_u816",
+    "n82",
+    "ActivityFishingBuoyCom",
+    "n81_u816",
+    "n81",
+    "n74_u816",
+    "n74",
+    "sp_good",
+    "n78_u816",
+    "sp_prefect",
+    "sp_cursor",
+    "cursor",
+    "ActivityFishingFishBar",
+    "HPState",
+    "Normal",
+    "LowHp",
+    "WillDie",
+    "n2_row4",
+    "bg",
+    "n3_row4",
+    "bar",
+    "n4_pifh",
+    "title",
+    "12/12",
+    "ActivityFishingWheelComponent",
+    "status",
+    "wait",
+    "reel",
+    "color",
+    "5",
+    "n84_u816",
+    "btn_count",
+    "ui://0gzpspwcu8161u",
+    "ui://0gzpspwcu8161v",
+    "ui://0gzpspwcu8161w",
+    "ui://0gzpspwcu8161t",
+    "ui://0gzpspwcu816p",
+    "n85_u816",
+    "btn_add",
+    "lb_count",
+    "x1",
+    "n88_u816",
+    "n88",
+    "n89_u816",
+    "sp_icon",
+    "ui://9gi0yw7aif9i10s",
+    "lb_num",
+    "x999",
+    "atlas_cyg223",
+    "atlas_cyg223.png",
+    "atlas0",
+    "atlas0.png"
+  ]
+}

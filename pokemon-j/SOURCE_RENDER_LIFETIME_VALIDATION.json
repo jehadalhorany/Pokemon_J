@@ -1,0 +1,8 @@
+{
+  "test": "build-tools/check-render-lifetime.cjs",
+  "route": 1201,
+  "previewCreationsAndDisposals": 20,
+  "worldContextLostAfterPreviews": false,
+  "pageErrors": [],
+  "limitation": "This validates disposal behavior; it does not prove the exclusive cause of every reported blank scene."
+}

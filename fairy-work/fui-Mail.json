@@ -1,0 +1,1414 @@
+{
+  "items": [
+    {
+      "type": 0,
+      "id": "hvjlr",
+      "name": "yj_bg_xj5",
+      "path": "/Image/new/",
+      "file": null,
+      "size": [
+        458,
+        130
+      ]
+    },
+    {
+      "type": 0,
+      "id": "i2mk10",
+      "name": "yxzs_bg_1",
+      "path": "/GameHelp/",
+      "file": null,
+      "size": [
+        570,
+        66
+      ]
+    },
+    {
+      "type": 0,
+      "id": "i2mk11",
+      "name": "yxzs_zsbg_3",
+      "path": "/GameHelp/",
+      "file": null,
+      "size": [
+        282,
+        256
+      ]
+    },
+    {
+      "type": 0,
+      "id": "i2mk12",
+      "name": "yxzs_zsbg_2",
+      "path": "/GameHelp/",
+      "file": null,
+      "size": [
+        282,
+        256
+      ]
+    },
+    {
+      "type": 0,
+      "id": "i2mk13",
+      "name": "yxzs_zsbg_1",
+      "path": "/GameHelp/",
+      "file": null,
+      "size": [
+        282,
+        256
+      ]
+    },
+    {
+      "type": 0,
+      "id": "i2mk19",
+      "name": "yxzs_suo",
+      "path": "/GameHelp/",
+      "file": null,
+      "size": [
+        43,
+        50
+      ]
+    },
+    {
+      "type": 0,
+      "id": "i2mk1b",
+      "name": "mrbz_bg_2",
+      "path": "/GameHelp/Daily/",
+      "file": null,
+      "size": [
+        92,
+        92
+      ]
+    },
+    {
+      "type": 0,
+      "id": "i2mk1f",
+      "name": "hy_bg_5",
+      "path": "/GameHelp/Daily/",
+      "file": null,
+      "size": [
+        40,
+        40
+      ]
+    },
+    {
+      "type": 0,
+      "id": "i2mk1g",
+      "name": "qfdz_bg_9",
+      "path": "/GameHelp/Daily/",
+      "file": null,
+      "size": [
+        50,
+        12
+      ]
+    },
+    {
+      "type": 0,
+      "id": "i2mk1p",
+      "name": "bg_touxiang",
+      "path": "/GameHelp/",
+      "file": null,
+      "size": [
+        58,
+        59
+      ]
+    },
+    {
+      "type": 0,
+      "id": "i2mk1u",
+      "name": "yxzs_v",
+      "path": "/GameHelp/",
+      "file": null,
+      "size": [
+        59,
+        56
+      ]
+    },
+    {
+      "type": 0,
+      "id": "i2mky",
+      "name": "yxzs_bg_3",
+      "path": "/GameHelp/",
+      "file": null,
+      "size": [
+        30,
+        30
+      ]
+    },
+    {
+      "type": 0,
+      "id": "i2mkz",
+      "name": "yxzs_bg_2",
+      "path": "/GameHelp/",
+      "file": null,
+      "size": [
+        40,
+        40
+      ]
+    },
+    {
+      "type": 0,
+      "id": "m2g6e",
+      "name": "yj_bg_1",
+      "path": "/Image/new/",
+      "file": null,
+      "size": [
+        910,
+        512
+      ]
+    },
+    {
+      "type": 0,
+      "id": "m2g6f",
+      "name": "yj_bg_2",
+      "path": "/Image/new/",
+      "file": null,
+      "size": [
+        406,
+        230
+      ]
+    },
+    {
+      "type": 0,
+      "id": "m2g6g",
+      "name": "yj_bg_3",
+      "path": "/Image/new/",
+      "file": null,
+      "size": [
+        512,
+        359
+      ]
+    },
+    {
+      "type": 0,
+      "id": "m2g6h",
+      "name": "yj_bg_4",
+      "path": "/Image/new/",
+      "file": null,
+      "size": [
+        46,
+        21
+      ]
+    },
+    {
+      "type": 0,
+      "id": "m2g6i",
+      "name": "yj_bg_xj1",
+      "path": "/Image/new/",
+      "file": null,
+      "size": [
+        458,
+        130
+      ]
+    },
+    {
+      "type": 0,
+      "id": "m2g6k",
+      "name": "yj_bg_xj3",
+      "path": "/Image/new/",
+      "file": null,
+      "size": [
+        458,
+        130
+      ]
+    },
+    {
+      "type": 0,
+      "id": "m2g6m",
+      "name": "box",
+      "path": "/Image/new/",
+      "file": null,
+      "size": [
+        166,
+        166
+      ]
+    },
+    {
+      "type": 0,
+      "id": "y84zp",
+      "name": "yj_bg_xj4",
+      "path": "/Image/new/",
+      "file": null,
+      "size": [
+        458,
+        130
+      ]
+    },
+    {
+      "type": 0,
+      "id": "y84zq",
+      "name": "yj_ic_vip",
+      "path": "/Image/new/",
+      "file": null,
+      "size": [
+        60,
+        60
+      ]
+    },
+    {
+      "type": 3,
+      "id": "dba40",
+      "name": "Mail_Window",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "dba41",
+      "name": "MailItem",
+      "path": "/",
+      "file": null,
+      "size": [
+        470,
+        136
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "ew2x1w",
+      "name": "GameHelpBoxItem",
+      "path": "/GameHelp/",
+      "file": null,
+      "size": [
+        330,
+        70
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "ew2x1x",
+      "name": "GHComboBox",
+      "path": "/GameHelp/",
+      "file": null,
+      "size": [
+        266,
+        58
+      ],
+      "extension": 13
+    },
+    {
+      "type": 3,
+      "id": "i2mk1a",
+      "name": "GameHelp_Window",
+      "path": "/GameHelp/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "i2mk1h",
+      "name": "GHPveSelectItem",
+      "path": "/GameHelp/",
+      "file": null,
+      "size": [
+        237,
+        50
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "i2mk1i",
+      "name": "GHPveChapterItem",
+      "path": "/GameHelp/",
+      "file": null,
+      "size": [
+        1334,
+        256
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "i2mk1m",
+      "name": "GHTitleComponent",
+      "path": "/GameHelp/",
+      "file": null,
+      "size": [
+        570,
+        66
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "i2mk1o",
+      "name": "GHTerastalItem",
+      "path": "/GameHelp/",
+      "file": null,
+      "size": [
+        305,
+        187
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "i2mk1q",
+      "name": "GHEudemonTypeItem",
+      "path": "/GameHelp/",
+      "file": null,
+      "size": [
+        180,
+        72
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "i2mk1r",
+      "name": "GHTerastalTypeItem",
+      "path": "/GameHelp/",
+      "file": null,
+      "size": [
+        1362,
+        279
+      ],
+      "extension": 0
+    },
+    {
+      "type": 0,
+      "id": "i2mk15",
+      "name": "yxzs_tjbg_4",
+      "path": "/GameHelp/",
+      "file": null,
+      "size": [
+        282,
+        173
+      ]
+    },
+    {
+      "type": 0,
+      "id": "i2mk16",
+      "name": "yxzs_tjbg_3",
+      "path": "/GameHelp/",
+      "file": null,
+      "size": [
+        282,
+        173
+      ]
+    },
+    {
+      "type": 0,
+      "id": "i2mk17",
+      "name": "yxzs_tjbg_2",
+      "path": "/GameHelp/",
+      "file": null,
+      "size": [
+        282,
+        173
+      ]
+    },
+    {
+      "type": 0,
+      "id": "i2mk18",
+      "name": "yxzs_cjbg_6",
+      "path": "/GameHelp/",
+      "file": null,
+      "size": [
+        282,
+        173
+      ]
+    },
+    {
+      "type": 0,
+      "id": "i2mk1v",
+      "name": "mrbz_bg_1",
+      "path": "/GameHelp/",
+      "file": null,
+      "size": [
+        910,
+        512
+      ]
+    },
+    {
+      "type": 0,
+      "id": "i2mks",
+      "name": "yxzs_tjbg_1",
+      "path": "/GameHelp/",
+      "file": null,
+      "size": [
+        282,
+        173
+      ]
+    },
+    {
+      "type": 0,
+      "id": "i2mkt",
+      "name": "yxzs_cjbg_5",
+      "path": "/GameHelp/",
+      "file": null,
+      "size": [
+        282,
+        173
+      ]
+    },
+    {
+      "type": 0,
+      "id": "i2mku",
+      "name": "yxzs_cjbg_4",
+      "path": "/GameHelp/",
+      "file": null,
+      "size": [
+        282,
+        173
+      ]
+    },
+    {
+      "type": 0,
+      "id": "i2mkv",
+      "name": "yxzs_cjbg_3",
+      "path": "/GameHelp/",
+      "file": null,
+      "size": [
+        282,
+        173
+      ]
+    },
+    {
+      "type": 0,
+      "id": "i2mkw",
+      "name": "yxzs_cjbg_2",
+      "path": "/GameHelp/",
+      "file": null,
+      "size": [
+        282,
+        173
+      ]
+    },
+    {
+      "type": 0,
+      "id": "i2mkx",
+      "name": "yxzs_cjbg_1",
+      "path": "/GameHelp/",
+      "file": null,
+      "size": [
+        282,
+        173
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas0",
+      "name": null,
+      "path": null,
+      "file": "atlas0.png",
+      "size": [
+        2048,
+        1024
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas_i2mk1v",
+      "name": null,
+      "path": null,
+      "file": "atlas_i2mk1v.png",
+      "size": [
+        1024,
+        512
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas_m2g6e",
+      "name": null,
+      "path": null,
+      "file": "atlas_m2g6e.png",
+      "size": [
+        1024,
+        512
+      ]
+    }
+  ],
+  "sprites": [
+    {
+      "id": "i2mk10",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        0,
+        66,
+        570
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "m2g6g",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        572,
+        512,
+        359
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "y84zp",
+      "atlas": "atlas0",
+      "rect": [
+        68,
+        0,
+        130,
+        458
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "m2g6i",
+      "atlas": "atlas0",
+      "rect": [
+        200,
+        0,
+        130,
+        458
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "hvjlr",
+      "atlas": "atlas0",
+      "rect": [
+        332,
+        0,
+        130,
+        458
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "m2g6k",
+      "atlas": "atlas0",
+      "rect": [
+        464,
+        0,
+        130,
+        458
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "m2g6f",
+      "atlas": "atlas0",
+      "rect": [
+        514,
+        460,
+        230,
+        406
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "i2mk13",
+      "atlas": "atlas0",
+      "rect": [
+        596,
+        0,
+        256,
+        282
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "i2mk12",
+      "atlas": "atlas0",
+      "rect": [
+        746,
+        284,
+        256,
+        282
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "i2mk11",
+      "atlas": "atlas0",
+      "rect": [
+        854,
+        0,
+        256,
+        282
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "i2mks",
+      "atlas": "atlas0",
+      "rect": [
+        746,
+        568,
+        173,
+        282
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "i2mkt",
+      "atlas": "atlas0",
+      "rect": [
+        921,
+        568,
+        173,
+        282
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "i2mk17",
+      "atlas": "atlas0",
+      "rect": [
+        1004,
+        284,
+        173,
+        282
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "i2mk16",
+      "atlas": "atlas0",
+      "rect": [
+        1112,
+        0,
+        173,
+        282
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "i2mk15",
+      "atlas": "atlas0",
+      "rect": [
+        1287,
+        0,
+        173,
+        282
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "i2mku",
+      "atlas": "atlas0",
+      "rect": [
+        1096,
+        568,
+        173,
+        282
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "i2mk18",
+      "atlas": "atlas0",
+      "rect": [
+        1179,
+        284,
+        173,
+        282
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "i2mkx",
+      "atlas": "atlas0",
+      "rect": [
+        1271,
+        568,
+        173,
+        282
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "i2mkw",
+      "atlas": "atlas0",
+      "rect": [
+        1354,
+        284,
+        173,
+        282
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "i2mkv",
+      "atlas": "atlas0",
+      "rect": [
+        1462,
+        0,
+        173,
+        282
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "m2g6m",
+      "atlas": "atlas0",
+      "rect": [
+        596,
+        284,
+        95,
+        94
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "i2mk1b",
+      "atlas": "atlas0",
+      "rect": [
+        68,
+        460,
+        92,
+        92
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "y84zq",
+      "atlas": "atlas0",
+      "rect": [
+        596,
+        380,
+        60,
+        60
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "i2mk1p",
+      "atlas": "atlas0",
+      "rect": [
+        658,
+        380,
+        58,
+        59
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "i2mk1u",
+      "atlas": "atlas0",
+      "rect": [
+        162,
+        460,
+        52,
+        55
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "i2mk1g",
+      "atlas": "atlas0",
+      "rect": [
+        658,
+        441,
+        50,
+        12
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "m2g6h",
+      "atlas": "atlas0",
+      "rect": [
+        718,
+        284,
+        21,
+        46
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "i2mk19",
+      "atlas": "atlas0",
+      "rect": [
+        693,
+        332,
+        39,
+        46
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "i2mkz",
+      "atlas": "atlas0",
+      "rect": [
+        162,
+        517,
+        40,
+        40
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "i2mk1f",
+      "atlas": "atlas0",
+      "rect": [
+        204,
+        517,
+        40,
+        40
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "i2mky",
+      "atlas": "atlas0",
+      "rect": [
+        216,
+        460,
+        30,
+        30
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "i2mk1v",
+      "atlas": "atlas_i2mk1v",
+      "rect": [
+        0,
+        0,
+        910,
+        512
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "m2g6e",
+      "atlas": "atlas_m2g6e",
+      "rect": [
+        0,
+        0,
+        910,
+        512
+      ],
+      "rotated": 0
+    }
+  ],
+  "strings": [
+    "c1imbcrl",
+    "Base",
+    "ufgirfkm",
+    "Common",
+    "hvjlr",
+    "yj_bg_xj5",
+    "/Image/new/",
+    "i2mk10",
+    "yxzs_bg_1",
+    "/GameHelp/",
+    "i2mk11",
+    "yxzs_zsbg_3",
+    "i2mk12",
+    "yxzs_zsbg_2",
+    "i2mk13",
+    "yxzs_zsbg_1",
+    "i2mk19",
+    "yxzs_suo",
+    "i2mk1b",
+    "mrbz_bg_2",
+    "/GameHelp/Daily/",
+    "i2mk1f",
+    "hy_bg_5",
+    "i2mk1g",
+    "qfdz_bg_9",
+    "i2mk1p",
+    "bg_touxiang",
+    "i2mk1u",
+    "yxzs_v",
+    "i2mky",
+    "yxzs_bg_3",
+    "i2mkz",
+    "yxzs_bg_2",
+    "m2g6e",
+    "yj_bg_1",
+    "m2g6f",
+    "yj_bg_2",
+    "m2g6g",
+    "yj_bg_3",
+    "m2g6h",
+    "yj_bg_4",
+    "m2g6i",
+    "yj_bg_xj1",
+    "m2g6k",
+    "yj_bg_xj3",
+    "m2g6m",
+    "box",
+    "y84zp",
+    "yj_bg_xj4",
+    "y84zq",
+    "yj_ic_vip",
+    "dba40",
+    "Mail_Window",
+    "/",
+    "n0_dba4",
+    "bg",
+    "8yc42",
+    "n1_dba4",
+    "top_title",
+    "pqp26h2eg",
+    "n25_m2g6",
+    "n25",
+    "n2_dba4",
+    "list_mail",
+    "ui://uvi17vj8dba41",
+    "n13_t115",
+    "mail_bg",
+    "n26_m2g6",
+    "n26",
+    "n27_m2g6",
+    "n27",
+    "n3_dba4",
+    "lab_mail_name",
+    "n22_ocyv",
+    "lab_sender",
+    "n4_dba4",
+    "lab_mail_time",
+    "aban1",
+    "n29_doqj",
+    "lab_content",
+    "size",
+    "15",
+    "n12_dba4",
+    "lab_mail_num",
+    "eeo81lyorlw",
+    "n9_dba4",
+    "btn_get_all",
+    "front",
+    "0",
+    "一键领取",
+    "ui://ufgirfkmaban6h2pp",
+    "n10_dba4",
+    "btn_remove_all",
+    "1",
+    "一键删除",
+    "ui://ufgirfkmaban6h2po",
+    "n20_ocyv",
+    "n20",
+    "n8_dba4",
+    "list_annex",
+    "ui://ufgirfkmewfrh22n",
+    "n16_t115",
+    "btn_get",
+    "领取",
+    "n23_ocyv",
+    "btn_remove",
+    "删除邮件",
+    "n7_dba4",
+    "lab_annex",
+    "附件",
+    "n21_ocyv",
+    "n21",
+    "n24_io1q",
+    "n24",
+    "dba41",
+    "MailItem",
+    "button",
+    "2",
+    "up",
+    "3",
+    "down",
+    "c2",
+    "get",
+    "no_get",
+    "none",
+    "c1",
+    "read",
+    "no_read",
+    "isVip",
+    "None",
+    "Vip",
+    "Bg",
+    "ui://uvi17vj8hvjlr",
+    "ui://uvi17vj8m2g6k",
+    "n6_m2g6",
+    "n6",
+    "n8_hvjl",
+    "n8",
+    "lb_get",
+    "已领取",
+    "reward_tag",
+    "lab_name",
+    "更新补偿邮件",
+    "lab_desc",
+    "2023/3/15 18:26到期/3/15 18:26到期",
+    "n7_shce",
+    "n7",
+    "ew2x1w",
+    "GameHelpBoxItem",
+    "n0_as4i",
+    "n0",
+    "ui://ufgirfkm7v64h271",
+    "n1_as4i",
+    "list",
+    "ui://ufgirfkmp5xb6h267",
+    "ew2x1x",
+    "GHComboBox",
+    "over",
+    "selectedOver",
+    "aban6h2pm",
+    "n2_as4i",
+    "title",
+    "品质排序品质排序品质排序排序品质排序",
+    "psobh23r",
+    "n4_1053h",
+    "n4",
+    "ui://uvi17vj8ew2x1w",
+    "i2mk1a",
+    "GameHelp_Window",
+    "gType",
+    "Pve",
+    "AutoCatch",
+    "Collect",
+    "Terastal",
+    "openType",
+    "vip",
+    "cost",
+    "free",
+    "isBegin",
+    "close",
+    "open",
+    "openTip",
+    "pve",
+    "autoCatch",
+    "collect",
+    "terastal",
+    "searchEudemon",
+    "hide",
+    "show",
+    "i2mk1v",
+    "n65_siql",
+    "n65",
+    "n1_aban",
+    "wnd",
+    "TopState",
+    "n73_i2mk",
+    "n73",
+    "n56_uyve",
+    "n56",
+    "n74_i2mk",
+    "n74",
+    "n161_i2mk",
+    "n161",
+    "n80_i2mk",
+    "lb_vip",
+    "激活特权月卡副本挑战次数+3 [color=#FF00FF]<a href='link'>前往激活</a>",
+    "n3_aban",
+    "list_tab",
+    "ui://ufgirfkmmti76h26e",
+    "每日活跃",
+    "明信片",
+    "宝可梦",
+    "n176_ls73",
+    "n176",
+    "n175_ls73",
+    "lb_openTip",
+    "开启中...",
+    "i2mk1m",
+    "n75_i2mk",
+    "pveTitle",
+    "n77_i2mk",
+    "lb_pveTip",
+    "n79_i2mk",
+    "n79",
+    "n90_i2mk",
+    "pveList",
+    "ui://uvi17vj8i2mk1i",
+    "i9zd6h2q7",
+    "n92_i2mk",
+    "btn_pve",
+    "开启助手",
+    "n94_i2mk",
+    "n124_i2mk",
+    "n124",
+    "n125_i2mk",
+    "n125",
+    "n126_i2mk",
+    "n126",
+    "n127_i2mk",
+    "autoCatchTitle",
+    "n128_i2mk",
+    "n128",
+    "n129_i2mk",
+    "n129",
+    "n130_i2mk",
+    "n130",
+    "i2mk1h",
+    "n131_i2mk",
+    "skillCom1",
+    "lb_title",
+    "减血技能(点到为止)",
+    "n132_i2mk",
+    "skillCom2",
+    "锁定技能(黑色目光)",
+    "n133_i2mk",
+    "skillCom3",
+    "变幻技能",
+    "n136_i2mk",
+    "n136",
+    "n137_i2mk",
+    "lb_battle",
+    "捕捉战斗设置",
+    "n138_i2mk",
+    "lb_hp",
+    "血量低于目标值停止使用技能",
+    "n139_i2mk",
+    "lb_catch",
+    "捕捉精灵选择（按照先后顺序）",
+    "n140_i2mk",
+    "lb_0",
+    "选择精灵:",
+    "n144_i2mk",
+    "lb_4",
+    "非目标精灵:",
+    "n143_i2mk",
+    "lb_3",
+    "选择捕捉方式:",
+    "n142_i2mk",
+    "lb_2",
+    "选择捕捉数量:",
+    "n141_i2mk",
+    "lb_1",
+    "选择捕捉地点:",
+    "n145_i2mk",
+    "lb_5",
+    "非目标闪光精灵:",
+    "n180_u816",
+    "lb_6",
+    "进化精灵设定:",
+    "n186_rjfz",
+    "lb_7",
+    "选择捕捉方式:",
+    "n135_i2mk",
+    "setting_0",
+    "n147_i2mk",
+    "setting_1",
+    "输入名称识别",
+    "n149_i2mk",
+    "setting_4",
+    "自动遇怪",
+    "n150_i2mk",
+    "setting_2",
+    "击杀/扫荡",
+    "n151_i2mk",
+    "setting_3",
+    "捕捉",
+    "n181_u816",
+    "setting_5",
+    "捕捉进化精灵",
+    "n185_rjfz",
+    "setting_6",
+    "自动遇怪",
+    "n153_i2mk",
+    "ball_1",
+    "精灵球1",
+    "n154_i2mk",
+    "ball_2",
+    "精灵球2",
+    "n155_i2mk",
+    "ball_3",
+    "精灵球3",
+    "n156_i2mk",
+    "ball_4",
+    "精灵球4",
+    "n157_i2mk",
+    "lb_input",
+    "50",
+    "n158_i2mk",
+    "lb_autoTip",
+    "n159_i2mk",
+    "btn_auto",
+    "开启助手",
+    "n173_ew2x",
+    "n173",
+    "n172_ew2x",
+    "lb_inputNum",
+    "1",
+    "n174_ew2x",
+    "n174",
+    "%",
+    "n179_ls73",
+    "lb_inputName",
+    "输入名字",
+    "n160_i2mk",
+    "auto",
+    "n118_i2mk",
+    "collectTile",
+    "n120_i2mk",
+    "collectList",
+    "ui://uvi17vj8i2mk1o",
+    "n121_i2mk",
+    "lb_collectTip",
+    "n122_i2mk",
+    "btn_collect",
+    "开启助手",
+    "n123_i2mk",
+    "n96_i2mk",
+    "n96",
+    "n95_i2mk",
+    "terastalTitle",
+    "n97_i2mk",
+    "n97",
+    "n98_i2mk",
+    "terastalTitile2",
+    "请选择要掠夺的钛晶矿类型",
+    "n103_i2mk",
+    "terastalGenList",
+    "n115_i2mk",
+    "lb_terastalTip",
+    "n113_i2mk",
+    "terastalList",
+    "ui://uvi17vj8i2mk1r",
+    "n116_i2mk",
+    "btn_terastal",
+    "开启助手",
+    "n117_i2mk",
+    "n165_i2mk",
+    "n165",
+    "n166_i2mk",
+    "lb_costTip",
+    "您当前未激活助手",
+    "n167_i2mk",
+    "sp_item",
+    "n168_i2mk",
+    "lb_cost",
+    "[color=#FF00FF]<a href='link'>x100激活</a>",
+    "n170_i2mk",
+    "lb_time",
+    "您当前未激活助手",
+    "n171_ew2x",
+    "btn_off",
+    "14",
+    "开启中",
+    "n183_u816",
+    "n183",
+    "n184_u816",
+    "searchList",
+    "GHPveSelectItem",
+    "model",
+    "islock",
+    "select",
+    "end",
+    "e0us6h4ci",
+    "n85_i2mk",
+    "n85",
+    "eqxp6h4fn",
+    "n86_i2mk",
+    "n86",
+    "n87_i2mk",
+    "n87",
+    "n89_i2mk",
+    "1号路",
+    "i2mk1i",
+    "GHPveChapterItem",
+    "style",
+    "n83_i2mk",
+    "n83",
+    "ui://uvi17vj8i2mk12",
+    "ui://uvi17vj8i2mk11",
+    "ui://uvi17vj8i2mk13",
+    "n84_i2mk",
+    "n84",
+    "n88_i2mk",
+    "ui://uvi17vj8i2mk1h",
+    "lb_name",
+    "G1-1星太晶矿",
+    "GHTitleComponent",
+    "n75",
+    "n76_i2mk",
+    "选择你要自动挑战的训练师副本",
+    "i2mk1o",
+    "GHTerastalItem",
+    "normal",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "n100_i2mk",
+    "n100",
+    "ui://uvi17vj8i2mkw",
+    "ui://uvi17vj8i2mkv",
+    "ui://uvi17vj8i2mku",
+    "ui://uvi17vj8i2mkt",
+    "ui://uvi17vj8i2mk18",
+    "ui://uvi17vj8i2mks",
+    "ui://uvi17vj8i2mk17",
+    "ui://uvi17vj8i2mk16",
+    "ui://uvi17vj8i2mk15",
+    "ui://uvi17vj8i2mkx",
+    "n101_i2mk",
+    "n101",
+    "n102_i2mk",
+    "lb_num",
+    "5",
+    "G1-1星太晶矿",
+    "n104_i2mk",
+    "n104",
+    "n105_ew2x",
+    "n105",
+    "i2mk1q",
+    "GHEudemonTypeItem",
+    "n106_i2mk",
+    "n106",
+    "n107_i2mk",
+    "n107",
+    "n108_i2mk",
+    "n108",
+    "io1q6h2tq",
+    "n109_i2mk",
+    "eudemonType",
+    "n110_i2mk",
+    "妖精",
+    "i2mk1r",
+    "GHTerastalTypeItem",
+    "n99_i2mk",
+    "n99",
+    "n105_i2mk",
+    "lb_tltle",
+    "G1-1星太晶矿：",
+    "n112_i2mk",
+    "typeList",
+    "ui://uvi17vj8i2mk1q",
+    "i2mk15",
+    "yxzs_tjbg_4",
+    "i2mk16",
+    "yxzs_tjbg_3",
+    "i2mk17",
+    "yxzs_tjbg_2",
+    "i2mk18",
+    "yxzs_cjbg_6",
+    "mrbz_bg_1",
+    "i2mks",
+    "yxzs_tjbg_1",
+    "i2mkt",
+    "yxzs_cjbg_5",
+    "i2mku",
+    "yxzs_cjbg_4",
+    "i2mkv",
+    "yxzs_cjbg_3",
+    "i2mkw",
+    "yxzs_cjbg_2",
+    "i2mkx",
+    "yxzs_cjbg_1",
+    "atlas0",
+    "atlas0.png",
+    "atlas_i2mk1v",
+    "atlas_i2mk1v.png",
+    "atlas_m2g6e",
+    "atlas_m2g6e.png"
+  ]
+}

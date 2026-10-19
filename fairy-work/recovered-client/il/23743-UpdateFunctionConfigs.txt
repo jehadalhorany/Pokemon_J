@@ -1,0 +1,75 @@
+TaskCenterWindow::UpdateFunctionConfigs
+000c ldarg.0 
+000d call DomainScene
+0012 callvirt GetComponent<ET.Pokemon.FunctionOpen.FunctionOpenComponent>
+0017 ldc.i4.s 14
+0019 ldarg.0 
+001a ldflda _functionConfig1
+001f call FunctionOpenComponentSystem::GetFunctionOpenByType
+0024 ldarg.0 
+0025 ldfld _functionConfigs
+002a callvirt Clear
+002f ldarg.0 
+0030 ldfld _functionConfig1
+0035 brtrue.s 56
+0037 ret 
+0038 ldc.i4.0 
+0039 stloc.0 
+003a br.s 147
+003c ldarg.0 
+003d ldfld _functionConfig1
+0042 ldloc.0 
+0043 callvirt get_Item
+0048 callvirt get_Id
+004d ldc.i4 804
+0052 bne.un.s 120
+0054 ldarg.0 
+0055 call DomainScene
+005a callvirt GetComponent<ET.BranchQuestComponent>
+005f stloc.1 
+0060 ldloc.1 
+0061 brfalse.s 120
+0063 ldloc.1 
+0064 callvirt get_ListQuickBranch
+0069 brfalse.s 143
+006b ldloc.1 
+006c callvirt get_ListQuickBranch
+0071 callvirt get_Count
+0076 brfalse.s 143
+0078 ldarg.0 
+0079 ldfld _functionConfigs
+007e ldarg.0 
+007f ldfld _functionConfig1
+0084 ldloc.0 
+0085 callvirt get_Item
+008a callvirt Add
+008f ldloc.0 
+0090 ldc.i4.1 
+0091 add 
+0092 stloc.0 
+0093 ldloc.0 
+0094 ldarg.0 
+0095 ldfld _functionConfig1
+009a callvirt get_Count
+009f blt.s 60
+00a1 ldarg.0 
+00a2 call TaskCenterWindow::RefreshTab
+00a7 ldarg.0 
+00a8 ldfld _functionConfigs
+00ad ldsfld <>9__10_0
+00b2 dup 
+00b3 brtrue.s 204
+00b5 pop 
+00b6 ldsfld <>9
+00bb ldftn <>c::<UpdateFunctionConfigs>b__10_0
+00c1 newobj .ctor
+00c6 dup 
+00c7 stsfld <>9__10_0
+00cc callvirt Sort
+00d1 ldarg.0 
+00d2 ldfld m_list_tab
+00d7 ldarg.0 
+00d8 ldfld _functionConfigs
+00dd callvirt get_Count
+00e2 callvirt set_numItems
+00e7 ret 

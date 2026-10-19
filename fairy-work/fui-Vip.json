@@ -1,0 +1,594 @@
+{
+  "items": [
+    {
+      "type": 0,
+      "id": "k08b6h2tl",
+      "name": "vip_1",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        47,
+        69
+      ]
+    },
+    {
+      "type": 0,
+      "id": "k08b6h2tn",
+      "name": "vip_v",
+      "path": "/Images/Front/",
+      "file": null,
+      "size": [
+        55,
+        63
+      ]
+    },
+    {
+      "type": 0,
+      "id": "k08b6h2to",
+      "name": "vip_n9",
+      "path": "/Images/Front/",
+      "file": null,
+      "size": [
+        52,
+        61
+      ]
+    },
+    {
+      "type": 0,
+      "id": "k08b6h2tp",
+      "name": "vip_n8",
+      "path": "/Images/Front/",
+      "file": null,
+      "size": [
+        52,
+        61
+      ]
+    },
+    {
+      "type": 0,
+      "id": "k08b6h2tq",
+      "name": "vip_n7",
+      "path": "/Images/Front/",
+      "file": null,
+      "size": [
+        52,
+        61
+      ]
+    },
+    {
+      "type": 0,
+      "id": "k08b6h2tr",
+      "name": "vip_n6",
+      "path": "/Images/Front/",
+      "file": null,
+      "size": [
+        52,
+        61
+      ]
+    },
+    {
+      "type": 0,
+      "id": "k08b6h2ts",
+      "name": "vip_n5",
+      "path": "/Images/Front/",
+      "file": null,
+      "size": [
+        52,
+        61
+      ]
+    },
+    {
+      "type": 0,
+      "id": "k08b6h2tt",
+      "name": "vip_n4",
+      "path": "/Images/Front/",
+      "file": null,
+      "size": [
+        52,
+        61
+      ]
+    },
+    {
+      "type": 0,
+      "id": "k08b6h2tu",
+      "name": "vip_n3",
+      "path": "/Images/Front/",
+      "file": null,
+      "size": [
+        52,
+        61
+      ]
+    },
+    {
+      "type": 0,
+      "id": "k08b6h2tv",
+      "name": "vip_n2",
+      "path": "/Images/Front/",
+      "file": null,
+      "size": [
+        52,
+        61
+      ]
+    },
+    {
+      "type": 0,
+      "id": "k08b6h2tw",
+      "name": "vip_n1",
+      "path": "/Images/Front/",
+      "file": null,
+      "size": [
+        52,
+        61
+      ]
+    },
+    {
+      "type": 0,
+      "id": "k08b6h2tx",
+      "name": "vip_n0",
+      "path": "/Images/Front/",
+      "file": null,
+      "size": [
+        52,
+        61
+      ]
+    },
+    {
+      "type": 0,
+      "id": "k08b6h2ty",
+      "name": "vip_lq",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        158,
+        55
+      ]
+    },
+    {
+      "type": 0,
+      "id": "k08b6h2tz",
+      "name": "vip_cz",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        247,
+        89
+      ]
+    },
+    {
+      "type": 0,
+      "id": "k08b6h2u2",
+      "name": "vip_2",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        59,
+        56
+      ]
+    },
+    {
+      "type": 0,
+      "id": "k08b6h2u9",
+      "name": "sjsd_vip",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        123,
+        128
+      ]
+    },
+    {
+      "type": 3,
+      "id": "aban0",
+      "name": "VipCenter_MiniWindow",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "ttqx6h2tk",
+      "name": "VipBuyBtn",
+      "path": "/",
+      "file": null,
+      "size": [
+        156,
+        53
+      ],
+      "extension": 12
+    },
+    {
+      "type": 5,
+      "id": "k08b6h2u7",
+      "name": "vipFront",
+      "path": "/Images/Front/",
+      "file": null,
+      "size": [
+        0,
+        0
+      ]
+    },
+    {
+      "type": 0,
+      "id": "vlji6h2ub",
+      "name": "vip_xd_vi",
+      "path": "/Images/Lan/",
+      "file": null,
+      "size": [
+        280,
+        70
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas0",
+      "name": null,
+      "path": null,
+      "file": "atlas0.png",
+      "size": [
+        512,
+        256
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas_vlji6h2ub",
+      "name": null,
+      "path": null,
+      "file": "atlas_vlji6h2ub.png",
+      "size": [
+        512,
+        128
+      ]
+    }
+  ],
+  "sprites": [
+    {
+      "id": "k08b6h2tz",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        0,
+        89,
+        247
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "k08b6h2ty",
+      "atlas": "atlas0",
+      "rect": [
+        91,
+        0,
+        55,
+        158
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "k08b6h2u9",
+      "atlas": "atlas0",
+      "rect": [
+        148,
+        0,
+        123,
+        128
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "k08b6h2tl",
+      "atlas": "atlas0",
+      "rect": [
+        91,
+        160,
+        47,
+        69
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "k08b6h2tn",
+      "atlas": "atlas0",
+      "rect": [
+        140,
+        160,
+        55,
+        63
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "k08b6h2tx",
+      "atlas": "atlas0",
+      "rect": [
+        197,
+        160,
+        52,
+        61
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "k08b6h2tw",
+      "atlas": "atlas0",
+      "rect": [
+        197,
+        223,
+        61,
+        29
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "k08b6h2tv",
+      "atlas": "atlas0",
+      "rect": [
+        251,
+        160,
+        52,
+        61
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "k08b6h2tu",
+      "atlas": "atlas0",
+      "rect": [
+        305,
+        130,
+        52,
+        61
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "k08b6h2tt",
+      "atlas": "atlas0",
+      "rect": [
+        305,
+        193,
+        52,
+        61
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "k08b6h2ts",
+      "atlas": "atlas0",
+      "rect": [
+        359,
+        193,
+        52,
+        61
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "k08b6h2tr",
+      "atlas": "atlas0",
+      "rect": [
+        413,
+        0,
+        61,
+        52
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "k08b6h2tq",
+      "atlas": "atlas0",
+      "rect": [
+        359,
+        0,
+        52,
+        61
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "k08b6h2tp",
+      "atlas": "atlas0",
+      "rect": [
+        273,
+        0,
+        61,
+        52
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "k08b6h2to",
+      "atlas": "atlas0",
+      "rect": [
+        273,
+        54,
+        52,
+        61
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "k08b6h2u2",
+      "atlas": "atlas0",
+      "rect": [
+        327,
+        63,
+        56,
+        59
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "vlji6h2ub",
+      "atlas": "atlas_vlji6h2ub",
+      "rect": [
+        0,
+        0,
+        276,
+        69
+      ],
+      "rotated": 0
+    }
+  ],
+  "strings": [
+    "c1imbcrl",
+    "Base",
+    "ufgirfkm",
+    "Common",
+    "cyrayt3h",
+    "Item",
+    "k08b6h2tl",
+    "vip_1",
+    "/Images/",
+    "k08b6h2tn",
+    "vip_v",
+    "/Images/Front/",
+    "k08b6h2to",
+    "vip_n9",
+    "k08b6h2tp",
+    "vip_n8",
+    "k08b6h2tq",
+    "vip_n7",
+    "k08b6h2tr",
+    "vip_n6",
+    "k08b6h2ts",
+    "vip_n5",
+    "k08b6h2tt",
+    "vip_n4",
+    "k08b6h2tu",
+    "vip_n3",
+    "k08b6h2tv",
+    "vip_n2",
+    "k08b6h2tw",
+    "vip_n1",
+    "k08b6h2tx",
+    "vip_n0",
+    "k08b6h2ty",
+    "vip_lq",
+    "k08b6h2tz",
+    "vip_cz",
+    "k08b6h2u2",
+    "vip_2",
+    "k08b6h2u9",
+    "sjsd_vip",
+    "aban0",
+    "VipCenter_MiniWindow",
+    "/",
+    "LevelState",
+    "0",
+    "Normal",
+    "1",
+    "FullLevel",
+    "BuyState",
+    "NotAchieved",
+    "2",
+    "Buy",
+    "n38_ttqx",
+    "n38",
+    "n43_k08b",
+    "n43",
+    "se4ph26g",
+    "n24_aban",
+    "model",
+    "n8_aban",
+    "icon_recharge",
+    "ui://cyrayt3hhj996h40q",
+    "aban1",
+    "n18_aban",
+    "paneltext",
+    "color",
+    "size",
+    "10",
+    "psobw",
+    "n29_ttqx",
+    "btn_bak",
+    "ui://07oqcq5mk08b6h2u2",
+    "siql6h2ty",
+    "n11_aban",
+    "btn_recharge",
+    "充值",
+    "ui://07oqcq5mk08b6h2tz",
+    "n14_aban",
+    "btn_last",
+    "ui://07oqcq5mk08b6h2tl",
+    "n15_aban",
+    "btn_next",
+    "n20_aban",
+    "list_gift",
+    "ui://ufgirfkmewfrh22n",
+    "n30_ttqx",
+    "lb_levelVip",
+    "[color=#FABD4A,#FFEF30]VIP7",
+    "n31_ttqx",
+    "lb_vip",
+    "[color=#FABD4A,#FFEF30]66",
+    "n33_ttqx",
+    "icon_viptitle",
+    "[color=#FABD4A,#FFEF30]VIP6",
+    "ttqx6h2tk",
+    "n21_aban",
+    "btn_buy",
+    "购买",
+    "n44_k08b",
+    "pro_vip",
+    "n22_aban",
+    "lb_limit",
+    "购买次数:5/5",
+    "n19_aban",
+    "lb_gift",
+    "特权礼包",
+    "n16_aban",
+    "lb_title",
+    "特权详情",
+    "n7_aban",
+    "lb_recharge",
+    "再充值",
+    "n9_aban",
+    "lb_need",
+    "×1000水晶升级",
+    "n39_k08b",
+    "n39",
+    "n41_k08b",
+    "lan_Icon",
+    "n42_k08b",
+    "lb_lan",
+    "ui://07oqcq5mk08b6h2u7",
+    "v6",
+    "VipBuyBtn",
+    "button",
+    "up",
+    "down",
+    "over",
+    "3",
+    "selectedOver",
+    "State",
+    "NOEnough",
+    "Free",
+    "n20_k08b",
+    "icon",
+    "ui://07oqcq5mk08b6h2ty",
+    "n15_10abj",
+    "lb_cost",
+    "n17_p063",
+    "icon_cost",
+    "ui://cyrayt3hpsobh241",
+    "h1wsh268",
+    "n19_qsto",
+    "RedDot",
+    "n21_k08b",
+    "title",
+    "k08b6h2u7",
+    "vipFront",
+    "vlji6h2ub",
+    "vip_xd_vi",
+    "/Images/Lan/",
+    "atlas0",
+    "atlas0.png",
+    "atlas_vlji6h2ub",
+    "atlas_vlji6h2ub.png"
+  ]
+}

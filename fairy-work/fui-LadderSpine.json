@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "type": 9,
+      "id": "q2163",
+      "name": "duanwei_spine",
+      "path": "/",
+      "file": "duanwei_spine.json",
+      "size": [
+        1574,
+        1386
+      ]
+    }
+  ],
+  "sprites": [],
+  "strings": [
+    "q2163",
+    "duanwei_spine",
+    "/",
+    "duanwei_spine.json"
+  ]
+}

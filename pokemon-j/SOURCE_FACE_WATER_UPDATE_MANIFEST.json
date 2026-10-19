@@ -1,0 +1,16 @@
+{
+  "INSTALL_SOURCE_FACE_WATER_AR.md": "1ddbb9500c0fdfbc5b8ed4e91f131b9d40300ae24d938ae999936addd39b84cf",
+  "public/scene.js": "2cac3cd1395a3d55978186f4287d151338e1db311bc0e2bda97c952bf25aa4b4",
+  "public/source-water.js": "fc9fb135f38706c51fabbdde46b8436f6824d6750f7bf7776322e481ae6745ee",
+  "public/source-building-labels.js": "620af3c63bff0fe944a5646ad49f2dbd1a556bff950aea651476a5ebd9353740",
+  "public/source-quests.js": "0387e3b93c6bd7228949054c738f68f3924b0d0f092ba9ca43dddf774674afb3",
+  "public/assets/imported/models/e7117792d1b9d392b3cba28a6fb341b0.glb.gz": "bfb9ab6cd0abea8e11250a19187a250fd76c0ef33f92d4824018115988a6f694",
+  "SOURCE_FACE_SKIN_BINDING.json": "2da58ff8d712ce922fd161b66cd479e5622b4e84dd13e79141db8e0e81afa4be",
+  "SOURCE_LEDGE_WATER_VALIDATION.json": "806aac202de636f94d42e732ad1158b283220d3d34f713feb49c48b0fc39484a",
+  "SOURCE_BUILDING_NAMES_VALIDATION.json": "0454c82740e88c6e0d7c3308a7644f6af024a770527f899548c931b5ee9c6a48",
+  "SOURCE_QUEST_GATES_VALIDATION.json": "b6c59359ee5f86c47c2ffe0ed4263fa082cd154e527f91d0d105a2dc4546a62b",
+  "public/assets/original/water/_Normal2.png": "b597db09dffded2eb3a2c39f0d53bd49e60b92f4dab4b958c2912156124e51bc",
+  "public/assets/original/water/_WaterNormal.png": "650ccb37c63f4a4910505f9022fe2b63821080179a57f74f43ed9eec24eca5b7",
+  "public/assets/original/water/material.json": "995f2b10ba55d707121db452bf5782ea54ea7ea867c5595e626d8ae0b3fd9100",
+  "public/assets/original/water/SampleWater.frag": "594e9886871d540808f39a67aeb5cbf1112f7506fa3a0af09efa875a0b232e1e"
+}

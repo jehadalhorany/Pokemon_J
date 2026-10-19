@@ -1,0 +1,51 @@
+{
+  "physicalGoldPurchase": {
+    "before": {
+      "coins": 1000,
+      "gems": 500
+    },
+    "after": {
+      "coins": 11000,
+      "gems": 490
+    },
+    "cost": 10,
+    "gain": 10000
+  },
+  "physicalTabs": [
+    {
+      "id": 1,
+      "offers": 4
+    },
+    {
+      "id": 2,
+      "offers": 29
+    },
+    {
+      "id": 4,
+      "offers": 10
+    },
+    {
+      "id": 5,
+      "offers": 8
+    },
+    {
+      "id": 6,
+      "offers": 19
+    },
+    {
+      "id": 7,
+      "offers": 16
+    },
+    {
+      "id": 8,
+      "offers": 45
+    },
+    {
+      "id": 9,
+      "offers": 12
+    }
+  ],
+  "allEightSourceCategories": true,
+  "unlockedTabsAreTestFixture": true,
+  "pageErrors": []
+}

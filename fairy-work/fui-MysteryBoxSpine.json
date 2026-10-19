@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "type": 9,
+      "id": "xrsj3",
+      "name": "spine_baoxiang",
+      "path": "/",
+      "file": "spine_baoxiang.json",
+      "size": [
+        1593,
+        1120
+      ]
+    }
+  ],
+  "sprites": [],
+  "strings": [
+    "xrsj3",
+    "spine_baoxiang",
+    "/",
+    "spine_baoxiang.json"
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "scope": "Actual source battle scene and Mudkip GLB models; real playBattleMotion integration; original hit assets and shader fragments. Not full progression or all moves tested.",
+  "hits": [
+    {
+      "token": "native-fixture:1",
+      "played": [
+        {
+          "uid": "ally",
+          "name": "Cast"
+        },
+        {
+          "uid": "target",
+          "name": "Wound"
+        }
+      ],
+      "missing": [],
+      "particleEffectsBound": true,
+      "hitEffects": [
+        {
+          "targetUid": "target",
+          "attachment": "eChest",
+          "sourceESk": 3,
+          "worldPoint": [
+            -0.001523370615176728,
+            0.12119042964995574,
+            -2.972613064238443
+          ],
+          "effect": "00055_hit",
+          "report": {
+            "key": "00055_hit",
+            "systems": 10,
+            "spawned": 48,
+            "alive": 0,
+            "unsupported": [
+              {
+                "system": "Particle System (5)",
+                "module": "SubModule"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "token": "native-fixture:2",
+      "played": [
+        {
+          "uid": "ally",
+          "name": "Attack"
+        },
+        {
+          "uid": "target",
+          "name": "Wound"
+        }
+      ],
+      "missing": [],
+      "particleEffectsBound": true,
+      "hitEffects": [
+        {
+          "targetUid": "target",
+          "attachment": "eChest",
+          "sourceESk": 3,
+          "worldPoint": [
+            -0.0015810144779134997,
+            0.12102241296274842,
+            -2.9726084520219995
+          ],
+          "effect": "00033_hit",
+          "report": {
+            "key": "00033_hit",
+            "systems": 5,
+            "spawned": 21,
+            "alive": 20,
+            "unsupported": []
+          }
+        }
+      ]
+    },
+    {
+      "token": "native-fixture:3",
+      "played": [
+        {
+          "uid": "ally",
+          "name": "Cast"
+        },
+        {
+          "uid": "target",
+          "name": "Wound"
+        }
+      ],
+      "missing": [],
+      "particleEffectsBound": true,
+      "hitEffects": [
+        {
+          "targetUid": "target",
+          "attachment": "eChest",
+          "sourceESk": 3,
+          "worldPoint": [
+            -0.0011464053428032479,
+            0.12173814164926199,
+            -2.972693033420103
+          ],
+          "effect": "00052_hit",
+          "report": {
+            "key": "00052_hit",
+            "systems": 5,
+            "spawned": 32,
+            "alive": 21,
+            "unsupported": []
+          }
+        }
+      ]
+    }
+  ],
+  "missingFixtureAssets": [
+    "/assets/imported/textures/03eedfea27ff2247cae44eaf.png",
+    "/assets/imported/textures/a863ae7ead7fd67565338d7d.png",
+    "/assets/imported/textures/7dabfc96780d64e1df057400.png",
+    "/assets/imported/textures/18e09542660bf830e422887e.png",
+    "/assets/imported/textures/06164208073cde4a6125e72f.png",
+    "/assets/imported/textures/2a5286edeb457ff707753ce8.png",
+    "/assets/imported/textures/a333a3f0eeae45a58182444f.png",
+    "/assets/imported/textures/6c6769de0ad94888bc7e4a05.png",
+    "/assets/imported/textures/5ef2b8810e6f3e1826a90892.png",
+    "/assets/imported/textures/4f74e3d61d42190ba7e574cb.png",
+    "/assets/imported/textures/9a723b3bac7d41c068758ae7.png",
+    "/assets/imported/textures/f82fb79734a7cf12515e5b95.png"
+  ],
+  "pageErrors": [],
+  "rootAuthorTranslationReset": true,
+  "realElapsedTimeUpdate": true,
+  "noGameWorldOrModelTexturesShipped": true,
+  "limitations": [
+    "Three tested effects only",
+    "SubModule behavior incomplete; unsupported modules listed per effect",
+    "Focused source scene/model fixture, not all gameplay UI or progression",
+    "Fixture missing cosmetic textures listed separately; user textures unchanged"
+  ]
+}

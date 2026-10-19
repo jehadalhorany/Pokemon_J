@@ -1,0 +1,999 @@
+{
+  "items": [
+    {
+      "type": 0,
+      "id": "aupt1lyos8i",
+      "name": "ph_bg_1",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        960,
+        497
+      ]
+    },
+    {
+      "type": 0,
+      "id": "aupt1lyosc5",
+      "name": "bc_bg_01",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        21,
+        20
+      ]
+    },
+    {
+      "type": 0,
+      "id": "aupt1lyosc6",
+      "name": "bc_bg_02",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        465,
+        174
+      ]
+    },
+    {
+      "type": 0,
+      "id": "aupt1lyosc7",
+      "name": "bc_bg_03",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        465,
+        174
+      ]
+    },
+    {
+      "type": 0,
+      "id": "aupt1lyosc8",
+      "name": "bc_bg_04",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        465,
+        174
+      ]
+    },
+    {
+      "type": 0,
+      "id": "aupt1lyosc9",
+      "name": "bc_bg_05",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        465,
+        175
+      ]
+    },
+    {
+      "type": 0,
+      "id": "aupt1lyosca",
+      "name": "bc_bg_06",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        1024,
+        274
+      ]
+    },
+    {
+      "type": 0,
+      "id": "aupt1lyoscb",
+      "name": "bc_bg_07",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        712,
+        240
+      ]
+    },
+    {
+      "type": 0,
+      "id": "aupt1lyoscc",
+      "name": "bc_bg_08",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        279,
+        91
+      ]
+    },
+    {
+      "type": 0,
+      "id": "aupt1lyoscd",
+      "name": "bc_bg_09",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        64,
+        65
+      ]
+    },
+    {
+      "type": 0,
+      "id": "aupt1lyosce",
+      "name": "bc_bg_10",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        76,
+        43
+      ]
+    },
+    {
+      "type": 0,
+      "id": "aupt1lyoscf",
+      "name": "bc_icon_01",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        35,
+        34
+      ]
+    },
+    {
+      "type": 0,
+      "id": "aupt1lyoscm",
+      "name": "pc_buzhen",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        74,
+        74
+      ]
+    },
+    {
+      "type": 0,
+      "id": "dabw6h5j0",
+      "name": "sl_bg_4",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        103,
+        95
+      ]
+    },
+    {
+      "type": 0,
+      "id": "dabw6h5j1",
+      "name": "sl_bg_5",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        52,
+        106
+      ]
+    },
+    {
+      "type": 0,
+      "id": "sj5u1lyosc4",
+      "name": "sglx_bth_1",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        321,
+        110
+      ]
+    },
+    {
+      "type": 3,
+      "id": "81ci6h5iz",
+      "name": "CatchContestCurrencyItem",
+      "path": "/",
+      "file": null,
+      "size": [
+        239,
+        40
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "99ln1lyorvm",
+      "name": "CatchContestEnter_Window",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "99ln1lyos8i",
+      "name": "RankIRewardtem",
+      "path": "/",
+      "file": null,
+      "size": [
+        1129,
+        179
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "dabw1lyorvk",
+      "name": "EudemonAndHpItem",
+      "path": "/",
+      "file": null,
+      "size": [
+        186,
+        190
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "dabw4",
+      "name": "CatchContest_Bg",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "dabw6h5iz",
+      "name": "CatchBack",
+      "path": "/",
+      "file": null,
+      "size": [
+        480,
+        95
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "o0g06h5iz",
+      "name": "TimeLabel",
+      "path": "/",
+      "file": null,
+      "size": [
+        447,
+        59
+      ],
+      "extension": 11
+    },
+    {
+      "type": 0,
+      "id": "aupt1lyosci",
+      "name": "pc_font_tw",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        322,
+        64
+      ]
+    },
+    {
+      "type": 0,
+      "id": "aupt1lyoscl",
+      "name": "pc_font_cn",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        322,
+        64
+      ]
+    },
+    {
+      "type": 0,
+      "id": "k6ao1lyoscp",
+      "name": "pc_font_ko",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        322,
+        64
+      ]
+    },
+    {
+      "type": 0,
+      "id": "k6ao1lyoscq",
+      "name": "pc_font_es",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        322,
+        64
+      ]
+    },
+    {
+      "type": 0,
+      "id": "k6ao1lyoscr",
+      "name": "pc_font_pt",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        322,
+        64
+      ]
+    },
+    {
+      "type": 0,
+      "id": "pfwr1lyoscs",
+      "name": "pc_font_idn",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        322,
+        64
+      ]
+    },
+    {
+      "type": 0,
+      "id": "rc7x1lyosco",
+      "name": "pc_font_en",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        339,
+        44
+      ]
+    },
+    {
+      "type": 0,
+      "id": "vlji1lyoscu",
+      "name": "pc_font_vi",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        322,
+        64
+      ]
+    },
+    {
+      "type": 0,
+      "id": "wywu1lyosct",
+      "name": "pc_font_ru",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        322,
+        64
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas0",
+      "name": null,
+      "path": null,
+      "file": "atlas0.png",
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas_wywu1lyosct",
+      "name": null,
+      "path": null,
+      "file": "atlas_wywu1lyosct.png",
+      "size": [
+        512,
+        64
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas_vlji1lyoscu",
+      "name": null,
+      "path": null,
+      "file": "atlas_vlji1lyoscu.png",
+      "size": [
+        512,
+        64
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas_aupt1lyos8i",
+      "name": null,
+      "path": null,
+      "file": "atlas_aupt1lyos8i.png",
+      "size": [
+        1024,
+        512
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas_aupt1lyosca",
+      "name": null,
+      "path": null,
+      "file": "atlas_aupt1lyosca.png",
+      "size": [
+        1024,
+        512
+      ]
+    }
+  ],
+  "sprites": [
+    {
+      "id": "aupt1lyoscb",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        0,
+        712,
+        240
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "aupt1lyosc8",
+      "atlas": "atlas0",
+      "rect": [
+        714,
+        0,
+        174,
+        465
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "aupt1lyosc7",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        242,
+        465,
+        174
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "aupt1lyosc6",
+      "atlas": "atlas0",
+      "rect": [
+        467,
+        242,
+        174,
+        465
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "aupt1lyosc9",
+      "atlas": "atlas0",
+      "rect": [
+        643,
+        467,
+        175,
+        465
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "rc7x1lyosco",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        934,
+        339,
+        44
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "aupt1lyosci",
+      "atlas": "atlas0",
+      "rect": [
+        341,
+        934,
+        322,
+        64
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "aupt1lyoscl",
+      "atlas": "atlas0",
+      "rect": [
+        665,
+        934,
+        322,
+        64
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "pfwr1lyoscs",
+      "atlas": "atlas0",
+      "rect": [
+        820,
+        467,
+        60,
+        322
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "sj5u1lyosc4",
+      "atlas": "atlas0",
+      "rect": [
+        882,
+        467,
+        110,
+        321
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "k6ao1lyoscr",
+      "atlas": "atlas0",
+      "rect": [
+        890,
+        0,
+        51,
+        319
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "k6ao1lyoscq",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        980,
+        319,
+        42
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "k6ao1lyoscp",
+      "atlas": "atlas0",
+      "rect": [
+        943,
+        0,
+        60,
+        319
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "aupt1lyoscc",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        709,
+        279,
+        91
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "dabw6h5j1",
+      "atlas": "atlas0",
+      "rect": [
+        643,
+        242,
+        52,
+        106
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "dabw6h5j0",
+      "atlas": "atlas0",
+      "rect": [
+        890,
+        321,
+        103,
+        95
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "aupt1lyosce",
+      "atlas": "atlas0",
+      "rect": [
+        890,
+        418,
+        76,
+        43
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "aupt1lyoscm",
+      "atlas": "atlas0",
+      "rect": [
+        882,
+        790,
+        74,
+        74
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "aupt1lyoscd",
+      "atlas": "atlas0",
+      "rect": [
+        643,
+        350,
+        65,
+        64
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "aupt1lyoscf",
+      "atlas": "atlas0",
+      "rect": [
+        968,
+        418,
+        34,
+        35
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "aupt1lyosc5",
+      "atlas": "atlas0",
+      "rect": [
+        995,
+        321,
+        21,
+        20
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "wywu1lyosct",
+      "atlas": "atlas_wywu1lyosct",
+      "rect": [
+        0,
+        0,
+        319,
+        58
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "vlji1lyoscu",
+      "atlas": "atlas_vlji1lyoscu",
+      "rect": [
+        0,
+        0,
+        319,
+        50
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "aupt1lyos8i",
+      "atlas": "atlas_aupt1lyos8i",
+      "rect": [
+        0,
+        0,
+        960,
+        497
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "aupt1lyosca",
+      "atlas": "atlas_aupt1lyosca",
+      "rect": [
+        0,
+        0,
+        1024,
+        274
+      ],
+      "rotated": 0
+    }
+  ],
+  "strings": [
+    "c1imbcrl",
+    "Base",
+    "ufgirfkm",
+    "Common",
+    "cyrayt3h",
+    "Item",
+    "c6iwlr2r",
+    "Main",
+    "aupt1lyos8i",
+    "ph_bg_1",
+    "/Image/",
+    "aupt1lyosc5",
+    "bc_bg_01",
+    "aupt1lyosc6",
+    "bc_bg_02",
+    "aupt1lyosc7",
+    "bc_bg_03",
+    "aupt1lyosc8",
+    "bc_bg_04",
+    "aupt1lyosc9",
+    "bc_bg_05",
+    "aupt1lyosca",
+    "bc_bg_06",
+    "aupt1lyoscb",
+    "bc_bg_07",
+    "aupt1lyoscc",
+    "bc_bg_08",
+    "aupt1lyoscd",
+    "bc_bg_09",
+    "aupt1lyosce",
+    "bc_bg_10",
+    "aupt1lyoscf",
+    "bc_icon_01",
+    "aupt1lyoscm",
+    "pc_buzhen",
+    "dabw6h5j0",
+    "sl_bg_4",
+    "/Images/",
+    "dabw6h5j1",
+    "sl_bg_5",
+    "sj5u1lyosc4",
+    "sglx_bth_1",
+    "81ci6h5iz",
+    "CatchContestCurrencyItem",
+    "/",
+    "i3m66h4j5",
+    "n9_psob",
+    "n9",
+    "n3_8yc4",
+    "itemicon",
+    "ui://c6iwlr2rlder6h4nm",
+    "psobw",
+    "n5_psob",
+    "btn_add",
+    "ui://c6iwlr2rlder6h4ob",
+    "n4_8yc4",
+    "itemNums",
+    "12345678",
+    "99ln1lyorvm",
+    "CatchContestEnter_Window",
+    "model",
+    "0",
+    "ontOpen",
+    "1",
+    "open",
+    "n37_aupt",
+    "n37",
+    "8yc42",
+    "n15_sj5u",
+    "bg",
+    "n36_aupt",
+    "n36",
+    "n25_aupt",
+    "n25",
+    "n26_aupt",
+    "n26",
+    "n29_aupt",
+    "n29",
+    "n30_aupt",
+    "n30",
+    "n27_aupt",
+    "n27",
+    "n28_aupt",
+    "n28",
+    "n0_99ln",
+    "list",
+    "ui://098vuf4w99ln1lyos8i",
+    "n14_99ln",
+    "btn_join",
+    "进入",
+    "ui://098vuf4wsj5u1lyosc4",
+    "n19_sj5u",
+    "btn_view",
+    "n9796h2u1",
+    "n20_sj5u",
+    "n20",
+    "n1_99ln",
+    "lb_myRank",
+    "我的排名：为上榜",
+    "n2_99ln",
+    "lb_myScore",
+    "我的捕虫积分：1000",
+    "n3_99ln",
+    "lb_viewRank",
+    "查看排行榜",
+    "n40_aupt",
+    "lb_listTitle",
+    "ui://098vuf4waupt1lyoscl",
+    "n6_99ln",
+    "lb_nextTime",
+    "本周捕虫大赛活动倒计时：5天23时56分",
+    "n7_99ln",
+    "lb_des",
+    "捕虫说明",
+    "aban1",
+    "n8_99ln",
+    "lb_des2",
+    "color",
+    "5",
+    "size",
+    "10",
+    "n9_99ln",
+    "lb_pokemon",
+    "同行宝可梦",
+    "rhl16h2q7",
+    "n22_sj5u",
+    "item",
+    "ultg6h2tz",
+    "n11_99ln",
+    "btn_team",
+    "布阵",
+    "ui://098vuf4waupt1lyoscm",
+    "n12_99ln",
+    "lb_state",
+    "活动开启中：25分25秒",
+    "n31_aupt",
+    "lb_shop",
+    "[color=#FABD4A,#FFEF30]捕虫积分商城",
+    "n32_aupt",
+    "btn_shop",
+    "ui://098vuf4waupt1lyosce",
+    "n33_aupt",
+    "icon_shop",
+    "ui://cyrayt3hpyymg6h62f",
+    "n34_aupt",
+    "lb_shopNum",
+    "9,999,999",
+    "n39_aupt",
+    "lb_team",
+    "布阵",
+    "n41_ojux",
+    "lb_haveJoin",
+    "已参与过改场捕虫大会已参与过改场捕虫大会已参与过改场捕虫大会",
+    "99ln1lyos8i",
+    "RankIRewardtem",
+    "Rank",
+    "97",
+    "One",
+    "98",
+    "Two",
+    "99",
+    "Three",
+    "100",
+    "Other",
+    "n8_g9mo",
+    "n8",
+    "ui://098vuf4waupt1lyosc6",
+    "ui://098vuf4waupt1lyosc7",
+    "ui://098vuf4waupt1lyosc8",
+    "ui://098vuf4waupt1lyosc9",
+    "n9_g9mo",
+    "icon",
+    "ui://ufgirfkmrvj06h2f1",
+    "ui://ufgirfkmrvj06h2fc",
+    "ui://ufgirfkmrvj06h2es",
+    "n2_fwqi",
+    "team",
+    "ui://ufgirfkmewfrh22n",
+    "n10_g9mo",
+    "index",
+    "999",
+    "dabw1lyorvk",
+    "EudemonAndHpItem",
+    "i7i76h2u2",
+    "n13_i7i7",
+    "bar_collect",
+    "n979h287",
+    "n15_i7i7",
+    "quality",
+    "status",
+    "2",
+    "EudemonState",
+    "n24_dabw",
+    "title",
+    "同行宝可梦",
+    "dabw4",
+    "CatchContest_Bg",
+    "showAuto",
+    "NoShow",
+    "Show",
+    "ComboStatus",
+    "State",
+    "Start",
+    "End",
+    "dabw6h5iz",
+    "n0_dabw",
+    "back",
+    "捕虫公园",
+    "n1_dabw",
+    "n1",
+    "o0g06h5iz",
+    "n2_dabw",
+    "lb_time",
+    "n3_dabw",
+    "icon_ball",
+    "ui://cyrayt3hmti7h24j",
+    "n4_dabw",
+    "title_have",
+    "公园球剩余:",
+    "n5_dabw",
+    "lb_have",
+    "X50",
+    "n6_dabw",
+    "title_score",
+    "当前捕虫积分:9999",
+    "n8_dabw",
+    "title_rank",
+    "当前排名:9999",
+    "aqf76h4d2",
+    "n7_dabw",
+    "btn_rank",
+    "查看排名",
+    "n9_dabw",
+    "eudemon",
+    "n10_o0g0",
+    "currencyList",
+    "ui://098vuf4w81ci6h5iz",
+    "g34s6h5iu",
+    "n11_o0g0",
+    "comboCom",
+    "uyjc6h2qv",
+    "n12_o0g0",
+    "autoComponent",
+    "n14_o0g0",
+    "n14",
+    "n15_o0g0",
+    "n16_o0g0",
+    "n16",
+    "n17_o0g0",
+    "title_end",
+    "狩猎时间已到,欢迎下次再来",
+    "CatchBack",
+    "button",
+    "up",
+    "down",
+    "over",
+    "3",
+    "selectedOver",
+    "n3_ktcq",
+    "n3",
+    "n4_ktcq",
+    "狩猎地带",
+    "yql06h32d",
+    "n5_ktcq",
+    "n5",
+    "n6_ktcq",
+    "n6",
+    "n7_ktcq",
+    "n7",
+    "TimeLabel",
+    "k36z6h4fc",
+    "n8_ktcq",
+    "n9_ktcq",
+    "剩余时间: 23:59",
+    "aupt1lyosci",
+    "pc_font_tw",
+    "aupt1lyoscl",
+    "pc_font_cn",
+    "k6ao1lyoscp",
+    "pc_font_ko",
+    "k6ao1lyoscq",
+    "pc_font_es",
+    "k6ao1lyoscr",
+    "pc_font_pt",
+    "pfwr1lyoscs",
+    "pc_font_idn",
+    "rc7x1lyosco",
+    "pc_font_en",
+    "vlji1lyoscu",
+    "pc_font_vi",
+    "wywu1lyosct",
+    "pc_font_ru",
+    "atlas0",
+    "atlas0.png",
+    "atlas_wywu1lyosct",
+    "atlas_wywu1lyosct.png",
+    "atlas_vlji1lyoscu",
+    "atlas_vlji1lyoscu.png",
+    "atlas_aupt1lyos8i",
+    "atlas_aupt1lyos8i.png",
+    "atlas_aupt1lyosca",
+    "atlas_aupt1lyosca.png"
+  ]
+}

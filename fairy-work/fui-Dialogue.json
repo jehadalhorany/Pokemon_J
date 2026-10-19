@@ -1,0 +1,320 @@
+{
+  "items": [
+    {
+      "type": 0,
+      "id": "p0l3e",
+      "name": "yd_bg_0",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        221,
+        1080
+      ]
+    },
+    {
+      "type": 0,
+      "id": "p0l3g",
+      "name": "yd_bg2",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        175,
+        138
+      ]
+    },
+    {
+      "type": 0,
+      "id": "p0l3h",
+      "name": "yd_bg3",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        37,
+        37
+      ]
+    },
+    {
+      "type": 0,
+      "id": "p0l3i",
+      "name": "yd_name",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        536,
+        66
+      ]
+    },
+    {
+      "type": 0,
+      "id": "p0l3n",
+      "name": "yd_npc1",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        237,
+        626
+      ]
+    },
+    {
+      "type": 0,
+      "id": "p0l3o",
+      "name": "yd_npc2",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        207,
+        239
+      ]
+    },
+    {
+      "type": 0,
+      "id": "p0l3p",
+      "name": "yd_npc_yz",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        372,
+        122
+      ]
+    },
+    {
+      "type": 3,
+      "id": "cplf8",
+      "name": "Dialogue_MiniWindow",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "p0l36h2tu",
+      "name": "SkipBtn",
+      "path": "/",
+      "file": null,
+      "size": [
+        206,
+        61
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "p0l3c",
+      "name": "DialogueGuide_MiniWindow",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 4,
+      "id": "atlas0",
+      "name": null,
+      "path": null,
+      "file": "atlas0.png",
+      "size": [
+        2048,
+        512
+      ]
+    }
+  ],
+  "sprites": [
+    {
+      "id": "p0l3e",
+      "atlas": "atlas0",
+      "rect": [
+        1,
+        1,
+        1080,
+        221
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "p0l3n",
+      "atlas": "atlas0",
+      "rect": [
+        1083,
+        1,
+        626,
+        237
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "p0l3i",
+      "atlas": "atlas0",
+      "rect": [
+        1,
+        224,
+        536,
+        66
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "p0l3p",
+      "atlas": "atlas0",
+      "rect": [
+        539,
+        224,
+        372,
+        122
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "p0l3o",
+      "atlas": "atlas0",
+      "rect": [
+        1,
+        292,
+        237,
+        204
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "p0l3g",
+      "atlas": "atlas0",
+      "rect": [
+        913,
+        224,
+        138,
+        175
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "p0l3h",
+      "atlas": "atlas0",
+      "rect": [
+        240,
+        292,
+        37,
+        37
+      ],
+      "rotated": 0
+    }
+  ],
+  "strings": [
+    "ufgirfkm",
+    "Common",
+    "p0l3e",
+    "yd_bg_0",
+    "/Images/",
+    "p0l3g",
+    "yd_bg2",
+    "p0l3h",
+    "yd_bg3",
+    "p0l3i",
+    "yd_name",
+    "p0l3n",
+    "yd_npc1",
+    "p0l3o",
+    "yd_npc2",
+    "p0l3p",
+    "yd_npc_yz",
+    "cplf8",
+    "Dialogue_MiniWindow",
+    "/",
+    "State",
+    "0",
+    "NoTimer",
+    "1",
+    "Timer",
+    "n2_row4",
+    "playerIcon",
+    "n3_row4",
+    "bg",
+    "ui://ufgirfkmp0l3f",
+    "n5_row4",
+    "lb_name",
+    "NPC：",
+    "n6_row4",
+    "lb_content",
+    "现在开始,闪光精灵将开启你的神奇宝贝平行世界拉.       ",
+    "n10_ttqx",
+    "lb_timer",
+    "3秒",
+    "n9_r8x1",
+    "nextBtn",
+    "p0l36h2tu",
+    "SkipBtn",
+    "button",
+    "up",
+    "down",
+    "2",
+    "over",
+    "3",
+    "selectedOver",
+    "n3_psob",
+    "icon",
+    "ui://0xfnn7gkp0l3j",
+    "n4_psob",
+    "title",
+    "跳過对话",
+    "h1wsh268",
+    "n7_k36z",
+    "RedDot",
+    "p0l3c",
+    "DialogueGuide_MiniWindow",
+    "BgType",
+    "Normal",
+    "White",
+    "ModeType",
+    "None",
+    "Mode1",
+    "Mode2",
+    "n32_p0l3",
+    "bg_dialogue",
+    "n20_p0l3",
+    "ui://0xfnn7gkp0l3e",
+    "3秒",
+    "n15_p0l3",
+    "lb_close",
+    "点击空白区域关闭界面",
+    "p0l3m",
+    "n23_p0l3",
+    "skin_story",
+    "跳过",
+    "n21_p0l3",
+    "n21",
+    "训练师，欢迎来到闪光精灵世界，我是这个世界的指引者，接下来就由我带您熟悉这个世界吧~~~</br>请多多指教哦！！！！",
+    "n22_p0l3",
+    "n22",
+    "n12_p0l3",
+    "skip_dialog",
+    "跳过对话",
+    "n28_p0l3",
+    "n28",
+    "n26_p0l3",
+    "mode_bg",
+    "n30_p0l3",
+    "lb_bg",
+    "ui://0xfnn7gkp0l3i",
+    "n31_p0l3",
+    "大木博士",
+    "n25_p0l3",
+    "mode1",
+    "ui://0xfnn7gkp0l3n",
+    "n29_p0l3",
+    "mode2",
+    "ui://0xfnn7gkp0l3o",
+    "n18_p0l3",
+    "spine",
+    "changeColor",
+    "changepos",
+    "dialogue",
+    "dialogueNormal",
+    "atlas0",
+    "atlas0.png"
+  ]
+}

@@ -1,0 +1,246 @@
+ActivityComponentSystem::CheckComponentData
+000c call get_Instance
+0011 ldarg.1 
+0012 ldfld info
+0017 callvirt get_FunctionId
+001c ldc.i4.0 
+001d callvirt GetConfig
+0022 stloc.0 
+0023 ldloc.0 
+0024 brfalse.s 58
+0026 call get_Instance
+002b ldloc.0 
+002c callvirt get_FunctionId
+0031 callvirt CheckUnLock
+0036 brtrue.s 58
+0038 ldc.i4.0 
+0039 ret 
+003a ldarg.1 
+003b ldfld info
+0040 callvirt get_FunctionId
+0045 stloc.1 
+0046 ldloc.1 
+0047 ldc.i4 534
+004c bgt.s 151
+004e ldloc.1 
+004f ldc.i4 421
+0054 bgt.s 113
+0056 ldloc.1 
+0057 ldc.i4 420
+005c beq 645
+0061 ldloc.1 
+0062 ldc.i4 421
+0067 beq 247
+006c br 679
+0071 ldloc.1 
+0072 ldc.i4 504
+0077 beq 611
+007c ldloc.1 
+007d ldc.i4 532
+0082 beq 425
+0087 ldloc.1 
+0088 ldc.i4 534
+008d beq 477
+0092 br 679
+0097 ldloc.1 
+0098 ldc.i4 608
+009d bgt.s 183
+009f ldloc.1 
+00a0 ldc.i4 602
+00a5 beq 524
+00aa ldloc.1 
+00ab ldc.i4 608
+00b0 beq.s 218
+00b2 br 679
+00b7 ldloc.1 
+00b8 ldc.i4 612
+00bd beq 335
+00c2 ldloc.1 
+00c3 ldc.i4 614
+00c8 beq 378
+00cd ldloc.1 
+00ce ldc.i4 702
+00d3 beq.s 288
+00d5 br 679
+00da ldarg.0 
+00db ldarg.1 
+00dc ldfld activityId
+00e1 call ActivityComponentSystem::GetActivityUnit
+00e6 stloc.2 
+00e7 ldloc.2 
+00e8 brfalse 679
+00ed ldloc.2 
+00ee callvirt GetComponent<ET.Pokemon.Activity.Component.RechargeRebateComponent>
+00f3 ldnull 
+00f4 cgt.un 
+00f6 ret 
+00f7 ldarg.0 
+00f8 ldarg.1 
+00f9 ldfld activityId
+00fe call ActivityComponentSystem::GetActivityUnit
+0103 stloc.3 
+0104 ldloc.3 
+0105 brfalse 679
+010a ldloc.3 
+010b callvirt GetComponent<ET.Pokemon.Activity.Component.Plug.SuperStarFlashComeComponent>
+0110 stloc.s local(0x0004)
+0112 ldloc.s local(0x0004)
+0114 brfalse.s 286
+0116 ldloc.s local(0x0004)
+0118 call SuperStarFlashComeComponentSystem::IsShow
+011d ret 
+011e ldc.i4.0 
+011f ret 
+0120 ldarg.0 
+0121 ldarg.1 
+0122 ldfld activityId
+0127 call ActivityComponentSystem::GetActivityUnit
+012c stloc.s local(0x0005)
+012e ldloc.s local(0x0005)
+0130 brfalse 679
+0135 ldloc.s local(0x0005)
+0137 callvirt GetComponent<ET.Pokemon.Activity.Component.PocketFundComponent>
+013c stloc.s local(0x0006)
+013e ldloc.s local(0x0006)
+0140 brfalse.s 333
+0142 ldloc.s local(0x0006)
+0144 call PocketFundComponentSystem::IsNeedToHide
+0149 ldc.i4.0 
+014a ceq 
+014c ret 
+014d ldc.i4.1 
+014e ret 
+014f ldarg.0 
+0150 ldarg.1 
+0151 ldfld activityId
+0156 call ActivityComponentSystem::GetActivityUnit
+015b stloc.s local(0x0007)
+015d ldloc.s local(0x0007)
+015f brfalse 679
+0164 ldloc.s local(0x0007)
+0166 callvirt GetComponent<ET.Pokemon.Activity.Component.LevelGiftComponent>
+016b brfalse.s 376
+016d ldloc.s local(0x0007)
+016f call LevelGiftHelper::CheckGetAll
+0174 ldc.i4.0 
+0175 ceq 
+0177 ret 
+0178 ldc.i4.1 
+0179 ret 
+017a ldarg.0 
+017b ldarg.1 
+017c ldfld activityId
+0181 call ActivityComponentSystem::GetActivityUnit
+0186 stloc.s local(0x0008)
+0188 ldloc.s local(0x0008)
+018a brfalse 679
+018f ldloc.s local(0x0008)
+0191 callvirt GetComponent<ET.Pokemon.Activity.Component.NewCumulativeRechargeComponent>
+0196 stloc.s local(0x0009)
+0198 ldloc.s local(0x0009)
+019a brfalse.s 423
+019c ldloc.s local(0x0009)
+019e call NewCumulativeRechargeComponentComponentSystem::IsOver
+01a3 ldc.i4.0 
+01a4 ceq 
+01a6 ret 
+01a7 ldc.i4.1 
+01a8 ret 
+01a9 ldarg.0 
+01aa ldarg.1 
+01ab ldfld activityId
+01b0 call ActivityComponentSystem::GetActivityUnit
+01b5 stloc.s local(0x000A)
+01b7 ldloc.s local(0x000A)
+01b9 brfalse 679
+01be ldloc.s local(0x000A)
+01c0 callvirt GetComponent<ET.Pokemon.Activity.Component.ActivityGiftShopComponent>
+01c5 stloc.s local(0x000B)
+01c7 ldloc.s local(0x000B)
+01c9 brfalse.s 475
+01cb ldloc.s local(0x000B)
+01cd callvirt get_clientGiftShops
+01d2 callvirt get_Count
+01d7 ldc.i4.0 
+01d8 cgt 
+01da ret 
+01db ldc.i4.1 
+01dc ret 
+01dd ldarg.0 
+01de ldarg.1 
+01df ldfld activityId
+01e4 call ActivityComponentSystem::GetActivityUnit
+01e9 stloc.s local(0x000C)
+01eb ldloc.s local(0x000C)
+01ed brfalse 679
+01f2 ldloc.s local(0x000C)
+01f4 callvirt GetComponent<ET.Pokemon.Activity.Component.ActivityEvolveComponent>
+01f9 stloc.s local(0x000D)
+01fb ldloc.s local(0x000D)
+01fd brfalse.s 522
+01ff ldloc.s local(0x000D)
+0201 call ActivityEvolveComponentSystem::isOver
+0206 ldc.i4.0 
+0207 ceq 
+0209 ret 
+020a ldc.i4.1 
+020b ret 
+020c ldarg.0 
+020d ldarg.1 
+020e ldfld activityId
+0213 call ActivityComponentSystem::GetActivityUnit
+0218 stloc.s local(0x000E)
+021a ldloc.s local(0x000E)
+021c brfalse 679
+0221 ldloc.s local(0x000E)
+0223 callvirt GetComponent<ET.Pokemon.Activity.Component.ContinuousRechargeComponent>
+0228 stloc.s local(0x000F)
+022a ldloc.s local(0x000F)
+022c brfalse.s 567
+022e ldloc.s local(0x000F)
+0230 callvirt get_CumulativeRechargeConfig
+0235 brtrue.s 569
+0237 ldc.i4.1 
+0238 ret 
+0239 ldarg.0 
+023a call DomainScene
+023f call RoleProperty
+0244 stloc.s local(0x0010)
+0246 ldloc.s local(0x000F)
+0248 callvirt get_CumulativeRechargeConfig
+024d callvirt get_RechargeNum
+0252 conv.i8 
+0253 ldloc.s local(0x0010)
+0255 ldc.i4 11000
+025a callvirt get_Item
+025f ble.s 679
+0261 ldc.i4.0 
+0262 ret 
+0263 ldarg.0 
+0264 ldarg.1 
+0265 ldfld activityId
+026a call ActivityComponentSystem::GetActivityUnit
+026f stloc.s local(0x0011)
+0271 ldloc.s local(0x0011)
+0273 brfalse.s 679
+0275 ldloc.s local(0x0011)
+0277 callvirt GetComponent<ET.Pokemon.Activity.Component.MonthlyGiftComponent>
+027c call MonthlyGiftComponentSystem::IsOver
+0281 brfalse.s 679
+0283 ldc.i4.0 
+0284 ret 
+0285 ldarg.0 
+0286 ldarg.1 
+0287 ldfld activityId
+028c call ActivityComponentSystem::GetActivityUnit
+0291 stloc.s local(0x0012)
+0293 ldloc.s local(0x0012)
+0295 brfalse.s 679
+0297 ldloc.s local(0x0012)
+0299 callvirt GetComponent<ET.Pokemon.Activity.Component.PreGodComeComponent>
+029e call PreGodComeComponentSystem::IsOver
+02a3 brfalse.s 679
+02a5 ldc.i4.0 
+02a6 ret 
+02a7 ldc.i4.1 
+02a8 ret 

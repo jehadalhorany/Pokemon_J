@@ -1,0 +1,17 @@
+{
+  "validatedAt": "2026-10-17T11:46:56.732423+00:00",
+  "packages": [
+    "Base",
+    "Common",
+    "Item",
+    "EudemonIcon",
+    "Role",
+    "Main",
+    "Map",
+    "Assignment",
+    "Dialogue"
+  ],
+  "verifiedSpritePngs": 9046,
+  "missing": [],
+  "scope": "PNG CRC and source dimensions; not all component behavior"
+}

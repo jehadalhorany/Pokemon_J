@@ -1,0 +1,84 @@
+TaskDaily::SetQuestInfoList
+000c ldarg.0 
+000d ldfld questInfos
+0012 callvirt Clear
+0017 ldarg.0 
+0018 ldfld m_doMain
+001d call DomainScene
+0022 callvirt GetComponent<ET.DailyQuestComponent>
+0027 stloc.0 
+0028 ldarg.0 
+0029 ldfld m_btn_sort
+002e callvirt get_selectedIndex
+0033 ldarg.0 
+0034 ldfld m_btn_sort
+0039 callvirt get_items
+003e ldlen 
+003f conv.i4 
+0040 ldc.i4.1 
+0041 sub 
+0042 bne.un.s 137
+0044 ldc.i4.0 
+0045 stloc.1 
+0046 br.s 99
+0048 ldarg.0 
+0049 ldfld questInfos
+004e ldloc.0 
+004f callvirt get_QuestInfos
+0054 ldloc.1 
+0055 callvirt get_Item
+005a callvirt Add
+005f ldloc.1 
+0060 ldc.i4.1 
+0061 add 
+0062 stloc.1 
+0063 ldloc.1 
+0064 ldloc.0 
+0065 callvirt get_QuestInfos
+006a callvirt get_Count
+006f blt.s 72
+0071 ldarg.0 
+0072 ldfld questInfos
+0077 ldarg.0 
+0078 ldftn TaskDaily::Compare
+007e newobj .ctor
+0083 callvirt Sort
+0088 ret 
+0089 ldc.i4.0 
+008a stloc.2 
+008b br.s 197
+008d ldloc.0 
+008e callvirt get_QuestInfos
+0093 ldloc.2 
+0094 callvirt get_Item
+0099 stloc.3 
+009a ldloc.0 
+009b ldloc.3 
+009c call DailyQuestComponentSystem::GetCurBranchquest
+00a1 callvirt get_Group
+00a6 ldarg.0 
+00a7 ldfld m_btn_sort
+00ac callvirt get_selectedIndex
+00b1 ldc.i4.1 
+00b2 add 
+00b3 bne.un.s 193
+00b5 ldarg.0 
+00b6 ldfld questInfos
+00bb ldloc.3 
+00bc callvirt Add
+00c1 ldloc.2 
+00c2 ldc.i4.1 
+00c3 add 
+00c4 stloc.2 
+00c5 ldloc.2 
+00c6 ldloc.0 
+00c7 callvirt get_QuestInfos
+00cc callvirt get_Count
+00d1 blt.s 141
+00d3 ldarg.0 
+00d4 ldfld questInfos
+00d9 ldarg.0 
+00da ldftn TaskDaily::Compare
+00e0 newobj .ctor
+00e5 callvirt Sort
+00ea ret 

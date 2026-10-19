@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "type": 9,
+      "id": "jdv60",
+      "name": "spine_jinhuasuipian",
+      "path": "/",
+      "file": "spine_jinhuasuipian.json",
+      "size": [
+        806,
+        800
+      ]
+    }
+  ],
+  "sprites": [],
+  "strings": [
+    "jdv60",
+    "spine_jinhuasuipian",
+    "/",
+    "spine_jinhuasuipian.json"
+  ]
+}

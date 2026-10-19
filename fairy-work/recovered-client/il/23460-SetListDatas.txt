@@ -1,0 +1,113 @@
+NewTaskBranch::SetListDatas
+000c ldarg.0 
+000d ldfld _chatpList
+0012 callvirt Clear
+0017 ldarg.0 
+0018 ldfld _areaList
+001d callvirt Clear
+0022 ldarg.0 
+0023 ldfld _branchQuestComponent
+0028 callvirt get_ListQuickBranch
+002d callvirt get_Keys
+0032 callvirt GetEnumerator
+0037 stloc.0 
+0038 br.s 78
+003a ldloca.s local(0x0000)
+003c call get_Current
+0041 stloc.1 
+0042 ldarg.0 
+0043 ldfld _areaList
+0048 ldloc.1 
+0049 callvirt Add
+004e ldloca.s local(0x0000)
+0050 call MoveNext
+0055 brtrue.s 58
+0057 leave.s 103
+0059 ldloca.s local(0x0000)
+005b constrained. 0x1b0017d3
+0061 callvirt Dispose
+0066 endfinally 
+0067 ldarg.0 
+0068 ldfld _areaList
+006d ldarg.0 
+006e ldfld _branchQuestComponent
+0073 ldftn BranchQuestComponentSystem::SortTask
+0079 newobj .ctor
+007e callvirt Sort
+0083 ldc.i4.0 
+0084 stloc.2 
+0085 br 281
+008a ldarg.0 
+008b ldfld _chatpList
+0090 ldarg.0 
+0091 ldfld _areaList
+0096 ldloc.2 
+0097 callvirt get_Item
+009c callvirt Add
+00a1 ldarg.0 
+00a2 ldfld _branchQuestComponent
+00a7 ldarg.0 
+00a8 ldfld _areaList
+00ad ldloc.2 
+00ae callvirt get_Item
+00b3 ldarg.0 
+00b4 ldflda rConfigs
+00b9 call BranchQuestComponentSystem::GetBranchOfArea
+00be ldarg.0 
+00bf ldfld rConfigs
+00c4 ldarg.0 
+00c5 ldftn NewTaskBranch::Compare
+00cb newobj .ctor
+00d0 callvirt Sort
+00d5 ldc.i4.0 
+00d6 stloc.3 
+00d7 br.s 263
+00d9 ldarg.0 
+00da ldfld rConfigs
+00df ldloc.3 
+00e0 callvirt get_Item
+00e5 stloc.s local(0x0004)
+00e7 ldarg.0 
+00e8 ldfld _questBranchConfig
+00ed brtrue.s 259
+00ef ldarg.0 
+00f0 ldloc.s local(0x0004)
+00f2 stfld _questBranchConfig
+00f7 ldarg.0 
+00f8 ldarg.0 
+00f9 ldfld _questBranchConfig
+00fe call NewTaskBranch::UpdateTaskInfo
+0103 ldloc.3 
+0104 ldc.i4.1 
+0105 add 
+0106 stloc.3 
+0107 ldloc.3 
+0108 ldarg.0 
+0109 ldfld rConfigs
+010e callvirt get_Count
+0113 blt.s 217
+0115 ldloc.2 
+0116 ldc.i4.1 
+0117 add 
+0118 stloc.2 
+0119 ldloc.2 
+011a ldarg.0 
+011b ldfld _areaList
+0120 callvirt get_Count
+0125 blt 138
+012a ldarg.0 
+012b ldfld m_list_task
+0130 ldarg.0 
+0131 ldfld _chatpList
+0136 callvirt get_Count
+013b callvirt set_numItems
+0140 ldarg.0 
+0141 ldfld m_list_task
+0146 callvirt get_numItems
+014b ldc.i4.0 
+014c ble.s 346
+014e ldarg.0 
+014f ldfld m_list_task
+0154 ldc.i4.0 
+0155 callvirt ScrollToView
+015a ret 

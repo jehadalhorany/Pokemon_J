@@ -1,0 +1,4 @@
+import test from 'node:test';import assert from 'node:assert/strict';import fs from 'node:fs';import {gunzipSync} from 'node:zlib';import {sourceBuildingName} from '../public/source-building-labels.js';
+const config=JSON.parse(gunzipSync(fs.readFileSync(new URL('../public/data/original/config.json.gz',import.meta.url))));const areas=new Map(config.areas.map(a=>[a.Id,a]));
+test('source Viridian centre portal gets destination label when NPC Name is empty',()=>{const npc=config.npcs.find(n=>n.Id===6110201),target=config.spawns[npc.BirthId];assert.equal(npc.name,'');assert.equal(sourceBuildingName({config:npc,target},areas),areas.get(target.area).name);assert.match(sourceBuildingName({config:npc,target},areas),/centre/i);});
+test('outside routes do not acquire a building label',()=>{assert.equal(sourceBuildingName({target:{area:1201},config:{}},areas),'');});

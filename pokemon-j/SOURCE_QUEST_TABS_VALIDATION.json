@@ -1,0 +1,527 @@
+{
+  "lockedTabs": [
+    {
+      "tab": 1,
+      "status": {
+        "loaded": true,
+        "category": "branch",
+        "quest": 1000101,
+        "rewards": [
+          [
+            5,
+            10
+          ],
+          [
+            1,
+            5000
+          ],
+          [
+            1001,
+            3
+          ],
+          [
+            2001,
+            3
+          ],
+          [
+            50102,
+            5
+          ]
+        ],
+        "otherCategoriesBound": false,
+        "records": 0,
+        "lastCategory": {
+          "id": 804,
+          "locked": true,
+          "reason": "Complete the main task: 【 Capture learning 】 Open"
+        },
+        "open": true,
+        "go": {
+          "x": 1534.3000034093857,
+          "y": 880.900001168251,
+          "width": 238.33333333333334,
+          "height": 81.66666666666667
+        }
+      },
+      "panes": [
+        "newTaskBranch"
+      ]
+    },
+    {
+      "tab": 2,
+      "status": {
+        "loaded": true,
+        "category": "daily",
+        "quest": 1000101,
+        "rewards": [
+          [
+            5,
+            10
+          ],
+          [
+            1,
+            5000
+          ],
+          [
+            1001,
+            3
+          ],
+          [
+            2001,
+            3
+          ],
+          [
+            50102,
+            5
+          ]
+        ],
+        "otherCategoriesBound": false,
+        "records": 0,
+        "lastCategory": {
+          "id": 805,
+          "locked": true,
+          "reason": "Main task interface"
+        },
+        "open": true,
+        "go": {
+          "x": 1534.3000034093857,
+          "y": 880.900001168251,
+          "width": 238.33333333333334,
+          "height": 81.66666666666667
+        }
+      },
+      "panes": [
+        "taskDaily"
+      ]
+    },
+    {
+      "tab": 3,
+      "status": {
+        "loaded": true,
+        "category": "bounty",
+        "quest": 1000101,
+        "rewards": [
+          [
+            5,
+            10
+          ],
+          [
+            1,
+            5000
+          ],
+          [
+            1001,
+            3
+          ],
+          [
+            2001,
+            3
+          ],
+          [
+            50102,
+            5
+          ]
+        ],
+        "otherCategoriesBound": false,
+        "records": 0,
+        "lastCategory": {
+          "id": 806,
+          "locked": true,
+          "reason": "Level 62 open"
+        },
+        "open": true,
+        "go": {
+          "x": 1534.3000034093857,
+          "y": 880.900001168251,
+          "width": 238.33333333333334,
+          "height": 81.66666666666667
+        }
+      },
+      "panes": [
+        "taskOfferReward"
+      ]
+    },
+    {
+      "tab": 0,
+      "status": {
+        "loaded": true,
+        "category": "main",
+        "quest": 1000101,
+        "rewards": [
+          [
+            5,
+            10
+          ],
+          [
+            1,
+            5000
+          ],
+          [
+            1001,
+            3
+          ],
+          [
+            2001,
+            3
+          ],
+          [
+            50102,
+            5
+          ]
+        ],
+        "otherCategoriesBound": false,
+        "records": 1,
+        "lastCategory": {
+          "id": 803,
+          "locked": false,
+          "bound": true
+        },
+        "open": true,
+        "go": {
+          "x": 1278.583336174488,
+          "y": 734.0833343068759,
+          "width": 238.33333333333334,
+          "height": 81.66666666666667
+        }
+      },
+      "panes": [
+        "newMainTaskItem"
+      ]
+    }
+  ],
+  "unlockedFixtureTabs": [
+    {
+      "tab": 1,
+      "status": {
+        "loaded": true,
+        "category": "branch",
+        "quest": 1000101,
+        "rewards": [
+          [
+            5,
+            10
+          ],
+          [
+            1,
+            5000
+          ],
+          [
+            1001,
+            3
+          ],
+          [
+            2001,
+            3
+          ],
+          [
+            50102,
+            5
+          ]
+        ],
+        "otherCategoriesBound": true,
+        "records": 5,
+        "lastCategory": {
+          "id": 804,
+          "locked": false,
+          "bound": true
+        },
+        "open": true,
+        "go": {
+          "x": 1534.3000034093857,
+          "y": 880.900001168251,
+          "width": 238.33333333333334,
+          "height": 81.66666666666667
+        }
+      },
+      "panes": [
+        "newTaskBranch"
+      ]
+    },
+    {
+      "tab": 2,
+      "status": {
+        "loaded": true,
+        "category": "daily",
+        "quest": 1000101,
+        "rewards": [
+          [
+            5,
+            10
+          ],
+          [
+            1,
+            5000
+          ],
+          [
+            1001,
+            3
+          ],
+          [
+            2001,
+            3
+          ],
+          [
+            50102,
+            5
+          ]
+        ],
+        "otherCategoriesBound": true,
+        "records": 25,
+        "lastCategory": {
+          "id": 805,
+          "locked": false,
+          "bound": true
+        },
+        "open": true,
+        "go": {
+          "x": 1534.3000034093857,
+          "y": 880.900001168251,
+          "width": 238.33333333333334,
+          "height": 81.66666666666667
+        }
+      },
+      "panes": [
+        "taskDaily"
+      ]
+    },
+    {
+      "tab": 3,
+      "status": {
+        "loaded": true,
+        "category": "bounty",
+        "quest": 1000101,
+        "rewards": [
+          [
+            5,
+            10
+          ],
+          [
+            1,
+            5000
+          ],
+          [
+            1001,
+            3
+          ],
+          [
+            2001,
+            3
+          ],
+          [
+            50102,
+            5
+          ]
+        ],
+        "otherCategoriesBound": true,
+        "records": 0,
+        "lastCategory": {
+          "id": 806,
+          "locked": false,
+          "bound": false
+        },
+        "open": true,
+        "go": {
+          "x": 1534.3000034093857,
+          "y": 880.900001168251,
+          "width": 238.33333333333334,
+          "height": 81.66666666666667
+        }
+      },
+      "panes": [
+        "taskOfferReward"
+      ]
+    },
+    {
+      "tab": 0,
+      "status": {
+        "loaded": true,
+        "category": "main",
+        "quest": 1000101,
+        "rewards": [
+          [
+            5,
+            10
+          ],
+          [
+            1,
+            5000
+          ],
+          [
+            1001,
+            3
+          ],
+          [
+            2001,
+            3
+          ],
+          [
+            50102,
+            5
+          ]
+        ],
+        "otherCategoriesBound": true,
+        "records": 1,
+        "lastCategory": {
+          "id": 803,
+          "locked": false,
+          "bound": true
+        },
+        "open": true,
+        "go": {
+          "x": 1278.583336174488,
+          "y": 734.0833343068759,
+          "width": 238.33333333333334,
+          "height": 81.66666666666667
+        }
+      },
+      "panes": [
+        "newMainTaskItem"
+      ]
+    },
+    {
+      "tab": 2,
+      "status": {
+        "loaded": true,
+        "category": "daily",
+        "quest": 1000101,
+        "rewards": [
+          [
+            5,
+            10
+          ],
+          [
+            1,
+            5000
+          ],
+          [
+            1001,
+            3
+          ],
+          [
+            2001,
+            3
+          ],
+          [
+            50102,
+            5
+          ]
+        ],
+        "otherCategoriesBound": true,
+        "records": 25,
+        "lastCategory": {
+          "id": 805,
+          "locked": false,
+          "bound": true
+        },
+        "open": true,
+        "go": {
+          "x": 1534.3000034093857,
+          "y": 880.900001168251,
+          "width": 238.33333333333334,
+          "height": 81.66666666666667
+        }
+      },
+      "panes": [
+        "taskDaily"
+      ]
+    },
+    {
+      "tab": 1,
+      "status": {
+        "loaded": true,
+        "category": "branch",
+        "quest": 1000101,
+        "rewards": [
+          [
+            5,
+            10
+          ],
+          [
+            1,
+            5000
+          ],
+          [
+            1001,
+            3
+          ],
+          [
+            2001,
+            3
+          ],
+          [
+            50102,
+            5
+          ]
+        ],
+        "otherCategoriesBound": true,
+        "records": 5,
+        "lastCategory": {
+          "id": 804,
+          "locked": false,
+          "bound": true
+        },
+        "open": true,
+        "go": {
+          "x": 1534.3000034093857,
+          "y": 880.900001168251,
+          "width": 238.33333333333334,
+          "height": 81.66666666666667
+        }
+      },
+      "panes": [
+        "newTaskBranch"
+      ]
+    },
+    {
+      "tab": 0,
+      "status": {
+        "loaded": true,
+        "category": "main",
+        "quest": 1000101,
+        "rewards": [
+          [
+            5,
+            10
+          ],
+          [
+            1,
+            5000
+          ],
+          [
+            1001,
+            3
+          ],
+          [
+            2001,
+            3
+          ],
+          [
+            50102,
+            5
+          ]
+        ],
+        "otherCategoriesBound": true,
+        "records": 1,
+        "lastCategory": {
+          "id": 803,
+          "locked": false,
+          "bound": true
+        },
+        "open": true,
+        "go": {
+          "x": 1278.583336174488,
+          "y": 734.0833343068759,
+          "width": 238.33333333333334,
+          "height": 81.66666666666667
+        }
+      },
+      "panes": [
+        "newMainTaskItem"
+      ]
+    }
+  ],
+  "pageErrors": [],
+  "bountyInstancesAvailable": false,
+  "physicalBranchGoTarget": 8110103,
+  "scope": "Actual physical tab clicks. Unlocked category fixture is test-only; no user saves changed."
+}

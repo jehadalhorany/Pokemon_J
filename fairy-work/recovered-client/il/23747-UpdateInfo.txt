@@ -1,0 +1,31 @@
+TaskCenterWindow::UpdateInfo
+000c ldarg.0 
+000d call TaskCenterWindow::UpdateFunctionConfigs
+0012 ldarg.0 
+0013 ldfld _functionType
+0018 stloc.0 
+0019 ldloc.0 
+001a ldc.i4 803
+001f sub 
+0020 switch [54, 66, 78, 101]
+0035 ret 
+0036 ldarg.0 
+0037 ldfld m_newMainTaskItem
+003c callvirt NewTaskMain::UpdateMain
+0041 ret 
+0042 ldarg.0 
+0043 ldfld m_newTaskBranch
+0048 callvirt NewTaskBranch::UpdateBrach
+004d ret 
+004e ldarg.0 
+004f ldfld m_taskDaily
+0054 callvirt TaskDaily::SetQuestInfoList
+0059 ldarg.0 
+005a ldfld m_taskDaily
+005f callvirt TaskDaily::UpdateInfo
+0064 ret 
+0065 ldarg.0 
+0066 ldfld m_taskOfferReward
+006b ldarg.0 
+006c callvirt TaskOfferReward::Init
+0071 ret 

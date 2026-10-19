@@ -1,0 +1,431 @@
+{
+  "items": [
+    {
+      "type": 0,
+      "id": "nra26h2r0",
+      "name": "ty_d",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        212,
+        212
+      ]
+    },
+    {
+      "type": 0,
+      "id": "nra26h2r2",
+      "name": "ty_d2",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        200,
+        200
+      ]
+    },
+    {
+      "type": 0,
+      "id": "nra26h2r3",
+      "name": "1",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        58,
+        60
+      ]
+    },
+    {
+      "type": 0,
+      "id": "nra26h2r4",
+      "name": "2",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        58,
+        60
+      ]
+    },
+    {
+      "type": 0,
+      "id": "nra26h2r5",
+      "name": "3",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        58,
+        60
+      ]
+    },
+    {
+      "type": 0,
+      "id": "qfvj16h2rd",
+      "name": "load3",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        1024,
+        512
+      ]
+    },
+    {
+      "type": 0,
+      "id": "u4fo3",
+      "name": "bg_Progressbar",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        62,
+        39
+      ]
+    },
+    {
+      "type": 0,
+      "id": "u4fo4",
+      "name": "bg_Progressbar_1",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        62,
+        39
+      ]
+    },
+    {
+      "type": 0,
+      "id": "u4fo5",
+      "name": "bg_Progressbar_0",
+      "path": "/Image/",
+      "file": null,
+      "size": [
+        62,
+        39
+      ]
+    },
+    {
+      "type": 3,
+      "id": "c0lg6",
+      "name": "MeetEudemon_LoadingWindow",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "jdv66h2r7",
+      "name": "EudemonCameraEvolve_LoadingWindow",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "kxwu6h2qy",
+      "name": "WaitMessage_LoadingWindow",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "mvan0",
+      "name": "Loading_Window",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "nra26h2r1",
+      "name": "LoadingBlack_LoadingWindow",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "u4fo2",
+      "name": "LoadPro",
+      "path": "/",
+      "file": null,
+      "size": [
+        91,
+        98
+      ],
+      "extension": 14
+    },
+    {
+      "type": 3,
+      "id": "vn8z9",
+      "name": "EudemonEvolveShow_LoadingWindow",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 4,
+      "id": "atlas0",
+      "name": null,
+      "path": null,
+      "file": "atlas0.png",
+      "size": [
+        512,
+        256
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas_qfvj16h2rd",
+      "name": null,
+      "path": null,
+      "file": "atlas_qfvj16h2rd.png",
+      "size": [
+        1024,
+        512
+      ]
+    }
+  ],
+  "sprites": [
+    {
+      "id": "nra26h2r0",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        0,
+        212,
+        212
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "nra26h2r2",
+      "atlas": "atlas0",
+      "rect": [
+        214,
+        0,
+        156,
+        157
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "u4fo3",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        214,
+        62,
+        39
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "u4fo4",
+      "atlas": "atlas0",
+      "rect": [
+        64,
+        214,
+        62,
+        39
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "u4fo5",
+      "atlas": "atlas0",
+      "rect": [
+        128,
+        214,
+        62,
+        39
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "nra26h2r5",
+      "atlas": "atlas0",
+      "rect": [
+        192,
+        214,
+        58,
+        39
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "nra26h2r3",
+      "atlas": "atlas0",
+      "rect": [
+        214,
+        159,
+        56,
+        48
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "nra26h2r4",
+      "atlas": "atlas0",
+      "rect": [
+        272,
+        159,
+        50,
+        53
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "qfvj16h2rd",
+      "atlas": "atlas_qfvj16h2rd",
+      "rect": [
+        0,
+        0,
+        1024,
+        512
+      ],
+      "rotated": 0
+    }
+  ],
+  "strings": [
+    "ufgirfkm",
+    "Common",
+    "nra26h2r0",
+    "ty_d",
+    "/Image/",
+    "nra26h2r2",
+    "ty_d2",
+    "nra26h2r3",
+    "1",
+    "nra26h2r4",
+    "2",
+    "nra26h2r5",
+    "3",
+    "qfvj16h2rd",
+    "load3",
+    "u4fo3",
+    "bg_Progressbar",
+    "u4fo4",
+    "bg_Progressbar_1",
+    "u4fo5",
+    "bg_Progressbar_0",
+    "c0lg6",
+    "MeetEudemon_LoadingWindow",
+    "/",
+    "n51_c0lg",
+    "effect",
+    "jdv66h2r7",
+    "EudemonCameraEvolve_LoadingWindow",
+    "se4ph26g",
+    "n52_vn8z",
+    "model",
+    "p0l3m",
+    "n53_pwr4",
+    "jumpBtn",
+    "跳过",
+    "kxwu6h2qy",
+    "WaitMessage_LoadingWindow",
+    "n11_nra2",
+    "n11",
+    "n10_nra2",
+    "sp_load",
+    "ui://ufgirfkmpj6e6h4oh",
+    "n8_nra2",
+    "wait",
+    "n9_nra2",
+    "n9",
+    "n12_nra2",
+    "n12",
+    "ui://6z4gpwm5nra26h2r5",
+    "n13_nra2",
+    "lb_load",
+    "loading",
+    "n14_nra2",
+    "lb_load1",
+    "...",
+    "t3",
+    "t4",
+    "t5",
+    "ui://6z4gpwm5nra26h2r3",
+    "ui://6z4gpwm5nra26h2r4",
+    "t6",
+    "...",
+    "..",
+    ".",
+    "...",
+    "mvan0",
+    "Loading_Window",
+    "n1_u4fo",
+    "n1",
+    "ui://6z4gpwm5qfvj16h2rd",
+    "u4fo2",
+    "n0_mvan",
+    "bar",
+    "Title",
+    "n2_zi1h",
+    "logo",
+    "n4_eoyk",
+    "正在为您加载游戏，请耐心等候",
+    "n6_eoyk",
+    "...",
+    "load",
+    "...",
+    "..",
+    ".",
+    "...",
+    "nra26h2r1",
+    "LoadingBlack_LoadingWindow",
+    "Status",
+    "Out",
+    "0",
+    "In",
+    "Black",
+    "Block",
+    "n3_kxwu",
+    "sp_black",
+    "n7_pj6e",
+    "n8",
+    "loading",
+    "...",
+    "n12_rwia",
+    "lb_title",
+    "LoadPro",
+    "show",
+    "hide",
+    "n5_h1ws",
+    "n5",
+    "n3_j0o0",
+    "n2_j0o0",
+    "n2",
+    "n4_j0o0",
+    "title",
+    "100%",
+    "vn8z9",
+    "EudemonEvolveShow_LoadingWindow",
+    "跳过",
+    "atlas0",
+    "atlas0.png",
+    "atlas_qfvj16h2rd",
+    "atlas_qfvj16h2rd.png"
+  ]
+}

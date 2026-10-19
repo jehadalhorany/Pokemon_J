@@ -1,0 +1,340 @@
+{
+  "items": [
+    {
+      "type": 0,
+      "id": "siql6h2ww",
+      "name": "zdjs_bg",
+      "path": "/zdjs/",
+      "file": null,
+      "size": [
+        953,
+        261
+      ]
+    },
+    {
+      "type": 0,
+      "id": "siql6h2wy",
+      "name": "zdjs_lose_d",
+      "path": "/zdjs/",
+      "file": null,
+      "size": [
+        339,
+        223
+      ]
+    },
+    {
+      "type": 0,
+      "id": "siql6h2wz",
+      "name": "zdjs_lose_k",
+      "path": "/zdjs/",
+      "file": null,
+      "size": [
+        127,
+        124
+      ]
+    },
+    {
+      "type": 0,
+      "id": "siql6h2x5",
+      "name": "zdjs_win_d",
+      "path": "/zdjs/",
+      "file": null,
+      "size": [
+        339,
+        223
+      ]
+    },
+    {
+      "type": 3,
+      "id": "ttqx6h2qc",
+      "name": "PveChallengeResult_MiniWindow",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "ttqx6h2qw",
+      "name": "RoadBtn",
+      "path": "/",
+      "file": null,
+      "size": [
+        148,
+        188
+      ],
+      "extension": 12
+    },
+    {
+      "type": 0,
+      "id": "qm6e6h2xb",
+      "name": "zdjs_lose1",
+      "path": "/zdjs/",
+      "file": null,
+      "size": [
+        656,
+        238
+      ]
+    },
+    {
+      "type": 0,
+      "id": "qm6e6h2xc",
+      "name": "zdjs_win1",
+      "path": "/zdjs/",
+      "file": null,
+      "size": [
+        656,
+        238
+      ]
+    },
+    {
+      "type": 0,
+      "id": "siql6h2wx",
+      "name": "zdjs_lose_bg",
+      "path": "/zdjs/",
+      "file": null,
+      "size": [
+        171,
+        45
+      ]
+    },
+    {
+      "type": 0,
+      "id": "siql6h2x4",
+      "name": "zdjs_win_bg",
+      "path": "/zdjs/",
+      "file": null,
+      "size": [
+        118,
+        45
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas0",
+      "name": null,
+      "path": null,
+      "file": "atlas0.png",
+      "size": [
+        1024,
+        1024
+      ]
+    }
+  ],
+  "sprites": [
+    {
+      "id": "siql6h2ww",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        0,
+        953,
+        261
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "qm6e6h2xc",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        263,
+        234,
+        639
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "qm6e6h2xb",
+      "atlas": "atlas0",
+      "rect": [
+        236,
+        263,
+        137,
+        618
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "siql6h2x5",
+      "atlas": "atlas0",
+      "rect": [
+        375,
+        263,
+        339,
+        223
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "siql6h2wy",
+      "atlas": "atlas0",
+      "rect": [
+        716,
+        263,
+        223,
+        339
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "siql6h2wx",
+      "atlas": "atlas0",
+      "rect": [
+        941,
+        263,
+        45,
+        171
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "siql6h2wz",
+      "atlas": "atlas0",
+      "rect": [
+        236,
+        883,
+        124,
+        127
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "siql6h2x4",
+      "atlas": "atlas0",
+      "rect": [
+        955,
+        0,
+        45,
+        118
+      ],
+      "rotated": 1
+    }
+  ],
+  "strings": [
+    "c1imbcrl",
+    "Base",
+    "ufgirfkm",
+    "Common",
+    "cyrayt3h",
+    "Item",
+    "siql6h2ww",
+    "zdjs_bg",
+    "/zdjs/",
+    "siql6h2wy",
+    "zdjs_lose_d",
+    "siql6h2wz",
+    "zdjs_lose_k",
+    "siql6h2x5",
+    "zdjs_win_d",
+    "ttqx6h2qc",
+    "PveChallengeResult_MiniWindow",
+    "/",
+    "State",
+    "1",
+    "Failed",
+    "0",
+    "Success",
+    "nm0oh265",
+    "n0_ttqx",
+    "btn_close",
+    "n50_siql",
+    "n50",
+    "ui://auzbmv9qsiql6h2x5",
+    "ui://auzbmv9qsiql6h2wy",
+    "n49_siql",
+    "n49",
+    "p0l36h324",
+    "n46_siql",
+    "n46",
+    "n47_siql",
+    "n47",
+    "n48_siql",
+    "n48",
+    "n51_siql",
+    "n51",
+    "ui://auzbmv9qsiql6h2wx",
+    "ui://auzbmv9qsiql6h2x4",
+    "n52_siql",
+    "lanCion",
+    "n15_ttqx",
+    "list_reward",
+    "ui://ufgirfkmewfrh22n",
+    "n27_ttqx",
+    "list_failed",
+    "ui://auzbmv9qttqx6h2qw",
+    "n42_k36z",
+    "list_eudemon",
+    "ui://ufgirfkmk36z6h4e9",
+    "n45_cqef",
+    "list_star",
+    "ui://ufgirfkmsiql6h4lm",
+    "j0o0h24u",
+    "n54_siql",
+    "head",
+    "n55_siql",
+    "lb_name",
+    "玩家名字七个字",
+    "n56_siql",
+    "lb_Lv",
+    "Lv 99",
+    "p0l36h2tw",
+    "n53_siql",
+    "barExp",
+    "n58_siql",
+    "lb_pro",
+    "100000/5400",
+    "n57_siql",
+    "playerPanel",
+    "ewfrh22n",
+    "n59_exnu",
+    "item",
+    "n14_ttqx",
+    "lb_close",
+    "点击任意区域关闭(15秒)",
+    "n26_ttqx",
+    "lb_strong",
+    "ui://ufgirfkmqz27h255",
+    "变强途径",
+    "n43_cqef",
+    "lb_success",
+    "获得奖励:",
+    "n60_uubt",
+    "lb_dynamaxEnhanceTimes",
+    "n61_aqqz",
+    "lb_extraTip",
+    "ttqx6h2qw",
+    "RoadBtn",
+    "button",
+    "up",
+    "down",
+    "2",
+    "over",
+    "3",
+    "selectedOver",
+    "n13_siql",
+    "n13",
+    "n10_7v64",
+    "icon",
+    "ui://cyrayt3hfa916h3za",
+    "n11_7v64",
+    "title",
+    "签到",
+    "h1wsh268",
+    "n12_7v64",
+    "RedDot",
+    "qm6e6h2xb",
+    "zdjs_lose1",
+    "qm6e6h2xc",
+    "zdjs_win1",
+    "siql6h2wx",
+    "zdjs_lose_bg",
+    "siql6h2x4",
+    "zdjs_win_bg",
+    "atlas0",
+    "atlas0.png"
+  ]
+}

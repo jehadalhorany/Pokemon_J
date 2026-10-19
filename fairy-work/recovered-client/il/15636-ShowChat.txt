@@ -1,0 +1,5 @@
+MainWindow::ShowChat
+0001 ldarg.0 
+0002 ldfld m_chatView
+0007 callvirt ChatView::ShowChat
+000c ret 

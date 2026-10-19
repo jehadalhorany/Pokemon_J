@@ -11,3 +11,21 @@ const sourceIds=JSON.parse(fs.readFileSync(new URL('../public/data/original/deri
 export function originalChallenge(s,npcId){const o=ensureOriginal(s),npc=originalConfig.npcs.find(n=>n.Id===Number(npcId));if(!npc||npc.AreaId!==o.area)throw Error('This trainer is not in your current area');let config=trainerRecords.find(r=>r.PveTrainerId===npc.Id),kind='trainer';
  if(npc.PveFight?.[0]===5){config=gymRecords.filter(r=>r.Group===npc.PveFight[1]).sort((a,b)=>a.Rank-b.Rank)[0];kind='boss';}else if(npc.PveFight?.[0]===6)config=eliteRecords.filter(r=>r.Group===npc.PveFight[1]).sort((a,b)=>a.Rank-b.Rank)[0];
  if(!config)throw Error('No original trainer battle is bound to this character');const trainer=trainers.get(config.TrainerMonster);if(!trainer?.eudemon?.length)throw Error('Original trainer team is unavailable');const team=trainer.eudemon.map(id=>{const m=monsters.get(id),species=m&&sourceIds[m.Eudemon];if(!m||!species||!known.has(species))throw Error('Original trainer species binding is unavailable');const c=creature(species,m.Lv);c.shiny=!!nativeSpecies.get(m.Eudemon)?.IsFlash;c.stars=m.Star;c.originalMonster=id;c.originalSpecies=m.Eudemon;const configured=[m.Skill1,m.Skill2,m.Skill3,m.Skill4].filter(id=>id&&id!==99999).map(id=>id-10000);if(configured.length)c.moveSet=configured;recalculate(c);return c;});return {kind,team,npc:npc.Id,config,trainer:trainer.Id};}
+
+export function originalBattleContext(s,fieldId,challenge){const mapAreaId=challenge?.config?.MapAreaId||pools[fieldId]?.original?.MapAreaId;const area=originalConfig.areas.find(a=>a.Id===mapAreaId);if(!area?.FightScene)throw Error('Original battle scene unavailable');return {area:area.Id,scene:area.FightScene};}
+// Repair only a uniquely proven source context in saves from before native battle rendering.
+export function repairOriginalBattleContext(s){
+ const t=s.battle;if(!t||t.originalScene)return false;
+ let context;
+ if(t.originalArea){const a=originalConfig.areas.find(a=>a.Id===t.originalArea);if(a?.FightScene)context={area:a.Id,scene:a.FightScene};}
+ if(!context&&t.originalChallenge?.npc){try{context=originalBattleContext(s,0,originalChallenge(s,t.originalChallenge.npc));}catch{}}
+ if(!context&&t.kind==='wild'&&t.enemy?.originalMonster){
+  const o=ensureOriginal(s),contexts=[];
+  for(const f of fieldsInScene(o.scene).filter(f=>f.area===o.area)){
+   if(!pools[f.id]?.pool?.some(p=>p.monsterId===t.enemy.originalMonster))continue;
+   try{contexts.push(originalBattleContext(s,f.id));}catch{}
+  }
+  const unique=new Map(contexts.map(c=>[c.area+':'+c.scene,c]));if(unique.size===1)context=[...unique.values()][0];
+ }
+ if(!context)return false;t.originalArea=context.area;t.originalScene=context.scene;return true;
+}

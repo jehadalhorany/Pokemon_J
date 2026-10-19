@@ -1,0 +1,88 @@
+<OnClickTabRenderListItem>d__24::MoveNext
+000c ldarg.0 
+000d ldfld <>1__state
+0012 stloc.0 
+0013 ldarg.0 
+0014 ldfld <>4__this
+0019 stloc.1 
+001a ldloc.0 
+001b brfalse 184
+0020 ldarg.0 
+0021 ldfld context
+0026 callvirt get_sender
+002b castclass TaskTabItem
+0030 ldfld data
+0035 isinst FunctionConfig
+003a stloc.2 
+003b ldloc.1 
+003c ldloc.2 
+003d callvirt get_Id
+0042 stfld _functionType
+0047 ldloc.1 
+0048 ldfld _functionType
+004d ldc.i4 806
+0052 bne.un.s 100
+0054 ldloc.1 
+0055 call DomainScene
+005a callvirt GetComponent<ET.BountyQuestComponent>
+005f call BountyQuestComponentSystem::RemoveBountyRed
+0064 ldloc.1 
+0065 ldfld m_list_tab
+006a ldloc.1 
+006b ldfld _functionConfigs
+0070 callvirt get_Count
+0075 callvirt set_numItems
+007a ldloc.1 
+007b call TaskCenterWindow::RefreshTab
+0080 call get_CompletedTask
+0085 stloc.s local(0x0004)
+0087 ldloca.s local(0x0004)
+0089 call GetAwaiter
+008e stloc.3 
+008f ldloca.s local(0x0003)
+0091 call get_IsCompleted
+0096 brtrue.s 212
+0098 ldarg.0 
+0099 ldc.i4.0 
+009a dup 
+009b stloc.0 
+009c stfld <>1__state
+00a1 ldarg.0 
+00a2 ldloc.3 
+00a3 stfld <>u__1
+00a8 ldarg.0 
+00a9 ldflda <>t__builder
+00ae ldloca.s local(0x0003)
+00b0 ldarg.0 
+00b1 call AwaitUnsafeOnCompleted<ET.ETTaskCompleted,.<OnClickTabRenderListItem>d__24>
+00b6 leave.s 265
+00b8 ldarg.0 
+00b9 ldfld <>u__1
+00be stloc.3 
+00bf ldarg.0 
+00c0 ldflda <>u__1
+00c5 initobj ETTaskCompleted
+00cb ldarg.0 
+00cc ldc.i4.m1 
+00cd dup 
+00ce stloc.0 
+00cf stfld <>1__state
+00d4 ldloca.s local(0x0003)
+00d6 call GetResult
+00db leave.s 246
+00dd stloc.s local(0x0005)
+00df ldarg.0 
+00e0 ldc.i4.s -2
+00e2 stfld <>1__state
+00e7 ldarg.0 
+00e8 ldflda <>t__builder
+00ed ldloc.s local(0x0005)
+00ef call SetException
+00f4 leave.s 265
+00f6 ldarg.0 
+00f7 ldc.i4.s -2
+00f9 stfld <>1__state
+00fe ldarg.0 
+00ff ldflda <>t__builder
+0104 call SetResult
+0109 ret 

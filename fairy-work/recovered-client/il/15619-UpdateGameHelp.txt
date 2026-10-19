@@ -1,0 +1,6 @@
+MainWindow::UpdateGameHelp
+0001 ldarg.0 
+0002 ldfld m_btn_gameHelp
+0007 ldc.i4.0 
+0008 callvirt set_visible
+000d ret 

@@ -1,0 +1,2923 @@
+{
+  "items": [
+    {
+      "type": 3,
+      "id": "7v646h25t",
+      "name": "ChatBoxItem",
+      "path": "/",
+      "file": null,
+      "size": [
+        340,
+        70
+      ],
+      "extension": 0
+    },
+    {
+      "type": 0,
+      "id": "e0us6h26y",
+      "name": "lt_sf",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        58,
+        82
+      ]
+    },
+    {
+      "type": 0,
+      "id": "e0us6h270",
+      "name": "lt_bg_qp1",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        68,
+        68
+      ]
+    },
+    {
+      "type": 0,
+      "id": "e0us6h4dy",
+      "name": "lt_ic_hy",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        76,
+        76
+      ]
+    },
+    {
+      "type": 0,
+      "id": "gvo11bo",
+      "name": "LT_JuJue",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        56,
+        56
+      ]
+    },
+    {
+      "type": 0,
+      "id": "gvo11c0",
+      "name": "LT_YuanBTN",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        78,
+        76
+      ]
+    },
+    {
+      "type": 0,
+      "id": "h1wsh26b",
+      "name": "CommonUI_DaoJuKuangJianTou",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        39,
+        21
+      ]
+    },
+    {
+      "type": 0,
+      "id": "i7i56h4hi",
+      "name": "lt_di_2",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        1024,
+        958
+      ]
+    },
+    {
+      "type": 0,
+      "id": "i7i56h4hj",
+      "name": "lt_di_1",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        98,
+        953
+      ]
+    },
+    {
+      "type": 0,
+      "id": "i7i56h4hk",
+      "name": "lt_di_3",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        103,
+        246
+      ]
+    },
+    {
+      "type": 0,
+      "id": "i7i56h4hl",
+      "name": "lt_bth_3",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        229,
+        69
+      ]
+    },
+    {
+      "type": 0,
+      "id": "i7i56h4hm",
+      "name": "lt_bth_4",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        229,
+        69
+      ]
+    },
+    {
+      "type": 0,
+      "id": "i7i56h4hn",
+      "name": "lt_bth_2",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        203,
+        97
+      ]
+    },
+    {
+      "type": 0,
+      "id": "i7i56h4ho",
+      "name": "lt_bth_1",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        203,
+        98
+      ]
+    },
+    {
+      "type": 0,
+      "id": "kfhq6h4gh",
+      "name": "sz_ic_sz",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        110,
+        94
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ku3u6h4gm",
+      "name": "客服图标",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "type": 0,
+      "id": "lder6h2qo",
+      "name": "lt",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        66,
+        58
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mti76h26f",
+      "name": "icon_offline",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        34,
+        34
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mti76h26g",
+      "name": "icon_onlile",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        34,
+        34
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mti76h26i",
+      "name": "sc",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        46,
+        60
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mti76h26j",
+      "name": "bq_1",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        54,
+        54
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mti76h26l",
+      "name": "input",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        120,
+        75
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mti76h26m",
+      "name": "k_2",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        74,
+        68
+      ]
+    },
+    {
+      "type": 0,
+      "id": "o5fg6h4hp",
+      "name": "ty_wbxxdi_d",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        80,
+        40
+      ]
+    },
+    {
+      "type": 0,
+      "id": "psobh23o",
+      "name": "back",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        105,
+        60
+      ]
+    },
+    {
+      "type": 0,
+      "id": "t8y96h4ge",
+      "name": "lt_bg_top1",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        87,
+        76
+      ]
+    },
+    {
+      "type": 0,
+      "id": "to051b2",
+      "name": "LT_PDICON4",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        50,
+        50
+      ]
+    },
+    {
+      "type": 3,
+      "id": "7v646h25u",
+      "name": "ChatBoxBtn",
+      "path": "/",
+      "file": null,
+      "size": [
+        340,
+        70
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "dkta2",
+      "name": "LeftChatItem",
+      "path": "/",
+      "file": null,
+      "size": [
+        920,
+        176
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "f67t2d",
+      "name": "NewMsgBtn",
+      "path": "/",
+      "file": null,
+      "size": [
+        180,
+        40
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "gvo11d6",
+      "name": "ChatIcon",
+      "path": "/",
+      "file": null,
+      "size": [
+        203,
+        97
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "h1ws6h25u",
+      "name": "ChatBox",
+      "path": "/",
+      "file": null,
+      "size": [
+        178,
+        56
+      ],
+      "extension": 13
+    },
+    {
+      "type": 3,
+      "id": "iq5n6h4gw",
+      "name": "ChatEmojiSwitchTabCell",
+      "path": "/",
+      "file": null,
+      "size": [
+        229,
+        69
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "kfhq6h4gj",
+      "name": "ChatItemSet",
+      "path": "/",
+      "file": null,
+      "size": [
+        170,
+        42
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "mq5e1j",
+      "name": "RightChatItem",
+      "path": "/",
+      "file": null,
+      "size": [
+        920,
+        174
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "mq5e1k",
+      "name": "ChatMessageInfo",
+      "path": "/",
+      "file": null,
+      "size": [
+        94,
+        100
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "mq5e1o",
+      "name": "ChatSystem",
+      "path": "/",
+      "file": null,
+      "size": [
+        868,
+        136
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "mti710",
+      "name": "FriendBtn",
+      "path": "/",
+      "file": null,
+      "size": [
+        286,
+        98
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "mti74",
+      "name": "FriendChatItem",
+      "path": "/",
+      "file": null,
+      "size": [
+        805,
+        151
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "mti76h25y",
+      "name": "ChatView_MiniWindow",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "o5fg6h4hr",
+      "name": "ChatFanBtn",
+      "path": "/",
+      "file": null,
+      "size": [
+        94,
+        54
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "pkde1ff",
+      "name": "ChatSetItem",
+      "path": "/",
+      "file": null,
+      "size": [
+        1080,
+        100
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "pkde1fg",
+      "name": "FontSizeSlider_grip",
+      "path": "/",
+      "file": null,
+      "size": [
+        78,
+        76
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "rt3l1t",
+      "name": "EmojiBtn",
+      "path": "/",
+      "file": null,
+      "size": [
+        96,
+        96
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "to051az",
+      "name": "ChatFunc_GButton",
+      "path": "/",
+      "file": null,
+      "size": [
+        260,
+        60
+      ],
+      "extension": 12
+    },
+    {
+      "type": 0,
+      "id": "abnz6h4gy",
+      "name": "1f655",
+      "path": "/emoji_ios/",
+      "file": null,
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "type": 0,
+      "id": "abnz6h4gz",
+      "name": "1f654",
+      "path": "/emoji_ios/",
+      "file": null,
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "type": 0,
+      "id": "abnz6h4h0",
+      "name": "1f653",
+      "path": "/emoji_ios/",
+      "file": null,
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "type": 0,
+      "id": "abnz6h4h1",
+      "name": "1f652",
+      "path": "/emoji_ios/",
+      "file": null,
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "type": 0,
+      "id": "abnz6h4h2",
+      "name": "1f651",
+      "path": "/emoji_ios/",
+      "file": null,
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "type": 0,
+      "id": "abnz6h4h3",
+      "name": "1f650",
+      "path": "/emoji_ios/",
+      "file": null,
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "type": 0,
+      "id": "abnz6h4h4",
+      "name": "1f649",
+      "path": "/emoji_ios/",
+      "file": null,
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "type": 0,
+      "id": "abnz6h4h5",
+      "name": "1f648",
+      "path": "/emoji_ios/",
+      "file": null,
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "type": 0,
+      "id": "abnz6h4h6",
+      "name": "1f647",
+      "path": "/emoji_ios/",
+      "file": null,
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "type": 0,
+      "id": "abnz6h4h7",
+      "name": "1f646",
+      "path": "/emoji_ios/",
+      "file": null,
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "type": 0,
+      "id": "abnz6h4h8",
+      "name": "1f645",
+      "path": "/emoji_ios/",
+      "file": null,
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "type": 0,
+      "id": "abnz6h4hf",
+      "name": "1f656",
+      "path": "/emoji_ios/",
+      "file": null,
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "type": 0,
+      "id": "abnz6h4hg",
+      "name": "1f657",
+      "path": "/emoji_ios/",
+      "file": null,
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "type": 0,
+      "id": "gxwd6h4gn",
+      "name": "1f638",
+      "path": "/emoji_ios/",
+      "file": null,
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "type": 0,
+      "id": "gxwd6h4go",
+      "name": "1f639",
+      "path": "/emoji_ios/",
+      "file": null,
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "type": 0,
+      "id": "gxwd6h4gp",
+      "name": "1f640",
+      "path": "/emoji_ios/",
+      "file": null,
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "type": 0,
+      "id": "gxwd6h4gq",
+      "name": "1f641",
+      "path": "/emoji_ios/",
+      "file": null,
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "type": 0,
+      "id": "gxwd6h4gr",
+      "name": "1f642",
+      "path": "/emoji_ios/",
+      "file": null,
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "type": 0,
+      "id": "gxwd6h4gs",
+      "name": "1f643",
+      "path": "/emoji_ios/",
+      "file": null,
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "type": 0,
+      "id": "gxwd6h4gt",
+      "name": "1f644",
+      "path": "/emoji_ios/",
+      "file": null,
+      "size": [
+        100,
+        100
+      ]
+    },
+    {
+      "type": 0,
+      "id": "kfhq6h4gk",
+      "name": "jlg_tjh_bg",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        54,
+        53
+      ]
+    },
+    {
+      "type": 0,
+      "id": "kfhq6h4gl",
+      "name": "jlg_tjh_fgx",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        8,
+        3
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mq5e10",
+      "name": "1f619",
+      "path": "/emoji_ios/",
+      "file": null,
+      "size": [
+        60,
+        58
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mq5e11",
+      "name": "1f620",
+      "path": "/emoji_ios/",
+      "file": null,
+      "size": [
+        62,
+        60
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mq5e12",
+      "name": "1f621",
+      "path": "/emoji_ios/",
+      "file": null,
+      "size": [
+        62,
+        60
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mq5e13",
+      "name": "1f622",
+      "path": "/emoji_ios/",
+      "file": null,
+      "size": [
+        62,
+        60
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mq5e14",
+      "name": "1f623",
+      "path": "/emoji_ios/",
+      "file": null,
+      "size": [
+        62,
+        60
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mq5e15",
+      "name": "1f624",
+      "path": "/emoji_ios/",
+      "file": null,
+      "size": [
+        62,
+        61
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mq5e16",
+      "name": "1f625",
+      "path": "/emoji_ios/",
+      "file": null,
+      "size": [
+        62,
+        60
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mq5e17",
+      "name": "1f626",
+      "path": "/emoji_ios/",
+      "file": null,
+      "size": [
+        60,
+        58
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mq5e18",
+      "name": "1f627",
+      "path": "/emoji_ios/",
+      "file": null,
+      "size": [
+        60,
+        58
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mq5e19",
+      "name": "1f628",
+      "path": "/emoji_ios/",
+      "file": null,
+      "size": [
+        62,
+        60
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mq5e1a",
+      "name": "1f629",
+      "path": "/emoji_ios/",
+      "file": null,
+      "size": [
+        62,
+        61
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mq5e1b",
+      "name": "1f630",
+      "path": "/emoji_ios/",
+      "file": null,
+      "size": [
+        62,
+        60
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mq5e1c",
+      "name": "1f631",
+      "path": "/emoji_ios/",
+      "file": null,
+      "size": [
+        58,
+        60
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mq5e1d",
+      "name": "1f632",
+      "path": "/emoji_ios/",
+      "file": null,
+      "size": [
+        62,
+        60
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mq5e1e",
+      "name": "1f633",
+      "path": "/emoji_ios/",
+      "file": null,
+      "size": [
+        62,
+        60
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mq5e1f",
+      "name": "1f634",
+      "path": "/emoji_ios/",
+      "file": null,
+      "size": [
+        60,
+        59
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mq5e1g",
+      "name": "1f635",
+      "path": "/emoji_ios/",
+      "file": null,
+      "size": [
+        62,
+        61
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mq5e1h",
+      "name": "1f636",
+      "path": "/emoji_ios/",
+      "file": null,
+      "size": [
+        62,
+        61
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mq5e1i",
+      "name": "1f637",
+      "path": "/emoji_ios/",
+      "file": null,
+      "size": [
+        62,
+        60
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mq5eh",
+      "name": "1f600",
+      "path": "/emoji_ios/",
+      "file": null,
+      "size": [
+        60,
+        58
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mq5ei",
+      "name": "1f601",
+      "path": "/emoji_ios/",
+      "file": null,
+      "size": [
+        62,
+        60
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mq5ej",
+      "name": "1f602",
+      "path": "/emoji_ios/",
+      "file": null,
+      "size": [
+        62,
+        60
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mq5ek",
+      "name": "1f603",
+      "path": "/emoji_ios/",
+      "file": null,
+      "size": [
+        62,
+        60
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mq5el",
+      "name": "1f604",
+      "path": "/emoji_ios/",
+      "file": null,
+      "size": [
+        62,
+        60
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mq5em",
+      "name": "1f605",
+      "path": "/emoji_ios/",
+      "file": null,
+      "size": [
+        62,
+        60
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mq5en",
+      "name": "1f606",
+      "path": "/emoji_ios/",
+      "file": null,
+      "size": [
+        62,
+        60
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mq5eo",
+      "name": "1f607",
+      "path": "/emoji_ios/",
+      "file": null,
+      "size": [
+        62,
+        64
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mq5ep",
+      "name": "1f608",
+      "path": "/emoji_ios/",
+      "file": null,
+      "size": [
+        64,
+        63
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mq5eq",
+      "name": "1f609",
+      "path": "/emoji_ios/",
+      "file": null,
+      "size": [
+        62,
+        60
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mq5er",
+      "name": "1f610",
+      "path": "/emoji_ios/",
+      "file": null,
+      "size": [
+        62,
+        60
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mq5es",
+      "name": "1f611",
+      "path": "/emoji_ios/",
+      "file": null,
+      "size": [
+        60,
+        58
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mq5et",
+      "name": "1f612",
+      "path": "/emoji_ios/",
+      "file": null,
+      "size": [
+        62,
+        60
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mq5eu",
+      "name": "1f613",
+      "path": "/emoji_ios/",
+      "file": null,
+      "size": [
+        62,
+        63
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mq5ev",
+      "name": "1f614",
+      "path": "/emoji_ios/",
+      "file": null,
+      "size": [
+        62,
+        60
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mq5ew",
+      "name": "1f615",
+      "path": "/emoji_ios/",
+      "file": null,
+      "size": [
+        60,
+        58
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mq5ex",
+      "name": "1f616",
+      "path": "/emoji_ios/",
+      "file": null,
+      "size": [
+        62,
+        60
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mq5ey",
+      "name": "1f617",
+      "path": "/emoji_ios/",
+      "file": null,
+      "size": [
+        60,
+        58
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mq5ez",
+      "name": "1f618",
+      "path": "/emoji_ios/",
+      "file": null,
+      "size": [
+        63,
+        60
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mrgx6h4gu",
+      "name": "ic_yq",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        88,
+        35
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mti76h265",
+      "name": "ic_bf",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        88,
+        35
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mti76h266",
+      "name": "ic_gh",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        88,
+        35
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mti76h267",
+      "name": "ic_sj",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        88,
+        35
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mti76h268",
+      "name": "ic_sl",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        88,
+        35
+      ]
+    },
+    {
+      "type": 0,
+      "id": "mti76h269",
+      "name": "ic_xt",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        88,
+        35
+      ]
+    },
+    {
+      "type": 0,
+      "id": "t0ql6h4gf",
+      "name": "lt_zd",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        137,
+        52
+      ]
+    },
+    {
+      "type": 0,
+      "id": "vot06h4gv",
+      "name": "ic_zd",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        88,
+        35
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas0",
+      "name": null,
+      "path": null,
+      "file": "atlas0.png",
+      "size": [
+        2048,
+        1024
+      ]
+    }
+  ],
+  "sprites": [
+    {
+      "id": "i7i56h4hi",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        0,
+        1024,
+        958
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "i7i56h4hj",
+      "atlas": "atlas0",
+      "rect": [
+        1026,
+        0,
+        953,
+        98
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "i7i56h4hk",
+      "atlas": "atlas0",
+      "rect": [
+        1026,
+        100,
+        103,
+        246
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "i7i56h4hm",
+      "atlas": "atlas0",
+      "rect": [
+        1026,
+        348,
+        69,
+        229
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "i7i56h4hl",
+      "atlas": "atlas0",
+      "rect": [
+        1026,
+        579,
+        69,
+        229
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "i7i56h4ho",
+      "atlas": "atlas0",
+      "rect": [
+        1026,
+        810,
+        98,
+        203
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "i7i56h4hn",
+      "atlas": "atlas0",
+      "rect": [
+        1097,
+        348,
+        97,
+        203
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "t0ql6h4gf",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        960,
+        137,
+        52
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "mti76h26l",
+      "atlas": "atlas0",
+      "rect": [
+        1131,
+        100,
+        75,
+        120
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "kfhq6h4gh",
+      "atlas": "atlas0",
+      "rect": [
+        1131,
+        222,
+        93,
+        108
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "psobh23o",
+      "atlas": "atlas0",
+      "rect": [
+        139,
+        960,
+        105,
+        60
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "abnz6h4h5",
+      "atlas": "atlas0",
+      "rect": [
+        1208,
+        100,
+        90,
+        100
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "abnz6h4h7",
+      "atlas": "atlas0",
+      "rect": [
+        1097,
+        553,
+        94,
+        100
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "abnz6h4hf",
+      "atlas": "atlas0",
+      "rect": [
+        1097,
+        655,
+        96,
+        100
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "abnz6h4h3",
+      "atlas": "atlas0",
+      "rect": [
+        1193,
+        553,
+        93,
+        100
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "abnz6h4h2",
+      "atlas": "atlas0",
+      "rect": [
+        1196,
+        332,
+        94,
+        100
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "abnz6h4hg",
+      "atlas": "atlas0",
+      "rect": [
+        1226,
+        434,
+        87,
+        100
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "abnz6h4h1",
+      "atlas": "atlas0",
+      "rect": [
+        1226,
+        202,
+        89,
+        100
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "abnz6h4h0",
+      "atlas": "atlas0",
+      "rect": [
+        1315,
+        100,
+        97,
+        100
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "abnz6h4gz",
+      "atlas": "atlas0",
+      "rect": [
+        1292,
+        304,
+        74,
+        100
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "abnz6h4gy",
+      "atlas": "atlas0",
+      "rect": [
+        1317,
+        202,
+        93,
+        100
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "gxwd6h4gs",
+      "atlas": "atlas0",
+      "rect": [
+        1126,
+        757,
+        91,
+        100
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "gxwd6h4gq",
+      "atlas": "atlas0",
+      "rect": [
+        1195,
+        655,
+        90,
+        100
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "abnz6h4h6",
+      "atlas": "atlas0",
+      "rect": [
+        1126,
+        859,
+        88,
+        100
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "abnz6h4h4",
+      "atlas": "atlas0",
+      "rect": [
+        1216,
+        859,
+        99,
+        100
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "gxwd6h4gn",
+      "atlas": "atlas0",
+      "rect": [
+        1219,
+        757,
+        81,
+        100
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "gxwd6h4gr",
+      "atlas": "atlas0",
+      "rect": [
+        1287,
+        655,
+        96,
+        99
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "gxwd6h4go",
+      "atlas": "atlas0",
+      "rect": [
+        1302,
+        756,
+        97,
+        99
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "abnz6h4h8",
+      "atlas": "atlas0",
+      "rect": [
+        1288,
+        536,
+        91,
+        98
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "ku3u6h4gm",
+      "atlas": "atlas0",
+      "rect": [
+        1381,
+        536,
+        98,
+        98
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "gxwd6h4gp",
+      "atlas": "atlas0",
+      "rect": [
+        1385,
+        636,
+        94,
+        95
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "gxwd6h4gt",
+      "atlas": "atlas0",
+      "rect": [
+        1315,
+        406,
+        87,
+        95
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "vot06h4gv",
+      "atlas": "atlas0",
+      "rect": [
+        246,
+        960,
+        88,
+        35
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "mrgx6h4gu",
+      "atlas": "atlas0",
+      "rect": [
+        336,
+        960,
+        88,
+        35
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "mti76h265",
+      "atlas": "atlas0",
+      "rect": [
+        426,
+        960,
+        88,
+        35
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "mti76h266",
+      "atlas": "atlas0",
+      "rect": [
+        516,
+        960,
+        88,
+        35
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "mti76h267",
+      "atlas": "atlas0",
+      "rect": [
+        606,
+        960,
+        88,
+        35
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "mti76h268",
+      "atlas": "atlas0",
+      "rect": [
+        696,
+        960,
+        88,
+        35
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "mti76h269",
+      "atlas": "atlas0",
+      "rect": [
+        786,
+        960,
+        88,
+        35
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "t8y96h4ge",
+      "atlas": "atlas0",
+      "rect": [
+        1368,
+        304,
+        76,
+        87
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "e0us6h26y",
+      "atlas": "atlas0",
+      "rect": [
+        876,
+        960,
+        82,
+        58
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "o5fg6h4hp",
+      "atlas": "atlas0",
+      "rect": [
+        1126,
+        961,
+        80,
+        40
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "gvo11c0",
+      "atlas": "atlas0",
+      "rect": [
+        1412,
+        202,
+        76,
+        77
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "mti76h26m",
+      "atlas": "atlas0",
+      "rect": [
+        1414,
+        100,
+        68,
+        74
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "e0us6h270",
+      "atlas": "atlas0",
+      "rect": [
+        1484,
+        100,
+        68,
+        68
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "lder6h2qo",
+      "atlas": "atlas0",
+      "rect": [
+        1208,
+        961,
+        66,
+        58
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "mq5eo",
+      "atlas": "atlas0",
+      "rect": [
+        960,
+        960,
+        64,
+        62
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "mq5ep",
+      "atlas": "atlas0",
+      "rect": [
+        1981,
+        0,
+        64,
+        63
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "mq5eu",
+      "atlas": "atlas0",
+      "rect": [
+        1981,
+        65,
+        63,
+        62
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "mq5ez",
+      "atlas": "atlas0",
+      "rect": [
+        1276,
+        961,
+        63,
+        60
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "mq5ei",
+      "atlas": "atlas0",
+      "rect": [
+        1341,
+        961,
+        62,
+        60
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "mq5ej",
+      "atlas": "atlas0",
+      "rect": [
+        1405,
+        961,
+        62,
+        60
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "mq5ek",
+      "atlas": "atlas0",
+      "rect": [
+        1317,
+        857,
+        60,
+        62
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "mq5el",
+      "atlas": "atlas0",
+      "rect": [
+        1379,
+        857,
+        60,
+        62
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "mq5em",
+      "atlas": "atlas0",
+      "rect": [
+        1401,
+        733,
+        60,
+        62
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "mq5e19",
+      "atlas": "atlas0",
+      "rect": [
+        1404,
+        393,
+        60,
+        62
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "mq5en",
+      "atlas": "atlas0",
+      "rect": [
+        1446,
+        457,
+        60,
+        62
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "mq5e1a",
+      "atlas": "atlas0",
+      "rect": [
+        1508,
+        457,
+        61,
+        62
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "mq5eq",
+      "atlas": "atlas0",
+      "rect": [
+        1446,
+        281,
+        60,
+        62
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "mq5er",
+      "atlas": "atlas0",
+      "rect": [
+        1490,
+        170,
+        60,
+        62
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "mq5et",
+      "atlas": "atlas0",
+      "rect": [
+        1466,
+        345,
+        60,
+        62
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "mq5e13",
+      "atlas": "atlas0",
+      "rect": [
+        1508,
+        234,
+        60,
+        62
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "mq5ev",
+      "atlas": "atlas0",
+      "rect": [
+        1552,
+        170,
+        60,
+        62
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "mq5ex",
+      "atlas": "atlas0",
+      "rect": [
+        1570,
+        100,
+        60,
+        62
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "mq5e1b",
+      "atlas": "atlas0",
+      "rect": [
+        1528,
+        298,
+        60,
+        62
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "mq5e1d",
+      "atlas": "atlas0",
+      "rect": [
+        1571,
+        234,
+        60,
+        62
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "mq5e1e",
+      "atlas": "atlas0",
+      "rect": [
+        1614,
+        164,
+        60,
+        62
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "mq5e15",
+      "atlas": "atlas0",
+      "rect": [
+        1632,
+        100,
+        61,
+        62
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "mq5e1g",
+      "atlas": "atlas0",
+      "rect": [
+        1528,
+        362,
+        61,
+        62
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "mq5e11",
+      "atlas": "atlas0",
+      "rect": [
+        1590,
+        298,
+        60,
+        62
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "mq5e16",
+      "atlas": "atlas0",
+      "rect": [
+        1633,
+        228,
+        60,
+        62
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "mq5e12",
+      "atlas": "atlas0",
+      "rect": [
+        1676,
+        164,
+        60,
+        62
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "mq5e1h",
+      "atlas": "atlas0",
+      "rect": [
+        1695,
+        100,
+        61,
+        62
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "mq5e14",
+      "atlas": "atlas0",
+      "rect": [
+        1441,
+        797,
+        60,
+        62
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "mq5e1i",
+      "atlas": "atlas0",
+      "rect": [
+        1463,
+        733,
+        60,
+        62
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "mti76h26i",
+      "atlas": "atlas0",
+      "rect": [
+        1466,
+        409,
+        60,
+        46
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "mq5eh",
+      "atlas": "atlas0",
+      "rect": [
+        1441,
+        861,
+        58,
+        60
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "mq5es",
+      "atlas": "atlas0",
+      "rect": [
+        1469,
+        923,
+        58,
+        60
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "mq5ew",
+      "atlas": "atlas0",
+      "rect": [
+        1501,
+        861,
+        58,
+        60
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "mq5e1f",
+      "atlas": "atlas0",
+      "rect": [
+        1503,
+        797,
+        59,
+        60
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "mq5e1c",
+      "atlas": "atlas0",
+      "rect": [
+        1529,
+        923,
+        58,
+        60
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "mq5e18",
+      "atlas": "atlas0",
+      "rect": [
+        1561,
+        859,
+        58,
+        60
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "mq5e17",
+      "atlas": "atlas0",
+      "rect": [
+        1589,
+        921,
+        58,
+        60
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "e0us6h4dy",
+      "atlas": "atlas0",
+      "rect": [
+        1481,
+        521,
+        53,
+        60
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "mq5ey",
+      "atlas": "atlas0",
+      "rect": [
+        1481,
+        583,
+        58,
+        60
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "mq5e10",
+      "atlas": "atlas0",
+      "rect": [
+        1536,
+        521,
+        58,
+        60
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "kfhq6h4gk",
+      "atlas": "atlas0",
+      "rect": [
+        1571,
+        426,
+        53,
+        54
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "mti76h26j",
+      "atlas": "atlas0",
+      "rect": [
+        1621,
+        362,
+        49,
+        51
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "gvo11bo",
+      "atlas": "atlas0",
+      "rect": [
+        1652,
+        292,
+        50,
+        50
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "to051b2",
+      "atlas": "atlas0",
+      "rect": [
+        1404,
+        457,
+        39,
+        44
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "h1wsh26b",
+      "atlas": "atlas0",
+      "rect": [
+        1528,
+        426,
+        39,
+        21
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "mti76h26f",
+      "atlas": "atlas0",
+      "rect": [
+        1401,
+        797,
+        34,
+        34
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "mti76h26g",
+      "atlas": "atlas0",
+      "rect": [
+        1317,
+        921,
+        34,
+        34
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "kfhq6h4gl",
+      "atlas": "atlas0",
+      "rect": [
+        1614,
+        228,
+        8,
+        3
+      ],
+      "rotated": 0
+    }
+  ],
+  "strings": [
+    "c1imbcrl",
+    "Base",
+    "ufgirfkm",
+    "Common",
+    "cyrayt3h",
+    "Item",
+    "4kiiegiv",
+    "TitleAni",
+    "7v646h25t",
+    "ChatBoxItem",
+    "/",
+    "mti76h26m",
+    "n0_as4i",
+    "n0",
+    "n1_as4i",
+    "list",
+    "ui://u0mgoqep7v646h25u",
+    "e0us6h26y",
+    "lt_sf",
+    "/Images/",
+    "e0us6h270",
+    "lt_bg_qp1",
+    "e0us6h4dy",
+    "lt_ic_hy",
+    "gvo11bo",
+    "LT_JuJue",
+    "gvo11c0",
+    "LT_YuanBTN",
+    "h1wsh26b",
+    "CommonUI_DaoJuKuangJianTou",
+    "i7i56h4hi",
+    "lt_di_2",
+    "i7i56h4hj",
+    "lt_di_1",
+    "i7i56h4hk",
+    "lt_di_3",
+    "i7i56h4hl",
+    "lt_bth_3",
+    "i7i56h4hm",
+    "lt_bth_4",
+    "i7i56h4hn",
+    "lt_bth_2",
+    "i7i56h4ho",
+    "lt_bth_1",
+    "kfhq6h4gh",
+    "sz_ic_sz",
+    "ku3u6h4gm",
+    "客服图标",
+    "lder6h2qo",
+    "lt",
+    "mti76h26f",
+    "icon_offline",
+    "mti76h26g",
+    "icon_onlile",
+    "mti76h26i",
+    "sc",
+    "mti76h26j",
+    "bq_1",
+    "mti76h26l",
+    "input",
+    "k_2",
+    "o5fg6h4hp",
+    "ty_wbxxdi_d",
+    "psobh23o",
+    "back",
+    "t8y96h4ge",
+    "lt_bg_top1",
+    "to051b2",
+    "LT_PDICON4",
+    "7v646h25u",
+    "ChatBoxBtn",
+    "button",
+    "0",
+    "up",
+    "1",
+    "down",
+    "2",
+    "over",
+    "3",
+    "selectedOver",
+    "n6_7v64",
+    "n6",
+    "n5_as4i",
+    "title",
+    "全部",
+    "dkta2",
+    "LeftChatItem",
+    "showTime",
+    "normal",
+    "VipState",
+    "NoVip",
+    "Vip",
+    "Leader",
+    "VipLeader",
+    "ShowType",
+    "Normal",
+    "Ani",
+    "9",
+    "All",
+    "n22_svls",
+    "frame",
+    "ui://cyrayt3hbek61lyou3c",
+    "n34_v1gw",
+    "ani1",
+    "ui://4kiiegivv1gw4a",
+    "n21_svls",
+    "icon_player",
+    "ui://cyrayt3hcaxk6h2gh",
+    "n24_mti7",
+    "level_bg",
+    "ui://cyrayt3hf5lc6h41o",
+    "n6_mq5e",
+    "html_name",
+    "ID玩家名字七个字",
+    "n17_mq5e",
+    "labTime",
+    "星期五 10:22",
+    "n26_mti7",
+    "icon_type",
+    "ui://u0mgoqepmti76h268",
+    "nlv06h4ot",
+    "n28_mti7",
+    "n28",
+    "t0ql6h4gf",
+    "n31_t0ql",
+    "n31",
+    "n18_rt3l",
+    "n18",
+    "ui://u0mgoqepmq5e1k",
+    "n25_mti7",
+    "lb_lv",
+    "LV 100",
+    "n27_mti7",
+    "lb_type",
+    "私聊",
+    "n29_mti7",
+    "lb_vip",
+    "90",
+    "mq5e1k",
+    "n30_mti7",
+    "messageInfo",
+    "o5fg6h4hr",
+    "n36_o5fg",
+    "btn_translate",
+    "TranslateState",
+    "n35_v1gw",
+    "icon_season",
+    "f67t2d",
+    "NewMsgBtn",
+    "n3_ndgz",
+    "n4_ndgz",
+    "{count=99}条新消息",
+    "n6_ndgz",
+    "icon",
+    "gvo11d6",
+    "ChatIcon",
+    "5",
+    "unselect",
+    "4",
+    "selected",
+    "n9_svls",
+    "bg",
+    "ui://u0mgoqepi7i56h4ho",
+    "ui://u0mgoqepi7i56h4hn",
+    "n4_gvo1",
+    "lab_name",
+    "世界",
+    "h1wsh268",
+    "n10_k36z",
+    "RedDot",
+    "h1ws6h25u",
+    "ChatBox",
+    "mti76h26d",
+    "n5_h1ws",
+    "n5",
+    "n2_as4i",
+    "世界",
+    "psobh23r",
+    "n4_1053h",
+    "n4",
+    "ui://u0mgoqep7v646h25t",
+    "iq5n6h4gw",
+    "ChatEmojiSwitchTabCell",
+    "img_bg",
+    "ui://u0mgoqepi7i56h4hl",
+    "ui://u0mgoqepi7i56h4hm",
+    "全部",
+    "kfhq6h4gj",
+    "ChatItemSet",
+    "State",
+    "NoSelect",
+    "Select",
+    "p0l36h4ia",
+    "n0_kfhq",
+    "p0l36h4i9",
+    "n1_kfhq",
+    "n1",
+    "n2_kfhq",
+    "lb_title",
+    "公会通知",
+    "mq5e1j",
+    "RightChatItem",
+    "10",
+    "n7_rt3l",
+    "n7",
+    "n11_lxwh",
+    "img_fail",
+    "n13_mti7",
+    "n26_v1gw",
+    "n14_mti7",
+    "ui://cyrayt3hcaxk6h2gg",
+    "n18_mti7",
+    "n15_mti7",
+    "n20_mti7",
+    "n20",
+    "n16_mti7",
+    "LV100",
+    "n17_mti7",
+    "ID玩家名字七个字",
+    "n19_mti7",
+    "私聊",
+    "n21_mti7",
+    "90",
+    "n23_mti7",
+    "星期五 10:22",
+    "n25_t0ql",
+    "n25",
+    "n27_v1gw",
+    "ChatMessageInfo",
+    "myMessage",
+    "left",
+    "right",
+    "AniState",
+    "n6_f67t",
+    "fram_chat",
+    "ui://cyrayt3hp52s1lyov69",
+    "n13_v1gw",
+    "ui://cyrayt3hv1gw1lyov68",
+    "n4_rt3l",
+    "html_msg",
+    "n9_v1gw",
+    "ui://4kiiegivv1gw1p",
+    "n11_v1gw",
+    "ani2",
+    "ui://4kiiegivv1gw2k",
+    "mq5e1o",
+    "ChatSystem",
+    "n4_mti7",
+    "mti76h269",
+    "n6_mti7",
+    "n5_mti7",
+    "星期五 10:22",
+    "n7_mti7",
+    "系统",
+    "n1_mq5e",
+    "labMsg",
+    "欧气冲天，恭喜玩家[color=#FF6600]【{0}】[/color]在精灵扭蛋机抽中[color=#dd7c5a]{1}[/color]",
+    "mti710",
+    "FriendBtn",
+    "n3_psob",
+    "ui://ufgirfkmpsobh23t",
+    "n4_psob",
+    "我的好友",
+    "mti74",
+    "FriendChatItem",
+    "OnLine",
+    "OffLine",
+    "Friend",
+    "Add",
+    "Apply",
+    "Blacklist",
+    "n15",
+    "j0o0h24u",
+    "n0_mti7",
+    "playerHead",
+    "n2_mti7",
+    "lb_name",
+    "玩家名称111111(VIP6)",
+    "n3_mti7",
+    "lb_power",
+    "战力：999999",
+    "n1_mti7",
+    "lb_level",
+    "LV900",
+    "私聊",
+    "90",
+    "psobw",
+    "btn_chat",
+    "ui://u0mgoqeplder6h2qo",
+    "n22_mti7",
+    "n22",
+    "ui://u0mgoqepmti76h26g",
+    "ui://u0mgoqepmti76h26f",
+    "lb_online",
+    "离线",
+    "在线中",
+    "在线中",
+    "mti76h25y",
+    "ChatView_MiniWindow",
+    "EmojiState",
+    "hide",
+    "show",
+    "ChatType",
+    "System",
+    "FriendChat",
+    "BattleInviteChat",
+    "None",
+    "FriendType",
+    "FriendMsg",
+    "ChatState",
+    "ShowChat",
+    "HideChat",
+    "SetState",
+    "Hide",
+    "Show",
+    "n60_7v64",
+    "n76_mti7",
+    "n76",
+    "ui://u0mgoqepi7i56h4hi",
+    "n0_tdqw",
+    "ui://u0mgoqepi7i56h4hj",
+    "n83_caxk",
+    "n83",
+    "n4_tdqw",
+    "list_icon",
+    "ui://u0mgoqepgvo11d6",
+    "n6_tdqw",
+    "list_msg",
+    "ui://u0mgoqepdkta2",
+    "ui://u0mgoqepmq5e1j",
+    "n38_f67t",
+    "btn_newMsg",
+    "999条新消息",
+    "n107_iq5n",
+    "list_emojiSwitchTab",
+    "ui://u0mgoqepiq5n6h4gw",
+    "n79_mti7",
+    "n79",
+    "n72_mti7",
+    "list_friend",
+    "ui://u0mgoqepmti74",
+    "n11_tdqw",
+    "list_emoji",
+    "ui://u0mgoqeprt3l1t",
+    "n5_tdqw",
+    "n8_tdqw",
+    "input_msg",
+    "[color=#466896] 输入文本[/color]",
+    "NewFont",
+    "n28_tdqw",
+    "btn_emoji",
+    "ui://u0mgoqepmti76h26j",
+    "n58_h1ws",
+    "chatBox",
+    "世界",
+    "本服",
+    "工会",
+    "系统",
+    "n69_mti7",
+    "close",
+    "ui://u0mgoqeppsobh23o",
+    "n70_mti7",
+    "玩家名称",
+    "n71_mti7",
+    "lb_none",
+    "n75_mti7",
+    "btn_clear",
+    "ui://u0mgoqepmti76h26i",
+    "n77_mti7",
+    "btn_friend",
+    "ui://ufgirfkmaban6h2pp",
+    "n78_mti7",
+    "btn_send",
+    "发送",
+    "n81_mti7",
+    "leftChatItem",
+    "n82_mti7",
+    "rightChatItem",
+    "n84_e0us",
+    "n84",
+    "psob3",
+    "n102_pg5c",
+    "btn_battleInviteFilter1",
+    "品质排序1",
+    "品质排序2",
+    "品质排序3",
+    "品质排序4",
+    "n103_pg5c",
+    "btn_battleInviteFilter2",
+    "品质排序1",
+    "品质排序2",
+    "品质排序3",
+    "品质排序4",
+    "n50_uxmi",
+    "AdapterNodeLeft",
+    "n85_kfhq",
+    "btn_set",
+    "ui://u0mgoqepkfhq6h4gh",
+    "n86_kfhq",
+    "lb_set",
+    "设置",
+    "n87_kfhq",
+    "g_set",
+    "n98_kfhq",
+    "bg_set",
+    "n99_ku3u",
+    "btn_customer",
+    "ui://u0mgoqepku3u6h4gm",
+    "n100_ku3u",
+    "lb_customer",
+    "客服",
+    "n101_ku3u",
+    "g_customer",
+    "n90_kfhq",
+    "n90",
+    "ui://u0mgoqepkfhq6h4gk",
+    "kfhq6h4gl",
+    "n96_kfhq",
+    "n96",
+    "n97_kfhq",
+    "n97",
+    "n93_kfhq",
+    "lb_title1",
+    "聊天通知设置",
+    "n94_kfhq",
+    "lb_title2",
+    "主界面聊天内容显示",
+    "n91_kfhq",
+    "list_notice",
+    "ui://u0mgoqepkfhq6h4gj",
+    "n92_kfhq",
+    "list_show",
+    "n95_kfhq",
+    "g_notice",
+    "ChatFanBtn",
+    "NoNeed",
+    "ShowTranslate",
+    "ShowOrignText",
+    "Translateing",
+    "n18_o5fg",
+    "n16_o5fg",
+    "lb_translate",
+    "n21_o5fg",
+    "lb_orignText",
+    "n23_o5fg",
+    "lb_translateing",
+    "n19_o5fg",
+    "n19",
+    "pkde1ff",
+    "ChatSetItem",
+    "n3_pkde",
+    "字体大小",
+    "n5_pkde",
+    "btn_go",
+    ">",
+    "n6_pkde",
+    "lb_count",
+    "{count=2.05}{str=M}",
+    "pkde1fg",
+    "FontSizeSlider_grip",
+    "n0_pkde",
+    "rt3l1t",
+    "EmojiBtn",
+    "n3_rt3l",
+    "n4_iq5n",
+    "lb_emojiID",
+    "to051az",
+    "ChatFunc_GButton",
+    "n3_to05",
+    "ui://u0mgoqepto051b2",
+    "n4_to05",
+    "发起群聊",
+    "abnz6h4gy",
+    "1f655",
+    "/emoji_ios/",
+    "abnz6h4gz",
+    "1f654",
+    "abnz6h4h0",
+    "1f653",
+    "abnz6h4h1",
+    "1f652",
+    "abnz6h4h2",
+    "1f651",
+    "abnz6h4h3",
+    "1f650",
+    "abnz6h4h4",
+    "1f649",
+    "abnz6h4h5",
+    "1f648",
+    "abnz6h4h6",
+    "1f647",
+    "abnz6h4h7",
+    "1f646",
+    "abnz6h4h8",
+    "1f645",
+    "abnz6h4hf",
+    "1f656",
+    "abnz6h4hg",
+    "1f657",
+    "gxwd6h4gn",
+    "1f638",
+    "gxwd6h4go",
+    "1f639",
+    "gxwd6h4gp",
+    "1f640",
+    "gxwd6h4gq",
+    "1f641",
+    "gxwd6h4gr",
+    "1f642",
+    "gxwd6h4gs",
+    "1f643",
+    "gxwd6h4gt",
+    "1f644",
+    "kfhq6h4gk",
+    "jlg_tjh_bg",
+    "jlg_tjh_fgx",
+    "mq5e10",
+    "1f619",
+    "mq5e11",
+    "1f620",
+    "mq5e12",
+    "1f621",
+    "mq5e13",
+    "1f622",
+    "mq5e14",
+    "1f623",
+    "mq5e15",
+    "1f624",
+    "mq5e16",
+    "1f625",
+    "mq5e17",
+    "1f626",
+    "mq5e18",
+    "1f627",
+    "mq5e19",
+    "1f628",
+    "mq5e1a",
+    "1f629",
+    "mq5e1b",
+    "1f630",
+    "mq5e1c",
+    "1f631",
+    "mq5e1d",
+    "1f632",
+    "mq5e1e",
+    "1f633",
+    "mq5e1f",
+    "1f634",
+    "mq5e1g",
+    "1f635",
+    "mq5e1h",
+    "1f636",
+    "mq5e1i",
+    "1f637",
+    "mq5eh",
+    "1f600",
+    "mq5ei",
+    "1f601",
+    "mq5ej",
+    "1f602",
+    "mq5ek",
+    "1f603",
+    "mq5el",
+    "1f604",
+    "mq5em",
+    "1f605",
+    "mq5en",
+    "1f606",
+    "mq5eo",
+    "1f607",
+    "mq5ep",
+    "1f608",
+    "mq5eq",
+    "1f609",
+    "mq5er",
+    "1f610",
+    "mq5es",
+    "1f611",
+    "mq5et",
+    "1f612",
+    "mq5eu",
+    "1f613",
+    "mq5ev",
+    "1f614",
+    "mq5ew",
+    "1f615",
+    "mq5ex",
+    "1f616",
+    "mq5ey",
+    "1f617",
+    "mq5ez",
+    "1f618",
+    "mrgx6h4gu",
+    "ic_yq",
+    "mti76h265",
+    "ic_bf",
+    "mti76h266",
+    "ic_gh",
+    "mti76h267",
+    "ic_sj",
+    "mti76h268",
+    "ic_sl",
+    "ic_xt",
+    "lt_zd",
+    "vot06h4gv",
+    "ic_zd",
+    "atlas0",
+    "atlas0.png"
+  ]
+}

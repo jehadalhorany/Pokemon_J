@@ -1,0 +1,84 @@
+TaskOfferReward::Init
+000c ldarg.0 
+000d ldarg.1 
+000e stfld m_doMain
+0013 ldarg.0 
+0014 call TaskOfferReward::BindEvent
+0019 ldarg.0 
+001a ldfld m_lb_tasktype
+001f ldstr 'TaskTitle'
+0024 ldc.i4.1 
+0025 newarr Object
+002a dup 
+002b ldc.i4.0 
+002c ldstr 'OfferReward'
+0031 call Empty<0x1c>
+0036 call LanguageHelper::GetText
+003b stelem.ref 
+003c call LanguageHelper::GetText
+0041 callvirt set_text
+0046 ldarg.0 
+0047 ldfld m_doMain
+004c call DomainScene
+0051 callvirt GetComponent<ET.BountyQuestComponent>
+0056 stloc.0 
+0057 ldloc.0 
+0058 call BountyQuestComponentSystem::RemoveBountyRed
+005d ldarg.0 
+005e ldloc.0 
+005f callvirt get_QMultiMapQuestInfo
+0064 callvirt get_Keys
+0069 call ToList<0x8>
+006e stfld _questInfos
+0073 ldarg.0 
+0074 ldfld _questInfos
+0079 callvirt get_Count
+007e brtrue.s 141
+0080 ldarg.0 
+0081 ldfld m_ShowState
+0086 ldc.i4.1 
+0087 callvirt set_selectedIndex
+008c ret 
+008d ldarg.0 
+008e ldfld m_ShowState
+0093 ldc.i4.0 
+0094 callvirt set_selectedIndex
+0099 ldarg.0 
+009a ldfld _questInfo
+009f brtrue.s 190
+00a1 ldarg.0 
+00a2 call TaskOfferReward::UpdateSelect
+00a7 ldarg.0 
+00a8 ldarg.0 
+00a9 ldfld _questInfos
+00ae ldarg.0 
+00af ldfld _selectIndex
+00b4 callvirt get_Item
+00b9 stfld _questInfo
+00be ldarg.0 
+00bf ldfld m_list_task
+00c4 ldarg.0 
+00c5 ldfld _questInfos
+00ca callvirt get_Count
+00cf callvirt set_numItems
+00d4 ldarg.0 
+00d5 call TaskOfferReward::UpdateInfo
+00da ldarg.0 
+00db ldfld m_lb_tasktype
+00e0 ldstr 'OfferReward'
+00e5 call Empty<0x1c>
+00ea call LanguageHelper::GetText
+00ef callvirt set_text
+00f4 ldarg.0 
+00f5 ldfld m_lb_reward
+00fa ldstr 'TaskReward'
+00ff call Empty<0x1c>
+0104 call LanguageHelper::GetText
+0109 callvirt set_text
+010e ldarg.0 
+010f ldfld m_btn_go
+0114 ldstr 'GoTo'
+0119 call Empty<0x1c>
+011e call LanguageHelper::GetText
+0123 callvirt set_text
+0128 ret 

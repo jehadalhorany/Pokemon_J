@@ -1,0 +1,328 @@
+{
+  "items": [
+    {
+      "type": 3,
+      "id": "e0us6h2tu",
+      "name": "PveVSRightState",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        640
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "e0ush25p",
+      "name": "BattleVSState",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        642
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "ziob6h4fy",
+      "name": "BattleVS_LoadingWindow",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 0,
+      "id": "e0us6h2td",
+      "name": "rw_ic_vs",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        228,
+        159
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ziob6h4g0",
+      "name": "lts_bg_15",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        1024,
+        370
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ziob6h4g1",
+      "name": "lts_bg_16",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        1024,
+        383
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ziob6h4g2",
+      "name": "lts_bg_17",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        222,
+        34
+      ]
+    },
+    {
+      "type": 0,
+      "id": "ziob6h4g3",
+      "name": "lts_bg_18",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        222,
+        34
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas0",
+      "name": null,
+      "path": null,
+      "file": "atlas0.png",
+      "size": [
+        256,
+        256
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas_ziob6h4g0",
+      "name": null,
+      "path": null,
+      "file": "atlas_ziob6h4g0.png",
+      "size": [
+        1024,
+        512
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas_ziob6h4g1",
+      "name": null,
+      "path": null,
+      "file": "atlas_ziob6h4g1.png",
+      "size": [
+        1024,
+        512
+      ]
+    }
+  ],
+  "sprites": [
+    {
+      "id": "e0us6h2td",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        0,
+        228,
+        159
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "ziob6h4g2",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        161,
+        222,
+        34
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "ziob6h4g3",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        197,
+        222,
+        34
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "ziob6h4g0",
+      "atlas": "atlas_ziob6h4g0",
+      "rect": [
+        0,
+        0,
+        1024,
+        370
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "ziob6h4g1",
+      "atlas": "atlas_ziob6h4g1",
+      "rect": [
+        0,
+        0,
+        1024,
+        383
+      ],
+      "rotated": 0
+    }
+  ],
+  "strings": [
+    "ufgirfkm",
+    "Common",
+    "pf74c6s3",
+    "Pvp",
+    "e0us6h2tu",
+    "PveVSRightState",
+    "/",
+    "model",
+    "0",
+    "normal",
+    "1",
+    "ladder",
+    "3",
+    "duelMasters",
+    "4",
+    "doubleBattle",
+    "6",
+    "kingFight",
+    "7",
+    "newduelMasters",
+    "8",
+    "GymLeader",
+    "n62_ziob",
+    "n62",
+    "ui://hb59xpiaziob6h4g1",
+    "ziob6h4g3",
+    "n63_ziob",
+    "n63",
+    "n45_uv5m",
+    "lb_name",
+    "皮卡丘皮",
+    "n46_uv5m",
+    "lb_level",
+    "Lv150",
+    "n52_g9mo",
+    "pvpPanel",
+    "se4ph26g",
+    "n64_ziob",
+    "model1",
+    "ku3u1lyosq8",
+    "n39_n979",
+    "ladderStageIcon",
+    "n40_n979",
+    "ladderScore",
+    "段位积分:20",
+    "n42_n979",
+    "ladderPanel",
+    "n33_e0us",
+    "list_eudemon",
+    "ui://ufgirfkmrhl16h2q7",
+    "n53_hx6o",
+    "doublename1",
+    "玩家名六个字 Lv.150",
+    "n54_hx6o",
+    "doubledes1",
+    "段位积分：1500  排名:15",
+    "n55_hx6o",
+    "doublename2",
+    "玩家名六个字 Lv.150",
+    "n56_hx6o",
+    "doubledes2",
+    "段位积分：1500  排名:15",
+    "n57_hx6o",
+    "doublePanel",
+    "n58_uerp",
+    "kingFightScore",
+    "段位积分:20",
+    "vxy168",
+    "n59_uerp",
+    "kingFightType",
+    "n60_uerp",
+    "kingFightPanel",
+    "n61_rw37",
+    "lb_win",
+    "胜利次数：1000",
+    "n65_tpw3",
+    "GymLeaderScore",
+    "段位积分:20",
+    "n66_tpw3",
+    "GymLeaderType",
+    "n67_tpw3",
+    "GymLeaderPanel",
+    "e0ush25p",
+    "BattleVSState",
+    "Ladder",
+    "2",
+    "5",
+    "ziob6h4g0",
+    "ziob6h4g2",
+    "n64",
+    "Lv150",
+    "n53_g9mo",
+    "normalPanel",
+    "n65_ziob",
+    "star",
+    "段位积分:20",
+    "n41_n979",
+    "玩家名六个字 Lv.150",
+    "段位积分：1500  排名:15",
+    "玩家名六个字 Lv.150",
+    "n58_hx6o",
+    "段位积分：1500  排名:15",
+    "kingfightScore",
+    "段位积分:20",
+    "kingfihgtType",
+    "n61_uerp",
+    "kingfightPanel",
+    "n62_rw37",
+    "胜利次数：1000",
+    "段位积分:20",
+    "n68_tpw3",
+    "ziob6h4fy",
+    "BattleVS_LoadingWindow",
+    "nm0oh265",
+    "n48_jfq8",
+    "n48",
+    "n14_hx2n",
+    "myPokemonInfo",
+    "n15_hx2n",
+    "enemyPokemonInfo",
+    "g34s1lyos4p",
+    "n49_g34s",
+    "n49",
+    "n43_e0us",
+    "n43",
+    "ui://pf74c6s3g34s1lyos4s",
+    "VS",
+    "e0us6h2td",
+    "rw_ic_vs",
+    "/Images/",
+    "lts_bg_15",
+    "ziob6h4g1",
+    "lts_bg_16",
+    "lts_bg_17",
+    "lts_bg_18",
+    "atlas0",
+    "atlas0.png",
+    "atlas_ziob6h4g0",
+    "atlas_ziob6h4g0.png",
+    "atlas_ziob6h4g1",
+    "atlas_ziob6h4g1.png"
+  ]
+}

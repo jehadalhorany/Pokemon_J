@@ -1,0 +1,30 @@
+{
+  "results": [
+    {
+      "independentResourceLabels": [
+        "68/68",
+        "68/68"
+      ]
+    },
+    {
+      "menuOpenAndClosePhysicalClick": true
+    },
+    {
+      "generation": 2,
+      "entries": 127
+    },
+    {
+      "generation": 3,
+      "entries": 135
+    },
+    {
+      "generation": 5,
+      "entries": 158
+    },
+    {
+      "generation": 9,
+      "entries": 120
+    }
+  ],
+  "pageErrors": []
+}

@@ -1,0 +1,976 @@
+{
+  "items": [
+    {
+      "type": 0,
+      "id": "bmac6h4h5",
+      "name": "ywyg_bg_sgts1",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        261,
+        223
+      ]
+    },
+    {
+      "type": 0,
+      "id": "bmac6h4h6",
+      "name": "ywyg_bg_sgts2",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        261,
+        223
+      ]
+    },
+    {
+      "type": 0,
+      "id": "bmac6h4h7",
+      "name": "ywyg_bg_sgts3",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        261,
+        223
+      ]
+    },
+    {
+      "type": 0,
+      "id": "bmac6h4h8",
+      "name": "ywyg_bg_sgts4",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        261,
+        223
+      ]
+    },
+    {
+      "type": 0,
+      "id": "bmac6h4h9",
+      "name": "ywyg_bg_sgts5",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        261,
+        223
+      ]
+    },
+    {
+      "type": 0,
+      "id": "bmac6h4ha",
+      "name": "ywyg_bg_sgts6",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        261,
+        223
+      ]
+    },
+    {
+      "type": 0,
+      "id": "d15u6h4hk",
+      "name": "slcg_yq_dqxz",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        441,
+        512
+      ]
+    },
+    {
+      "type": 0,
+      "id": "d15u6h4hl",
+      "name": "slcg_yq_dqzz",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        440,
+        512
+      ]
+    },
+    {
+      "type": 0,
+      "id": "g7a94",
+      "name": "sl_bg_3",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        126,
+        313
+      ]
+    },
+    {
+      "type": 0,
+      "id": "k2306h2v7",
+      "name": "sjsd_yksd_bg1",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        124,
+        124
+      ]
+    },
+    {
+      "type": 0,
+      "id": "k2306h2vg",
+      "name": "sjsd_yksd_npc2",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        179,
+        216
+      ]
+    },
+    {
+      "type": 3,
+      "id": "99dvu",
+      "name": "SixGod_MiniWindow",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "99dvv",
+      "name": "SixGodItem",
+      "path": "/Component/",
+      "file": null,
+      "size": [
+        692,
+        230
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "g7a9t",
+      "name": "Safari_Window",
+      "path": "/",
+      "file": null,
+      "size": [
+        1920,
+        1080
+      ],
+      "extension": 0
+    },
+    {
+      "type": 3,
+      "id": "uma46h4hb",
+      "name": "SafariItem1",
+      "path": "/Component/",
+      "file": null,
+      "size": [
+        566,
+        655
+      ],
+      "extension": 12
+    },
+    {
+      "type": 3,
+      "id": "x5l4w",
+      "name": "SafariItem",
+      "path": "/Component/",
+      "file": null,
+      "size": [
+        530,
+        543
+      ],
+      "extension": 12
+    },
+    {
+      "type": 0,
+      "id": "d15u6h4hd",
+      "name": "slcg_bg_1",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        1024,
+        512
+      ]
+    },
+    {
+      "type": 0,
+      "id": "d15u6h4he",
+      "name": "slcg_bg_2",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        84,
+        39
+      ]
+    },
+    {
+      "type": 0,
+      "id": "d15u6h4hf",
+      "name": "slcg_bg_3",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        186,
+        41
+      ]
+    },
+    {
+      "type": 0,
+      "id": "d15u6h4hg",
+      "name": "slcg_yq_dq1",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        440,
+        512
+      ]
+    },
+    {
+      "type": 0,
+      "id": "d15u6h4hh",
+      "name": "slcg_yq_dq2",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        440,
+        512
+      ]
+    },
+    {
+      "type": 0,
+      "id": "d15u6h4hi",
+      "name": "slcg_yq_dq3",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        440,
+        512
+      ]
+    },
+    {
+      "type": 0,
+      "id": "d15u6h4hj",
+      "name": "slcg_yq_dq4",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        440,
+        512
+      ]
+    },
+    {
+      "type": 0,
+      "id": "k08b6h2vh",
+      "name": "ywyg_sgts_tw",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        370,
+        90
+      ]
+    },
+    {
+      "type": 0,
+      "id": "rcrg6h4h2",
+      "name": "ywyg_sgts_cn",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        370,
+        90
+      ]
+    },
+    {
+      "type": 0,
+      "id": "rwoo6h4h3",
+      "name": "ywyg_sgts_en",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        334,
+        89
+      ]
+    },
+    {
+      "type": 0,
+      "id": "tba76h4hp",
+      "name": "ywyg_sgts_idn",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        370,
+        90
+      ]
+    },
+    {
+      "type": 0,
+      "id": "vlji6h4hr",
+      "name": "ywyg_sgts_vi",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        370,
+        90
+      ]
+    },
+    {
+      "type": 0,
+      "id": "wywu6h4hq",
+      "name": "ywyg_sgts_ru",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        370,
+        90
+      ]
+    },
+    {
+      "type": 0,
+      "id": "zm056h4hm",
+      "name": "ywyg_sgts_pt",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        370,
+        90
+      ]
+    },
+    {
+      "type": 0,
+      "id": "zm056h4hn",
+      "name": "ywyg_sgts_ko",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        370,
+        90
+      ]
+    },
+    {
+      "type": 0,
+      "id": "zm056h4ho",
+      "name": "ywyg_sgts_es",
+      "path": "/Images/",
+      "file": null,
+      "size": [
+        370,
+        90
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas0",
+      "name": null,
+      "path": null,
+      "file": "atlas0.png",
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas_d15u6h4hd",
+      "name": null,
+      "path": null,
+      "file": "atlas_d15u6h4hd.png",
+      "size": [
+        1024,
+        512
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas_wywu6h4hq",
+      "name": null,
+      "path": null,
+      "file": "atlas_wywu6h4hq.png",
+      "size": [
+        512,
+        128
+      ]
+    },
+    {
+      "type": 4,
+      "id": "atlas_vlji6h4hr",
+      "name": null,
+      "path": null,
+      "file": "atlas_vlji6h4hr.png",
+      "size": [
+        512,
+        128
+      ]
+    }
+  ],
+  "sprites": [
+    {
+      "id": "d15u6h4hl",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        0,
+        440,
+        512
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "d15u6h4hk",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        514,
+        441,
+        512
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "d15u6h4hj",
+      "atlas": "atlas0",
+      "rect": [
+        442,
+        0,
+        440,
+        512
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "d15u6h4hi",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        1028,
+        440,
+        512
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "d15u6h4hg",
+      "atlas": "atlas0",
+      "rect": [
+        0,
+        1542,
+        512,
+        440
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "d15u6h4hh",
+      "atlas": "atlas0",
+      "rect": [
+        442,
+        1028,
+        440,
+        512
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "rcrg6h4h2",
+      "atlas": "atlas0",
+      "rect": [
+        884,
+        1028,
+        90,
+        370
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "zm056h4ho",
+      "atlas": "atlas0",
+      "rect": [
+        884,
+        1400,
+        89,
+        370
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "tba76h4hp",
+      "atlas": "atlas0",
+      "rect": [
+        514,
+        1542,
+        368,
+        81
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "k08b6h2vh",
+      "atlas": "atlas0",
+      "rect": [
+        514,
+        1625,
+        366,
+        90
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "zm056h4hn",
+      "atlas": "atlas0",
+      "rect": [
+        514,
+        1717,
+        365,
+        88
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "zm056h4hm",
+      "atlas": "atlas0",
+      "rect": [
+        881,
+        1772,
+        359,
+        83
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "rwoo6h4h3",
+      "atlas": "atlas0",
+      "rect": [
+        514,
+        1807,
+        334,
+        89
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "g7a94",
+      "atlas": "atlas0",
+      "rect": [
+        850,
+        1857,
+        313,
+        126
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "bmac6h4h5",
+      "atlas": "atlas0",
+      "rect": [
+        975,
+        1400,
+        223,
+        261
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "bmac6h4h6",
+      "atlas": "atlas0",
+      "rect": [
+        1200,
+        1400,
+        223,
+        261
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "bmac6h4h7",
+      "atlas": "atlas0",
+      "rect": [
+        1425,
+        1400,
+        223,
+        261
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "bmac6h4h8",
+      "atlas": "atlas0",
+      "rect": [
+        1242,
+        1663,
+        223,
+        261
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "bmac6h4h9",
+      "atlas": "atlas0",
+      "rect": [
+        1467,
+        1663,
+        223,
+        261
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "bmac6h4ha",
+      "atlas": "atlas0",
+      "rect": [
+        1650,
+        0,
+        261,
+        223
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "k2306h2vg",
+      "atlas": "atlas0",
+      "rect": [
+        1650,
+        225,
+        216,
+        179
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "d15u6h4hf",
+      "atlas": "atlas0",
+      "rect": [
+        1165,
+        1857,
+        41,
+        186
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "k2306h2v7",
+      "atlas": "atlas0",
+      "rect": [
+        514,
+        1898,
+        124,
+        124
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "d15u6h4he",
+      "atlas": "atlas0",
+      "rect": [
+        975,
+        1663,
+        39,
+        84
+      ],
+      "rotated": 1
+    },
+    {
+      "id": "d15u6h4hd",
+      "atlas": "atlas_d15u6h4hd",
+      "rect": [
+        0,
+        0,
+        1024,
+        512
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "wywu6h4hq",
+      "atlas": "atlas_wywu6h4hq",
+      "rect": [
+        0,
+        0,
+        364,
+        83
+      ],
+      "rotated": 0
+    },
+    {
+      "id": "vlji6h4hr",
+      "atlas": "atlas_vlji6h4hr",
+      "rect": [
+        0,
+        0,
+        363,
+        87
+      ],
+      "rotated": 0
+    }
+  ],
+  "strings": [
+    "c1imbcrl",
+    "Base",
+    "uohhcc0q",
+    "Battle",
+    "ufgirfkm",
+    "Common",
+    "bmac6h4h5",
+    "ywyg_bg_sgts1",
+    "/Images/",
+    "bmac6h4h6",
+    "ywyg_bg_sgts2",
+    "bmac6h4h7",
+    "ywyg_bg_sgts3",
+    "bmac6h4h8",
+    "ywyg_bg_sgts4",
+    "bmac6h4h9",
+    "ywyg_bg_sgts5",
+    "bmac6h4ha",
+    "ywyg_bg_sgts6",
+    "d15u6h4hk",
+    "slcg_yq_dqxz",
+    "d15u6h4hl",
+    "slcg_yq_dqzz",
+    "g7a94",
+    "sl_bg_3",
+    "k2306h2v7",
+    "sjsd_yksd_bg1",
+    "k2306h2vg",
+    "sjsd_yksd_npc2",
+    "99dvu",
+    "SixGod_MiniWindow",
+    "/",
+    "nm0oh265",
+    "n29_siql",
+    "btn_mask",
+    "n23_siql",
+    "n23",
+    "k2306h2va",
+    "n24_siql",
+    "n24",
+    "p0l36h31u",
+    "n26_siql",
+    "n26",
+    "n28_siql",
+    "n28",
+    "p0l36h324",
+    "n27_siql",
+    "n27",
+    "n30_siql",
+    "n30",
+    "n31_siql",
+    "n31",
+    "n18_99dv",
+    "list_goods",
+    "ui://1dkckmvl99dvv",
+    "n16_99dv",
+    "lb_tip",
+    "不同效果香水可叠加哦",
+    "n32_siql",
+    "lanIcon",
+    "psobw",
+    "n35_siql",
+    "btn_close",
+    "99dvv",
+    "SixGodItem",
+    "/Component/",
+    "State",
+    "0",
+    "Buy",
+    "1",
+    "Have",
+    "qualityCol",
+    "quality1",
+    "quality2",
+    "2",
+    "quality3",
+    "3",
+    "quality4",
+    "4",
+    "quality5",
+    "5",
+    "quality6",
+    "n8_aban",
+    "n8",
+    "ui://1dkckmvlbmac6h4h5",
+    "ui://1dkckmvlbmac6h4h6",
+    "ui://1dkckmvlbmac6h4h7",
+    "ui://1dkckmvlbmac6h4h8",
+    "ui://1dkckmvlbmac6h4h9",
+    "ui://1dkckmvlbmac6h4ha",
+    "n2_aban",
+    "lb_name",
+    "低级香水",
+    "n3_aban",
+    "lb_desc",
+    "使用后野外闪光遇怪概率提升5倍<br>狩猎场闪光遇怪概率提升10倍",
+    "ewfrh22n",
+    "n10_e0us",
+    "goodItem",
+    "showState",
+    "i9zd6h2q7",
+    "n11_99dv",
+    "btn_use",
+    "aban1",
+    "n15_okna",
+    "paneltext",
+    "color",
+    "11",
+    "size",
+    "n13_jo46",
+    "lb_count",
+    "闪光数量:5/10",
+    "n12_siql",
+    "lb_time",
+    "（剩余时间 6:59:50）",
+    "g7a9t",
+    "Safari_Window",
+    "d15u6h4hd",
+    "n132_d15u",
+    "n132",
+    "8yc42",
+    "n1_igz4",
+    "wnd",
+    "公会",
+    "n79_uyve",
+    "btn_explain",
+    "ui://ufgirfkmkijk6h27i",
+    "n114_g7a9",
+    "lb_title",
+    "请选择要前往的狩猎地带",
+    "n115_g7a9",
+    "btn_start",
+    "开始狩猎",
+    "ui://ufgirfkmjpdy1lyosot",
+    "d15u6h4he",
+    "n133_d15u",
+    "n133",
+    "n134_d15u",
+    "n134",
+    "n135_d15u",
+    "n135",
+    "n136_d15u",
+    "n136",
+    "d15u6h4hf",
+    "n137_d15u",
+    "n137",
+    "n117_g7a9",
+    "每天10-12、16:30-19:30开启",
+    "n118_g7a9",
+    "友情提示：当前闪光精灵遇怪倍数x3",
+    "n119_g7a9",
+    "lb_text_1",
+    "1.您可以提升VIP等级后前往狩猎，可提升遇到闪光精灵概率",
+    "n120_g7a9",
+    "lb_text_2",
+    "2.使用香水道具，可提升遇到闪光精灵概率",
+    "aqf76h4d2",
+    "n121_g7a9",
+    "btn_goUp",
+    "前往提升",
+    "siql6h2ty",
+    "n122_g7a9",
+    "点击使用",
+    "n128_uma4",
+    "lb_give",
+    "进入该区域自动赠送狩猎球x30",
+    "n124_x5l4",
+    "lb_opentime",
+    "每天10-12、16-19开启",
+    "n129_uma4",
+    "lb_cost",
+    "每次消耗:",
+    "8yc4j",
+    "n130_uma4",
+    "iconTitle",
+    "X100",
+    "ui://Item/ic_50411",
+    "n127_uma4",
+    "list_title",
+    "ui://1dkckmvluma46h4hb",
+    "uma46h4hb",
+    "SafariItem1",
+    "button",
+    "up",
+    "down",
+    "over",
+    "selectedOver",
+    "SelectState",
+    "NoSelect",
+    "Select",
+    "Normal",
+    "Locked",
+    "n2_g7a9",
+    "icon_type",
+    "ui://1dkckmvld15u6h4hg",
+    "n3_g7a9",
+    "关都地区狩猎场",
+    "n14_d15u",
+    "lb_context",
+    "狩猎湖泊区域，可以狩猎到水系等属性的稀有 宝可梦",
+    "n15_d15u",
+    "list_eudemon",
+    "ui://ufgirfkmo1ew6h2w5",
+    "n1_g7a9",
+    "n1",
+    "n10_yja6",
+    "n10",
+    "n12_yja6",
+    "lb_lock",
+    "1号路、2号路、月见山",
+    "x5l4w",
+    "SafariItem",
+    "n0_g7a9",
+    "n0",
+    "狩猎湖泊",
+    "n4_g7a9",
+    "狩猎湖泊区域，可以狩猎到水系等属性的稀有 宝可梦",
+    "n5_g7a9",
+    "进入该区域自动赠送狩猎球x30",
+    "n8_otie",
+    "每次消耗：",
+    "n6_otie",
+    "n6",
+    "n7_otie",
+    "n7",
+    "n9_otie",
+    "X100",
+    "ui://uohhcc0qn979h279",
+    "aban6h2pl",
+    "ttqx6h4b7",
+    "n11_yja6",
+    "n11",
+    "1号路、2号路、月见山",
+    "slcg_bg_1",
+    "slcg_bg_2",
+    "slcg_bg_3",
+    "d15u6h4hg",
+    "slcg_yq_dq1",
+    "d15u6h4hh",
+    "slcg_yq_dq2",
+    "d15u6h4hi",
+    "slcg_yq_dq3",
+    "d15u6h4hj",
+    "slcg_yq_dq4",
+    "k08b6h2vh",
+    "ywyg_sgts_tw",
+    "rcrg6h4h2",
+    "ywyg_sgts_cn",
+    "rwoo6h4h3",
+    "ywyg_sgts_en",
+    "tba76h4hp",
+    "ywyg_sgts_idn",
+    "vlji6h4hr",
+    "ywyg_sgts_vi",
+    "wywu6h4hq",
+    "ywyg_sgts_ru",
+    "zm056h4hm",
+    "ywyg_sgts_pt",
+    "zm056h4hn",
+    "ywyg_sgts_ko",
+    "zm056h4ho",
+    "ywyg_sgts_es",
+    "atlas0",
+    "atlas0.png",
+    "atlas_d15u6h4hd",
+    "atlas_d15u6h4hd.png",
+    "atlas_wywu6h4hq",
+    "atlas_wywu6h4hq.png",
+    "atlas_vlji6h4hr",
+    "atlas_vlji6h4hr.png"
+  ]
+}

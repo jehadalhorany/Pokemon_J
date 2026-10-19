@@ -1,0 +1,25 @@
+MainWindow::UpdateHideState
+000c ldarg.0 
+000d ldfld m_MainState
+0012 ldc.i4.1 
+0013 callvirt set_selectedIndex
+0018 ldarg.0 
+0019 ldfld m_weekInit
+001e callvirt Play
+0023 ldarg.0 
+0024 ldfld m_btn_friend
+0029 ldc.i4.0 
+002a callvirt set_visible
+002f ldarg.0 
+0030 ldfld m_g_mount
+0035 ldc.i4.0 
+0036 callvirt set_visible
+003b ldarg.0 
+003c ldfld m_g_chat
+0041 ldc.i4.0 
+0042 callvirt set_visible
+0047 ldarg.0 
+0048 call MainWindow::UpdateGameHelp
+004d ldarg.0 
+004e call MainWindow::ShowMountState
+0053 ret 

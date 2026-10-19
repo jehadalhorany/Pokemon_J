@@ -1,0 +1,11 @@
+{
+  "sourceAvatar": "e7117792d1b9d392b3cba28a6fb341b0",
+  "sourceRenderer": "4134019437585199084",
+  "sourceBone": "Bip001 Head",
+  "sourceBindPoseMatches": true,
+  "vertices": 241,
+  "implicitHeadWeight": 1,
+  "visualReview": "Source Idle and two Run poses facing camera; face attached and visually intact. No claim user issue reproduced locally.",
+  "runtimeCodeChanged": false,
+  "userConfirmationPending": true
+}

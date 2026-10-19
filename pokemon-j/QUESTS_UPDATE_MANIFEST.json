@@ -1,0 +1,9 @@
+{
+  "public/source-quests.js": "79cfba944961eabd11f13cd61072b347c5a78e1bb46b6469098ba5ba34db7466",
+  "public/source-menu.js": "061daeb87a574bcb1f7a4e8d22ab454313e4f9139915811335e08bb3cf2a4014",
+  "server/source-quests.mjs": "a60d47aee1c717fa101cba26a5a3f8ecce94c5c7e2825996808bb13017044c21",
+  "server/source-quests.test.mjs": "82ffc52d7c8dfbe43ccd2e7d35ff4385fe450fd22f5fcbdaaade4128b70b9f6c",
+  "tools/install-quests-v04.mjs": "3d14a46f59b56731b74572d931cc44a2a71e658780b988e2a32224efa8426635",
+  "SOURCE_QUEST_TABS_VALIDATION.json": "566d794b69a3735575569fb3ec74a6d350283a91c8cd8de9b3188a10480d53b4",
+  "INSTALL_QUESTS_AR.md": "5a3fb5cebd3fc7fc53ef0e9b6f79ccf6e94efb291b028a37759b6899c696fd0b"
+}

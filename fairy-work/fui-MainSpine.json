@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "type": 9,
+      "id": "oots0",
+      "name": "spine_heianluoqiya",
+      "path": "/",
+      "file": "spine_heianluoqiya.json",
+      "size": [
+        101,
+        100
+      ]
+    },
+    {
+      "type": 9,
+      "id": "oots3",
+      "name": "spine_megaheichaomeng",
+      "path": "/",
+      "file": "spine_megaheichaomeng.json",
+      "size": [
+        99,
+        91
+      ]
+    },
+    {
+      "type": 9,
+      "id": "ovq66",
+      "name": "spine_SCJHRW",
+      "path": "/",
+      "file": "spine_SCJHRW.json",
+      "size": [
+        159,
+        135
+      ]
+    },
+    {
+      "type": 9,
+      "id": "sht5d",
+      "name": "spine_lkzmaga",
+      "path": "/",
+      "file": "spine_lkzmaga.json",
+      "size": [
+        99,
+        99
+      ]
+    }
+  ],
+  "sprites": [],
+  "strings": [
+    "oots0",
+    "spine_heianluoqiya",
+    "/",
+    "spine_heianluoqiya.json",
+    "oots3",
+    "spine_megaheichaomeng",
+    "spine_megaheichaomeng.json",
+    "ovq66",
+    "spine_SCJHRW",
+    "spine_SCJHRW.json",
+    "sht5d",
+    "spine_lkzmaga",
+    "spine_lkzmaga.json"
+  ]
+}

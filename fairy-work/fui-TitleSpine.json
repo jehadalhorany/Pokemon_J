@@ -1,0 +1,372 @@
+{
+  "items": [
+    {
+      "type": 9,
+      "id": "cyg23q",
+      "name": "spine_title25",
+      "path": "/",
+      "file": "spine_title25.json",
+      "size": [
+        403,
+        189
+      ]
+    },
+    {
+      "type": 9,
+      "id": "cyg23t",
+      "name": "spine_title26",
+      "path": "/",
+      "file": "spine_title26.json",
+      "size": [
+        403,
+        189
+      ]
+    },
+    {
+      "type": 9,
+      "id": "doqj11",
+      "name": "spine_title06",
+      "path": "/",
+      "file": "spine_title06.json",
+      "size": [
+        406,
+        180
+      ]
+    },
+    {
+      "type": 9,
+      "id": "doqj14",
+      "name": "spine_title07",
+      "path": "/",
+      "file": "spine_title07.json",
+      "size": [
+        386,
+        180
+      ]
+    },
+    {
+      "type": 9,
+      "id": "doqj17",
+      "name": "spine_title08",
+      "path": "/",
+      "file": "spine_title08.json",
+      "size": [
+        381,
+        176
+      ]
+    },
+    {
+      "type": 9,
+      "id": "lz7x27",
+      "name": "spine_title15",
+      "path": "/",
+      "file": "spine_title15.json",
+      "size": [
+        393,
+        198
+      ]
+    },
+    {
+      "type": 9,
+      "id": "lz7x2a",
+      "name": "spine_title16",
+      "path": "/",
+      "file": "spine_title16.json",
+      "size": [
+        372,
+        198
+      ]
+    },
+    {
+      "type": 9,
+      "id": "ql7x1y",
+      "name": "spine_title12",
+      "path": "/",
+      "file": "spine_title12.json",
+      "size": [
+        333,
+        177
+      ]
+    },
+    {
+      "type": 9,
+      "id": "ql7x21",
+      "name": "spine_title13",
+      "path": "/",
+      "file": "spine_title13.json",
+      "size": [
+        382,
+        232
+      ]
+    },
+    {
+      "type": 9,
+      "id": "ql7x24",
+      "name": "spine_title14",
+      "path": "/",
+      "file": "spine_title14.json",
+      "size": [
+        353,
+        178
+      ]
+    },
+    {
+      "type": 9,
+      "id": "rnqt2w",
+      "name": "spine_title17",
+      "path": "/",
+      "file": "spine_title17.json",
+      "size": [
+        434,
+        190
+      ]
+    },
+    {
+      "type": 9,
+      "id": "rnqt2z",
+      "name": "spine_title18",
+      "path": "/",
+      "file": "spine_title18.json",
+      "size": [
+        434,
+        190
+      ]
+    },
+    {
+      "type": 9,
+      "id": "sk341a",
+      "name": "spine_title09",
+      "path": "/",
+      "file": "spine_title09.json",
+      "size": [
+        390,
+        180
+      ]
+    },
+    {
+      "type": 9,
+      "id": "sk341g",
+      "name": "spine_title11",
+      "path": "/",
+      "file": "spine_title11.json",
+      "size": [
+        339,
+        172
+      ]
+    },
+    {
+      "type": 9,
+      "id": "sk341j",
+      "name": "spine_title10",
+      "path": "/",
+      "file": "spine_title10.json",
+      "size": [
+        390,
+        172
+      ]
+    },
+    {
+      "type": 9,
+      "id": "sl9pj",
+      "name": "spine_title01",
+      "path": "/",
+      "file": "spine_title01.json",
+      "size": [
+        299,
+        193
+      ]
+    },
+    {
+      "type": 9,
+      "id": "sl9pm",
+      "name": "spine_title03",
+      "path": "/",
+      "file": "spine_title03.json",
+      "size": [
+        379,
+        173
+      ]
+    },
+    {
+      "type": 9,
+      "id": "sl9pp",
+      "name": "spine_title02",
+      "path": "/",
+      "file": "spine_title02.json",
+      "size": [
+        423,
+        173
+      ]
+    },
+    {
+      "type": 9,
+      "id": "taeg32",
+      "name": "spine_title19",
+      "path": "/",
+      "file": "spine_title19.json",
+      "size": [
+        418,
+        201
+      ]
+    },
+    {
+      "type": 9,
+      "id": "taeg35",
+      "name": "spine_title20",
+      "path": "/",
+      "file": "spine_title20.json",
+      "size": [
+        408,
+        201
+      ]
+    },
+    {
+      "type": 9,
+      "id": "trd53e",
+      "name": "spine_title23",
+      "path": "/",
+      "file": "spine_title23.json",
+      "size": [
+        403,
+        193
+      ]
+    },
+    {
+      "type": 9,
+      "id": "trd53h",
+      "name": "spine_title24",
+      "path": "/",
+      "file": "spine_title24.json",
+      "size": [
+        370,
+        193
+      ]
+    },
+    {
+      "type": 9,
+      "id": "tsq6v",
+      "name": "spine_title04",
+      "path": "/",
+      "file": "spine_title04.json",
+      "size": [
+        290,
+        144
+      ]
+    },
+    {
+      "type": 9,
+      "id": "tsq6y",
+      "name": "spine_title05",
+      "path": "/",
+      "file": "spine_title05.json",
+      "size": [
+        287,
+        144
+      ]
+    },
+    {
+      "type": 9,
+      "id": "ukh638",
+      "name": "spine_title21",
+      "path": "/",
+      "file": "spine_title21.json",
+      "size": [
+        405,
+        186
+      ]
+    },
+    {
+      "type": 9,
+      "id": "ukh63b",
+      "name": "spine_title22",
+      "path": "/",
+      "file": "spine_title22.json",
+      "size": [
+        388,
+        184
+      ]
+    }
+  ],
+  "sprites": [],
+  "strings": [
+    "cyg23q",
+    "spine_title25",
+    "/",
+    "spine_title25.json",
+    "cyg23t",
+    "spine_title26",
+    "spine_title26.json",
+    "doqj11",
+    "spine_title06",
+    "spine_title06.json",
+    "doqj14",
+    "spine_title07",
+    "spine_title07.json",
+    "doqj17",
+    "spine_title08",
+    "spine_title08.json",
+    "lz7x27",
+    "spine_title15",
+    "spine_title15.json",
+    "lz7x2a",
+    "spine_title16",
+    "spine_title16.json",
+    "ql7x1y",
+    "spine_title12",
+    "spine_title12.json",
+    "ql7x21",
+    "spine_title13",
+    "spine_title13.json",
+    "ql7x24",
+    "spine_title14",
+    "spine_title14.json",
+    "rnqt2w",
+    "spine_title17",
+    "spine_title17.json",
+    "rnqt2z",
+    "spine_title18",
+    "spine_title18.json",
+    "sk341a",
+    "spine_title09",
+    "spine_title09.json",
+    "sk341g",
+    "spine_title11",
+    "spine_title11.json",
+    "sk341j",
+    "spine_title10",
+    "spine_title10.json",
+    "sl9pj",
+    "spine_title01",
+    "spine_title01.json",
+    "sl9pm",
+    "spine_title03",
+    "spine_title03.json",
+    "sl9pp",
+    "spine_title02",
+    "spine_title02.json",
+    "taeg32",
+    "spine_title19",
+    "spine_title19.json",
+    "taeg35",
+    "spine_title20",
+    "spine_title20.json",
+    "trd53e",
+    "spine_title23",
+    "spine_title23.json",
+    "trd53h",
+    "spine_title24",
+    "spine_title24.json",
+    "tsq6v",
+    "spine_title04",
+    "spine_title04.json",
+    "tsq6y",
+    "spine_title05",
+    "spine_title05.json",
+    "ukh638",
+    "spine_title21",
+    "spine_title21.json",
+    "ukh63b",
+    "spine_title22",
+    "spine_title22.json"
+  ]
+}
