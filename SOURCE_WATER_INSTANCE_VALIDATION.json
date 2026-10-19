@@ -1,0 +1,28 @@
+{
+  "first": [
+    41,
+    70,
+    149,
+    255
+  ],
+  "second": [
+    42,
+    71,
+    150,
+    255
+  ],
+  "status": {
+    "shader": "Pokemon/SampleWater",
+    "sourceBundle": "ae65c719f3f4998cbc93a9fa20bb54b7",
+    "depthFrames": 2,
+    "instancedWaterCount": 1,
+    "textures": [
+      "_Normal2",
+      "_WaterNormal"
+    ],
+    "scope": "Original GLES fragment; Three.js coordinate/depth bridge; existing scene lighting"
+  },
+  "pageErrors": [],
+  "sourceModel": "e1476ae351dec682f4304a23e87ad1a7",
+  "fixture": "Actual source water geometry translated to x=24000 with original world scale16; GPU pixel readback"
+}

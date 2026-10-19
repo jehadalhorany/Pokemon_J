@@ -1,0 +1,3654 @@
+{
+  "auditedEntrances": 521,
+  "unnamed": 0,
+  "physicalDoorTest": 6110201,
+  "records": [
+    {
+      "npc": 6400101,
+      "sourceArea": 4001,
+      "spawn": 7480101,
+      "destination": 4801,
+      "name": "Hoenn Home"
+    },
+    {
+      "npc": 6400103,
+      "sourceArea": 4001,
+      "spawn": 7480301,
+      "destination": 4803,
+      "name": "May Home"
+    },
+    {
+      "npc": 6400102,
+      "sourceArea": 4001,
+      "spawn": 7480201,
+      "destination": 4802,
+      "name": "Laboratory"
+    },
+    {
+      "npc": 6400201,
+      "sourceArea": 4002,
+      "spawn": 7440101,
+      "destination": 4401,
+      "name": "Oldale Poké centre"
+    },
+    {
+      "npc": 6400204,
+      "sourceArea": 4002,
+      "spawn": 7480501,
+      "destination": 4805,
+      "name": "Oldale Room 2"
+    },
+    {
+      "npc": 6400203,
+      "sourceArea": 4002,
+      "spawn": 7450101,
+      "destination": 4501,
+      "name": "Oldale Poké mart"
+    },
+    {
+      "npc": 6400202,
+      "sourceArea": 4002,
+      "spawn": 7480401,
+      "destination": 4804,
+      "name": "Oldale Room 1"
+    },
+    {
+      "npc": 6400301,
+      "sourceArea": 4003,
+      "spawn": 7440201,
+      "destination": 4402,
+      "name": "Petalburg Poké centre"
+    },
+    {
+      "npc": 6400302,
+      "sourceArea": 4003,
+      "spawn": 7480601,
+      "destination": 4806,
+      "name": "Petalburg Room 1"
+    },
+    {
+      "npc": 6400303,
+      "sourceArea": 4003,
+      "spawn": 7480701,
+      "destination": 4807,
+      "name": "Petalburg Room 2"
+    },
+    {
+      "npc": 6400304,
+      "sourceArea": 4003,
+      "spawn": 7480801,
+      "destination": 4808,
+      "name": "Wally Room"
+    },
+    {
+      "npc": 6400305,
+      "sourceArea": 4003,
+      "spawn": 7460101,
+      "destination": 4601,
+      "name": "Petalburg Gym"
+    },
+    {
+      "npc": 6400306,
+      "sourceArea": 4003,
+      "spawn": 7450201,
+      "destination": 4502,
+      "name": "Petalburg Poké mart"
+    },
+    {
+      "npc": 6400601,
+      "sourceArea": 4006,
+      "spawn": 7440501,
+      "destination": 4405,
+      "name": "Slateport Poké centre"
+    },
+    {
+      "npc": 6400602,
+      "sourceArea": 4006,
+      "spawn": 7450401,
+      "destination": 4504,
+      "name": "Slateport Poké mart"
+    },
+    {
+      "npc": 6400608,
+      "sourceArea": 4006,
+      "spawn": 7483101,
+      "destination": 4831,
+      "name": "The Pokemon Club"
+    },
+    {
+      "npc": 6400609,
+      "sourceArea": 4006,
+      "spawn": 7483201,
+      "destination": 4832,
+      "name": "Soothsayer's hut"
+    },
+    {
+      "npc": 6400606,
+      "sourceArea": 4006,
+      "spawn": 7483001,
+      "destination": 4830,
+      "name": "Kaina port"
+    },
+    {
+      "npc": 6400605,
+      "sourceArea": 4006,
+      "spawn": 7482801,
+      "destination": 4828,
+      "name": "Marine Museum 1F"
+    },
+    {
+      "npc": 6400604,
+      "sourceArea": 4006,
+      "spawn": 7482601,
+      "destination": 4826,
+      "name": "Nanmu Shipyard 1F"
+    },
+    {
+      "npc": 6400603,
+      "sourceArea": 4006,
+      "spawn": 7482501,
+      "destination": 4825,
+      "name": "Huysen family"
+    },
+    {
+      "npc": 6400501,
+      "sourceArea": 4005,
+      "spawn": 7440401,
+      "destination": 4404,
+      "name": "Dewford Poké centre"
+    },
+    {
+      "npc": 6400502,
+      "sourceArea": 4005,
+      "spawn": 7482201,
+      "destination": 4822,
+      "name": "Wudou Town Hall"
+    },
+    {
+      "npc": 6400503,
+      "sourceArea": 4005,
+      "spawn": 7482301,
+      "destination": 4823,
+      "name": "Wudou Hut 1"
+    },
+    {
+      "npc": 6400505,
+      "sourceArea": 4005,
+      "spawn": 7460301,
+      "destination": 4603,
+      "name": "Dewford Gym"
+    },
+    {
+      "npc": 6400504,
+      "sourceArea": 4005,
+      "spawn": 7482401,
+      "destination": 4824,
+      "name": "Wudou Hut 2"
+    },
+    {
+      "npc": 6400701,
+      "sourceArea": 4007,
+      "spawn": 7440601,
+      "destination": 4406,
+      "name": "Mauville Poké centre"
+    },
+    {
+      "npc": 6400702,
+      "sourceArea": 4007,
+      "spawn": 7450501,
+      "destination": 4505,
+      "name": "Mauville Poké mart"
+    },
+    {
+      "npc": 6400703,
+      "sourceArea": 4007,
+      "spawn": 7483401,
+      "destination": 4834,
+      "name": "Nana's home"
+    },
+    {
+      "npc": 6400704,
+      "sourceArea": 4007,
+      "spawn": 7483501,
+      "destination": 4835,
+      "name": "Violet cottage"
+    },
+    {
+      "npc": 6400706,
+      "sourceArea": 4007,
+      "spawn": 7483701,
+      "destination": 4837,
+      "name": "The Corydalis Game City"
+    },
+    {
+      "npc": 6400707,
+      "sourceArea": 4007,
+      "spawn": 7460401,
+      "destination": 4604,
+      "name": "Mauville Gym"
+    },
+    {
+      "npc": 6400705,
+      "sourceArea": 4007,
+      "spawn": 7483601,
+      "destination": 4836,
+      "name": "Wind speed bike shop"
+    },
+    {
+      "npc": 6400801,
+      "sourceArea": 4008,
+      "spawn": 7440701,
+      "destination": 4407,
+      "name": "Verdanturf Poké centre"
+    },
+    {
+      "npc": 6400802,
+      "sourceArea": 4008,
+      "spawn": 7450601,
+      "destination": 4506,
+      "name": "Verdanturf Poké mart"
+    },
+    {
+      "npc": 6400803,
+      "sourceArea": 4008,
+      "spawn": 7483801,
+      "destination": 4838,
+      "name": "Green Cottage 1"
+    },
+    {
+      "npc": 6400804,
+      "sourceArea": 4008,
+      "spawn": 7483901,
+      "destination": 4839,
+      "name": "Manying Home"
+    },
+    {
+      "npc": 6400805,
+      "sourceArea": 4008,
+      "spawn": 7484001,
+      "destination": 4840,
+      "name": "Green Cottage 2"
+    },
+    {
+      "npc": 6400807,
+      "sourceArea": 4008,
+      "spawn": 7420203,
+      "destination": 4202,
+      "name": "Rusturf Tunnel"
+    },
+    {
+      "npc": 6400901,
+      "sourceArea": 4009,
+      "spawn": 7440801,
+      "destination": 4408,
+      "name": "Fallarbor Poké centre"
+    },
+    {
+      "npc": 6400902,
+      "sourceArea": 4009,
+      "spawn": 7450701,
+      "destination": 4507,
+      "name": "Fallarbor Poké mart"
+    },
+    {
+      "npc": 6400904,
+      "sourceArea": 4009,
+      "spawn": 7484301,
+      "destination": 4843,
+      "name": "Dr. Solance's house"
+    },
+    {
+      "npc": 6400903,
+      "sourceArea": 4009,
+      "spawn": 7484201,
+      "destination": 4842,
+      "name": "Autumn leaf cottage"
+    },
+    {
+      "npc": 6401001,
+      "sourceArea": 4010,
+      "spawn": 7440901,
+      "destination": 4409,
+      "name": "Lavaridge Poké centre"
+    },
+    {
+      "npc": 6401002,
+      "sourceArea": 4010,
+      "spawn": 7450801,
+      "destination": 4508,
+      "name": "Lavaridge Poké mart"
+    },
+    {
+      "npc": 6401004,
+      "sourceArea": 4010,
+      "spawn": 7484501,
+      "destination": 4845,
+      "name": "Kettle hut"
+    },
+    {
+      "npc": 6401003,
+      "sourceArea": 4010,
+      "spawn": 7450901,
+      "destination": 4509,
+      "name": "Herb Shop"
+    },
+    {
+      "npc": 6401005,
+      "sourceArea": 4010,
+      "spawn": 7460501,
+      "destination": 4605,
+      "name": "Lavaridge Gym"
+    },
+    {
+      "npc": 6401101,
+      "sourceArea": 4011,
+      "spawn": 7441001,
+      "destination": 4410,
+      "name": "Fortree Poké centre"
+    },
+    {
+      "npc": 6401102,
+      "sourceArea": 4011,
+      "spawn": 7451001,
+      "destination": 4510,
+      "name": "Fortree Poké mart"
+    },
+    {
+      "npc": 6401103,
+      "sourceArea": 4011,
+      "spawn": 7484601,
+      "destination": 4846,
+      "name": "Tree House 1"
+    },
+    {
+      "npc": 6401104,
+      "sourceArea": 4011,
+      "spawn": 7484701,
+      "destination": 4847,
+      "name": "Tree House 2"
+    },
+    {
+      "npc": 6401105,
+      "sourceArea": 4011,
+      "spawn": 7484801,
+      "destination": 4848,
+      "name": "Tree House 3"
+    },
+    {
+      "npc": 6401106,
+      "sourceArea": 4011,
+      "spawn": 7484901,
+      "destination": 4849,
+      "name": "Tree House 4"
+    },
+    {
+      "npc": 6401108,
+      "sourceArea": 4011,
+      "spawn": 7485101,
+      "destination": 4851,
+      "name": "Tree House 6"
+    },
+    {
+      "npc": 6401107,
+      "sourceArea": 4011,
+      "spawn": 7485001,
+      "destination": 4850,
+      "name": "Tree House 5"
+    },
+    {
+      "npc": 6401109,
+      "sourceArea": 4011,
+      "spawn": 7460601,
+      "destination": 4606,
+      "name": "Fortree Gym"
+    },
+    {
+      "npc": 6401201,
+      "sourceArea": 4012,
+      "spawn": 7441101,
+      "destination": 4411,
+      "name": "Lilycove Poké centre"
+    },
+    {
+      "npc": 6401202,
+      "sourceArea": 4012,
+      "spawn": 7451101,
+      "destination": 4511,
+      "name": "Lilycove Store 1F"
+    },
+    {
+      "npc": 6401203,
+      "sourceArea": 4012,
+      "spawn": 7485201,
+      "destination": 4852,
+      "name": "Shui Jing Art Museum 1F"
+    },
+    {
+      "npc": 6401204,
+      "sourceArea": 4012,
+      "spawn": 7485401,
+      "destination": 4854,
+      "name": "Hydrostatic Cabin 1"
+    },
+    {
+      "npc": 6401205,
+      "sourceArea": 4012,
+      "spawn": 7485501,
+      "destination": 4855,
+      "name": "Hydrostatic Cabin 2"
+    },
+    {
+      "npc": 6401206,
+      "sourceArea": 4012,
+      "spawn": 7485601,
+      "destination": 4856,
+      "name": "Hydrostatic Cabin 3"
+    },
+    {
+      "npc": 6401207,
+      "sourceArea": 4012,
+      "spawn": 7485701,
+      "destination": 4857,
+      "name": "Hydrostatic Cabin 4"
+    },
+    {
+      "npc": 6401208,
+      "sourceArea": 4012,
+      "spawn": 7485801,
+      "destination": 4858,
+      "name": "Hydrostatic Cabin 5"
+    },
+    {
+      "npc": 6401209,
+      "sourceArea": 4012,
+      "spawn": 7485901,
+      "destination": 4859,
+      "name": "Hydrostatic Treasure Dream Club"
+    },
+    {
+      "npc": 6401210,
+      "sourceArea": 4012,
+      "spawn": 7486001,
+      "destination": 4860,
+      "name": "Hydrostatic Inn 1F"
+    },
+    {
+      "npc": 6401211,
+      "sourceArea": 4012,
+      "spawn": 7486201,
+      "destination": 4862,
+      "name": "Hydrostatic port"
+    },
+    {
+      "npc": 6401213,
+      "sourceArea": 4012,
+      "spawn": 7423601,
+      "destination": 4236,
+      "name": "Marine Base 1F"
+    },
+    {
+      "npc": 6401301,
+      "sourceArea": 4013,
+      "spawn": 7441201,
+      "destination": 4412,
+      "name": "Mossdeep Poké centre"
+    },
+    {
+      "npc": 6401302,
+      "sourceArea": 4013,
+      "spawn": 7451301,
+      "destination": 4513,
+      "name": "Mossdeep Poké mart"
+    },
+    {
+      "npc": 6401303,
+      "sourceArea": 4013,
+      "spawn": 7486401,
+      "destination": 4864,
+      "name": "Green Ridge Space Center 1F"
+    },
+    {
+      "npc": 6401304,
+      "sourceArea": 4013,
+      "spawn": 7486601,
+      "destination": 4866,
+      "name": "Daigo"
+    },
+    {
+      "npc": 6401305,
+      "sourceArea": 4013,
+      "spawn": 7486701,
+      "destination": 4867,
+      "name": "Green Ridge Lodge 1"
+    },
+    {
+      "npc": 6401306,
+      "sourceArea": 4013,
+      "spawn": 7486801,
+      "destination": 4868,
+      "name": "Green Ridge Lodge 2"
+    },
+    {
+      "npc": 6401310,
+      "sourceArea": 4013,
+      "spawn": 7460701,
+      "destination": 4607,
+      "name": "Mossdeep Gym"
+    },
+    {
+      "npc": 6401307,
+      "sourceArea": 4013,
+      "spawn": 7486901,
+      "destination": 4869,
+      "name": "Green Ridge Lodge 3"
+    },
+    {
+      "npc": 6401308,
+      "sourceArea": 4013,
+      "spawn": 7487001,
+      "destination": 4870,
+      "name": "Green Ridge Lodge 4"
+    },
+    {
+      "npc": 6401501,
+      "sourceArea": 4015,
+      "spawn": 7441401,
+      "destination": 4414,
+      "name": "Pacifidlog Poké centre"
+    },
+    {
+      "npc": 6401502,
+      "sourceArea": 4015,
+      "spawn": 7488101,
+      "destination": 4881,
+      "name": "Twilight Water Hut 1"
+    },
+    {
+      "npc": 6401503,
+      "sourceArea": 4015,
+      "spawn": 7488201,
+      "destination": 4882,
+      "name": "Twilight Water Hut 2"
+    },
+    {
+      "npc": 6401504,
+      "sourceArea": 4015,
+      "spawn": 7488301,
+      "destination": 4883,
+      "name": "Twilight Water Hut 3"
+    },
+    {
+      "npc": 6401505,
+      "sourceArea": 4015,
+      "spawn": 7488401,
+      "destination": 4884,
+      "name": "Twilight Water Hut 4"
+    },
+    {
+      "npc": 6401506,
+      "sourceArea": 4015,
+      "spawn": 7488501,
+      "destination": 4885,
+      "name": "Twilight Water Hut 5"
+    },
+    {
+      "npc": 6412401,
+      "sourceArea": 4124,
+      "spawn": 7490101,
+      "destination": 4901,
+      "name": "Treasure cabin"
+    },
+    {
+      "npc": 6410404,
+      "sourceArea": 4104,
+      "spawn": 7488601,
+      "destination": 4886,
+      "name": "Hutch family"
+    },
+    {
+      "npc": 6410402,
+      "sourceArea": 4104,
+      "spawn": 7420102,
+      "destination": 4201,
+      "name": "Petalburg Woods"
+    },
+    {
+      "npc": 6410401,
+      "sourceArea": 4104,
+      "spawn": 7420101,
+      "destination": 4201,
+      "name": "Petalburg Woods"
+    },
+    {
+      "npc": 6410403,
+      "sourceArea": 4104,
+      "spawn": 7420103,
+      "destination": 4201,
+      "name": "Petalburg Woods"
+    },
+    {
+      "npc": 6410405,
+      "sourceArea": 4104,
+      "spawn": 7488701,
+      "destination": 4887,
+      "name": "SAN Orange Flower Shop"
+    },
+    {
+      "npc": 6400402,
+      "sourceArea": 4004,
+      "spawn": 7440301,
+      "destination": 4403,
+      "name": "Rustboro Poké centre"
+    },
+    {
+      "npc": 6400401,
+      "sourceArea": 4004,
+      "spawn": 7450301,
+      "destination": 4503,
+      "name": "Rustboro Poké mart"
+    },
+    {
+      "npc": 6400403,
+      "sourceArea": 4004,
+      "spawn": 7480901,
+      "destination": 4809,
+      "name": "Rustboro House 1F"
+    },
+    {
+      "npc": 6400404,
+      "sourceArea": 4004,
+      "spawn": 7481201,
+      "destination": 4812,
+      "name": "Bisharp  Room"
+    },
+    {
+      "npc": 6400405,
+      "sourceArea": 4004,
+      "spawn": 7481301,
+      "destination": 4813,
+      "name": "Box God House -1F"
+    },
+    {
+      "npc": 6400406,
+      "sourceArea": 4004,
+      "spawn": 7481501,
+      "destination": 4815,
+      "name": "Devon Corporation. -1F"
+    },
+    {
+      "npc": 6400411,
+      "sourceArea": 4004,
+      "spawn": 7460201,
+      "destination": 4602,
+      "name": "Rustboro Gym"
+    },
+    {
+      "npc": 6400407,
+      "sourceArea": 4004,
+      "spawn": 7481801,
+      "destination": 4818,
+      "name": "Xiao Jia"
+    },
+    {
+      "npc": 6400408,
+      "sourceArea": 4004,
+      "spawn": 7481901,
+      "destination": 4819,
+      "name": "Maureen family"
+    },
+    {
+      "npc": 6400409,
+      "sourceArea": 4004,
+      "spawn": 7482001,
+      "destination": 4820,
+      "name": "Kanaz Trainer Academy"
+    },
+    {
+      "npc": 6400410,
+      "sourceArea": 4004,
+      "spawn": 7482101,
+      "destination": 4821,
+      "name": "Vinson family"
+    },
+    {
+      "npc": 6411603,
+      "sourceArea": 4116,
+      "spawn": 7489701,
+      "destination": 4897,
+      "name": "Factory hut"
+    },
+    {
+      "npc": 6411601,
+      "sourceArea": 4116,
+      "spawn": 7420201,
+      "destination": 4202,
+      "name": "Rusturf Tunnel"
+    },
+    {
+      "npc": 6411602,
+      "sourceArea": 4116,
+      "spawn": 7420202,
+      "destination": 4202,
+      "name": "Rusturf Tunnel"
+    },
+    {
+      "npc": 6410601,
+      "sourceArea": 4106,
+      "spawn": 7420301,
+      "destination": 4203,
+      "name": "Granite Cave"
+    },
+    {
+      "npc": 6410901,
+      "sourceArea": 4109,
+      "spawn": 7488801,
+      "destination": 4888,
+      "name": "Beach hut"
+    },
+    {
+      "npc": 6411005,
+      "sourceArea": 4110,
+      "spawn": 7489101,
+      "destination": 4891,
+      "name": "Trick house"
+    },
+    {
+      "npc": 6411006,
+      "sourceArea": 4110,
+      "spawn": 7427701,
+      "destination": 4277,
+      "name": "New Mauville"
+    },
+    {
+      "npc": 6411701,
+      "sourceArea": 4117,
+      "spawn": 7489801,
+      "destination": 4898,
+      "name": "The Pokemon Nurturing House"
+    },
+    {
+      "npc": 6411101,
+      "sourceArea": 4111,
+      "spawn": 7489201,
+      "destination": 4892,
+      "name": "Streak Family Cottage"
+    },
+    {
+      "npc": 6411204,
+      "sourceArea": 4112,
+      "spawn": 7420903,
+      "destination": 4209,
+      "name": "Jagged Pass"
+    },
+    {
+      "npc": 6411201,
+      "sourceArea": 4112,
+      "spawn": 7420701,
+      "destination": 4207,
+      "name": "Fiery Path"
+    },
+    {
+      "npc": 6411203,
+      "sourceArea": 4112,
+      "spawn": 7420801,
+      "destination": 4208,
+      "name": "Mt. Chimney"
+    },
+    {
+      "npc": 6411202,
+      "sourceArea": 4112,
+      "spawn": 7420702,
+      "destination": 4207,
+      "name": "Fiery Path"
+    },
+    {
+      "npc": 6411401,
+      "sourceArea": 4114,
+      "spawn": 7489501,
+      "destination": 4895,
+      "name": "Fossil mania house"
+    },
+    {
+      "npc": 6411402,
+      "sourceArea": 4114,
+      "spawn": 7489601,
+      "destination": 4896,
+      "name": "Mayumi's home"
+    },
+    {
+      "npc": 6411403,
+      "sourceArea": 4114,
+      "spawn": 7422201,
+      "destination": 4222,
+      "name": "Meteor falls"
+    },
+    {
+      "npc": 6411301,
+      "sourceArea": 4113,
+      "spawn": 7489401,
+      "destination": 4894,
+      "name": "Glass workshop"
+    },
+    {
+      "npc": 6411501,
+      "sourceArea": 4115,
+      "spawn": 7422202,
+      "destination": 4222,
+      "name": "Meteor falls"
+    },
+    {
+      "npc": 6412301,
+      "sourceArea": 4123,
+      "spawn": 7490001,
+      "destination": 4900,
+      "name": "Fruit hut"
+    },
+    {
+      "npc": 6411901,
+      "sourceArea": 4119,
+      "spawn": 7489901,
+      "destination": 4899,
+      "name": "The Longwing Gull cabin"
+    },
+    {
+      "npc": 6411902,
+      "sourceArea": 4119,
+      "spawn": 7427501,
+      "destination": 4275,
+      "name": "Weather Institute 1F"
+    },
+    {
+      "npc": 6412101,
+      "sourceArea": 4121,
+      "spawn": 7422701,
+      "destination": 4227,
+      "name": "Safari Zone Hoenn"
+    },
+    {
+      "npc": 6412201,
+      "sourceArea": 4122,
+      "spawn": 7422801,
+      "destination": 4228,
+      "name": "Mt. Pyre 1"
+    },
+    {
+      "npc": 6412501,
+      "sourceArea": 4125,
+      "spawn": 7424001,
+      "destination": 4240,
+      "name": "Shoal Cave - Entrance"
+    },
+    {
+      "npc": 6235601,
+      "sourceArea": 41112,
+      "spawn": 7421801,
+      "destination": 4218,
+      "name": "Mirage Tower 1F"
+    },
+    {
+      "npc": 6401601,
+      "sourceArea": 4016,
+      "spawn": 7441501,
+      "destination": 4415,
+      "name": "Ever Grande Poké centre"
+    },
+    {
+      "npc": 6401602,
+      "sourceArea": 4016,
+      "spawn": 7426401,
+      "destination": 4264,
+      "name": "Victory Road 1F"
+    },
+    {
+      "npc": 6401603,
+      "sourceArea": 4016,
+      "spawn": 7426402,
+      "destination": 4264,
+      "name": "Victory Road 1F"
+    },
+    {
+      "npc": 6411102,
+      "sourceArea": 41115,
+      "spawn": 7489301,
+      "destination": 4893,
+      "name": "Jan-kang's grandma's house"
+    },
+    {
+      "npc": 6401604,
+      "sourceArea": 40161,
+      "spawn": 7441601,
+      "destination": 4416,
+      "name": "Hoenn Poké mart"
+    },
+    {
+      "npc": 6210101,
+      "sourceArea": 2101,
+      "spawn": 7280101,
+      "destination": 2801,
+      "name": "Trainers' home"
+    },
+    {
+      "npc": 6210102,
+      "sourceArea": 2101,
+      "spawn": 7280201,
+      "destination": 2802,
+      "name": "Professor Elm's laboratory"
+    },
+    {
+      "npc": 6210103,
+      "sourceArea": 2101,
+      "spawn": 7280301,
+      "destination": 2803,
+      "name": "Lyra' home"
+    },
+    {
+      "npc": 6210104,
+      "sourceArea": 2101,
+      "spawn": 7280401,
+      "destination": 2804,
+      "name": "Xiaopang' home"
+    },
+    {
+      "npc": 6210201,
+      "sourceArea": 2102,
+      "spawn": 7280501,
+      "destination": 2805,
+      "name": "Cherrygrove cottage1"
+    },
+    {
+      "npc": 6210202,
+      "sourceArea": 2102,
+      "spawn": 7280601,
+      "destination": 2806,
+      "name": "Cherrygrove cottage2"
+    },
+    {
+      "npc": 6210203,
+      "sourceArea": 2102,
+      "spawn": 7280701,
+      "destination": 2807,
+      "name": "Cherrygrove cottage3"
+    },
+    {
+      "npc": 6210204,
+      "sourceArea": 2102,
+      "spawn": 7240101,
+      "destination": 2401,
+      "name": "Cherrygrove Poké centre"
+    },
+    {
+      "npc": 6210205,
+      "sourceArea": 2102,
+      "spawn": 7250101,
+      "destination": 2501,
+      "name": "Cherrygrove Poké mart"
+    },
+    {
+      "npc": 6210301,
+      "sourceArea": 2103,
+      "spawn": 7281001,
+      "destination": 2810,
+      "name": "Trainers' School"
+    },
+    {
+      "npc": 6210302,
+      "sourceArea": 2103,
+      "spawn": 7281101,
+      "destination": 2811,
+      "name": "Violet cottage11"
+    },
+    {
+      "npc": 6210303,
+      "sourceArea": 2103,
+      "spawn": 7281201,
+      "destination": 2812,
+      "name": "Violet cottage12"
+    },
+    {
+      "npc": 6210304,
+      "sourceArea": 2103,
+      "spawn": 7260101,
+      "destination": 2601,
+      "name": "Violet Poké Gym"
+    },
+    {
+      "npc": 6210305,
+      "sourceArea": 2103,
+      "spawn": 7230301,
+      "destination": 2303,
+      "name": "Sprout Tower 1F"
+    },
+    {
+      "npc": 6210306,
+      "sourceArea": 2103,
+      "spawn": 7250201,
+      "destination": 2502,
+      "name": "Violet Poké mart"
+    },
+    {
+      "npc": 6210307,
+      "sourceArea": 2103,
+      "spawn": 7240201,
+      "destination": 2402,
+      "name": "Violet Poké centre"
+    },
+    {
+      "npc": 6210308,
+      "sourceArea": 2103,
+      "spawn": 7223102,
+      "destination": 2231,
+      "name": "Route 31"
+    },
+    {
+      "npc": 6210308,
+      "sourceArea": 2103,
+      "spawn": 7223102,
+      "destination": 2231,
+      "name": "Route 31"
+    },
+    {
+      "npc": 6210309,
+      "sourceArea": 2103,
+      "spawn": 7223601,
+      "destination": 2236,
+      "name": "Route 36"
+    },
+    {
+      "npc": 6210309,
+      "sourceArea": 2103,
+      "spawn": 7223601,
+      "destination": 2236,
+      "name": "Route 36"
+    },
+    {
+      "npc": 6210401,
+      "sourceArea": 2104,
+      "spawn": 7281301,
+      "destination": 2813,
+      "name": "Yantie' home"
+    },
+    {
+      "npc": 6210402,
+      "sourceArea": 2104,
+      "spawn": 7281401,
+      "destination": 2814,
+      "name": "chark' home"
+    },
+    {
+      "npc": 6210403,
+      "sourceArea": 2104,
+      "spawn": 7260201,
+      "destination": 2602,
+      "name": "Azalea Poké Gym"
+    },
+    {
+      "npc": 6210404,
+      "sourceArea": 2104,
+      "spawn": 7250301,
+      "destination": 2503,
+      "name": "Azalea Poké mart"
+    },
+    {
+      "npc": 6210405,
+      "sourceArea": 2104,
+      "spawn": 7240301,
+      "destination": 2403,
+      "name": "Azalea Poké centre"
+    },
+    {
+      "npc": 6210406,
+      "sourceArea": 2104,
+      "spawn": 7233901,
+      "destination": 2339,
+      "name": "Slowpoke Well B1F"
+    },
+    {
+      "npc": 6210501,
+      "sourceArea": 2105,
+      "spawn": 7281601,
+      "destination": 2816,
+      "name": "Goldenrod Game Corner"
+    },
+    {
+      "npc": 6210502,
+      "sourceArea": 2105,
+      "spawn": 7281701,
+      "destination": 2817,
+      "name": "Goldenrod Bicycle shop"
+    },
+    {
+      "npc": 6210503,
+      "sourceArea": 2105,
+      "spawn": 7281801,
+      "destination": 2818,
+      "name": "Right cottage"
+    },
+    {
+      "npc": 6210505,
+      "sourceArea": 2105,
+      "spawn": 7282001,
+      "destination": 2820,
+      "name": "Left cottage"
+    },
+    {
+      "npc": 6210506,
+      "sourceArea": 2105,
+      "spawn": 7282101,
+      "destination": 2821,
+      "name": "Right up cottage"
+    },
+    {
+      "npc": 6210507,
+      "sourceArea": 2105,
+      "spawn": 7282201,
+      "destination": 2822,
+      "name": "Goldenrod Flower shop"
+    },
+    {
+      "npc": 6210508,
+      "sourceArea": 2105,
+      "spawn": 7282301,
+      "destination": 2823,
+      "name": "fortune-teller tent"
+    },
+    {
+      "npc": 6210509,
+      "sourceArea": 2105,
+      "spawn": 7250401,
+      "destination": 2504,
+      "name": "Goldenrod Poké mart"
+    },
+    {
+      "npc": 6210510,
+      "sourceArea": 2105,
+      "spawn": 7240401,
+      "destination": 2404,
+      "name": "Goldenrod Poké centre"
+    },
+    {
+      "npc": 6210511,
+      "sourceArea": 2105,
+      "spawn": 7260301,
+      "destination": 2603,
+      "name": "Goldenrod Poké Gym"
+    },
+    {
+      "npc": 6210512,
+      "sourceArea": 2105,
+      "spawn": 7234101,
+      "destination": 2341,
+      "name": "Radio Tower 1F"
+    },
+    {
+      "npc": 6210513,
+      "sourceArea": 2105,
+      "spawn": 7285001,
+      "destination": 2850,
+      "name": "Goldenrod Tunnel"
+    },
+    {
+      "npc": 6210514,
+      "sourceArea": 2105,
+      "spawn": 7285002,
+      "destination": 2850,
+      "name": "Goldenrod Tunnel"
+    },
+    {
+      "npc": 6210515,
+      "sourceArea": 2105,
+      "spawn": 7223501,
+      "destination": 2235,
+      "name": "Route 35"
+    },
+    {
+      "npc": 6210515,
+      "sourceArea": 2105,
+      "spawn": 7223501,
+      "destination": 2235,
+      "name": "Route 35"
+    },
+    {
+      "npc": 6210601,
+      "sourceArea": 2106,
+      "spawn": 7282401,
+      "destination": 2824,
+      "name": "Kabuki Hall"
+    },
+    {
+      "npc": 6210602,
+      "sourceArea": 2106,
+      "spawn": 7282501,
+      "destination": 2825,
+      "name": "Treasure hunter's home"
+    },
+    {
+      "npc": 6210603,
+      "sourceArea": 2106,
+      "spawn": 7282601,
+      "destination": 2826,
+      "name": "Bell cottage"
+    },
+    {
+      "npc": 6210604,
+      "sourceArea": 2106,
+      "spawn": 7240501,
+      "destination": 2405,
+      "name": "Ecruteak Poké centre"
+    },
+    {
+      "npc": 6210605,
+      "sourceArea": 2106,
+      "spawn": 7250501,
+      "destination": 2505,
+      "name": "Ecruteak Poké mart"
+    },
+    {
+      "npc": 6210606,
+      "sourceArea": 2106,
+      "spawn": 7260401,
+      "destination": 2604,
+      "name": "Ecruteak Poké Gym"
+    },
+    {
+      "npc": 6210607,
+      "sourceArea": 2106,
+      "spawn": 7232001,
+      "destination": 2320,
+      "name": "Burned Tower"
+    },
+    {
+      "npc": 6210611,
+      "sourceArea": 2106,
+      "spawn": 7223801,
+      "destination": 2238,
+      "name": "Route 38"
+    },
+    {
+      "npc": 6210611,
+      "sourceArea": 2106,
+      "spawn": 7223801,
+      "destination": 2238,
+      "name": "Route 38"
+    },
+    {
+      "npc": 6210610,
+      "sourceArea": 2106,
+      "spawn": 7224201,
+      "destination": 2242,
+      "name": "Route 42"
+    },
+    {
+      "npc": 6210610,
+      "sourceArea": 2106,
+      "spawn": 7224201,
+      "destination": 2242,
+      "name": "Route 42"
+    },
+    {
+      "npc": 6210701,
+      "sourceArea": 2107,
+      "spawn": 7282801,
+      "destination": 2828,
+      "name": "The angler's home"
+    },
+    {
+      "npc": 6210702,
+      "sourceArea": 2107,
+      "spawn": 7282901,
+      "destination": 2829,
+      "name": "Olivine Mess hall"
+    },
+    {
+      "npc": 6210703,
+      "sourceArea": 2107,
+      "spawn": 7283001,
+      "destination": 2830,
+      "name": "Ledge cottage (left)"
+    },
+    {
+      "npc": 6210704,
+      "sourceArea": 2107,
+      "spawn": 7283101,
+      "destination": 2831,
+      "name": "Ledge cottage (right)"
+    },
+    {
+      "npc": 6210706,
+      "sourceArea": 2107,
+      "spawn": 7240601,
+      "destination": 2406,
+      "name": "Olivine Poké centre"
+    },
+    {
+      "npc": 6210707,
+      "sourceArea": 2107,
+      "spawn": 7250601,
+      "destination": 2506,
+      "name": "Olivine Poké mart"
+    },
+    {
+      "npc": 6210708,
+      "sourceArea": 2107,
+      "spawn": 7260601,
+      "destination": 2606,
+      "name": "Olivine Poké Gym"
+    },
+    {
+      "npc": 6210709,
+      "sourceArea": 2107,
+      "spawn": 7232101,
+      "destination": 2321,
+      "name": "Olivine Lighthouse 1F"
+    },
+    {
+      "npc": 6210801,
+      "sourceArea": 2108,
+      "spawn": 7283301,
+      "destination": 2833,
+      "name": "Left cottage"
+    },
+    {
+      "npc": 6210802,
+      "sourceArea": 2108,
+      "spawn": 7283401,
+      "destination": 2834,
+      "name": "Middle cottage"
+    },
+    {
+      "npc": 6210803,
+      "sourceArea": 2108,
+      "spawn": 7283501,
+      "destination": 2835,
+      "name": "Up cottage"
+    },
+    {
+      "npc": 6210804,
+      "sourceArea": 2108,
+      "spawn": 7283601,
+      "destination": 2836,
+      "name": "Left up cottage"
+    },
+    {
+      "npc": 6210805,
+      "sourceArea": 2108,
+      "spawn": 7240701,
+      "destination": 2407,
+      "name": "Cianwood Poké centre"
+    },
+    {
+      "npc": 6210806,
+      "sourceArea": 2108,
+      "spawn": 7250701,
+      "destination": 2507,
+      "name": "Herb cottage"
+    },
+    {
+      "npc": 6210807,
+      "sourceArea": 2108,
+      "spawn": 7260501,
+      "destination": 2605,
+      "name": "Cianwood Poké Gym"
+    },
+    {
+      "npc": 6210808,
+      "sourceArea": 2108,
+      "spawn": 7224701,
+      "destination": 2247,
+      "name": "Route 47"
+    },
+    {
+      "npc": 6210901,
+      "sourceArea": 2109,
+      "spawn": 7283701,
+      "destination": 2837,
+      "name": "Mahogany cottage1"
+    },
+    {
+      "npc": 6210902,
+      "sourceArea": 2109,
+      "spawn": 7240801,
+      "destination": 2408,
+      "name": "Mahogany Poké centre"
+    },
+    {
+      "npc": 6210903,
+      "sourceArea": 2109,
+      "spawn": 7260701,
+      "destination": 2607,
+      "name": "Mahogany Poké Gym"
+    },
+    {
+      "npc": 6210904,
+      "sourceArea": 2109,
+      "spawn": 7250801,
+      "destination": 2508,
+      "name": "Mahogany Poké mart"
+    },
+    {
+      "npc": 6210905,
+      "sourceArea": 2109,
+      "spawn": 7224301,
+      "destination": 2243,
+      "name": "Route 43"
+    },
+    {
+      "npc": 6210905,
+      "sourceArea": 2109,
+      "spawn": 7224301,
+      "destination": 2243,
+      "name": "Route 43"
+    },
+    {
+      "npc": 6211001,
+      "sourceArea": 2110,
+      "spawn": 7284001,
+      "destination": 2840,
+      "name": "Skill house"
+    },
+    {
+      "npc": 6211002,
+      "sourceArea": 2110,
+      "spawn": 7284101,
+      "destination": 2841,
+      "name": "Blackthorn cottage1"
+    },
+    {
+      "npc": 6211003,
+      "sourceArea": 2110,
+      "spawn": 7284201,
+      "destination": 2842,
+      "name": "Blackthorn cottage2"
+    },
+    {
+      "npc": 6211004,
+      "sourceArea": 2110,
+      "spawn": 7250901,
+      "destination": 2509,
+      "name": "Blackthorn Poké mart"
+    },
+    {
+      "npc": 6211005,
+      "sourceArea": 2110,
+      "spawn": 7240901,
+      "destination": 2409,
+      "name": "Blackthorn Poké centre"
+    },
+    {
+      "npc": 6211006,
+      "sourceArea": 2110,
+      "spawn": 7234401,
+      "destination": 2344,
+      "name": "Dragon's Den"
+    },
+    {
+      "npc": 6211007,
+      "sourceArea": 2110,
+      "spawn": 7233204,
+      "destination": 2332,
+      "name": "Ice Path 1F"
+    },
+    {
+      "npc": 6211008,
+      "sourceArea": 2110,
+      "spawn": 7260801,
+      "destination": 2608,
+      "name": "Blackthorn Poké Gym"
+    },
+    {
+      "npc": 6211101,
+      "sourceArea": 2111,
+      "spawn": 7223602,
+      "destination": 2236,
+      "name": "Route 36"
+    },
+    {
+      "npc": 6211101,
+      "sourceArea": 2111,
+      "spawn": 7223602,
+      "destination": 2236,
+      "name": "Route 36"
+    },
+    {
+      "npc": 6211102,
+      "sourceArea": 2111,
+      "spawn": 7223201,
+      "destination": 2232,
+      "name": "Route 32"
+    },
+    {
+      "npc": 6211102,
+      "sourceArea": 2111,
+      "spawn": 7223201,
+      "destination": 2232,
+      "name": "Route 32"
+    },
+    {
+      "npc": 6211103,
+      "sourceArea": 2111,
+      "spawn": 7230705,
+      "destination": 2307,
+      "name": "Union Cave B1F"
+    },
+    {
+      "npc": 6211104,
+      "sourceArea": 2111,
+      "spawn": 7230704,
+      "destination": 2307,
+      "name": "Union Cave B1F"
+    },
+    {
+      "npc": 6211105,
+      "sourceArea": 2111,
+      "spawn": 7237501,
+      "destination": 2375,
+      "name": "Ruins of Alph Stone chamber"
+    },
+    {
+      "npc": 6211106,
+      "sourceArea": 2111,
+      "spawn": 7285601,
+      "destination": 2856,
+      "name": "Deciphering chamber1"
+    },
+    {
+      "npc": 6211107,
+      "sourceArea": 2111,
+      "spawn": 7285701,
+      "destination": 2857,
+      "name": "Deciphering chamber2"
+    },
+    {
+      "npc": 6211108,
+      "sourceArea": 2111,
+      "spawn": 7285801,
+      "destination": 2858,
+      "name": "Deciphering chamber3"
+    },
+    {
+      "npc": 6211109,
+      "sourceArea": 2111,
+      "spawn": 7285901,
+      "destination": 2859,
+      "name": "Deciphering chamber4"
+    },
+    {
+      "npc": 6211110,
+      "sourceArea": 2111,
+      "spawn": 7285501,
+      "destination": 2855,
+      "name": "Ruin's laboratory"
+    },
+    {
+      "npc": 6221201,
+      "sourceArea": 2112,
+      "spawn": 7223502,
+      "destination": 2235,
+      "name": "Route 35"
+    },
+    {
+      "npc": 6221202,
+      "sourceArea": 2112,
+      "spawn": 7223603,
+      "destination": 2236,
+      "name": "Route 36"
+    },
+    {
+      "npc": 6221202,
+      "sourceArea": 2112,
+      "spawn": 7223603,
+      "destination": 2236,
+      "name": "Route 36"
+    },
+    {
+      "npc": 6211302,
+      "sourceArea": 2113,
+      "spawn": 7223401,
+      "destination": 2234,
+      "name": "Route 34"
+    },
+    {
+      "npc": 6211302,
+      "sourceArea": 2113,
+      "spawn": 7223401,
+      "destination": 2234,
+      "name": "Route 34"
+    },
+    {
+      "npc": 6211402,
+      "sourceArea": 2114,
+      "spawn": 7241101,
+      "destination": 2411,
+      "name": "Mt. Silver Poké centre"
+    },
+    {
+      "npc": 6211401,
+      "sourceArea": 2114,
+      "spawn": 7236701,
+      "destination": 2367,
+      "name": "Mt. Silver 1F"
+    },
+    {
+      "npc": 6211501,
+      "sourceArea": 2115,
+      "spawn": 7283801,
+      "destination": 2838,
+      "name": "Lake of Rage cottage1"
+    },
+    {
+      "npc": 6211502,
+      "sourceArea": 2115,
+      "spawn": 7283901,
+      "destination": 2839,
+      "name": "Lake of Rage cottage2"
+    },
+    {
+      "npc": 6210609,
+      "sourceArea": 2116,
+      "spawn": 7230901,
+      "destination": 2309,
+      "name": "Bell Tower 1F"
+    },
+    {
+      "npc": 6510101,
+      "sourceArea": 5101,
+      "spawn": 7560101,
+      "destination": 5601,
+      "name": "The protagonist's house 1F"
+    },
+    {
+      "npc": 6510102,
+      "sourceArea": 5101,
+      "spawn": 7560301,
+      "destination": 5603,
+      "name": "Chubby's house"
+    },
+    {
+      "npc": 6510103,
+      "sourceArea": 5101,
+      "spawn": 7560401,
+      "destination": 5604,
+      "name": "Barry's house 1F"
+    },
+    {
+      "npc": 6510104,
+      "sourceArea": 5101,
+      "spawn": 7560601,
+      "destination": 5606,
+      "name": "Twinlife Cottage"
+    },
+    {
+      "npc": 6510201,
+      "sourceArea": 5102,
+      "spawn": 7560701,
+      "destination": 5607,
+      "name": "Rowan Institute"
+    },
+    {
+      "npc": 6510202,
+      "sourceArea": 5102,
+      "spawn": 7560801,
+      "destination": 5608,
+      "name": "Sanjam Cottage"
+    },
+    {
+      "npc": 6510203,
+      "sourceArea": 5102,
+      "spawn": 7560901,
+      "destination": 5609,
+      "name": "Lucas's home"
+    },
+    {
+      "npc": 6510204,
+      "sourceArea": 5102,
+      "spawn": 7540101,
+      "destination": 5401,
+      "name": "Sandgem Town Pokemon Centre"
+    },
+    {
+      "npc": 6510205,
+      "sourceArea": 5102,
+      "spawn": 7550101,
+      "destination": 5501,
+      "name": "Sandgem Town Poké Mart"
+    },
+    {
+      "npc": 6510301,
+      "sourceArea": 5103,
+      "spawn": 7561101,
+      "destination": 5611,
+      "name": "Jubilife Apartment 1-1F"
+    },
+    {
+      "npc": 6510302,
+      "sourceArea": 5103,
+      "spawn": 7561301,
+      "destination": 5613,
+      "name": "Jubilife Apartment 2-1F"
+    },
+    {
+      "npc": 6510303,
+      "sourceArea": 5103,
+      "spawn": 7561501,
+      "destination": 5615,
+      "name": "Jubilife Apartment 3-1F"
+    },
+    {
+      "npc": 6510304,
+      "sourceArea": 5103,
+      "spawn": 7561701,
+      "destination": 5617,
+      "name": "Trainers' School"
+    },
+    {
+      "npc": 6510305,
+      "sourceArea": 5103,
+      "spawn": 7561801,
+      "destination": 5618,
+      "name": "Jubilife TV 1F"
+    },
+    {
+      "npc": 6510306,
+      "sourceArea": 5103,
+      "spawn": 7562201,
+      "destination": 5622,
+      "name": "The Pokétch Company 1F"
+    },
+    {
+      "npc": 6510307,
+      "sourceArea": 5103,
+      "spawn": 7540201,
+      "destination": 5402,
+      "name": "Jubilife City Pokemon Centre"
+    },
+    {
+      "npc": 6510308,
+      "sourceArea": 5103,
+      "spawn": 7550201,
+      "destination": 5502,
+      "name": "Jubilife City Poké Mart"
+    },
+    {
+      "npc": 6510310,
+      "sourceArea": 5103,
+      "spawn": 7562202,
+      "destination": 5622,
+      "name": "The Pokétch Company 1F"
+    },
+    {
+      "npc": 6510401,
+      "sourceArea": 5104,
+      "spawn": 7562501,
+      "destination": 5625,
+      "name": "Oreburgh Apartments 1-1F"
+    },
+    {
+      "npc": 6510402,
+      "sourceArea": 5104,
+      "spawn": 7562701,
+      "destination": 5627,
+      "name": "Oreburgh Apartments 2-1F"
+    },
+    {
+      "npc": 6510403,
+      "sourceArea": 5104,
+      "spawn": 7562901,
+      "destination": 5629,
+      "name": "Oreburgh Apartments 3-1F"
+    },
+    {
+      "npc": 6510404,
+      "sourceArea": 5104,
+      "spawn": 7563101,
+      "destination": 5631,
+      "name": "Oreburgh Lodge 1"
+    },
+    {
+      "npc": 6510405,
+      "sourceArea": 5104,
+      "spawn": 7563201,
+      "destination": 5632,
+      "name": "Oreburgh Lodge 2"
+    },
+    {
+      "npc": 6510406,
+      "sourceArea": 5104,
+      "spawn": 7563301,
+      "destination": 5633,
+      "name": "Oreburgh Lodge 3"
+    },
+    {
+      "npc": 6510407,
+      "sourceArea": 5104,
+      "spawn": 7563401,
+      "destination": 5634,
+      "name": "Oreburgh Museum"
+    },
+    {
+      "npc": 6510408,
+      "sourceArea": 5104,
+      "spawn": 7540301,
+      "destination": 5403,
+      "name": "Oreburgh City Pokemon Centre"
+    },
+    {
+      "npc": 6510409,
+      "sourceArea": 5104,
+      "spawn": 7550301,
+      "destination": 5503,
+      "name": "Oreburgh City Poké Mart"
+    },
+    {
+      "npc": 6510410,
+      "sourceArea": 5104,
+      "spawn": 7530101,
+      "destination": 5301,
+      "name": "Oreburgh Gym"
+    },
+    {
+      "npc": 6510411,
+      "sourceArea": 5104,
+      "spawn": 7580602,
+      "destination": 5806,
+      "name": "Oreburgh Gate"
+    },
+    {
+      "npc": 6510412,
+      "sourceArea": 5104,
+      "spawn": 7580801,
+      "destination": 5808,
+      "name": "Oreburgh Mine"
+    },
+    {
+      "npc": 6510501,
+      "sourceArea": 5105,
+      "spawn": 7563501,
+      "destination": 5635,
+      "name": "Floaroma Cottage 1"
+    },
+    {
+      "npc": 6510502,
+      "sourceArea": 5105,
+      "spawn": 7563601,
+      "destination": 5636,
+      "name": "Floaroma Cottage 2"
+    },
+    {
+      "npc": 6510503,
+      "sourceArea": 5105,
+      "spawn": 7563701,
+      "destination": 5637,
+      "name": "Pick a Peck of Colors Flower Shop"
+    },
+    {
+      "npc": 6510504,
+      "sourceArea": 5105,
+      "spawn": 7540401,
+      "destination": 5404,
+      "name": "Floaroma Town Pokemon Centre"
+    },
+    {
+      "npc": 6510505,
+      "sourceArea": 5105,
+      "spawn": 7550401,
+      "destination": 5504,
+      "name": "Floaroma Town Poké Mart"
+    },
+    {
+      "npc": 6510506,
+      "sourceArea": 5105,
+      "spawn": 7581201,
+      "destination": 5812,
+      "name": "Floaroma Meadow"
+    },
+    {
+      "npc": 6510601,
+      "sourceArea": 5106,
+      "spawn": 7563801,
+      "destination": 5638,
+      "name": "Eterna Condominiums 1F"
+    },
+    {
+      "npc": 6510602,
+      "sourceArea": 5106,
+      "spawn": 7564101,
+      "destination": 5641,
+      "name": "Eterna Cottage 1"
+    },
+    {
+      "npc": 6510603,
+      "sourceArea": 5106,
+      "spawn": 7564201,
+      "destination": 5642,
+      "name": "Eterna Cottage 2"
+    },
+    {
+      "npc": 6510604,
+      "sourceArea": 5106,
+      "spawn": 7564301,
+      "destination": 5643,
+      "name": "Herb Shop"
+    },
+    {
+      "npc": 6510605,
+      "sourceArea": 5106,
+      "spawn": 7564401,
+      "destination": 5644,
+      "name": "Bicycle Shop"
+    },
+    {
+      "npc": 6510606,
+      "sourceArea": 5106,
+      "spawn": 7564501,
+      "destination": 5645,
+      "name": "Home of the Explorer"
+    },
+    {
+      "npc": 6510607,
+      "sourceArea": 5106,
+      "spawn": 7564601,
+      "destination": 5646,
+      "name": "Team Galactic Eterna Building 1F"
+    },
+    {
+      "npc": 6510608,
+      "sourceArea": 5106,
+      "spawn": 7540501,
+      "destination": 5405,
+      "name": "Eterna City Pokemon Centre"
+    },
+    {
+      "npc": 6510609,
+      "sourceArea": 5106,
+      "spawn": 7550501,
+      "destination": 5505,
+      "name": "Eterna City Poké Mart"
+    },
+    {
+      "npc": 6510610,
+      "sourceArea": 5106,
+      "spawn": 7530201,
+      "destination": 5302,
+      "name": "Eterna Gym"
+    },
+    {
+      "npc": 6510701,
+      "sourceArea": 5107,
+      "spawn": 7565001,
+      "destination": 5650,
+      "name": "Cross-cultural architecture"
+    },
+    {
+      "npc": 6510702,
+      "sourceArea": 5107,
+      "spawn": 7565101,
+      "destination": 5651,
+      "name": "Poffin Cottage"
+    },
+    {
+      "npc": 6510703,
+      "sourceArea": 5107,
+      "spawn": 7565201,
+      "destination": 5652,
+      "name": "Bebe's home"
+    },
+    {
+      "npc": 6510704,
+      "sourceArea": 5107,
+      "spawn": 7565301,
+      "destination": 5653,
+      "name": "Poké Fan"
+    },
+    {
+      "npc": 6510705,
+      "sourceArea": 5107,
+      "spawn": 7565401,
+      "destination": 5654,
+      "name": "Pokémon Hotel 1-1F"
+    },
+    {
+      "npc": 6510706,
+      "sourceArea": 5107,
+      "spawn": 7565601,
+      "destination": 5656,
+      "name": "Pokémon Hotel 2-1F"
+    },
+    {
+      "npc": 6510707,
+      "sourceArea": 5107,
+      "spawn": 7540601,
+      "destination": 5406,
+      "name": "Hearthome City Pokemon Centre"
+    },
+    {
+      "npc": 6510708,
+      "sourceArea": 5107,
+      "spawn": 7550601,
+      "destination": 5506,
+      "name": "Hearthome City Poké Mart"
+    },
+    {
+      "npc": 6510709,
+      "sourceArea": 5107,
+      "spawn": 7530301,
+      "destination": 5303,
+      "name": "Hearthome Gym"
+    },
+    {
+      "npc": 6510801,
+      "sourceArea": 5108,
+      "spawn": 7565801,
+      "destination": 5658,
+      "name": "Pokémon Day Care"
+    },
+    {
+      "npc": 6510802,
+      "sourceArea": 5108,
+      "spawn": 7565901,
+      "destination": 5659,
+      "name": "Pokémon News Press"
+    },
+    {
+      "npc": 6510803,
+      "sourceArea": 5108,
+      "spawn": 7566001,
+      "destination": 5660,
+      "name": "Solaceon Cottage 1"
+    },
+    {
+      "npc": 6510804,
+      "sourceArea": 5108,
+      "spawn": 7566101,
+      "destination": 5661,
+      "name": "Solaceon Cottage 2"
+    },
+    {
+      "npc": 6510805,
+      "sourceArea": 5108,
+      "spawn": 7566201,
+      "destination": 5662,
+      "name": "Solaceon Cottage 3"
+    },
+    {
+      "npc": 6510806,
+      "sourceArea": 5108,
+      "spawn": 7540701,
+      "destination": 5407,
+      "name": "Solaceon Town Pokemon Centre"
+    },
+    {
+      "npc": 6510807,
+      "sourceArea": 5108,
+      "spawn": 7550701,
+      "destination": 5507,
+      "name": "Solaceon Town Poké Mart"
+    },
+    {
+      "npc": 6510901,
+      "sourceArea": 5109,
+      "spawn": 7566301,
+      "destination": 5663,
+      "name": "Veilstone Cottage 1"
+    },
+    {
+      "npc": 6510902,
+      "sourceArea": 5109,
+      "spawn": 7566401,
+      "destination": 5664,
+      "name": "Veilstone Cottage 2"
+    },
+    {
+      "npc": 6510903,
+      "sourceArea": 5109,
+      "spawn": 7566501,
+      "destination": 5665,
+      "name": "Veilstone Cottage 3"
+    },
+    {
+      "npc": 6510904,
+      "sourceArea": 5109,
+      "spawn": 7566601,
+      "destination": 5666,
+      "name": "Veilstone Cottage 4"
+    },
+    {
+      "npc": 6510905,
+      "sourceArea": 5109,
+      "spawn": 7566701,
+      "destination": 5667,
+      "name": "Veilstone Game Corner"
+    },
+    {
+      "npc": 6510906,
+      "sourceArea": 5109,
+      "spawn": 7566801,
+      "destination": 5668,
+      "name": "Prize Clearinghouse"
+    },
+    {
+      "npc": 6510907,
+      "sourceArea": 5109,
+      "spawn": 7540801,
+      "destination": 5408,
+      "name": "Veilstone City Pokemon Centre"
+    },
+    {
+      "npc": 6510908,
+      "sourceArea": 5109,
+      "spawn": 7550801,
+      "destination": 5508,
+      "name": "Veilstone Department Store 1F"
+    },
+    {
+      "npc": 6510909,
+      "sourceArea": 5109,
+      "spawn": 7585101,
+      "destination": 5851,
+      "name": "Galactic Warehouse 1F"
+    },
+    {
+      "npc": 6510910,
+      "sourceArea": 5109,
+      "spawn": 7585401,
+      "destination": 5854,
+      "name": "Team Galactic HQ 1F"
+    },
+    {
+      "npc": 6510911,
+      "sourceArea": 5109,
+      "spawn": 7585402,
+      "destination": 5854,
+      "name": "Team Galactic HQ 1F"
+    },
+    {
+      "npc": 6510912,
+      "sourceArea": 5109,
+      "spawn": 7585403,
+      "destination": 5854,
+      "name": "Team Galactic HQ 1F"
+    },
+    {
+      "npc": 6510915,
+      "sourceArea": 5109,
+      "spawn": 7530401,
+      "destination": 5304,
+      "name": "Veilstone Gym"
+    },
+    {
+      "npc": 6511001,
+      "sourceArea": 5110,
+      "spawn": 7566901,
+      "destination": 5669,
+      "name": "Pastoria Cottage 1"
+    },
+    {
+      "npc": 6511002,
+      "sourceArea": 5110,
+      "spawn": 7567001,
+      "destination": 5670,
+      "name": "Pastoria Cottage 2"
+    },
+    {
+      "npc": 6511003,
+      "sourceArea": 5110,
+      "spawn": 7567101,
+      "destination": 5671,
+      "name": "Pastoria Cottage 3"
+    },
+    {
+      "npc": 6511004,
+      "sourceArea": 5110,
+      "spawn": 7567201,
+      "destination": 5672,
+      "name": "Pastoria Cottage 4"
+    },
+    {
+      "npc": 6511005,
+      "sourceArea": 5110,
+      "spawn": 7567301,
+      "destination": 5673,
+      "name": "Pastoria Cottage 5"
+    },
+    {
+      "npc": 6511006,
+      "sourceArea": 5110,
+      "spawn": 7540901,
+      "destination": 5409,
+      "name": "Pastoria City Pokemon Centre"
+    },
+    {
+      "npc": 6511007,
+      "sourceArea": 5110,
+      "spawn": 7551001,
+      "destination": 5510,
+      "name": "Pastoria City Poké Mart"
+    },
+    {
+      "npc": 6511009,
+      "sourceArea": 5110,
+      "spawn": 7530501,
+      "destination": 5305,
+      "name": "Pastoria Gym"
+    },
+    {
+      "npc": 6511101,
+      "sourceArea": 5111,
+      "spawn": 7567401,
+      "destination": 5674,
+      "name": "Cynthia's home"
+    },
+    {
+      "npc": 6511102,
+      "sourceArea": 5111,
+      "spawn": 7567501,
+      "destination": 5675,
+      "name": "Celestic Cottage 1"
+    },
+    {
+      "npc": 6511103,
+      "sourceArea": 5111,
+      "spawn": 7567601,
+      "destination": 5676,
+      "name": "Celestic Cottage 2"
+    },
+    {
+      "npc": 6511104,
+      "sourceArea": 5111,
+      "spawn": 7541001,
+      "destination": 5410,
+      "name": "Celestic Town Pokemon Centre"
+    },
+    {
+      "npc": 6511105,
+      "sourceArea": 5111,
+      "spawn": 7551101,
+      "destination": 5511,
+      "name": "Celestic Town Store"
+    },
+    {
+      "npc": 6511106,
+      "sourceArea": 5111,
+      "spawn": 7587701,
+      "destination": 5877,
+      "name": "Celestic Ruins"
+    },
+    {
+      "npc": 6511201,
+      "sourceArea": 5112,
+      "spawn": 7567701,
+      "destination": 5677,
+      "name": "Canalave Library 1F"
+    },
+    {
+      "npc": 6511202,
+      "sourceArea": 5112,
+      "spawn": 7568001,
+      "destination": 5680,
+      "name": "Canalave Cottage 1"
+    },
+    {
+      "npc": 6511203,
+      "sourceArea": 5112,
+      "spawn": 7568101,
+      "destination": 5681,
+      "name": "Canalave Cottage 2"
+    },
+    {
+      "npc": 6511204,
+      "sourceArea": 5112,
+      "spawn": 7568201,
+      "destination": 5682,
+      "name": "Canalave Cottage 3"
+    },
+    {
+      "npc": 6511205,
+      "sourceArea": 5112,
+      "spawn": 7568301,
+      "destination": 5683,
+      "name": "Marina Lodge"
+    },
+    {
+      "npc": 6511206,
+      "sourceArea": 5112,
+      "spawn": 7568401,
+      "destination": 5684,
+      "name": "Eldridge's home"
+    },
+    {
+      "npc": 6511207,
+      "sourceArea": 5112,
+      "spawn": 7541101,
+      "destination": 5411,
+      "name": "Canalave City Pokemon Centre"
+    },
+    {
+      "npc": 6511208,
+      "sourceArea": 5112,
+      "spawn": 7551201,
+      "destination": 5512,
+      "name": "Canalave City Poké Mart"
+    },
+    {
+      "npc": 6511209,
+      "sourceArea": 5112,
+      "spawn": 7530601,
+      "destination": 5306,
+      "name": "Canalave Gym"
+    },
+    {
+      "npc": 2511207,
+      "sourceArea": 5112,
+      "spawn": 7583299,
+      "destination": 5832,
+      "name": "Eldritch"
+    },
+    {
+      "npc": 2511209,
+      "sourceArea": 5112,
+      "spawn": 7584099,
+      "destination": 5840,
+      "name": "Kurt"
+    },
+    {
+      "npc": 2511208,
+      "sourceArea": 5112,
+      "spawn": 7584299,
+      "destination": 5842,
+      "name": "Nanping"
+    },
+    {
+      "npc": 6511301,
+      "sourceArea": 5113,
+      "spawn": 7568501,
+      "destination": 5685,
+      "name": "Snowpoint Cottage 1"
+    },
+    {
+      "npc": 6511302,
+      "sourceArea": 5113,
+      "spawn": 7568601,
+      "destination": 5686,
+      "name": "Snowpoint Cottage 2"
+    },
+    {
+      "npc": 6511303,
+      "sourceArea": 5113,
+      "spawn": 7541201,
+      "destination": 5412,
+      "name": "Snowpoint City Pokemon Centre"
+    },
+    {
+      "npc": 6511304,
+      "sourceArea": 5113,
+      "spawn": 7551301,
+      "destination": 5513,
+      "name": "Snowpoint City Poké Mart"
+    },
+    {
+      "npc": 6511305,
+      "sourceArea": 5113,
+      "spawn": 7530701,
+      "destination": 5307,
+      "name": "Snowpoint Gym"
+    },
+    {
+      "npc": 6511306,
+      "sourceArea": 5113,
+      "spawn": 7588001,
+      "destination": 5880,
+      "name": "Snowpoint Temple 1F"
+    },
+    {
+      "npc": 6511401,
+      "sourceArea": 5114,
+      "spawn": 7568701,
+      "destination": 5687,
+      "name": "Vista Lighthouse"
+    },
+    {
+      "npc": 6511402,
+      "sourceArea": 5114,
+      "spawn": 7568801,
+      "destination": 5688,
+      "name": "Sunyshore Market"
+    },
+    {
+      "npc": 6511403,
+      "sourceArea": 5114,
+      "spawn": 7568901,
+      "destination": 5689,
+      "name": "Julia's home"
+    },
+    {
+      "npc": 6511404,
+      "sourceArea": 5114,
+      "spawn": 7569001,
+      "destination": 5690,
+      "name": "Sunyshore Cottage 1"
+    },
+    {
+      "npc": 6511405,
+      "sourceArea": 5114,
+      "spawn": 7569101,
+      "destination": 5691,
+      "name": "Sunyshore Cottage 2"
+    },
+    {
+      "npc": 6511406,
+      "sourceArea": 5114,
+      "spawn": 7569201,
+      "destination": 5692,
+      "name": "Sunyshore Cottage 3"
+    },
+    {
+      "npc": 6511407,
+      "sourceArea": 5114,
+      "spawn": 7541301,
+      "destination": 5413,
+      "name": "Sunyshore City Pokemon Centre"
+    },
+    {
+      "npc": 6511408,
+      "sourceArea": 5114,
+      "spawn": 7551401,
+      "destination": 5514,
+      "name": "Sunyshore City Poké Mart"
+    },
+    {
+      "npc": 6511409,
+      "sourceArea": 5114,
+      "spawn": 7530801,
+      "destination": 5308,
+      "name": "Sunyshore Gym"
+    },
+    {
+      "npc": 6511501,
+      "sourceArea": 5115,
+      "spawn": 7541401,
+      "destination": 5414,
+      "name": "Victory Road Pokemon Centre"
+    },
+    {
+      "npc": 6511502,
+      "sourceArea": 5115,
+      "spawn": 7587201,
+      "destination": 5872,
+      "name": "Victory Road 1F"
+    },
+    {
+      "npc": 6511602,
+      "sourceArea": 5116,
+      "spawn": 7541501,
+      "destination": 5415,
+      "name": "Pokémon League Pokemon Centre"
+    },
+    {
+      "npc": 6511601,
+      "sourceArea": 5116,
+      "spawn": 7587202,
+      "destination": 5872,
+      "name": "Victory Road 1F"
+    },
+    {
+      "npc": 6520301,
+      "sourceArea": 5203,
+      "spawn": 7580601,
+      "destination": 5806,
+      "name": "Oreburgh Gate"
+    },
+    {
+      "npc": 6520401,
+      "sourceArea": 5204,
+      "spawn": 7580501,
+      "destination": 5805,
+      "name": "Ravaged Path"
+    },
+    {
+      "npc": 6520402,
+      "sourceArea": 5204,
+      "spawn": 7580502,
+      "destination": 5805,
+      "name": "Ravaged Path"
+    },
+    {
+      "npc": 6520501,
+      "sourceArea": 5205,
+      "spawn": 7569301,
+      "destination": 5693,
+      "name": "Rest Cottages"
+    },
+    {
+      "npc": 6520502,
+      "sourceArea": 5205,
+      "spawn": 7581601,
+      "destination": 5816,
+      "name": "Eterna Forest"
+    },
+    {
+      "npc": 6520503,
+      "sourceArea": 52051,
+      "spawn": 7581602,
+      "destination": 5816,
+      "name": "Eterna Forest"
+    },
+    {
+      "npc": 6520604,
+      "sourceArea": 5206,
+      "spawn": 7582001,
+      "destination": 5820,
+      "name": "Wayward Cave"
+    },
+    {
+      "npc": 6520701,
+      "sourceArea": 5207,
+      "spawn": 7586301,
+      "destination": 5863,
+      "name": "Mount Coronet - South - 1F"
+    },
+    {
+      "npc": 6520702,
+      "sourceArea": 5207,
+      "spawn": 7586401,
+      "destination": 5864,
+      "name": "Mount Coronet - South - 2F"
+    },
+    {
+      "npc": 6520801,
+      "sourceArea": 5208,
+      "spawn": 7569401,
+      "destination": 5694,
+      "name": "Tree Fruit Cottage"
+    },
+    {
+      "npc": 6520802,
+      "sourceArea": 5208,
+      "spawn": 7586302,
+      "destination": 5863,
+      "name": "Mount Coronet - South - 1F"
+    },
+    {
+      "npc": 6520902,
+      "sourceArea": 5209,
+      "spawn": 7582101,
+      "destination": 5821,
+      "name": "Lost Tower 1F"
+    },
+    {
+      "npc": 6521001,
+      "sourceArea": 5210,
+      "spawn": 7569501,
+      "destination": 5695,
+      "name": "Café Cabin"
+    },
+    {
+      "npc": 6521002,
+      "sourceArea": 52101,
+      "spawn": 7569601,
+      "destination": 5696,
+      "name": "Wilma's home"
+    },
+    {
+      "npc": 6521101,
+      "sourceArea": 5211,
+      "spawn": 7586001,
+      "destination": 5860,
+      "name": "Mount Coronet - North - 1F"
+    },
+    {
+      "npc": 6521102,
+      "sourceArea": 52111,
+      "spawn": 7586002,
+      "destination": 5860,
+      "name": "Mount Coronet - North - 1F"
+    },
+    {
+      "npc": 6521202,
+      "sourceArea": 5212,
+      "spawn": 7587501,
+      "destination": 5875,
+      "name": "Pokémon Mansion (Sinnoh)"
+    },
+    {
+      "npc": 6521301,
+      "sourceArea": 5213,
+      "spawn": 7569701,
+      "destination": 5697,
+      "name": "Footprint Cottage"
+    },
+    {
+      "npc": 6521601,
+      "sourceArea": 5216,
+      "spawn": 7586202,
+      "destination": 5862,
+      "name": "Mount Coronet - North"
+    },
+    {
+      "npc": 6521602,
+      "sourceArea": 5216,
+      "spawn": 7570501,
+      "destination": 5705,
+      "name": "Wind and Snow Lodge"
+    },
+    {
+      "npc": 6521701,
+      "sourceArea": 5217,
+      "spawn": 7570601,
+      "destination": 5706,
+      "name": "Snowbound Lodge 1"
+    },
+    {
+      "npc": 6521702,
+      "sourceArea": 5217,
+      "spawn": 7570701,
+      "destination": 5707,
+      "name": "Snowbound Lodge 2"
+    },
+    {
+      "npc": 6522202,
+      "sourceArea": 5222,
+      "spawn": 7570801,
+      "destination": 5708,
+      "name": "Pikachu house"
+    },
+    {
+      "npc": 6522203,
+      "sourceArea": 5222,
+      "spawn": 7570901,
+      "destination": 5709,
+      "name": "Beachside Hut"
+    },
+    {
+      "npc": 6522401,
+      "sourceArea": 5224,
+      "spawn": 7587203,
+      "destination": 5872,
+      "name": "Victory Road 1F"
+    },
+    {
+      "npc": 6522402,
+      "sourceArea": 5224,
+      "spawn": 7589201,
+      "destination": 5892,
+      "name": "Flower Paradise"
+    },
+    {
+      "npc": 6522101,
+      "sourceArea": 5221,
+      "spawn": 7571001,
+      "destination": 5710,
+      "name": "Level Cottage"
+    },
+    {
+      "npc": 6401401,
+      "sourceArea": 4014,
+      "spawn": 7441301,
+      "destination": 4413,
+      "name": "Sootopolis Poké centre"
+    },
+    {
+      "npc": 6401402,
+      "sourceArea": 4014,
+      "spawn": 7451401,
+      "destination": 4514,
+      "name": "Sootopolis Poké mart"
+    },
+    {
+      "npc": 6401403,
+      "sourceArea": 4014,
+      "spawn": 7487201,
+      "destination": 4872,
+      "name": "Glazed dwelling 1"
+    },
+    {
+      "npc": 6401404,
+      "sourceArea": 4014,
+      "spawn": 7487301,
+      "destination": 4873,
+      "name": "Glazed dwelling 2"
+    },
+    {
+      "npc": 6401405,
+      "sourceArea": 4014,
+      "spawn": 7487401,
+      "destination": 4874,
+      "name": "Glazed dwelling 3"
+    },
+    {
+      "npc": 6401406,
+      "sourceArea": 4014,
+      "spawn": 7487501,
+      "destination": 4875,
+      "name": "Glazed dwelling 4"
+    },
+    {
+      "npc": 6401407,
+      "sourceArea": 4014,
+      "spawn": 7487601,
+      "destination": 4876,
+      "name": "Glazed dwelling 5"
+    },
+    {
+      "npc": 6401408,
+      "sourceArea": 4014,
+      "spawn": 7487701,
+      "destination": 4877,
+      "name": "Glazed dwelling house 6"
+    },
+    {
+      "npc": 6401409,
+      "sourceArea": 4014,
+      "spawn": 7487801,
+      "destination": 4878,
+      "name": "Glazed dwelling 7"
+    },
+    {
+      "npc": 6401410,
+      "sourceArea": 4014,
+      "spawn": 7487901,
+      "destination": 4879,
+      "name": "Glazed dwelling 8"
+    },
+    {
+      "npc": 6401411,
+      "sourceArea": 4014,
+      "spawn": 7488001,
+      "destination": 4880,
+      "name": "Glazed dwelling 9"
+    },
+    {
+      "npc": 6401412,
+      "sourceArea": 4014,
+      "spawn": 7460801,
+      "destination": 4608,
+      "name": "Sootopolis Gym"
+    },
+    {
+      "npc": 6401413,
+      "sourceArea": 4014,
+      "spawn": 7426701,
+      "destination": 4267,
+      "name": "Cave of Origin"
+    },
+    {
+      "npc": 6110101,
+      "sourceArea": 1101,
+      "spawn": 7180401,
+      "destination": 1804,
+      "name": "Trainers' home 1F"
+    },
+    {
+      "npc": 6110102,
+      "sourceArea": 1101,
+      "spawn": 7180601,
+      "destination": 1806,
+      "name": "Pallet town nlue Oak' home"
+    },
+    {
+      "npc": 6110103,
+      "sourceArea": 1101,
+      "spawn": 7180101,
+      "destination": 1801,
+      "name": "Professor Oak's laboratory"
+    },
+    {
+      "npc": 6110201,
+      "sourceArea": 1102,
+      "spawn": 7140101,
+      "destination": 1401,
+      "name": "Viridian Poké centre"
+    },
+    {
+      "npc": 6110202,
+      "sourceArea": 1102,
+      "spawn": 7150101,
+      "destination": 1501,
+      "name": "Viridian Poké mart"
+    },
+    {
+      "npc": 6110203,
+      "sourceArea": 1102,
+      "spawn": 7180301,
+      "destination": 1803,
+      "name": "Trainers' school"
+    },
+    {
+      "npc": 6110204,
+      "sourceArea": 1102,
+      "spawn": 7181601,
+      "destination": 1816,
+      "name": "Viridian gran's home"
+    },
+    {
+      "npc": 6110205,
+      "sourceArea": 1102,
+      "spawn": 7161401,
+      "destination": 1614,
+      "name": "Viridian Gym"
+    },
+    {
+      "npc": 6110301,
+      "sourceArea": 1103,
+      "spawn": 7140201,
+      "destination": 1402,
+      "name": "Pewter Poké centre"
+    },
+    {
+      "npc": 6110302,
+      "sourceArea": 1103,
+      "spawn": 7180801,
+      "destination": 1808,
+      "name": "Pewter ATas' home"
+    },
+    {
+      "npc": 6110303,
+      "sourceArea": 1103,
+      "spawn": 7150201,
+      "destination": 1502,
+      "name": "Pewter Poké mart"
+    },
+    {
+      "npc": 6110304,
+      "sourceArea": 1103,
+      "spawn": 7182301,
+      "destination": 1823,
+      "name": "Pewter Brock' home"
+    },
+    {
+      "npc": 6110305,
+      "sourceArea": 1103,
+      "spawn": 7184102,
+      "destination": 1851,
+      "name": "Pewter science museum 3F"
+    },
+    {
+      "npc": 6110306,
+      "sourceArea": 1103,
+      "spawn": 7184101,
+      "destination": 1841,
+      "name": "Pewter science museum 1F"
+    },
+    {
+      "npc": 6110307,
+      "sourceArea": 1103,
+      "spawn": 7160101,
+      "destination": 1601,
+      "name": "Pewter Gym"
+    },
+    {
+      "npc": 6110401,
+      "sourceArea": 1104,
+      "spawn": 7140301,
+      "destination": 1403,
+      "name": "Cerulean Poké centre"
+    },
+    {
+      "npc": 6110402,
+      "sourceArea": 1104,
+      "spawn": 7180901,
+      "destination": 1809,
+      "name": "Cerulean badge uncle"
+    },
+    {
+      "npc": 6110403,
+      "sourceArea": 1104,
+      "spawn": 7182401,
+      "destination": 1824,
+      "name": "Cerulean Professor's house"
+    },
+    {
+      "npc": 6110404,
+      "sourceArea": 1104,
+      "spawn": 7183801,
+      "destination": 1838,
+      "name": "Cerulean stolen premises"
+    },
+    {
+      "npc": 6110405,
+      "sourceArea": 1104,
+      "spawn": 7183802,
+      "destination": 1838,
+      "name": "Cerulean stolen premises"
+    },
+    {
+      "npc": 6110406,
+      "sourceArea": 1104,
+      "spawn": 7183101,
+      "destination": 1831,
+      "name": "Cerulean Junsha's home"
+    },
+    {
+      "npc": 6110407,
+      "sourceArea": 1104,
+      "spawn": 7180201,
+      "destination": 1802,
+      "name": "Miracle cycle"
+    },
+    {
+      "npc": 6110408,
+      "sourceArea": 1104,
+      "spawn": 7181701,
+      "destination": 1817,
+      "name": "Cerulean pingchang's home"
+    },
+    {
+      "npc": 6110409,
+      "sourceArea": 1104,
+      "spawn": 7150301,
+      "destination": 1503,
+      "name": "Cerulean Poké mart"
+    },
+    {
+      "npc": 6110410,
+      "sourceArea": 1104,
+      "spawn": 7160201,
+      "destination": 1602,
+      "name": "Cerulean Gym"
+    },
+    {
+      "npc": 6110411,
+      "sourceArea": 1104,
+      "spawn": 7180902,
+      "destination": 1809,
+      "name": "Cerulean badge uncle"
+    },
+    {
+      "npc": 6110501,
+      "sourceArea": 1105,
+      "spawn": 7140401,
+      "destination": 1404,
+      "name": "Vermilion Poké centre"
+    },
+    {
+      "npc": 6110502,
+      "sourceArea": 1105,
+      "spawn": 7184001,
+      "destination": 1840,
+      "name": "Poké Fan、Pokéfan"
+    },
+    {
+      "npc": 6110503,
+      "sourceArea": 1105,
+      "spawn": 7160301,
+      "destination": 1616,
+      "name": "Vermilion Gym"
+    },
+    {
+      "npc": 6110504,
+      "sourceArea": 1105,
+      "spawn": 7181801,
+      "destination": 1818,
+      "name": "Vermilion room 1"
+    },
+    {
+      "npc": 6110505,
+      "sourceArea": 1105,
+      "spawn": 7150401,
+      "destination": 1504,
+      "name": "Vermilion Poké mart"
+    },
+    {
+      "npc": 6110506,
+      "sourceArea": 1105,
+      "spawn": 7183001,
+      "destination": 1830,
+      "name": "Vermilion room 2"
+    },
+    {
+      "npc": 6110507,
+      "sourceArea": 1105,
+      "spawn": 7181001,
+      "destination": 1810,
+      "name": "Vermilion room 3"
+    },
+    {
+      "npc": 3110535,
+      "sourceArea": 1105,
+      "spawn": 7133701,
+      "destination": 1337,
+      "name": "Lei"
+    },
+    {
+      "npc": 61105991,
+      "sourceArea": 1105,
+      "spawn": 7133701,
+      "destination": 1337,
+      "name": "S.S. Anne 1F"
+    },
+    {
+      "npc": 6110601,
+      "sourceArea": 1106,
+      "spawn": 7140501,
+      "destination": 1405,
+      "name": "Lavender Poké centre"
+    },
+    {
+      "npc": 6110602,
+      "sourceArea": 1106,
+      "spawn": 7183901,
+      "destination": 1839,
+      "name": "Lavender house of Memories"
+    },
+    {
+      "npc": 6110603,
+      "sourceArea": 1106,
+      "spawn": 7130101,
+      "destination": 1301,
+      "name": "Pokémon Tower 1F"
+    },
+    {
+      "npc": 6110603,
+      "sourceArea": 1106,
+      "spawn": 7130101,
+      "destination": 1301,
+      "name": "Pokémon Tower 1F"
+    },
+    {
+      "npc": 6110604,
+      "sourceArea": 1106,
+      "spawn": 7150501,
+      "destination": 1505,
+      "name": "Lavender Poké mart"
+    },
+    {
+      "npc": 6110605,
+      "sourceArea": 1106,
+      "spawn": 7182501,
+      "destination": 1825,
+      "name": "Lavender Old people's home"
+    },
+    {
+      "npc": 6110606,
+      "sourceArea": 1106,
+      "spawn": 7181101,
+      "destination": 1811,
+      "name": "Lavender appraiser"
+    },
+    {
+      "npc": 6110701,
+      "sourceArea": 1107,
+      "spawn": 7140601,
+      "destination": 1406,
+      "name": "Celadon Poké centre"
+    },
+    {
+      "npc": 6110702,
+      "sourceArea": 1107,
+      "spawn": 7132801,
+      "destination": 1328,
+      "name": "Celadon Condominiums 1F"
+    },
+    {
+      "npc": 6110710,
+      "sourceArea": 1107,
+      "spawn": 7150602,
+      "destination": 1506,
+      "name": "Celadon department 1F"
+    },
+    {
+      "npc": 6110703,
+      "sourceArea": 1107,
+      "spawn": 7150601,
+      "destination": 1506,
+      "name": "Celadon department 1F"
+    },
+    {
+      "npc": 6110704,
+      "sourceArea": 1107,
+      "spawn": 7184301,
+      "destination": 1843,
+      "name": "The arcade"
+    },
+    {
+      "npc": 6110711,
+      "sourceArea": 1107,
+      "spawn": 7184301,
+      "destination": 1843,
+      "name": "The arcade"
+    },
+    {
+      "npc": 6110705,
+      "sourceArea": 1107,
+      "spawn": 7181201,
+      "destination": 1812,
+      "name": "Celadon room 1"
+    },
+    {
+      "npc": 6110706,
+      "sourceArea": 1107,
+      "spawn": 7182601,
+      "destination": 1826,
+      "name": "Celadon room 2"
+    },
+    {
+      "npc": 6110707,
+      "sourceArea": 1107,
+      "spawn": 7181901,
+      "destination": 1819,
+      "name": "Celadon room 3"
+    },
+    {
+      "npc": 6110708,
+      "sourceArea": 1107,
+      "spawn": 7160601,
+      "destination": 1617,
+      "name": "Celadon Gym"
+    },
+    {
+      "npc": 6110712,
+      "sourceArea": 1107,
+      "spawn": 7132804,
+      "destination": 1328,
+      "name": "Celadon Condominiums 1F"
+    },
+    {
+      "npc": 6110801,
+      "sourceArea": 1108,
+      "spawn": 7140701,
+      "destination": 1407,
+      "name": "Gold Poké centre"
+    },
+    {
+      "npc": 6110802,
+      "sourceArea": 1108,
+      "spawn": 7182201,
+      "destination": 1822,
+      "name": "Gold fighting uncle's home"
+    },
+    {
+      "npc": 6110803,
+      "sourceArea": 1108,
+      "spawn": 7132501,
+      "destination": 1325,
+      "name": "Silph Co. 1F"
+    },
+    {
+      "npc": 6110804,
+      "sourceArea": 1108,
+      "spawn": 7182701,
+      "destination": 1827,
+      "name": "Gold Maiden's house 1F"
+    },
+    {
+      "npc": 6110805,
+      "sourceArea": 1108,
+      "spawn": 7161201,
+      "destination": 1612,
+      "name": "Gold Gym"
+    },
+    {
+      "npc": 6110806,
+      "sourceArea": 1108,
+      "spawn": 7133101,
+      "destination": 1331,
+      "name": "Martial Arts Dojo"
+    },
+    {
+      "npc": 6110811,
+      "sourceArea": 1108,
+      "spawn": 7150701,
+      "destination": 1507,
+      "name": "Gold Poké mart"
+    },
+    {
+      "npc": 6110812,
+      "sourceArea": 1108,
+      "spawn": 7182001,
+      "destination": 1820,
+      "name": "Gold trainer's club"
+    },
+    {
+      "npc": 6110901,
+      "sourceArea": 1109,
+      "spawn": 7140801,
+      "destination": 1408,
+      "name": "Fuchsia Poké centre"
+    },
+    {
+      "npc": 6110902,
+      "sourceArea": 1109,
+      "spawn": 7182101,
+      "destination": 1821,
+      "name": "Fuchsia room 1"
+    },
+    {
+      "npc": 6110903,
+      "sourceArea": 1109,
+      "spawn": 7182801,
+      "destination": 1828,
+      "name": "Fuchsia Bill's home"
+    },
+    {
+      "npc": 6110904,
+      "sourceArea": 1109,
+      "spawn": 7160701,
+      "destination": 1618,
+      "name": "Fuchsia Gym"
+    },
+    {
+      "npc": 6110905,
+      "sourceArea": 1109,
+      "spawn": 7150801,
+      "destination": 1508,
+      "name": "Fuchsia Poké mart"
+    },
+    {
+      "npc": 6110906,
+      "sourceArea": 1109,
+      "spawn": 7182901,
+      "destination": 1829,
+      "name": "Fuchsia principal's home"
+    },
+    {
+      "npc": 6110907,
+      "sourceArea": 1109,
+      "spawn": 7181501,
+      "destination": 1815,
+      "name": "Fuchsia principal's home"
+    },
+    {
+      "npc": 6110908,
+      "sourceArea": 1109,
+      "spawn": 7183301,
+      "destination": 1833,
+      "name": "Fuchsia Fisherman's home"
+    },
+    {
+      "npc": 61109081,
+      "sourceArea": 1109,
+      "spawn": 7183302,
+      "destination": 1833,
+      "name": "Fuchsia Fisherman's home"
+    },
+    {
+      "npc": 6111001,
+      "sourceArea": 1110,
+      "spawn": 7140901,
+      "destination": 1409,
+      "name": "Cinnabar Poké centre"
+    },
+    {
+      "npc": 6111002,
+      "sourceArea": 1110,
+      "spawn": 7150901,
+      "destination": 1509,
+      "name": "Cinnabar Poké mart"
+    },
+    {
+      "npc": 6111003,
+      "sourceArea": 1110,
+      "spawn": 7184401,
+      "destination": 1844,
+      "name": "Cinnabar laboratory"
+    },
+    {
+      "npc": 6111004,
+      "sourceArea": 1110,
+      "spawn": 7161301,
+      "destination": 1613,
+      "name": "Cinnabar Gym"
+    },
+    {
+      "npc": 6111005,
+      "sourceArea": 1110,
+      "spawn": 7183201,
+      "destination": 1832,
+      "name": "Cinnabar abandoned building"
+    },
+    {
+      "npc": 6120204,
+      "sourceArea": 1202,
+      "spawn": 7180701,
+      "destination": 1807,
+      "name": "Route 2-forest scientific institute"
+    },
+    {
+      "npc": 6120206,
+      "sourceArea": 1202,
+      "spawn": 7132101,
+      "destination": 1321,
+      "name": "Diglett's Cave"
+    },
+    {
+      "npc": 6120401,
+      "sourceArea": 1204,
+      "spawn": 7141001,
+      "destination": 1410,
+      "name": "Route 4 Poké centre"
+    },
+    {
+      "npc": 6120402,
+      "sourceArea": 1204,
+      "spawn": 7132201,
+      "destination": 1322,
+      "name": "Mt. Moon 1F"
+    },
+    {
+      "npc": 6120403,
+      "sourceArea": 1204,
+      "spawn": 7132308,
+      "destination": 1323,
+      "name": "Mt. Moon 2F"
+    },
+    {
+      "npc": 6120404,
+      "sourceArea": 1204,
+      "spawn": 7131801,
+      "destination": 1318,
+      "name": "Cerulean Cave 1F"
+    },
+    {
+      "npc": 6120501,
+      "sourceArea": 1205,
+      "spawn": 7181301,
+      "destination": 1813,
+      "name": "Route 5 central house"
+    },
+    {
+      "npc": 6121001,
+      "sourceArea": 1210,
+      "spawn": 7141101,
+      "destination": 1411,
+      "name": "Route 10 Poké centre"
+    },
+    {
+      "npc": 6121002,
+      "sourceArea": 1210,
+      "spawn": 7133302,
+      "destination": 1333,
+      "name": "Rock Tunnel 1F"
+    },
+    {
+      "npc": 6121003,
+      "sourceArea": 1210,
+      "spawn": 7133201,
+      "destination": 1332,
+      "name": "Power Plant"
+    },
+    {
+      "npc": 6121004,
+      "sourceArea": 1210,
+      "spawn": 7133301,
+      "destination": 1333,
+      "name": "Rock Tunnel 1F"
+    },
+    {
+      "npc": 6121102,
+      "sourceArea": 1211,
+      "spawn": 7132102,
+      "destination": 1321,
+      "name": "Diglett's Cave"
+    },
+    {
+      "npc": 6121204,
+      "sourceArea": 1212,
+      "spawn": 7183401,
+      "destination": 1834,
+      "name": "Route 12 house"
+    },
+    {
+      "npc": 6121605,
+      "sourceArea": 1216,
+      "spawn": 7181401,
+      "destination": 1814,
+      "name": "Route 16 house"
+    },
+    {
+      "npc": 6122002,
+      "sourceArea": 1299,
+      "spawn": 7131002,
+      "destination": 1310,
+      "name": "Seafoam Islands 1F"
+    },
+    {
+      "npc": 6122001,
+      "sourceArea": 1299,
+      "spawn": 7131001,
+      "destination": 1310,
+      "name": "Seafoam Islands 1F"
+    },
+    {
+      "npc": 6122201,
+      "sourceArea": 1222,
+      "spawn": 7170601,
+      "destination": 1706,
+      "name": "Connection center"
+    },
+    {
+      "npc": 6122202,
+      "sourceArea": 1223,
+      "spawn": 7170602,
+      "destination": 1706,
+      "name": "Connection center"
+    },
+    {
+      "npc": 6122202,
+      "sourceArea": 1223,
+      "spawn": 7170602,
+      "destination": 1706,
+      "name": "Connection center"
+    },
+    {
+      "npc": 6122202,
+      "sourceArea": 1223,
+      "spawn": 7170602,
+      "destination": 1706,
+      "name": "Connection center"
+    },
+    {
+      "npc": 6122202,
+      "sourceArea": 1223,
+      "spawn": 7170602,
+      "destination": 1706,
+      "name": "Connection center"
+    },
+    {
+      "npc": 6122301,
+      "sourceArea": 1223,
+      "spawn": 7131501,
+      "destination": 1315,
+      "name": "Victory Road 1F"
+    },
+    {
+      "npc": 6122302,
+      "sourceArea": 1223,
+      "spawn": 7131606,
+      "destination": 1316,
+      "name": "Victory Road 2F"
+    },
+    {
+      "npc": 6122303,
+      "sourceArea": 1223,
+      "spawn": 7141201,
+      "destination": 1412,
+      "name": "Indigo league"
+    },
+    {
+      "npc": 6122501,
+      "sourceArea": 1225,
+      "spawn": 7184501,
+      "destination": 1845,
+      "name": "Sea cottage"
+    },
+    {
+      "npc": 6119202,
+      "sourceArea": 1192,
+      "spawn": 7184901,
+      "destination": 1849,
+      "name": "Safari Zone 4"
+    },
+    {
+      "npc": 6119203,
+      "sourceArea": 1192,
+      "spawn": 7185001,
+      "destination": 1850,
+      "name": "Safari Zone 5"
+    },
+    {
+      "npc": 6119204,
+      "sourceArea": 1192,
+      "spawn": 7184801,
+      "destination": 1848,
+      "name": "Safari Zone 3"
+    },
+    {
+      "npc": 6119205,
+      "sourceArea": 1192,
+      "spawn": 7184601,
+      "destination": 1846,
+      "name": "Safari Zone 1"
+    },
+    {
+      "npc": 6119206,
+      "sourceArea": 1192,
+      "spawn": 7184701,
+      "destination": 1847,
+      "name": "Safari Zone 2"
+    },
+    {
+      "npc": 6224902,
+      "sourceArea": 2249,
+      "spawn": 7228901,
+      "destination": 2289,
+      "name": "One Island Poké centre"
+    },
+    {
+      "npc": 6225701,
+      "sourceArea": 2249,
+      "spawn": 7225801,
+      "destination": 2258,
+      "name": "Mt. Ember"
+    },
+    {
+      "npc": 6225902,
+      "sourceArea": 2249,
+      "spawn": 7226301,
+      "destination": 2263,
+      "name": "Mt. Ember Mountain"
+    },
+    {
+      "npc": 6225903,
+      "sourceArea": 2249,
+      "spawn": 7226302,
+      "destination": 2263,
+      "name": "Mt. Ember Mountain"
+    },
+    {
+      "npc": 6225901,
+      "sourceArea": 2249,
+      "spawn": 7226001,
+      "destination": 2260,
+      "name": "Mt. Ember B1F"
+    },
+    {
+      "npc": 6225002,
+      "sourceArea": 2250,
+      "spawn": 7229001,
+      "destination": 2290,
+      "name": "Two Island Poké centre"
+    },
+    {
+      "npc": 6225103,
+      "sourceArea": 2251,
+      "spawn": 7229101,
+      "destination": 2291,
+      "name": "Three Island Poké centre"
+    },
+    {
+      "npc": 6225104,
+      "sourceArea": 2251,
+      "spawn": 7229601,
+      "destination": 2296,
+      "name": "Three Island Poké mart"
+    },
+    {
+      "npc": 6225203,
+      "sourceArea": 2252,
+      "spawn": 7229201,
+      "destination": 2292,
+      "name": "Four Island Poké centre"
+    },
+    {
+      "npc": 6225204,
+      "sourceArea": 2252,
+      "spawn": 7229701,
+      "destination": 2297,
+      "name": "Four Island Poké mart"
+    },
+    {
+      "npc": 6225302,
+      "sourceArea": 2253,
+      "spawn": 7229301,
+      "destination": 2293,
+      "name": "Five Island Poké centre"
+    },
+    {
+      "npc": 6227301,
+      "sourceArea": 2273,
+      "spawn": 7227401,
+      "destination": 2274,
+      "name": "Lost Cave"
+    },
+    {
+      "npc": 6225402,
+      "sourceArea": 2254,
+      "spawn": 7229401,
+      "destination": 2294,
+      "name": "Six Island Poké centre"
+    },
+    {
+      "npc": 6225403,
+      "sourceArea": 2254,
+      "spawn": 7229801,
+      "destination": 2298,
+      "name": "Six Island Poké mart"
+    },
+    {
+      "npc": 6228201,
+      "sourceArea": 2282,
+      "spawn": 7228301,
+      "destination": 2283,
+      "name": "Altering Cave"
+    },
+    {
+      "npc": 6225502,
+      "sourceArea": 2255,
+      "spawn": 7229501,
+      "destination": 2295,
+      "name": "Sevii Islands Poké centre"
+    },
+    {
+      "npc": 6225503,
+      "sourceArea": 2255,
+      "spawn": 7229901,
+      "destination": 2299,
+      "name": "Sevii Islands Poké mart"
+    },
+    {
+      "npc": 6228501,
+      "sourceArea": 2285,
+      "spawn": 7228601,
+      "destination": 2286,
+      "name": "Tanoby Ruins"
+    },
+    {
+      "npc": 6227001,
+      "sourceArea": 2270,
+      "spawn": 7228801,
+      "destination": 2288,
+      "name": "Rocket Warehouse"
+    },
+    {
+      "npc": 6227601,
+      "sourceArea": 2276,
+      "spawn": 7227701,
+      "destination": 2277,
+      "name": "Dotted Hole 1F"
+    },
+    {
+      "npc": 6414006,
+      "sourceArea": 4140,
+      "spawn": 7424501,
+      "destination": 4245,
+      "name": "Underwater cave - Water entrance"
+    }
+  ]
+}

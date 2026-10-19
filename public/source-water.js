@@ -1,14 +1,23 @@
 import * as THREE from './vendor/three.module.js';
 const [record,fragmentShader]=await Promise.all([fetch('/assets/original/water/material.json').then(r=>r.json()),fetch('/assets/original/water/SampleWater.frag').then(r=>r.text())]);
 const textures=await Promise.all(['_Normal2','_WaterNormal'].map(async key=>{const t=await new THREE.TextureLoader().loadAsync(record.textures[key].url);t.wrapS=t.wrapT=THREE.RepeatWrapping;t.flipY=false;return [key,t];}));
-const vertexShader=`precision highp float;uniform mat4 modelMatrix;uniform mat4 viewMatrix;uniform mat4 projectionMatrix;uniform mat3 normalMatrix;in vec3 position;in vec3 normal;in vec2 uv;out vec2 vs_TEXCOORD0;out vec3 vs_TEXCOORD1;out vec3 vs_TEXCOORD2;out vec4 vs_TEXCOORD3;void main(){vec4 world=modelMatrix*vec4(position,1.0);gl_Position=projectionMatrix*viewMatrix*world;vs_TEXCOORD0=vec2(uv.x,1.0-uv.y);vec3 n=normalize(mat3(modelMatrix)*normal);vs_TEXCOORD1=vec3(n.x,n.y,-n.z);vs_TEXCOORD2=vec3(world.x,world.y,-world.z)/16.0;vs_TEXCOORD3=vec4((gl_Position.xy+gl_Position.ww)*0.5,gl_Position.zw);}`;
+const vertexShader=`precision highp float;uniform mat4 modelMatrix;uniform mat4 viewMatrix;uniform mat4 projectionMatrix;uniform mat3 normalMatrix;
+#ifdef SOURCE_INSTANCED
+in mat4 instanceMatrix;
+#endif
+in vec3 position;in vec3 normal;in vec2 uv;out vec2 vs_TEXCOORD0;out vec3 vs_TEXCOORD1;out vec3 vs_TEXCOORD2;out vec4 vs_TEXCOORD3;void main(){mat4 worldMatrix=modelMatrix;
+#ifdef SOURCE_INSTANCED
+worldMatrix=modelMatrix*instanceMatrix;
+#endif
+vec4 world=worldMatrix*vec4(position,1.0);gl_Position=projectionMatrix*viewMatrix*world;vs_TEXCOORD0=vec2(uv.x,1.0-uv.y);vec3 n=normalize(transpose(inverse(mat3(worldMatrix)))*normal);vs_TEXCOORD1=vec3(n.x,n.y,-n.z);vs_TEXCOORD2=vec3(world.x,world.y,-world.z)/16.0;vs_TEXCOORD3=vec4((gl_Position.xy+gl_Position.ww)*0.5,gl_Position.zw);}`;
 const uniforms={_Time:{value:new THREE.Vector4()},_WorldSpaceCameraPos:{value:new THREE.Vector3()},_ZBufferParams:{value:new THREE.Vector4()},_WorldSpaceLightPos0:{value:new THREE.Vector4()},_LightColor0:{value:new THREE.Vector4()},_WaterColor:{value:new THREE.Vector4(...record.color)},_CameraDepthTexture:{value:null}};
 for(const [key,value]of Object.entries(record.floats))uniforms[key]={value};for(const [key,t]of textures){uniforms[key]={value:t};const s=record.textures[key];uniforms[key+'_ST']={value:new THREE.Vector4(...s.scale,...s.offset)};}
 const material=new THREE.RawShaderMaterial({vertexShader,fragmentShader,uniforms,glslVersion:THREE.GLSL3,transparent:true,depthWrite:!!record.pass.zWrite,side:THREE.FrontSide});material.name='SampleWater';material.userData.sourceWater=record.shader;
-let target,frames=0;
-export function renderSourceWater(renderer,scene,camera,light,now){const water=[];scene.traverse(n=>{if(!n.isMesh||!n.visible)return;if([].concat(n.material).some(m=>m.name==='SampleWater')){n.material=material;water.push(n);}});if(!water.length){renderer.render(scene,camera);return;}
- const size=renderer.getDrawingBufferSize(new THREE.Vector2());if(!target){target=new THREE.WebGLRenderTarget(size.x,size.y);target.depthTexture=new THREE.DepthTexture(size.x,size.y,THREE.UnsignedIntType);}else if(target.width!==size.x||target.height!==size.y)target.setSize(size.x,size.y);
+const instancedMaterial=material.clone();instancedMaterial.uniforms=uniforms;instancedMaterial.defines={SOURCE_INSTANCED:1};
+let target,frames=0,instanceCount=0;
+export function renderSourceWater(renderer,scene,camera,light,now){const water=[];scene.traverse(n=>{if(!n.isMesh||!n.visible)return;if([].concat(n.material).some(m=>m.name==='SampleWater')){const replacement=n.isInstancedMesh?instancedMaterial:material;n.material=Array.isArray(n.material)?n.material.map(m=>m.name==='SampleWater'?replacement:m):replacement;water.push(n);}});if(!water.length){renderer.render(scene,camera);return;}
+ instanceCount=water.filter(n=>n.isInstancedMesh).reduce((sum,n)=>sum+n.count,0);const size=renderer.getDrawingBufferSize(new THREE.Vector2());if(!target){target=new THREE.WebGLRenderTarget(size.x,size.y);target.depthTexture=new THREE.DepthTexture(size.x,size.y,THREE.UnsignedIntType);}else if(target.width!==size.x||target.height!==size.y)target.setSize(size.x,size.y);
  for(const n of water)n.visible=false;const previous=renderer.getRenderTarget();try{renderer.setRenderTarget(target);renderer.render(scene,camera);}finally{for(const n of water)n.visible=true;renderer.setRenderTarget(previous);}
  const u=uniforms,t=now/1000,n=camera.near/16,f=camera.far/16;u._Time.value.set(t/20,t,t*2,t*3);u._WorldSpaceCameraPos.value.set(camera.position.x/16,camera.position.y/16,-camera.position.z/16);u._ZBufferParams.value.set(1-f/n,f/n,1/f-1/n,1/n);const dir=light.position.clone().sub(light.target.position).normalize();u._WorldSpaceLightPos0.value.set(dir.x,dir.y,-dir.z,0);u._LightColor0.value.set(light.color.r*light.intensity,light.color.g*light.intensity,light.color.b*light.intensity,1);u._CameraDepthTexture.value=target.depthTexture;renderer.render(scene,camera);frames++;
 }
-export function sourceWaterStatus(){return {shader:record.shader,sourceBundle:record.sourceBundle,depthFrames:frames,textures:textures.map(([name])=>name),scope:'Original GLES fragment; Three.js coordinate/depth bridge; existing scene lighting'};}
+export function sourceWaterStatus(){return {shader:record.shader,sourceBundle:record.sourceBundle,depthFrames:frames,instancedWaterCount:instanceCount,textures:textures.map(([name])=>name),scope:'Original GLES fragment; Three.js coordinate/depth bridge; existing scene lighting'};}
