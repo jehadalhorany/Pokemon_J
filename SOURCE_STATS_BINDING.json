@@ -1,0 +1,26 @@
+{
+  "source": "uploaded Hotfix.dll EudemonHelper 138,139,140,146 + original configuration records",
+  "formula": "((2*base+8.8*IV+2.2*EV)*level/100)+(HP ? 30+2.2*level : 15); source star/ship/awakening flat and species additions; nature on non-HP",
+  "preserves": [
+    "uid",
+    "ivs",
+    "evs",
+    "level",
+    "stars",
+    "awakening",
+    "saves"
+  ],
+  "limitations": [
+    "Other-system modifiers from native method141 (held equipment, badges, mounts and other services) have no complete live state binding and are not claimed implemented.",
+    "Shiny uses selected species config; automatic conversion to a separate native flash config is not part of this patch.",
+    "Training and skill replacement UI actions remain unavailable.",
+    "No original server progression or XP schedule claimed.",
+    "Move description translation not yet resolved in interface bundle; not claimed complete."
+  ],
+  "tests": {
+    "backend": 26,
+    "growth": "five species every level5..100",
+    "ui": "Actual original Eudemon window displayed HP70; selecting original WaterGun10055 shows40power/100hit/25PP. Model stubbed. No training service tested.",
+    "installer": "two consecutive runs, one import, original backup preserved"
+  }
+}

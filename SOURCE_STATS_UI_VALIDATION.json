@@ -1,0 +1,47 @@
+{
+  "scope": "Actual source Eudemon window, stat display and selecting Water Gun from source skill list. 3D model loading stubbed; no training service asserted.",
+  "result": {
+    "status": {
+      "window": "Eudemon/Eudemon_Window",
+      "selected": "fixture",
+      "species": "bulbasaur",
+      "count": 1,
+      "team": 1,
+      "box": 0,
+      "page": "eudemon_base",
+      "stats": {
+        "hp": 70,
+        "attack": 40,
+        "defense": 42,
+        "specialAttack": 48,
+        "specialDefense": 44,
+        "speed": 37
+      },
+      "moveId": 10055
+    },
+    "rows": [
+      {
+        "enabled": true,
+        "data": {
+          "id": 10033,
+          "name": "Tackle",
+          "pp": 35
+        }
+      },
+      {
+        "enabled": true,
+        "data": {
+          "id": 10055,
+          "name": "Water Gun",
+          "pp": 25
+        }
+      }
+    ],
+    "power": "40",
+    "hit": "100",
+    "pp": "25",
+    "desc": null,
+    "hp": "70"
+  },
+  "pageErrors": []
+}
